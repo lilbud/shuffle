@@ -16,7 +16,6 @@ tags:
 - "will-you-love-me-tomorrow"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/01/Carole_King_-_Tapestry.jpg.webp
   post_id: 310

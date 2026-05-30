@@ -15,7 +15,6 @@ tags:
 - "the-animals"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/03/misunderstood.jpg.webp
   post_id: 25336

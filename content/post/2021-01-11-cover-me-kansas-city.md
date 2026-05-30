@@ -21,7 +21,6 @@ tags:
 - "wilbert-harrison"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   post_id: 24352
 ---

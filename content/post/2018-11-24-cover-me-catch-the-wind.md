@@ -15,7 +15,6 @@ tags:
 - "the-castiles"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/12/catchwind.jpg.webp
   post_id: 6173

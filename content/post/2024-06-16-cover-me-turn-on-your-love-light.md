@@ -16,7 +16,6 @@ tags:
 - "van-morrison"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/06/61WdLM7JbL._UF10001000_QL80_.jpg.webp
   post_id: 51968

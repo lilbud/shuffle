@@ -17,7 +17,6 @@ tags:
 - "the-beatles"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/05/boys.jpg.webp
   post_id: 2236

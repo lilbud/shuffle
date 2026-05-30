@@ -15,7 +15,6 @@ tags:
 - "when-she-was-my-girl"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/11/fourtops.jpg.webp
   post_id: 39396

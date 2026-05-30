@@ -14,7 +14,6 @@ tags:
 - "you-never-can-tell"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/03/younever.jpg.webp
   post_id: 16169

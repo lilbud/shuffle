@@ -14,7 +14,6 @@ tags:
 - "im-so-lonesome-i-could-cry"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/11/lonesome.jpg.webp
   post_id: 5411

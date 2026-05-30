@@ -14,7 +14,6 @@ tags:
 - "the-everly-brothers"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/05/the-everly-brothers-crying-in-the-rain-warner-bros-2.jpg.webp
   post_id: 9597

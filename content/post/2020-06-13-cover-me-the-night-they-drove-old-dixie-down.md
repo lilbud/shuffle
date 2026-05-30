@@ -17,7 +17,6 @@ tags:
 - "the-night-the-drove-old-dixie-down"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/06/dixiedown.jpg.webp
   post_id: 19064

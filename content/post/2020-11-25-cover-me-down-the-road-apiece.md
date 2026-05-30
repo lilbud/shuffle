@@ -21,7 +21,6 @@ tags:
 - "wolfgang-niedecken"
 categories:
 - "cover-me"
-- "cover-you"
 - "meeting-across-the-river"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/PIECECOVER_1024x1024@2x.jpg.webp

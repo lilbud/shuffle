@@ -14,7 +14,6 @@ tags:
 - "the-four-tops"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/06/the-four-tops-darling-i-hum-our-song-tamla-motown-2.jpg.webp
   post_id: 35074

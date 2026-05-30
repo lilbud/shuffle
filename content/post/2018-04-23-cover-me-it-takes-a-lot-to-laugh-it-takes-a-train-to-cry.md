@@ -14,7 +14,6 @@ tags:
 - "it-takes-a-lot-to-laugh-it-takes-a-train-to-cry"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/04/dylan.jpg.webp
   post_id: 1757

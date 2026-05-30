@@ -14,7 +14,6 @@ tags:
 - "this-little-light-of-mine"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/1976/01/Gemini_Generated_Image_uvx3q5uvx3q5uvx3.png.webp
   post_id: 19058

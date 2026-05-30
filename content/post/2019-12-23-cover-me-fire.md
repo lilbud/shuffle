@@ -14,7 +14,6 @@ tags:
 - "jimi-hendrix-experience"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/12/fire.jpg.webp
   post_id: 15046

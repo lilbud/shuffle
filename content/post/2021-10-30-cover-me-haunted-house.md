@@ -15,7 +15,6 @@ tags:
 - "jumpin-gene-simmons"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/10/haunted.jpg.webp
   post_id: 30100

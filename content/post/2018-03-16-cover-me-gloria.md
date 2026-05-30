@@ -14,7 +14,6 @@ tags:
 - "them"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/03/gloria.jpg.webp
   post_id: 1017

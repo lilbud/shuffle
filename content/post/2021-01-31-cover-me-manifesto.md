@@ -14,7 +14,6 @@ tags:
 - "victor-jara"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/01/manifesto-1.jpg.webp
   post_id: 24857

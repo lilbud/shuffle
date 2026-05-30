@@ -14,7 +14,6 @@ tags:
 - "the-rolling-stones"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/the-last-time-play-with-fire-1-album-cover-sticker__49056.1539264955.jpg.webp
   post_id: 19665

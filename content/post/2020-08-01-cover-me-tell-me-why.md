@@ -14,7 +14,6 @@ tags:
 - "the-beatles"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/the-beatles-if-i-fell-parlophone-4.jpg.webp
   post_id: 19668

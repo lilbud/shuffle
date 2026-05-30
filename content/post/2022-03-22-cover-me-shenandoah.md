@@ -14,7 +14,6 @@ tags:
 - "we-shall-over-come-the-seeger-sessions"
 categories:
 - "cover-me"
-- "cover-you"
 - "roll-of-the-dice"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/03/shenandoah.webp

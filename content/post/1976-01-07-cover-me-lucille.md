@@ -16,7 +16,6 @@ tags:
 - "lucille"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/1976/01/lucille.webp
   post_id: 5815

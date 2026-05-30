@@ -19,7 +19,6 @@ tags:
 - "youssou-ndour"
 categories:
 - "cover-me"
-- "cover-you"
 - "meeting-across-the-river"
 params:
   post_id: 22287

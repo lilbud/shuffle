@@ -14,7 +14,6 @@ tags:
 - "my-sweet-lord"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/11/mysweetlord.jpg.webp
   post_id: 14568

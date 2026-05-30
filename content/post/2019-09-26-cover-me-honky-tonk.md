@@ -14,7 +14,6 @@ tags:
 - "honky-tonk"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/09/bill-doggett-honky-tonk-parts-1-and-2.jpg.webp
   post_id: 12912

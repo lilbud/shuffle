@@ -16,7 +16,6 @@ tags:
 - "world-tour-1993"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/07/riverstocross.jpg.webp
   post_id: 3252

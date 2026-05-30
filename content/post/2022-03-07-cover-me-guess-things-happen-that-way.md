@@ -14,7 +14,6 @@ tags:
 - "johnny-cash"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/03/guessthings.jpg.webp
   post_id: 33130

@@ -14,7 +14,6 @@ tags:
 - "raise-your-hand"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/1976/01/raisehand.jpg.webp
   post_id: 25696

@@ -14,7 +14,6 @@ tags:
 - "shake"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/1976/01/c61f943252fe9cffed1ce35a5a2d2c2c.977x977x1.jpg.webp
   post_id: 1568

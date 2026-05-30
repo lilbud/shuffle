@@ -1,4 +1,5 @@
 {{ define "main" }}
+  <div class="col">
   <div class="card p-3 p-lg-4.5 mb-3" id="header-card">
     <div class="row d-flex align-items-center justify-content-between">
       <div class="col">
@@ -18,10 +19,10 @@
     </div>
   </div>
 
-  <div id="search-results"></div>
+  <div id="search-results"></div></div>
 
   <!-- Load Lunr.js -->
-  <script src="/js/lunr.js"></script>
+  <script src="{{ relURL "js/lunr.js" }}"></script>
 
   <script>
     document.addEventListener("DOMContentLoaded", function () {
@@ -39,7 +40,7 @@
 
       queryDisplay.textContent = query;
 
-      fetch("/index.json")
+      fetch("/shuffle/index.json")
         .then((response) => response.json())
         .then((data) => {
           const idx = lunr(function () {

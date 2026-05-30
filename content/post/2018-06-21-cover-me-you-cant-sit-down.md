@@ -18,7 +18,6 @@ tags:
 - "you-cant-sit-down"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   post_id: 2694
 ---

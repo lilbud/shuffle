@@ -15,7 +15,6 @@ tags:
 - "the-marketts"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/10/outerlimits.jpg.webp
   post_id: 30102

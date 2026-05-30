@@ -15,7 +15,6 @@ tags:
 - "the-castiles"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/05/beatles-eleanor-520x520-1.jpg.webp
   post_id: 18300

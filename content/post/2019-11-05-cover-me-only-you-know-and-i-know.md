@@ -15,7 +15,6 @@ tags:
 - "the-bruce-springsteen-band"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/10/only-you-know.jpg.webp
   post_id: 13760

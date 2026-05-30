@@ -16,7 +16,6 @@ tags:
 - "stone-pony"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/10/ritchie-valens-come-on-lets-go-london-2.jpg.webp
   post_id: 5124

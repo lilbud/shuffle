@@ -14,7 +14,6 @@ tags:
 - "the-isley-brothers"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/09/shout.jpg.webp
   post_id: 11633

@@ -1,7 +1,7 @@
 <header class="site-header" role="banner">
   <div class="d-flex justify-content-center" id="header">
     <h1 class="site-title">
-      <a href="/" class="text-decoration-none fw-bold">
+      <a href="{{ .Site.BaseURL }}" class="text-decoration-none fw-bold">
         {{ site.Title }}
       </a>
     </h1>
@@ -36,7 +36,7 @@
             {{ range hugo.Data.navigation }}
             <li class="nav-item py-1">
               <a
-                href="{{ relURL .link }}"
+                href='{{ .link | relURL }}'
                 aria-current="page"
                 class="nav-link {{ if eq $.RelPermalink .link }}active{{ end }}">
                 {{ .name }}
@@ -55,7 +55,7 @@
               <ul class="dropdown-menu">
                 {{ range $category, $pages := .Site.Taxonomies.categories }}
                 <li>
-                  <a class="dropdown-item" href='{{ relURL "/categories/$category" }}'>
+                  <a class="dropdown-item" href='{{ printf "categories/%s" $category | relURL }}'>
                     {{ $category | replaceRE "-" " " | title }}
                     ({{ $pages.Count }})
                   </a>
@@ -78,7 +78,7 @@
                 {{ $dirPath := .File.Dir }}
                 {{ $parentFolder := path.Base $dirPath }}
                 <li>
-                  <a class="dropdown-item" href='{{ RelURL "/authors/$parentFolder" }}'>{{ .Title }} ({{ $pages.Count }})</a>
+                  <a class="dropdown-item" href='{{ printf "authors/%s" $parentFolder | relURL }}'>{{ .Title }} ({{ $pages.Count }})</a>
                 </li>
                 {{ end }}
                 {{ end }}
@@ -96,7 +96,7 @@
         <ul class="navbar-nav">
           {{ range hugo.Data.navigation }}
           <li class="nav-item align-items-center d-grid">
-            <a href="{{ RelURL .link }}" class="nav-link {{ if eq $.RelPermalink .link }}active{{ end }}">
+            <a href="{{ relURL .link }}" class="nav-link {{ if eq $.RelPermalink .link }}active{{ end }}">
               {{ .name }}
             </a>
           </li>
@@ -113,7 +113,7 @@
             <ul class="dropdown-menu">
               {{ range $category, $pages := .Site.Taxonomies.categories }}
               <li>
-                <a class="dropdown-item" href='{{ relURL "/categories/$category" }}'>
+                <a class="dropdown-item" href='{{ printf "categories/%s" $category | relURL }}'>
                   {{ $category | replaceRE "-" " " | title }}
                   ({{ $pages.Count }})
                 </a>
@@ -136,7 +136,7 @@
                 {{ $dirPath := .File.Dir }}
                 {{ $parentFolder := path.Base $dirPath }}
                 <li>
-                  <a class="dropdown-item" href='{{ RelURL "/authors/$parentFolder" }}'>{{ .Title }} ({{ $pages.Count }})</a>
+                  <a class="dropdown-item" href='{{ printf "authors/%s" $parentFolder | relURL }}'>{{ .Title }} ({{ $pages.Count }})</a>
                 </li>
                 {{ end }}
                 {{ end }}

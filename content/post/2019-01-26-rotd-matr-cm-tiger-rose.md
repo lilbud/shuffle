@@ -15,7 +15,6 @@ tags:
 - "tiger-rose"
 categories:
 - "cover-me"
-- "cover-you"
 - "meeting-across-the-river"
 - "roll-of-the-dice"
 params:

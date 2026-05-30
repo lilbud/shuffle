@@ -15,7 +15,6 @@ tags:
 - "the-special-a-k-a"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/07/the_special_aka-nelson_mandela_s.jpg.webp
   post_id: 3028

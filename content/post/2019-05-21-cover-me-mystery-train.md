@@ -15,7 +15,6 @@ tags:
 - "mystery-train"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/05/mystery.jpg.webp
   post_id: 9736

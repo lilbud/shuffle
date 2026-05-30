@@ -15,7 +15,6 @@ tags:
 - "warm-and-tender-love"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/10/warmandtender.jpg.webp
   post_id: 21114

@@ -16,7 +16,6 @@ tags:
 - "viva-las-vegas"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/12/bruce-springsteen-its-now-or-never-nme-12.jpg.webp
   post_id: 6183

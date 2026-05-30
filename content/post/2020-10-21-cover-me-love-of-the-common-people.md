@@ -17,7 +17,6 @@ tags:
 - "the-four-preps"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/10/lovecommon.jpg.webp
   post_id: 22141

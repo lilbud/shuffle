@@ -15,7 +15,6 @@ tags:
 - "rank-and-file"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/luckyday-1.jpg.webp
   post_id: 22912

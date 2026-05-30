@@ -14,7 +14,6 @@ tags:
 - "the-patriot-game"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/04/patriot.jpg.webp
   post_id: 26258

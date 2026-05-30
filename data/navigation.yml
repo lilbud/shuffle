@@ -1,8 +1,8 @@
 - name: Home
-  link: /
+  link: 
 - name: About This Blog
-  link: /about/
+  link: about/
 - name: Cover Songs
-  link: /cover-index/
+  link: cover-index/
 - name: Original Songs
-  link: /roll-of-the-dice-album-by-album/
+  link: roll-of-the-dice-album-by-album/

@@ -16,7 +16,6 @@ tags:
 - "the-crystals"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/crystals-hes-sure-the-boy-i-love.jpg.webp
   post_id: 20490

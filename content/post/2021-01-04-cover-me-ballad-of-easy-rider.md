@@ -15,7 +15,6 @@ tags:
 - "the-byrds"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/01/easyrider.jpg.webp
   post_id: 23583

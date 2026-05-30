@@ -13,7 +13,6 @@ tags:
 - "the-daring-young-man-on-the-flying-trapeze"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/1976/02/Gemini_Generated_Image_fkmxabfkmxabfkmx.png.webp
   post_id: 19926

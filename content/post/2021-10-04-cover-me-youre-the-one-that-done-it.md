@@ -14,7 +14,6 @@ tags:
 - "youre-the-one-that-done-it"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/10/onethatdoneit.jpg.webp
   post_id: 30013

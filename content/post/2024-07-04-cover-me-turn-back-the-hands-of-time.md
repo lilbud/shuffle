@@ -15,7 +15,6 @@ tags:
 - "tyrone-davis"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/07/51SLlhhNGL._UF10001000_QL80_.jpg.webp
   post_id: 52381

@@ -14,7 +14,6 @@ tags:
 - "one-of-us-must-know-sooner-or-later"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/08/261636-one-of-us-must-know-sooner-or-later.jpg.webp
   post_id: 35846

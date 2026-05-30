@@ -14,7 +14,6 @@ tags:
 - "wizz-jones"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/whenileaveberlin_original_alb.jpg.webp
   post_id: 19328

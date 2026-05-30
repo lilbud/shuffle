@@ -14,7 +14,6 @@ tags:
 - "satin-doll"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/09/duke.jpg.webp
   post_id: 4442

@@ -14,7 +14,6 @@ tags:
 - "willie-nelson"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/09/precious.jpg.webp
   post_id: 4180

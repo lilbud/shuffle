@@ -13,7 +13,6 @@ tags:
 - "when-the-saints-go-marching-in"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/03/when-the-saints-go-marching-in-song-lyrics.jpg.webp
   post_id: 25932

@@ -1,7 +1,7 @@
 ---
 title: "About This Blog"
 layout: "post-nosidebar"
-url: "/about/"
+url: "about/"
 ---
 
 > Note: A much longer write-up is in the works over on my blog, and will be linked here. That will cover more of the history and work that went into it.

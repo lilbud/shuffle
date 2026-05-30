@@ -14,7 +14,6 @@ tags:
 - "ready-teddy"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/01/little-richard-ready-teddy-specialty-78.jpg.webp
   post_id: 545

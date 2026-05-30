@@ -17,7 +17,6 @@ tags:
 - "the-vibrations"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/04/The-McCoys-Hang-On-Sloopy-1534271136-compressed.jpg.webp
   post_id: 17118

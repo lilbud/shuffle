@@ -10,7 +10,7 @@
             onchange="window.location.href=this.value">
             <option selected>Select Category</option>
             {{ range $category, $pages := .Site.Taxonomies.categories }}
-            <option value="/categories/{{ $category }}">
+            <option value="{{ printf "categories/%s" $category | relURL }}">
               {{ $category | replaceRE "-" " " | title }}
               ({{ $pages.Count }})
             </option>
@@ -32,7 +32,7 @@
             {{ with site.GetPage (print "/authors/" $author) }}
             {{ $dirPath := .File.Dir }}
             {{ $parentFolder := path.Base $dirPath }}
-            <option value='{{ relURL "/authors/{{ $parentFolder }}" }}'>
+            <option value='{{ printf "authors/%s" $parentFolder | relURL }}'>
               {{ .Title }}
               ({{ $pages.Count }})
             </option>

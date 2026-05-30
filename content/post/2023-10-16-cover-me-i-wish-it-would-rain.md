@@ -15,7 +15,6 @@ tags:
 - "the-temptations"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2023/10/wishrain.jpg.webp
   post_id: 45724

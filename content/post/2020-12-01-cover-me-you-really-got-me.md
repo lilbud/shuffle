@@ -15,7 +15,6 @@ tags:
 - "you-really-got-me"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/12/the-kinks-you-really-got-me.jpg.webp
   post_id: 22911

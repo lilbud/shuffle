@@ -14,7 +14,6 @@ tags:
 - "wear-my-ring-around-your-neck"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/ring.jpg.webp
   post_id: 18175

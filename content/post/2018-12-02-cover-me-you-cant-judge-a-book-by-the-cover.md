@@ -16,7 +16,6 @@ tags:
 - "you-cant-judge-a-book-by-the-cover"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/11/diddley.jpg.webp
   post_id: 5737

@@ -14,7 +14,6 @@ tags:
 - "sting"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/06/fields-1.jpg.webp
   post_id: 2599

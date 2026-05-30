@@ -15,7 +15,6 @@ tags:
 - "rockin-robin"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/rockin-robin.jpg.webp
   post_id: 28862

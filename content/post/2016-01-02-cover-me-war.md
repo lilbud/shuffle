@@ -16,7 +16,6 @@ tags:
 - "war"
 categories:
 - "cover-me"
-- "cover-you"
 - "roll-of-the-dice"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2016/01/81I2u-RmOLL._SL1500_.jpg.webp

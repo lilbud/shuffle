@@ -11,7 +11,6 @@ author: Ken Rosen
 description: "As Bruce once put it, “any bar band worth its salt has got to know this one.”"
 categories:
 - "cover-me"
-- "cover-you"
 params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/03/wooly.jpg.webp
   post_id: 1284
