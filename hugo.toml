@@ -3,6 +3,7 @@ title = 'E Street Shuffle Archive'
 theme = 'shuffle'
 refLinksErrorLevel = "WARNING"
 refLinksNotFoundURL = "/404"
+baseURL = "https://lilbud.github.io/shuffle/"
 ignoreLogs = ['warning-goldmark-raw-html']
 custom_css = ["css/custom.css"]
 [permalinks]
