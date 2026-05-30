@@ -1,0 +1,106 @@
+---
+aliases:
+- /kingdom-of-days-march-1-2/
+- /56070/
+layout: post
+date: 2025-03-01T12:00:14
+lastmod: 2025-02-24T23:50:40
+title: "Kingdom of Days: March 1"
+slug: kingdom-of-days-march-1-2
+author: Ken Rosen
+description: "Grammy Award wins and performances, Part 2 of a Friday Night Videos profile, and a most unexpected cover from this date in Springsteen history."
+tags:
+- "auckland"
+- "barack-obama"
+- "bob-dylan"
+- "curtis-mayfield"
+- "david-johansen-group"
+- "friday-night-videos"
+- "grammy-awards"
+- "high-hopes-tour"
+- "jimmy-barnes"
+- "new-zealand"
+- "renegades"
+- "ride-the-night-away"
+- "royals"
+- "springsteen-on-broadway"
+- "steve-van-zandt"
+- "streets-of-philadelphia"
+- "tom-petty"
+categories:
+- "kingdom-of-days"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/02/41102548302_2e7969311f_o.jpg.webp
+  post_id: 56070
+---
+***New for 2025:** No updates*<br>
+
+Note: This is a strange date in history: Bruce rarely cancels shows, but on this date he cancelled shows three years running!
+
+**1973:** A scheduled date in San Jose opening for Paul Butterfield is cancelled due to low ticket sales.<br>
+
+**1974:** Bruce cancels a show at the New Jersey State Theater due to illness. Who knew Bruce graduated from Rutgers? (The journalist below sure doesn't.) Disappointed Springsteen fans ask for their money back; the theater obliges and throws in a bonus.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/02/1974-03-01.jpg.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/03/The_Central_New_Jersey_Home_News_Sat__Mar_2__1974_.jpg.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/03/1974-03-01a.jpg.webp)
+
+**1975:** Yet another cancellation, this one in Syracuse, due to a conflict with mixing sessions for *Born to Run*.<br>
+
+**1980:** Bruce sits in with the David Johansen Group at The Fast Lane in Asbury Park, joining the band for "Personality Crisis" and "[Lucille]({{< relref "1976-01-07-cover-me-lucille.md" >}}/)."<br>
+
+**1985:** Friday Night Videos airs Part 2 of its "Private Reel" profile of Bruce.<br>
+
+{{< youtube JM4oYHfP5nc >}}
+
+**1990:** Bruce and Bob Dylan make a guest appearance with Tom Petty and the Heartbreakers at the Forum in Inglewood, California.<br>
+
+{{< youtube LG2mygv6WPs >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/03/1990-03-01.jpg.webp)
+
+**1994:** At the Grammy Awards, Bruce appears with B.B. King, Bonnie Raitt, Steve Winwood and others during a medley tribute to Curtis Mayfield. Watch their performance below.<br>
+
+{{< youtube AjM2KHrNUxk >}}
+
+**1995:** Bruce performs "[Streets of Philadelphia]({{< relref "2021-06-30-roll-of-the-dice-streets-of-philadelphia.md" >}})" and wins Grammys for Best Rock Song, Best Male Rock Vocal Performance, Song of the Year, and Best Song Written Specifically for a Motion Picture or for Television. The only nomination for which he doesn't take home the award is for Record of the Year. Check out the footage of the awards, post-ceremony interviews and more below.<br>
+
+{{< videopress id=HclHJdZx >}}
+
+{{< youtube 5_cloJH4slM >}}
+
+{{< youtube W5OExj0BakE >}}
+
+{{< videopress id=KNpyCgB4 >}}
+
+{{< youtube g8k45X2-0Wg >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/03/1995-03-01.png.webp)
+
+**1996:** If press reports are accurate, Bruce gets a workout in at Marco's Gym in Edinburgh during an off-day on his solo acoustic tour. The timing is odd, however, since he played in Birmingham last night and will perform in Newcastle tomorrow. His Edinburgh show isn't for another two days. Perhaps he's making Edinburgh his base of operations for this leg of the tour.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/03/Daily_Record_Sat__Mar_2__1996_-scaled.jpg.webp)
+
+**2003:** Bruce sets a Ticketmaster record, becoming the first artist to sell tickets for seven stadium shows in a single day. Before the day is out, Bruce will sell more than 300,000 tickets to his summer residency at Giants Stadium.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/02/2003-03-01.jpg.webp)
+
+**2014:** Bruce plays the first of two shows in Auckland, New Zealand. He opens with an acoustic cover of Lorde's "[Royals]({{< relref "2020-04-25-cover-me-royals.md" >}})," tour debuts "[Loose Ends]({{< relref "2022-06-23-roll-of-the-dice-loose-end.md" >}})," and plays the full *Born in the U.S.A.* album. This show has an opening act: Jimmy Barnes, who recorded Steve Van Zandt's "Ride the Night Away" on his 1985 album, *For the Working Class Man*. Steve makes a guest appearance during Jimmy's set to join him for that song.<br>
+
+{{< youtube n7PagtsHHbs >}}
+
+{{< videopress id=eYWAhM3R >}}
+
+{{< youtube OBIAKHw5y4Q >}}
+
+{{< youtube IdDmH_pbcHQ >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/02/41634022365_69d16ee614_o.jpg.webp)
+
+**2018:** Patti Scialfa returns to *Springsteen on Broadway* after recuperating from a back injury, as the show continues its epic run at the Walter Kerr Theater in New York City.<br>
+
+**2021:** Bruce and President Obama debut Episode 3 of their podcast, *Renegades: Born in the U.S.A.* This episode is entitled "Amazing Grace: American Music," and it features a duet of sorts on "[Further On Up the Road]({{< relref "2022-01-01-roll-of-the-dice-further-on-up-the-road.md" >}})."<br>
+
+[Spotify Embed: American Music](https://open.spotify.com/embed/episode/1l5qlEK00ELt4dbD5Q6xlR?si=197d075203904acf&utm_source=oembed)

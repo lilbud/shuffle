@@ -1,0 +1,82 @@
+{{ define "main" }}
+<div class="content-area col-12 col-lg-10" id="main-column">
+<a href="#" class="back-to-top d-flex justify-content-center align-items-center"><i class="bi bi-caret-up-fill"></i></a>
+<div class="card widget-card mb-3">
+  <div class="widget-title">Navigation</div>
+  <div class="widget-body">
+    <select class="form-select" id="song_select">
+      <option selected>Select Song</option>
+      {{ range $index, $song := hugo.Data.covers }}
+      <option value="#song_{{ add $index 1 }}">{{ $song.name }}</option>
+      {{ end }}
+    </select>
+  </div>
+</div>
+<div class="card p-3 p-lg-4.5">
+  <table style="border-collapse: collapse; width: 100%;">
+    <thead>
+      <tr>
+        <th>Song Title</th>
+        <th>Cover Artist</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range $index, $song := hugo.Data.covers }}
+      <tr id="song_{{ add $index 1 }}">
+        <td>
+          {{ if .url }}
+          <a href="{{ .url | relURL }}">{{ .name }}</a>
+          {{ else }}
+          {{ .name }}
+          {{ end }}
+        </td>
+        <td>
+          <ul class="list-unstyled mb-0">
+            {{ range .songs }}
+            <li>
+              {{ if .url }}
+              <a href="{{ .url  | relURL }}">{{ .name }}</a>
+              {{ else }}
+              {{ .name }}
+              {{ end }}
+            </li>
+            {{ end }}
+          </ul>
+        </td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>
+</div>
+{{ end }}
+
+{{ define "scripts" }}
+<script>
+
+  document.querySelector('#song_select').addEventListener('change', function () {
+    const targetId = this.value;
+
+    // Remove the 'highlighted-row' class from all rows
+    $('tr').each(function () {
+      $(this).removeClass('highlighted-row');
+    });
+
+    if (targetId) {
+      const element = document.querySelector(targetId);
+      const offset = 40; // Offset in pixels
+
+      const elementPosition = element.getBoundingClientRect().top;
+      const offsetPosition = elementPosition + window.scrollY - offset;
+
+      if (element) {
+        element.classList.add('highlighted-row');
+        window.scrollTo({
+          top: offsetPosition,
+          behavior: "smooth"
+        });
+      }
+    }
+  });
+</script>
+{{ end }}

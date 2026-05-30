@@ -1,0 +1,72 @@
+---
+aliases:
+- /cover-me-darlene-love-night-closing-in/
+- /15845/
+layout: post
+date: 2020-01-31T13:00:00
+lastmod: 2021-06-23T13:56:09
+title: "Cover Me, Darlene Love: Night Closing In"
+slug: cover-me-darlene-love-night-closing-in
+author: Ken Rosen
+description: "When Steve Van Zandt produced a comeback album for Darlene Love, Bruce contributed an original song that’s both unmistakably Springsteenian and custom-tailored for Love. Take a listen inside."
+tags:
+- "darlene-love"
+- "introducing-darlene-love"
+- "night-closing-in"
+categories:
+- "cover-me"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/01/darlne.jpg.webp
+  post_id: 15845
+---
+Is a cover still a cover if the original songwriter never recorded it?
+
+I'm gonna go with "yes," because Darlene Love's recording of the Springsteen-authored "Night Closing In" is too wonderful to ignore.
+
+Bruce Springsteen and Steve Van Zandt had crossed paths with Love many times since the 1980s (and were fans long before), and Steve was determined to record an album with her. But life has a habit of getting in the way, and despite writing and producing her 1992 holiday song, "All Alone on Christmas," Steve never quite got around to recording that album with her.
+
+Until 2014, that is, when something stirred Steve into action. Calling in favors with friends like Elvis Costello, Joan Jett, and of course Bruce, Steve collected a group of songs that he arranged into a comeback album called (ironically) *Introducing Darlene Love*.
+
+Bruce contributed two original songs to the project, one of which is the *very* Spectorish "Night Closing In."
+
+{{< youtube tCBC4IV8GdM >}}
+
+"Night Closing In" is a song of heartbreak. It's about those first few days after a break-up, when you wake up in the morning and all seems right… until you remember.
+
+The day provides its distractions, but the clock counts down to the night–and the night brings it all back home in a steamy final verse.
+
+> *The morning light greets me when I wake*<br>
+> *And for just one moment I forget my heartache*<br>
+> *And the lonely lonely hours start wearing me thin*<br>
+> *Baby I can feel the night*<br>
+> *Baby I can feel the night*<br>
+> *Baby I can feel the night, closing in*<br>
+
+> *Get out of bed, put on my stockings and my skirt*<br>
+> *Day by day and step by step I make it through work*<br>
+> *Then there's the sun, sinks down, that's when the blues began*<br>
+> *Baby I can feel the night*<br>
+> *And baby I can feel the night*<br>
+> *Baby I can feel the night, closing in*<br>
+
+> *And into bed, naked under the sheets*<br>
+> *I try not to think about you but I can feel the heat*<br>
+> *And in the midnight hour, that's when the blues began*<br>
+> *And baby I can feel the night*<br>
+> *Baby I can feel the night*<br>
+> *Baby I can feel the night, closing in*<br>
+
+We don't know exactly when Bruce wrote "Night Closing In," or whether he's ever recorded it for himself (the song certainly seems written for a woman to sing, but Bruce has recorded songs from a female point of view before), but I can't help but notice the musical similarity to "Loose Ends" in the opening sax solo, bridge, and coda.
+
+I wouldn't be surprised if the song dates much farther back than 2014. But that's okay–with a performance and production like this one, we don't need Bruce to release his own version.
+
+This one is perfect as is.
+
+**Bonus:** Here's Darlene's live performance of "Night Closing In" (with Little Steven) from shortly after her record release in 2015.<br>
+
+{{< youtube N-5FXMhnKMg >}}
+
+**Night Closing In**<br>
+**Recorded** 2014-2015<br>
+**Released:** *Introducing Darlene Love* (2015)<br>
+**Never performed live by Bruce**<br>

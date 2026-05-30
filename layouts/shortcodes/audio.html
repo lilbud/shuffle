@@ -1,0 +1,5 @@
+{{- with $url := or (.Get "url") (.Get 0) }}
+<figure>
+    <audio controls src="{{ $url }}"></audio>
+</figure>
+{{ end }}

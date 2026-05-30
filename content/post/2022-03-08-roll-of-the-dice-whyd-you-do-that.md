@@ -1,0 +1,49 @@
+---
+aliases:
+- /roll-of-the-dice-whyd-you-do-that/
+- /33061/
+layout: post
+date: 2022-03-08T13:00:00
+lastmod: 2022-03-08T02:56:24
+title: "Roll of the Dice: Why'd You Do That"
+slug: roll-of-the-dice-whyd-you-do-that
+author: Ken Rosen
+description: "One of the slightest songs in Bruce’s catalog, “Why’d You Do That” at least provides the framework for some epic jams."
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/03/whydidyou.png.webp
+  post_id: 33061
+---
+Today, Bruce Springsteen is known for his sophisticated, sensitive, and literary songwriting, but back in his Steel Mill Days, it was all about the guitar.
+
+We've listened to dozens of original songs that Bruce wrote during that brief, barely-a-year era, and we'll listen to many more before we bring this odyssey to an end. Some of these songs are more substantial than others, and today's entry is definitely on the slighter side–lyrically speaking, at least.
+
+{{< videopress id=yN6OHFQl >}}
+
+"Why'd You Do That" has all of nine unique lines, none of which provide any semblance of story or metaphor.
+
+> *I still got your picture hanging up upon my wall*<br>
+> *I can still remember the day you gave it to me*<br>
+> *You were kinda long and tall*<br>
+
+> *And they say I didn't ???*<br>
+> *Honey why'd you do that*<br>
+
+> *Well goodbye New Jersey, look out New York City here I come*<br>
+> *You better watch out, you know I wanna get to you*<br>
+> *I gotta get out on the run*<br>
+
+> *?? night and day, everything's gonna be ok*<br>
+
+But let's not hold that against him. Written and performed at the tender age of twenty, Bruce's lyrics for "Why'd You Do That" are just a coat rack for the band to cut loose on some epic jams–and with only a core four on the stage (Bruce, Steven Van Zandt, Danny Federici, and Vini Lopez), each member gets a chance to shine.
+
+"Why'd You Do That" showed up a few times during the summer and fall of 1970, only to disappear shortly before the band broke up in the early days of 1971. Rarely if ever is it mentioned in the historical record, but it's a fun number, a crystal clear recording, and a great snapshot of an artist on the ascent.
+
+**Why'd You Do That?**<br>
+**Never recorded**
+**Never released**
+**First performed:** July 17, 1970 (Asbury Park, NJ)<br>
+**Last performed:** October 11, 1970 (Richmond, VA)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

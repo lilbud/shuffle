@@ -1,0 +1,40 @@
+---
+aliases:
+- /matr-john-prine-and-bruce-springsteen-take-a-look-at-my-heart/
+- /806/
+layout: post
+date: 2018-02-24T13:00:09
+lastmod: 2020-04-08T02:33:01
+title: "MatR: John Prine and Bruce Springsteen, Take a Look at My Heart"
+slug: matr-john-prine-and-bruce-springsteen-take-a-look-at-my-heart
+author: Ken Rosen
+description: "From John Prine’s 1991 album The Missing Years comes this wry, bitter rocker, written by Prine and John Mellencamp."
+tags:
+- "john-prine"
+- "take-a-look-at-my-heart"
+categories:
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/02/takealookatmyheart_sin-gb.jpg.webp
+  post_id: 806
+---
+Bruce Springsteen has been a fan of John Prine since the early seventies, and they once shared a stage in the late eighties. But it took until 1991 for them to record their first and only collaboration.
+
+Bruce's participation was assured from the outset: bumping in to each other at a southern California Italian restaurant on the first day of recording sessions for John's *The Missing Years* album, Bruce gave John his phone number and told him, "When you guys get into the record and have something to play, please invite me over. I'd just love to play guitar or harmonica or sing or whatever."
+
+John took Bruce up on his offer, and Bruce contributed his harmony vocals to "Take a Look at My Hear," a wry and bitter rocker co-written by John Prine and John Mellencamp. (Talk about a pedigree!)
+
+{{< youtube doCpKMAcYv0 >}}
+
+The song is a note to the narrator's ex-girlfriend's new boyfriend, and the great first verse says it all:
+
+> *I seen my old lady's boyfriend*
+> *He don't look nothing like me*
+> *Except for a bit of confusion*
+> *Same kind she laid on me*
+
+It's clever and angry and funny and vulnerable and a great piece of songwriting. Even without Bruce's participation it would have been a standout track.
+
+**Take a Look at My Heart**<br>
+**Released:** *The Missing Years* (1991)<br>
+**Never performed**<br>

@@ -1,0 +1,44 @@
+---
+aliases:
+- /cover-me-shes-sure-the-girl-i-love/
+- /20490/
+layout: post
+date: 2020-08-27T12:00:00
+lastmod: 2023-01-02T01:12:06
+title: "Cover Me: She's Sure the Girl I Love"
+slug: cover-me-shes-sure-the-girl-i-love
+author: Ken Rosen
+description: "One time only: Bruce covers Darlene Love (in a song for which she was never credited) for the first time in the summer of 1976."
+tags:
+- "darlene-love"
+- "hes-sure-the-boy-i-love"
+- "the-blossoms"
+- "the-crystals"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/crystals-hes-sure-the-boy-i-love.jpg.webp
+  post_id: 20490
+---
+Like “[He’s a Rebel]({{< relref "2021-10-02-matr-darlene-love-bette-midler-and-bruce-springsteen-hes-a-rebel.md" >}})” and “[Da Doo Ron Ron]({{< relref "2019-01-02-matr-bruce-springsteen-and-darlene-love-da-doo-ron-ron.md" >}}),” figuring out who to credit for “He’s Sure the Boy I Love” isn’t straightforward.
+
+Legally, the 1962 Top 20 Hit (it peaked at #11 on the Billboard Hot 100 and #18 on the Hot R&B Singles chart) was credited to The Crystals. But that was news to The Crystals, because the song was actually recorded by a group called The Blossoms, fronted by one Darlene Love.
+
+{{< youtube 5fssD9Da7Xw >}}
+
+This wasn’t even the first time The Blossoms and Crystals had crossed credits–Phil Spector had done it earlier in the year with “He’s a Rebel,” so Love was careful to require a credit this time around–but that didn’t stop Spector from once again crediting The Crystals instead.
+
+(The Crystals weren’t happy either–because now they had to perform the song on tour, doing their best to sound like The Blossoms.)
+
+Controversy aside, Darlene gave a memorable vocal performance on the track, and it made enough of an impression on Bruce Springsteen for “He’s Sure the Boy I Love” (slightly retitled–apparently Bruce hadn’t yet grown comfortable with the idea of singing from a woman’s or gay man’s perspective)–to become the earliest Darlene Love song he’s known to have covered.
+
+Bruce covered it once and once only, at the Monmouth Arts Center in the summer of 1976. That show was also notable for featuring the first appearance of the Miami Horns, who would go on to tour with Bruce in various incarnations for decades to come.
+
+The horns aren’t featured on this song, but it’s still a great encore performance. Take a listen to Bruce’s one and only live performance of “She’s Sure the Girl I Love,” from August 1, 1976.
+
+{{< youtube hazQKc6EAEo >}}
+
+**She’s Sure the Girl I Love (orig. He’s Sure the Boy I Love)**<br>
+**First performed:** August 1, 1976 (Red Bank, NJ)<br>
+**Last performed:** August 1, 1976 (Red Bank, NJ)<br>

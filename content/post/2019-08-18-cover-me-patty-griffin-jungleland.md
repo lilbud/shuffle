@@ -1,0 +1,31 @@
+---
+aliases:
+- /cover-me-patty-griffin-jungleland/
+- /11791/
+layout: post
+date: 2019-08-18T12:00:00
+lastmod: 2019-08-18T13:13:24
+title: "Cover Me, Patty Griffin: Jungleland"
+slug: cover-me-patty-griffin-jungleland
+author: Ken Rosen
+description: "It takes guts to cover “Jungleland,” let alone as an acoustic show opener. But Patty Griffin has guts, and her cover is gorgeous. Watch and listen inside."
+tags:
+- "jungleland"
+- "patty-griffin"
+categories:
+- "cover-me"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/08/Patty-Griffin-6-620x414.jpg.webp
+  post_id: 11791
+---
+It takes guts to cover Bruce Springsteen's "Jungleland." It takes even more guts to do so with nothing more than an acoustic guitar and a bass to accompany you.
+
+Patty Griffin has nothing if not guts.
+
+Earlier this year in Philadelphia, on her first U.S. tour since defeating breast cancer, she stepped up to the microphone and opened her show with a most unexpected song choice. There are a few videos floating around of it, but the fact that they all seem to miss the opening bars of the introduction show just how off-guard the audience must have been caught.
+
+{{< youtube eJMq8_q7K28 >}}
+
+Patty's cover is brave, but more than that: it's beautiful, capturing the essence of Bruce's street war ballad in quiet contemplation. Even the guitar solo works, and in the moments leading up to it, I couldn't imagine how it possibly would.
+
+As far as I know, Patty only performed "Jungleland" one other time, in New York just two days later. That's too bad–this is one cover I'd very much like to hear live.

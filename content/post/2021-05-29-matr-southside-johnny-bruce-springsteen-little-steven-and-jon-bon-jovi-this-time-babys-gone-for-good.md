@@ -1,0 +1,44 @@
+---
+aliases:
+- /matr-southside-johnny-bruce-springsteen-little-steven-and-jon-bon-jovi-this-time-babys-gone-for-good/
+- /27325/
+layout: post
+date: 2021-05-29T11:57:00
+lastmod: 2021-05-29T11:56:51
+title: "MatR: Southside Johnny, Bruce Springsteen, Little Steven, and Jon Bon Jovi: This Time Baby's Gone for Good"
+slug: matr-southside-johnny-bruce-springsteen-little-steven-and-jon-bon-jovi-this-time-babys-gone-for-good
+author: Ken Rosen
+description: "One time only: Jon Bon Jovi joins Bruce, Southside Johnny, and Little Steven on Steve’s classic song from Southside’s Hearts of Stone album."
+tags:
+- "jon-bon-jovi"
+- "little-steven"
+- "southside-johnny"
+- "this-time-babys-gone-for-good"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/05/thistime.jpg.webp
+  post_id: 27325
+---
+Southside Johnny's *Hearts of Stone* album could almost be considered a Little Steven album, too.
+
+Steve Van Zandt is all over Southside's 1978 LP–Steve not only plays and sings throughout the album, he also produced it and wrote or co-wrote all but two of its songs. And although it's hard to pick a favorite track from such a great album, if you pressed me I'd have to go with "This Time Baby's Gone For Good."
+
+{{< youtube z9dNrDOQ__c >}}
+
+"This Time Baby's Gone For Good" is classic Little Steven, reflecting his R&B influences and perfectly tailored for The Asbury Juke's brassy Jersey Shore sound.
+
+It seemed a lock that Bruce would perform it with Steve and Southside in one of their many appearances together, and in 1998 that finally happened. At a benefit show to raise money for the family of a slain local police officer, Bruce and Southside took rare supporting roles while Steve sang the lead on his twenty-year-old song.
+
+{{< videopress id=9qVbrl1k >}}
+
+The trio performed Steve's song together twice more since then, and for the final occasion they were joined by a friend.
+
+At Bruce's Asbury Park holiday show on December 7, 2003, Jon Bon Jovi joined Bruce on backing vocals while Southside and Steve traded lead vocals on a magnificently captured performance of "This Time Baby's Gone For Good."
+
+{{< youtube 8PSiS0RS-Tk >}}
+
+**This Time Baby's Gone For Good**<br>
+**First performed:** January 31, 1998 (Red Bank, NJ)<br>
+**Last performed:** December 7, 2003 (Asbury Park, NJ)<br>

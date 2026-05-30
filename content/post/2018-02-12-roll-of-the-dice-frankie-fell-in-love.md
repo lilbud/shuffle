@@ -1,0 +1,94 @@
+---
+aliases:
+- /roll-of-the-dice-frankie-fell-in-love/
+- /675/
+layout: post
+date: 2018-02-12T13:00:27
+lastmod: 2021-12-12T04:10:45
+title: "Roll of the Dice: Frankie Fell in Love"
+slug: roll-of-the-dice-frankie-fell-in-love
+author: Ken Rosen
+description: "Kicking off Valentine’s Week with Bruce’s ode to new love and old friends: “Frankie Fell in Love.”"
+tags:
+- "frankie-fell-in-love"
+- "high-hopes"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/02/frankiefell.jpg.webp
+  post_id: 675
+---
+> *Good morning, good morning!*<br>
+> *The church mouse is snoring*<br>
+> *News is out all over town: Frankie fell in love!*<br>
+
+And with those words, we're off to the races in a song that Bruce recorded in 2008 (during the *Working on a Dream* sessions) but sounds like it would be right at home on *The River*: "Frankie Fell in Love."
+
+{{< youtube u1bqwTMW55Q >}}
+
+Back in the late 1970s and early 1980s, Bruce was a veritable fountain of ebullient pop rock, with songs like "[Sherry Darling]({{< relref "2018-07-06-roll-of-the-dice-sherry-darling.md" >}})," "[Crush on You]({{< relref "2018-02-02-roll-of-the-dice-crush-on-you.md" >}})," and "[I'm a Rocker]({{< relref "2020-09-18-roll-of-the-dice-im-a-rocker.md" >}})" cutting the seriousness of *The River's* darker tracks. Tracks like "[Lion's Den]({{< relref "2019-06-21-roll-of-the-dice-lions-den.md" >}})" "[Take 'em as They Come]({{< relref "2019-03-29-roll-of-the-dice-take-em-as-they-come.md" >}})," and "[Give the Girl a Kiss]({{< relref "2020-06-17-roll-of-the-dice-give-the-girl-a-kiss.md" >}})" wouldn't surface until the *Tracks* collection in 1998, but they flowed forth from Bruce's pen even while his released work was turning more pointed and political.
+
+In recent years, those light tracks are rare to come by: there's "[Waiting on a Sunny Day]({{< relref "2019-09-27-roll-of-the-dice-waitin-on-a-sunny-day.md" >}})" and "[Let's Be Friends]({{< relref "2018-03-02-roll-of-the-dice-lets-be-friends-skin-to-skin.md" >}})" from *The Rising*, "[Surprise, Surprise]({{< relref "2021-05-04-roll-of-the-dice-surprise-surprise.md" >}})" from *Working on a Dream*, but for the most part, fans and critics focus on the deeper, political and thematic songs from Bruce's albums.
+
+And then out of the blue came the *High Hopes* album, a grab bag of songs with no discernible stylistic or thematic link at all–and right smack in the middle of it, this gorgeous pop gem.
+
+From the January 9, 2014 issue of Rolling Stone:
+
+**Tell me about "Frankie Fell In Love." That has a very different feel than the rest of the album.**<br>
+"That one was one of those songs that's fun to write and might have come out somewhere around *Magic*. Then I recut pieces of it, certainly the drums. Actually, I know what that was: that was a song I had that we cut for *Magic* and didn't use the version that we cut. I also had a great demo of it. I have demos of most of these records that I make on my own, and once in a while you don't beat one. That was one of those. I just loved it lyrically, and I thought that it's a great thing for Steve and myself. It's just a great little Faces-type rock song. I always had it sitting around as one of my favorite straight-up E Street Band rock songs, so we went in and did some new cutting on that with Steve and drums and bass."
+
+Judging from the promotional footage Bruce put out for the album, I think he mis-remembers: from his appearance and the ski-cap, this looks to be from the *Working on a Dream* sessions (the promo footage from that album clearly shows Bruce recording those songs on the same day (or at least dressed the same way). You can see the original recording session and hear Bruce talk about the song's origins here:
+
+{{< youtube pCmV1rXvHJ8 >}}
+
+Bruce has also said in interviews that he wrote this song to evoke the time he lived with Steve Van Zandt when their were (much) younger, and that fits with Bruce's comment in Rolling Stone about it being a fun thing for him and Steve to sing together.
+
+Is Frankie either Bruce or Steve? Probably, but only the two of them can say which of them play the title character. Either way, this is a song about what it's like on the first day you realize you're in love, and how that new love feels like it's the most important thing in the world at that moment. Start spreading the news:
+
+> *Good morning, good morning!*<br>
+> *The church mouse is snoring*<br>
+> *News is out all over town: Frankie fell in love!*<br>
+
+> *Wake up, boys, wake up!*<br>
+> *You drunken choir boys, shake it up!*<br>
+> *Our Juliet says her Romeo's been found–Frankie fell in love*<br>
+
+> *World peace is gonna break out*<br>
+> *From here on in we're eating take out*<br>
+> *She ain't gonna be cooking for the likes of us*<br>
+> *Somebody call mama and just tell her: Frankie fell in love*<br>
+
+But the crux of the song is the second verse, which features Einstein and Shakespeare representing the head and the heart, trying to figure out the secret of happiness through Springsteen arithmetic:
+
+> *Einstein and Shakespeare sitting having a beer*<br>
+> *Einstein trying to figure out the number that adds up to bliss*<br>
+> *Shakespeare says, "Man, it all starts with a kiss"*<br>
+
+> *Einstein is scratching numbers on his napkin*<br>
+> *Shakespeare says, "Man, it's just one and one make three*<br>
+> *That's why it's poetry"*<br>
+
+Those are some of my favorite Bruce lyrics right there. The rest of the song simply traces the arc of the day. Nothing eventful happens, and that's the point: the only thing that matters on Day One of new love is new love.
+
+> *Glory, glory, it's the same old story*<br>
+> *Kid, there ain't nothing anybody can do*<br>
+> *It's gonna happen to you, just like: Frankie fell in love*<br>
+
+> *Good evening, good evening, the church mouse is sleeping*<br>
+> *News is out all over town, Frankie fell in love*<br>
+
+Musically, the E Street band is as buoyant as the lyrics, with a loose melody punctuated by (of course) a cowbell carrying the rhythm even once Max's drums kick in. For another example of a Bruce melody diverging like two roads in the woods, go and listen to Bruce's "[American Beauty]({{< relref "2019-02-21-roll-of-the-dice-american-beauty.md" >}})" after listening to "Frankie Fell in Love" and you'll hear how Bruce took the same basic riff and went in two different directions with it.
+
+Frankie Fell in Love" has been performed only rarely, and only when Bruce has a foil: typically with Steve Van Zandt at his side, but occasionally with Joe Grushecky as well. It's an ode to new love, but also to old friends and youthful carousing.
+
+Bruce inevitably introduces the song by referencing its underlying arithmetic. As any Bruce fan knows, 1+1=3 is at the heart of what Springsteen concerts are about.
+
+{{< youtube kMND-6X9XzA >}}
+
+**Frankie Fell in Love**<br>
+**Recorded:** 2008 (probably)<br>
+**Released:** *High Hopes* (2014)<br>
+**First performed:** January 18, 2014 (Asbury Park, NJ)<br>
+**Last performed:** July 18, 2015 (Asbury Park, NJ)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

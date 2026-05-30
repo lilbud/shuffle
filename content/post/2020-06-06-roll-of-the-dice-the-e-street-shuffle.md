@@ -1,0 +1,153 @@
+---
+aliases:
+- /roll-of-the-dice-the-e-street-shuffle/
+- /18561/
+layout: post
+date: 2020-06-06T12:00:00
+lastmod: 2024-01-02T20:36:34
+title: "Roll of the Dice: The E Street Shuffle"
+slug: roll-of-the-dice-the-e-street-shuffle
+author: Ken Rosen
+description: "An unlikely origin song and musical melange in every incarnation, “The E Street Shuffle” introduced and knighted Bruce’s destined-for-legend band."
+tags:
+- "the-e-street-shuffle"
+- "the-wild-the-innocent-and-the-e-street-shuffle"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/06/estreetshuffle.jpg.webp
+  post_id: 18561
+---
+> "It's just a place. Our piano player lives there, lives on that street. It's just a place.'" *–Bruce Springsteen, 1975*<br>
+
+On the face of it, "The E Street Shuffle" is an odd origin story for the name that Bruce would eventually bestow on his band, almost a full year after they first performed the song.
+
+Musically, the studio track is typical of neither the E Street Band's live or studio sound. If anything, it's a hat tip to Curtis Mayfield's "The Monkey Time," which Major Lance took to #8 on the Billboard Hot 100 a decade before Bruce lifted both the riff and the theme for his own use.
+
+{{< youtube V9jdPrME7Mw >}}
+
+"The E Street Shuffle" also carries the obvious influence of Stevie Wonder's "Superstition," which was flying high at the top of the Billboard Hot 100 in early 1973. Stevie's signature clavinet is all over the funkified "The E Street Shuffle" (played by David Sancious) but absolutely nowhere else in Bruce's entire catalog before or since.
+
+{{< youtube ftdZ363R9kQ >}}
+
+"The E Street Shuffle" is a strange signature track lyrically, too–it's one of Bruce's more risque songs, densely and tongue-trippingly packed with double entendre.
+
+And yet, there's something both appropriate and symbolic about our favorite band deriving their name from this strange track. I'll explain in a bit (or rather, Bruce will); for now, let's take a good close listen to "The E Street Shuffle." Pay attention, because there's a *lot* going on.
+
+{{< youtube LWLMaZ7H3B0 >}}
+
+Bruce is clearly making a statement in the opening track of his second album. Besides introducing more obvious homages to his musical influences, "The E Street Shuffle" establishes an adventurous, go-for-broke yet what-the-hell attitude that you can only do on your second album (especially when your first one has only been out a few months).
+
+By the time Bruce and the band started recording *Born to Run*, the pressure was high and mounting. Bruce's third album carries a sense of confidence, desperation and focus, but his second is loose, fun, eclectic, and at times breathtakingly daring.
+
+"The E Street Shuffle" is all of these. Bruce's guitar-playing matches Sancious' clavinet funk for funk; the very first E Street horn section (with guest artist Albee Tellone) carries the riff; Richard Blackwell adds some Latin percussion; Bruce even plays a recorder. Years before "[Sherry Darling]({{< relref "2018-07-06-roll-of-the-dice-sherry-darling.md" >}})," Bruce and the band add their simulated street chatter like a cacophonous Greek chorus. "The E Street Shuffle" may not represent Bruce's typical sound, but it certainly introduces key elements of it.
+
+(Side note: I've always considered the orchestra tune-up introduction to be separate from the song itself, serving more as an introduction for the album than its semi-title track. The fact that it was recorded completely separately only bolsters my opinion. Still, it works perfectly as a lead-in to "The E Street Shuffle" because it telegraphs that something symphonic is on the way only to completely subvert expectations moments later.)
+
+And then there are those lyrics.
+
+Every time I listen to "The E Street Shuffle," I shake my head. There's absolutely no reason why lyrics like "those E Street brats in twilight duel flashlight phantoms in full star stream" should fit *any* melody or meter. It's hard to even *say* some of Bruce's lines, let alone sing them.
+
+And yet somehow, Bruce manages to turn a word salad into a sandwich, pulling off some clever internal rhyming in the process. Even more than in "[Blinded by the Light,]({{< relref "2011-01-02-roll-of-the-dice-blinded-by-the-light.md" >}})" I find myself occasionally questioning whether Bruce was really the pharmacological straight-edge he's always claimed he was.
+
+Regardless, once we adjust to Bruce's lyrical verbosity, we realize: nothing happens in "The E Street Shuffle." Like *absolutely* nothing. The whole song is just one big stage-setting exercise–the very last lines imply the story is about to start, and then the song turns into a raging party that eventually just fades out.
+
+And what a street scene it is:
+
+> *Sparks fly on E Street when the boy prophets walk it handsome and hot*<br>
+> *All the little girls' souls grow weak when the man-child gives them a double shot*<br>
+> *Them schoolboy pops pull out all the stops on a Friday night*<br>
+> *Them teenage tramps in skin-tight pants do the E Street dance and everything's all right*<br>
+> *Well, the kids down there either dancin' or hooked up in a scuffle*<br>
+> *Dressed in snakeskin suits packed with Detroit muscle*<br>
+> *They're doin' the E Street Shuffle*<br>
+
+One could easily and perhaps correctly assume that our characters are street musicians, hangers-on, and partiers, locked in some street rave cum gang skirmish like an early "Jungleland." In *Songs*, Bruce describes these characters as "partly imagined, partly real… vaguely from Asbury Park at the turn of the decade." (E Street itself is in nearby Belmar, the address of Sancious, the song's MVP.) The E Street shuffle is "a dance with no exact steps… just the dance you did every day and every night to get by."
+
+But in the second verse, the scene gets a bit seedier. Bruce's lyrics are laced with double entrendres:
+
+> *Now those E Street brats in twilight duel flashlight phantoms in full star stream*<br>
+> *Down fire trails on silver nights with blonde girls pledged sweet sixteen*<br>
+> *The newsboys say the heat's been bad since Power Thirteen gave a trooper all he had in a summer scuffle*<br>
+> *And Power's girl, Little Angel, been on the corner keepin' those crazy boys out of trouble*<br>
+> *Little Angel steps the shuffle like she ain't got no brains*<br>
+> *She's deaf in combat down on Lover's Lane*<br>
+> *She drives all them local boys insane*<br>
+
+There's an argument to be made that these are simply kids continually on the run from the cops, but there's a fair bit of intimation that Power Thirteen and Little Angel are early versions of Spanish Johnny and Puerto Rican Jane, sex workers doing their dance every day to get by on a Lover's Lane that is likely the same ironically named locale from "[Incident on 57th Street]({{< relref "2018-12-14-roll-of-the-dice-incident-on-57th-street.md" >}})," just a few album tracks away. In the eyebrow-raising bridge, Little Angel has the boys lined up to shuffle her brains out.
+
+> *Little Angel say, "Oh, oh, oh, oh, oh*<br>
+> *Everybody form a line*<br>
+> *Oh, oh, oh, oh, oh*<br>
+> *Everybody form a line"*<br>
+
+When she's not making the rounds on Lover's Lane, Angel hangs out at a local club, waiting for the boys to visit, flush with cash. Tonight, however, the boys are still hanging out on the street corner, so Angel grabs Power Thirteen and heads to where the action is.
+
+> *When the sparks light on E Street when the boy-prophets walk it handsome and hot*<br>
+> *All them little girls' souls grow weak when the man-child gives them a double shot*<br>
+> *Oh, Little Angel hangs out at Easy Joe's, it's a club where all the riot squad goes when they're cashin' in for a cheap hustle*<br>
+> *But them boys are still on the corner loose and doin' that lazy E Street Shuffle*<br>
+> *And as them sweet summer nights turn into summer dreams*<br>
+> *Little Angel picks up Power and he slips on his jeans*<br>
+> *And they move on out down to the scene*<br>
+> *All the kids are down*<br>
+
+And that's "The E Street Shuffle." The party continues, but we must soon take our leave. There are other stories nearby, both wild and innocent, and this particular party doesn't sound like it's going to end any time soon. The coda of "The E Street Shuffle" sounds less like the song fading out and more like the listener walking away.
+
+In a 1975 interview discussing "The E Street Shuffle," Bruce acknowledged his even-then tendency toward unresolved songs. "[T]he songs, they go on forever. They don't begin and they don't end, because that's the way life is. It's just day-to-day, moments, incidents. It's not like, ‘and then he died.' There's not stuff like that. It always goes on. Goes on and on and on. All the songs should just fade out, as a matter of fact–should never end."
+
+If "The E Street Shuffle" is a song that goes on forever about a dance you do every day, then it's the perfect namesake for a band that's kept us company over nearly a half-century, refusing to fade let alone end.
+
+E Street may be "just a place," but that place has grown over the decades from a street corner to a nation. Often there's a party, sometimes a protest, occasionally a wake.
+
+But always, always, there's music.
+
+---
+
+Most fans were introduced to "The E Street Shuffle," when they first placed Bruce's second album on their turntable, but Bruce had written the song several months earlier and had been performing work-in-progress versions since the spring of 1973.
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/06/theestreetshuffle_early_lyrics.jpg.webp)
+
+The earliest live recording that broadly circulates is from Halloween night. By that time, *The Wild, The Innocent & The E Street Shuffle* was only days away from release, and the album's first track was regularly appearing in Bruce's set list, with roadie/saxophonist Albee Tellone reprising his studio part.
+
+Here's a rare recording of the original E Street Band performing "The E Street Shuffle," notable for what is perhaps Bruce's first recorded reference to his musicians as "E Street." It's clear that Bruce isn't referring to the entire band that way, though–just the horn players for that particular song–but perhaps the seed was already planted. (The E Street Band wouldn't perform under that name until May 1974.)
+
+{{< youtube xF78hFYM1Ng >}}
+
+Not long after the album debuted, Bruce premiered a new, slower arrangement for "The E Street Shuffle," liberally borrowing from Manfred Mann's "[Pretty Flamingo]({{< relref "2021-12-04-cover-me-pretty-flamingo.md" >}})" (which Bruce would eventually quote mid-song and then finally debut in late 1975).
+
+{{< youtube g_qN59YAwo0 >}}
+
+The "slow version" of "The E Street Shuffle" grew into an early-set set piece, often serving as a delivery vehicle for the legend/origin of Bruce and Clarence's friendship.
+
+{{< youtube 81QcctmsodI >}}
+
+*Hammersmith Odeon London '75* captures the "slow version" on video in wonderful quality, but unfortunately the story that night was a bit abridged.
+
+{{< youtube 1-dY01Ex7wc >}}
+
+That Hammersmith Odeon performance was one of the very last performances of the "slow version" of "The E Street Shuffle." In fact, within a month the song would disappear from Bruce's set list altogether for a quarter-century. It would finally resurface during the final stand of the Reunion Tour, appropriately celebrating the end of the band's rebirth with their namesake song.
+
+{{< youtube 3Rn9JwHtwWs >}}
+
+"The E Street Shuffle" made a few one-off appearances during the 2000s, just enough to reassure us that Bruce hadn't forgotten about it. Beginning with the Working on a Dream Tour in 2009, however, its outings became more frequent, until Bruce finally re-established it as a set list staple on the Wrecking Ball Tour in 2012.
+
+"The E Street Shuffle" proved especially well-suited for the expanded of E Street Band of the Wrecking Ball/High Hopes era, with the band's horn section and expanded percussion helping to capture the magic of the studio track on stage for the very first time.
+
+Here's one of the best performances from that tour, with The Roots guest-starring:
+
+{{< youtube 35vtIyFOjsY >}}
+
+In the spring of 2014, almost forty years to the day since the band took their name, the E Street Band was inducted into the Rock and Roll Hall of Fame. The surviving original players were all on hand, and when the modern E Street Band took the stage, Vini Lopez and David Sancious joined them in a one-time-only E Street union.
+
+The first song they played as members of the Rock and Roll Hall of Fame? The only song fit for the occasion.
+
+{{< videopress id=lBlztKb7 >}}
+
+**The E Street Shuffle**<br>
+**Recorded** June-September 1973<br>
+**Released:** *The Wild, The Innocent & The E Street Shuffle* (1973)<br>
+**First performed:** June 6, 1973 (Philadelphia, PA)<br>
+**Last performed:** September 1, 2023 (East Rutherford, NJ)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

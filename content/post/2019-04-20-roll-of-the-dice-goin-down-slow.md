@@ -1,0 +1,78 @@
+---
+aliases:
+- /roll-of-the-dice-goin-down-slow/
+- /9382/
+layout: post
+date: 2019-04-20T12:00:00
+lastmod: 2024-01-02T02:20:59
+title: "Roll of the Dice: Goin' Down Slow"
+slug: roll-of-the-dice-goin-down-slow
+author: Ken Rosen
+description: "In the early Steel Mill era, Bruce and the band closed their shows with a sexy band showcase called “Goin’ Down Slow.” Take a listen inside."
+tags:
+- "danny-federici"
+- "goin-down-slow"
+- "steel-mill"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/04/downslow.jpg.webp
+  post_id: 9382
+---
+During the early days of the Steel Mill era, Bruce and the band were known to close their shows with an extended band showcase called "Goin' Down Slow."
+
+Originally assumed by some to be the much-covered blues standard by the same name, a surviving bootleg recording reveals it to be an entirely new and original lyrical work (although the bluesy arrangement appears to be at least inspired by if not an homage to its namesake).
+
+Still, it's not the lyrics that make the song notable, nor frankly is it the band's overall performance–in this performance from The Matrix in San Francisco from January 13, 1970, they lack cohesion at times and struggle with tempo occasionally. But as young musicians, there's remarkable talent on display.
+
+In particular, pay attention to Danny Federici's keyboards; you won't have to wait long, as Danny is immediately up front and prominent in the mix, and he is an absolute force of nature here.
+
+{{< videopress id=sImCwidx >}}
+
+See what I mean? And Bruce isn't too shabby either, earning his early reputation as one of the fastest guitarists around, while Vinnie Roslin propels the song's sexy, bass-driven riff.
+
+And that riff is intentionally sexy, because "Goin' Down Slow" is about, well… exactly that.
+
+Bruce's point-of-view character finds himself unable to get out of bed and leave his lover, even though he knows he should:
+
+> *I feel you breathin' real low*<br>
+> *I feel your heart beatin', well a beatin' real slow*<br>
+> *Well I oughta be leavin', but mama you got it so I just can't get up and go*<br>
+
+But fair is fair. After all, he made sure that she didn't have the strength to get up and leave either:
+
+> *Well this makes us even, makes us even woman now that you know*<br>
+> *Well, I set the fire and you're the first to go*<br>
+> *It's getting higher and I'm gonna watch*<br>
+> *I watch it goin' down slow*<br>
+
+Yeah, he's saying what you think he is: "Goin' Down Slow" is the not-so-humble brag of a considerate lover.
+
+The second verse is the only thing that even approaches artful metaphor in the song, but even that is less about the woman he purports to describe and more a boast of how he's the only one who could satisfy her.
+
+> *I said woman, you made the thorns and projections*<br>
+> *And she comes with a long, long list of massive directions*<br>
+> *Any man is full of bloody dissections*<br>
+> *And she leaves behind a body, a long long list of human rejections*<br>
+
+Towards the end of the song, he seems to get caught up in his lover, but even then his descriptions are shallow:
+
+> *Well she's the best little woman I ever seen around*<br>
+> *Just the kind of little woman that puts'em down*<br>
+> *The finest little woman in the whole damn town, and the prettiest thing I've seen*<br>
+
+So yeah, it's best not to focus too much on the lyrics. Like I said at the top, "Goin' Down Slow's" role in life is to showcase the band, and even if they're not as tight here as they would later be, they all get a chance to shine, particularly in the jazzy extended "[Kitty's Back]({{< relref "2022-01-22-roll-of-the-dice-kittys-back.md" >}})"-ish interlude that kicks in at the seven-minute mark.
+
+When the song resumes after the interlude, the band never really recovers their original cool groove. The final minutes feel forced and the ending abrupt. But we know that the band continued to perform "Goin' Down Slow" as show closer at least through mid-1970, so we can assume that their performance became tighter and more natural over time.
+
+Unfortunately, though, this is the only known recording of Steel Mill performing the song. (An earlier recording exists from a 1969 Child performance, but it's nowhere near as clear and clean of a listen.)
+
+So we'll appreciate this recording for what it is: a remarkably clear and very listenable document of an important evolutionary step toward the someday E Street Band.
+
+**Goin' Down Slow**<br>
+**Never recorded**<br>
+**Never released**<br>
+**First performed:** September 20, 1969 (Richmond, VA)<br>
+**Last performed:** April 18, 1970 (Toms River, NJ)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

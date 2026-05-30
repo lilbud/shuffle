@@ -1,0 +1,85 @@
+---
+aliases:
+- /roll-of-the-dice-clouds/
+- /6806/
+layout: post
+date: 2019-01-05T13:00:53
+lastmod: 2021-06-07T12:27:04
+title: "Roll of the Dice: Clouds"
+slug: roll-of-the-dice-clouds
+author: Ken Rosen
+description: "“Clouds” is the first entry in Bruce’s legendary lost 1968 Notebook. Likely performed in his solo acoustic shows that year, “Clouds” is the lament of a Vietnam soldier clinging desperately to visions of home, love, and life."
+tags:
+- "1968-notebook"
+- "clouds"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/01/clouds.jpg.webp
+  post_id: 6806
+---
+It's time for another visit to eighteen-year-old Bruce Springsteen's [1968 Notebook](https://estreetshuffle.com/?s=notebook).
+
+The 1968 Notebook was unveiled at an auction in 2006. where it was snapped up for more than $57,000 by a lucky bidder with some very deep pockets. It contains some of Bruce's earliest songwriting exercises.
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/01/1968_lyricsnotebook.jpg.webp)
+
+While we don't have any music to pair with the lyrics, the lyrics themselves give us fascinating insight into the issues and themes that fascinated young Bruce.
+
+Today's entry is the very first song transcribed in that notebook, entitled simply "Clouds."
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/1968_lyricsnotebook-contentspage.jpg.webp)
+
+"Clouds" is very much of its time, an anti-war song from the point of view of a young soldier in Vietnam, trying desperately to hang on to his life, his love, and his sanity. He's on the battlefield, and the clouds above offer temporary refuge from the chaos below. They seduce him and endanger him at the same time. He's not sure why he's there or what he's fighting for, and he's beginning to doubt whether he'll ever know or make it back to his home and his sweetheart.
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/01/clouds_lyrics.jpg.webp)
+
+It can be a bit tough to decipher Bruce's handwritten lyrics above, so here they are transcribed below (thanks to the folks at springsteenlyrics.com — I've made a few small corrections, but they did all the hard work!)
+
+Keep in mind as you read them that Bruce was *eighteen* at the time–and that's at the time he copied the lyrics into the notebook. Because many of the songs were transcribed on the same date, it's extremely likely that the songs were written earlier, and that Bruce copied them into the notebook for safekeeping. Given the date of transcription (April 26, 1968), it's not at all out of the question that Bruce might have written the songs months earlier, perhaps even at seventeen.
+
+Regardless: he was young, and he still had a long way to go toward refining his craft. He's not very adventurous with metaphor, and the rhyme scheme of the verses are consistent (although whether intentional or not (I'm inclined to credit it), there's a clever almost rhyme between the third lines for the first two verses.)
+
+> *As my mind bends clouds into dreams that I like*<br>
+> *As the sun disappears into the night*<br>
+> *I look and you have gone*<br>
+> *Then I hear you calling to me in the distance*<br>
+> *Yet can't you see I'm resisting the whisperings of your mind*<br>
+
+> *And as the cry of war racks my brain*<br>
+> *I realize men don't love the same*<br>
+> *Maybe I'll make it to the summer rain*<br>
+> *Or maybe I'll lose my mind insane trying*<br>
+
+> *The paper flag flies high over the soldiers grave*<br>
+> *Let's see what mistake the young boy made*<br>
+> *Was his life really done*<br>
+> *In another land a flower drips in the morning dew*<br>
+> *It's been thousands of years since I've seen you, you know that it's true*<br>
+
+> *And as the cry of war racks my brain*<br>
+> *I realize men don't love the same*<br>
+> *Maybe I'll make it to the summer rain*<br>
+> *Or maybe I'll lose my mind insane trying*<br>
+
+> *I'm walking down by the banks of the river*<br>
+> *My heart is lonely, she flows by you to whisper*<br>
+> *Then I see you standing there*<br>
+> *The gypsy tells the future of a dying man*<br>
+> *Yet he'll never understand what he's dying for*<br>
+
+> *And as the cry of war racks my brain*<br>
+> *I realize men don't love the same*<br>
+> *Maybe I'll make it to the summer rain*<br>
+> *Or maybe I'll lose my mind insane trying*<br>
+
+Bruce is believed to have played "Clouds" during some of his acoustic shows in 1968, but we don't have any definitive recording or setlist to testify to it. Still, the fact that his solo shows started in May of that year–mere days after he transcribed this notebook–suggests that the songs in the notebook were complete enough to have been intended for performance.
+
+Perhaps someday a recording will surface and we'll find out for sure.
+
+**Clouds**<br>
+**Never recorded**<br>
+**First performed:** unknown<br>
+**Last performed:** unknown<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

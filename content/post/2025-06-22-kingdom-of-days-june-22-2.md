@@ -1,0 +1,142 @@
+---
+aliases:
+- /kingdom-of-days-june-22-2/
+- /57122/
+layout: post
+date: 2025-06-22T11:00:12
+lastmod: 2026-02-15T21:42:01
+title: "June 22"
+slug: kingdom-of-days-june-22-2
+author: Ken Rosen
+description: "The E Street Band welcomes David Sancious, Bruce says goodbye to his beard, and Bruce and the boys play Max Weinberg’s wedding. More highlights inside."
+tags:
+- "american-land"
+- "another-thin-line"
+- "brimingham"
+- "castiles"
+- "copenhagen"
+- "curt-ramm"
+- "david-sancious"
+- "denmark"
+- "devils-and-dust-tour"
+- "edwin-starr"
+- "gothenburg"
+- "madison-square-garden"
+- "manchester"
+- "max-weinberg"
+- "new-york-city"
+- "nijmegen"
+- "pink-cadillac"
+- "reunion-tour"
+- "rising-tour"
+- "river-tour-2016"
+- "secret-garden"
+- "seeger-sessions-tour"
+- "so-young-and-in-love"
+- "spirit-in-the-night"
+- "springsteen-on-broadway"
+- "steel-mill"
+- "sweden"
+- "the-netherlands"
+- "the-river"
+- "tunnel-of-love-tour"
+- "twist-and-shout"
+- "uk"
+- "wrecking-ball-tour"
+categories:
+- "kingdom-of-days"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/06/june-22nd-2024-barcelona-es-bruce-springsteen-and-the-e-street-band-review.jpg.webp
+  post_id: 57122
+---
+**1968:** The Castiles headline two shows at the Off Broad Street Coffee House in Red Bank, New Jersey.<br>
+
+**1969:** Child plays an under-the-radar show at Monmouth College in West Long Branch, New Jersey.<br>
+
+**1970:** Steel Mill headlines a show at the Clearwater Swim Club in Atlantic Highlands, New Jersey. The band plays to their largest crowd yet–about 4,000 people–and Garry Tallent's band Glory Road opens the show.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/1970-06-22.jpg.webp)
+
+**1973:** Bruce and his band gather at 914 Sound Studios in Blauvelt, New York to kick off recording sessions for what will become *The Wild, The Innocent, and The E Street Shuffle*. That evening, David Sancious makes his E Street Band debut at the band's gig at Fat City in Seaside Heights, New Jersey.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/06/1973-0622.jpg.webp)
+
+**1974:** Bruce and the E Street Band play two shows on their second of three consecutive nights at Le Garage on Long Beach Island.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/06/1974-0622.jpg.webp)
+
+**1976:** Bruce shaves his beard completely off. It hasn't been seen since.<br>
+
+**1981:** Bruce and the E Street Band play at Max Weinberg's wedding in East Orange, New Jersey.<br>
+
+{{< youtube BYSy8wMTC34 >}}
+
+**1988:** At Night Two at Villa Park in Birmingham, England, on the Tunnel of Love Tour, Edwin Starr drops by to perform "War" with the band.<br>
+
+{{< videopress id=BFpYsmqK >}}
+
+{{< youtube IWi4gO40EH0 >}}
+
+{{< youtube w7GBMX0rTEc >}}
+
+**2000:** The Reunion Tour's last stand reaches its halfway point on Night Five at Madison Square Garden. Surprises continue starting with the opener: the premiere of "Another Thin Line." Late in the set, lucky fans get the tour premiere of "Secret Garden" as well, plus a guest appearance by Soozie Tyrell on a beautiful arrangement of "The Ghost of Tom Joad."<br>
+
+{{< videopress id=qRFjgNwt >}}
+
+{{< youtube 0oSrbygepJ8 >}}
+
+**2003:** Night Two in Gothenburg on the Rising Tour.<br>
+
+[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLu8VBPtfGX1CvQqNk_hSrxz1tlmF6MKNa)
+
+**2005:** The Devils & Dust Tour heads north to Copenhagen, where Bruce tour premieres "Straight Time," "Spirit in the Night," and "Wild Billy's Circus Story."<br>
+
+[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLu8VBPtfGX1D-h5b2aQCFM2wJZ8n-7x-2)
+
+**2006:** Bruce opens with the debut of a new song at his Seeger Sessions show in Madison Square Garden: "American Land." This is the performance that is included on the *American Land* edition of *We Shall Overcome: The Seeger Sessions*.<br>
+
+{{< youtube tpeisHYbKdE >}}
+
+{{< videopress id=WbnXwnwr >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/06/2006-06-22.jpg.webp)
+
+**2010:** Bruce releases *London Calling: Live in Hyde Park*.<br>
+
+[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJ3gKh8Ty5pZMnACTqJThy_0Ge7B3hKft)
+
+**2012:** Bruce and the E Street Band continue the Wrecking Ball Tour's mini-leg through England with a show at Ethiad Stadium in Manchester, where Curt Ramm takes a header to the stage during his solo on "Twist and Shout," to the amazement and amusement of Bruce, who has trouble keeping his composure for the rest of the song.<br>
+
+{{< youtube cAVV77kbSyc >}}
+
+{{< youtube AXIMaw09zps >}}
+
+{{< youtube gpGjGE-FUjU >}}
+
+{{< youtube gU-b24q4zmw >}}
+
+**2013:** A rarity: Bruce and the E Street Band have an opening act when they play at Nijmegen in The Netherlands: Jamie N Commons and The Black Crowes kick off the night. Bruce opens his set with an acoustic "The Ghost of Tom Joad" and performs the entire *Darkness on the Edge of Town* album.<br>
+
+{{< youtube Ln8CSmYIgJI >}}
+
+{{< youtube mP84YtM3lfo >}}
+
+{{< youtube Y97eccXdw6c >}}
+
+**2016:** The River Tour starts a northern European swing with a show at Telia Parken in Copenhagen, where Bruce tour premieres "Rendezvous," "Blinded by the Light," [We Take Care]({{< relref "2020-12-25-roll-of-the-dice-we-take-care-of-our-own.md" >}}) [of Our Own]({{< relref "2020-12-25-roll-of-the-dice-we-take-care-of-our-own.md" >}})," and "Pink Cadillac."<br>
+
+{{< youtube mwlCGEQVK5w >}}
+
+{{< youtube -c4toZuJ0K8 >}}
+
+{{< youtube amGRRJVYmsw >}}
+
+{{< youtube Oc4uORxf-Ss >}}
+
+**2018:** *Springsteen on Broadway* continues its theatrical run at the Walter Kerr Theater in New York City.<br>
+
+**2024:** "Radio Nowhere" makes another appearance on Night Two in Barcelona, this time with Jay Weinberg sitting in on drums.<br>
+
+{{< youtube wN86Ftuj2Lc >}}
+
+{{< youtube lUZFlq5ghaA >}}

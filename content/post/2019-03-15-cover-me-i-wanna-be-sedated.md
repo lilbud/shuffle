@@ -1,0 +1,43 @@
+---
+aliases:
+- /cover-me-i-wanna-be-sedated/
+- /7883/
+layout: post
+date: 2019-03-15T12:00:00
+lastmod: 2024-01-02T02:10:25
+title: "Cover Me: I Wanna Be Sedated"
+slug: cover-me-i-wanna-be-sedated
+author: Ken Rosen
+description: "One time only: by request, Bruce and the E Street Band (and a raucous crowd sing-a-long) barrel their way through The Ramones’ “I Wanna Be Sedated.”"
+tags:
+- "i-wanna-be-sedated"
+- "the-ramones"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/03/sedated.jpg.webp
+  post_id: 7883
+---
+We’ll get to the Springsteen connection in a minute; for the moment, you’ll need to excuse me while I rock out to the greatest punk band ever. Turn up the volume and join me, won’t you?
+
+{{< youtube bm51ihfi1p4 >}}
+
+Whew. Okay, now we can proceed.
+
+“I Wanna Be Sedated” is one of those songs that will absolutely stop me in the tracks of whatever I was doing at the time so I can dance with abandon around the house singing “ba ba baba, baba ba baba…” Who doesn’t love to do that?
+
+Apparently Bruce does, because he didn’t hesitate to grab the sign request for The Ramones’ classic crowd-pleaser when a fan raised it at Bruce’s second show in Boston on the Working on a Dream Tour.
+
+After taking a moment or ten to work out the song with the band, they barrel-rolled through it, as loose and woolly as the song deserves. Take a listen:
+
+[https://estreetshuffle.com/wp-content/uploads/2019/03/2009-04-22-D1Track10-I-Wanna-Be-Sedated-online-audio-converter.com_.mp3](https://estreetshuffle.com/wp-content/uploads/2019/03/2009-04-22-D1Track10-I-Wanna-Be-Sedated-online-audio-converter.com_.mp3)
+{{< audio url="https://estreetshuffle.com/wp-content/uploads/2019/03/2009-04-22-D1Track10-I-Wanna-Be-Sedated-online-audio-converter.com_.mp3" >}}
+
+(Oh, and a fun fact about that brilliant video at the top of the post: that’s a very young Courtney Love playing the role of the bride.)
+
+A true one-off performance, that was–Bruce has never played “I Wanna Be Sedated” before or since.
+
+**I Wanna Be Sedated**<br>
+**First performed:** April 22, 2009 (Boston, MA)<br>
+**Last performed:** April 22, 2009 (Boston, MA)<br>

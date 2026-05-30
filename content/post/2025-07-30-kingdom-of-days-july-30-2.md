@@ -1,0 +1,135 @@
+---
+aliases:
+- /kingdom-of-days-july-30-2/
+- /57850/
+layout: post
+date: 2025-07-30T11:00:15
+lastmod: 2026-03-12T19:32:46
+title: "July 30"
+slug: kingdom-of-days-july-30-2
+author: Ken Rosen
+description: "On this date: Bruce releases The Rising, his first E Street Band album in 18 years. Watch the day’s festivities inside. Plus: the premiere of “All the Way Home” in 1992, reggae versions of “Born in the U.S.A.” and “My Hometown,” and more."
+tags:
+- "benidorm"
+- "born-in-the-usa"
+- "born-to-run-tour"
+- "bremen"
+- "detroit"
+- "east-rutherford"
+- "empty-sky"
+- "glory-days"
+- "independence-day"
+- "into-the-fire"
+- "jah-love"
+- "lonesome-day"
+- "my-hometown"
+- "nightline"
+- "one-love"
+- "people-get-ready"
+- "richfield"
+- "river-tour"
+- "rock-creek-park"
+- "roger-mcguinn"
+- "southside-johnny"
+- "spain"
+- "terry-magovern"
+- "the-rising"
+- "today-show"
+- "tunnel-of-love-tour"
+- "washington-dc"
+- "west-germany"
+- "working-on-a-dream-tour"
+- "world-tour-1992"
+categories:
+- "kingdom-of-days"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/rising.jpg.webp
+  post_id: 57850
+---
+**1974:** Bruce and the E Street Band co-headline with Roger McGuinn at The Troubadour in West Hollywood, a surprise gig that only became public three days prior. (Bruce doesn't actually take the stage until almost 2am, however, so this technically qualifies as an entry for July 31.)<br>
+
+**1975:** Bruce wraps up a three-night stand at the Carter Barron Amphitheater in Washington DC's Rock Creek Park, where he debuts his cover of The Drifters' "Up on the Roof."<br>
+
+{{< youtube eYu78f4lNvs >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/07/1975-0730.jpg.webp)
+
+**1981:** Southside Johnny guest-stars on "I Don't Want to Go Home" when Bruce and the E Street Band bring the River Tour to Richfield, Ohio for the second of two nights.<br>
+
+{{< videopress id=RwhE4R38 >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/1981-07-30.png.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/07/1981-0730.jpg.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/07/1984-0730.jpg.webp)
+
+**1984:** At the first of two nights in Detroit on the Born in the U.S.A. Tour, Bruce tour premieres "Independence Day" in a new arrangement. In attendance tonight: *Funky Winkerbean* cartoonist Tom Batiuk.<br>
+
+{{< videopress id=1Tbv8N9O >}}
+
+{{< youtube dLdutnQxZUI >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/07/1984-07-30a-scaled.jpg.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/07/1984-07-30b.jpg.webp)
+
+**1985:** Bruce and the band rehearse for the final leg of the Born in the U.S.A. Tour at the former home of Big Man's West in Red Bank.<br>
+
+**1987:** Bruce makes a guest appearance with Jah Love at Key Largo in Belmar, New Jersey, playing reggae versions of "Born in the U.S.A." and "My Hometown," along with covers of "One Love" and "People Get Ready."<br>
+
+{{< videopress id=r1cTI473 >}}
+
+{{< youtube xVV5FTnI4FM >}}
+
+**1988:** The Tunnel of Love Tour nears its end with this final German show in Bremen, where "Working on the Highway" makes its tour debut.<br>
+
+{{< videopress id=mpsQeIHo >}}
+
+**1992:** At Night Five of eleven at World Tour 1992's opening stand in the Meadowlands, Bruce performs "All the Way Home" for the first time, and "4th of July, Asbury Park (Sandy)" comes out as well, accompanied by only Bruce and Roy.<br>
+
+{{< youtube _FhpvZT3dks >}}
+
+**2002:** Finally! After 18 years, Bruce releases a new E Street Band album. *The Rising* is an instant success, the darling of music reviewers and critics, and the catalyst for a new era that lasts to this day, cementing the return of the E Street Band. To celebrate the occasion, Bruce and the band get up early to appear on NBC's *Today Show* for a mini-concert. Katie Couric interviews virtually the entire band (poor Garry!) before the show. Watch that fun interview below, followed by the songs performed that morning.<br>
+
+{{< youtube ar-qvX1F0t4 >}}
+
+{{< youtube -Nv6q-7zj-c >}}
+
+{{< youtube OiMBq3xASts >}}
+
+{{< youtube CBFOdcaPAI0 >}}
+
+That night, Bruce and the band play a public warm-up show, where "Paradise" debuts and "Cover Me" returns after a decade of absence. "Into the Fire" features a stunning introduction that features Clarence on bagpipes, but it will be gone when the tour begins in proper.
+
+{{< youtube YdsNXmNw1PI >}}
+
+{{< youtube 5Oh6eapJuPI >}}
+
+{{< videopress id=u6r6AnpC >}}
+
+Finally, ABC's *Nightline* airs Bruce's performance of "Empty Sky" recorded a few days earlier.
+
+{{< youtube -pgzJ7Iyg6Q >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/2002-07-30a.png.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/2002-07-30b.png.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/2002-07-30c.png.webp)
+
+**2007:** Bruce's close friend, personal assistant, and right-hand man Terry Magovern passes away at the age of 67. Terry's life and death will inspire Bruce to write "Terry's Song."<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/2007-07-30.png.webp)
+
+**2009:** A beautiful set list in Benidorm, Spain, on the Working on a Dream Tour, as "Janey, Don't You Lose Heart," "Girls in Their Summer Clothes," and "If I Should Fall Behind" receive their tour debuts and "Be True" gets a rare outing.<br>
+
+{{< youtube mZw8n91G2nY >}}
+
+{{< youtube Ye-LtocznFQ >}}
+
+{{< youtube TsAkWxv8AdA >}}
+
+{{< youtube G5AgJr1q0b4 >}}
+
+**2012:** As the Wrecking Ball Tour prepares to wrap up its European leg and return to America, *The New Yorker* publishes an extensive piece on Bruce and the E Street Band.<br>

@@ -1,0 +1,79 @@
+---
+aliases:
+- /roll-of-the-dice-lift-me-up/
+- /2181/
+layout: post
+date: 2018-05-20T12:00:56
+lastmod: 2024-01-01T23:06:18
+title: "Roll of the Dice: Lift Me Up"
+slug: roll-of-the-dice-lift-me-up
+author: Ken Rosen
+description: "“Lift Me Up” is a delicate, ethereal coda to Limbo, John Sayles’ brilliant film."
+tags:
+- "essential-bruce-springsteen"
+- "john-sayles"
+- "lift-me-up"
+- "limbo"
+- "video-anthology"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/05/liftmeup.jpg.webp
+  post_id: 2181
+---
+First off: If you haven't seen John Sayles' brilliant film *Limbo*, go find it and watch it.
+
+*Limbo* is a brilliant and challenging movie. I won't spoil it for you, but I'll argue that Bruce's song "Lift Me Up," which plays over the end credits of the film, has both everything and nothing to do with the film. It's a perfectly haunting melodic exit for an unsettling piece of visual art.
+
+That said, let's tackle "Lift Me Up" on its own.
+
+{{< youtube 71g3Wzgev8U >}}
+
+Bruce wrote "Lift Me Up" on request from *Limbo* director John Sayles and producer Maggie Renzi, who ran into Bruce at an airport and asked if he could provide a song for the end of the film–something that was simultaneously about healing and risk.
+
+Bruce had reportedly been working on a song for about three years that he thought might work. (Note: given that the film came out in 1999, that would make "Lift Me Up" a likely castoff from [*The Ghost of Tom Joad*]({{< relref "2023-06-03-album-companion-the-ghost-of-tom-joad.md" >}}).
+
+Bruce sings the entire song in a falsetto–something Bruce had experimented with before but never fully committed to–which amplifies the ethereal nature of the melody. Bruce also plays all instruments–guitar, bass, keyboards, percussion–making this track a truly solo effort.
+
+The lyrics are classic romantic Bruce: a pledge of and request for unconditional love, without any promise or prediction for what may come. Interestingly, it seems the object of the narrator's affection may already be promised to another:
+
+> *I don't need your answered prayers*<br>
+> *Or the chains your lover wears*<br>
+> *I don't need your rings of gold*<br>
+> *Or the secrets that you hold*<br>
+
+> *Lift me up, darling*<br>
+> *Lift me up and I'll fall with you lift me up*<br>
+> *Let your love lift me up*<br>
+
+The chains and rings may be metaphor, but they may also be literal–a wedding ring. Indeed, the second verse implies that the narrator doesn't care about the marital state of his love, so long as she doesn't abandon him:
+
+> *I don't need your sacred vow*<br>
+> *Or the promise tomorrow brings*<br>
+> *Veiled behind the morning clouds*<br>
+> *I'll take the fate the daylight brings*<br>
+
+The final verse has echoes of "[Countin' on a Miracle]({{< relref "2019-02-05-roll-of-the-dice-countin-on-a-miracle.md" >}})," with the narrator savoring every detail, every sensation, in case they never come again:
+
+> *Your skin, your hand upon my neck*<br>
+> *This skin, your fingers on my skin*<br>
+> *This kiss, this heartbeat, this breath*<br>
+> *This heart, this heart, this wilderness*<br>
+
+After a final chorus, the songs drifts leisurely into the sky, lifted by Bruce's wordless promise, with the fate of the song's central characters very much in… limbo.
+
+"Lift Me Up" is too delicate for a full band concert, but Bruce did perform it once–and only once–on his 2005 solo tour. Here's that performance, from Columbus, OH, July 31, 2005. It's so quiet and restrained that must have taken consider effort on both Bruce's and the audience's part to create a bubble for the song to live in.
+
+{{< youtube 8dJ7MLK8OeI >}}
+
+For an obscure track that few mainstream fans are aware exists, "Lift Me Up" is surprisingly easy to find: in addition to the soundtrack for *Limbo*, you can find it on *The Essential Bruce Springsteen*, playing over the end credits on the 2001 release of *The Complete Video Anthology* and on the official archive release for the Columbus 2005 show.
+
+But I still maintain that to appreciate the song fully, watch it in context with the film. Both are underappreciated gems.
+
+**Lift Me Up**<br>
+**Recorded** Oct 1998 – Jan 1999<br>
+**Released:** *Limbo (Music from the Motion Picture)* (1999), *The Essential Bruce Springsteen* (2003)<br>
+**First performed:** July 31, 2005 (Columbus, OH)<br>
+**Last performed:** July 31, 2005 (Columbus, OH)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

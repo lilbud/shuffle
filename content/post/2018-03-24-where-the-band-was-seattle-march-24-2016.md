@@ -1,0 +1,48 @@
+---
+aliases:
+- /where-the-band-was-seattle-march-24-2016/
+- /1151/
+layout: post
+date: 2018-03-24T13:00:19
+lastmod: 2021-12-12T04:27:35
+title: "Where the Band Was: Seattle, March 24, 2016"
+slug: where-the-band-was-seattle-march-24-2016
+author: Ken Rosen
+description: "The River (2016) Tour hits its inflection point with a long, spontaneous B-set."
+tags:
+- "adam-raised-a-cain"
+- "bobby-jean"
+- "eddie-vedder"
+- "fade-away"
+- "im-goin-down"
+- "river-2016-tour"
+- "seattle"
+categories:
+- "where-the-band-was"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/03/seattle.jpg.webp
+  post_id: 1151
+---
+There’s a point in every tour where Bruce loosens up, throws the setlist out the window, and transforms the entire concert into a non-stop, unpredictable jet engine of a show.
+
+On the River Tour (2016 edition), I expected it to happen in Philly, but I was wrong. I thought for sure it would happen in Los Angeles, but despite a high-octane three-night stand, those shows were still tightly scripted. I knew it wouldn’t happen in Portland. And after the short (by Bruce’s standards) and predictable show in Portland two days prior, I really wasn’t expecting much out of Seattle. And going into the show, I was at peace with that.
+
+At the time, I’d planned for the Seattle show to be my last of the tour (the extension legs hadn’t yet been announced). Since Seattle is my adopted home town, I opted for a suite at KeyArena, where I could enjoy the show in comfort with great friends, and all I really wanted was one last chance to take in those gorgeous River songs.
+
+(Sharing a pro tip: I’m sure mileage varies, but at many arenas (KeyArena included), the per-person cost for a suite is surprisingly only a small premium above the price of a standard ticket. When I can pull together a group of 16, I often throw in for a suite. It’s certainly not the high-adrenaline pit experience, but the view is excellent and unobstructed, the seating is comfy, and it’s nice to have a private bar and restroom.)
+
+So I was completely unprepared for what I witnessed that night: a 3 hour and 45 minute barnburner featuring a second set comprised almost *entirely* of sign requests (Bruce had hardly done any up until this point on the tour, and none for the previous 5 shows before Seattle); a “[Bobby Jean]({{< relref "1984-01-10-roll-of-the-dice-bobby-jean.md" >}})” guest-spot by Eddie Vedder; lots of ad-libbed and improvised takes on tour standards (including a hilarious almost-train-wreck during “[Crush on You]({{< relref "2018-02-02-roll-of-the-dice-crush-on-you.md" >}})” that seemed to be the inflection point of the show but sadly wasn’t captured on youtube), a first-time-for-me performance of “[I’m Goin’ Down]({{< relref "1984-01-11-roll-of-the-dice-im-goin-down.md" >}}),” a stunning duet of “[Tougher Than the Rest]({{< relref "1987-01-02-roll-of-the-dice-tougher-than-the-rest.md" >}}/),” and a final “[Shout]({{< relref "2019-09-12-cover-me-shout.md" >}})” that seemed like it would never end.
+
+It was, by far, the best show of the tour to date (IMO), in the place I least expected to find it. This was my ninth show of tour, and I thought it would be last… but after that show, I just couldn’t stop.
+
+I had to do one more.
+
+Or maybe seven.
+
+{{< youtube xJPFIEwAhrs >}}
+
+{{< youtube YICpKuKKl34 >}}
+
+{{< youtube rIq7IEarilU >}}
+
+{{< youtube TuyXZLdfSCQ >}}

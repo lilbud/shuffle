@@ -1,0 +1,54 @@
+---
+aliases:
+- /matr-bruce-springsteen-and-pete-seeger-hobos-lullaby/
+- /20113/
+layout: post
+date: 2020-10-15T12:00:00
+lastmod: 2020-10-14T21:02:36
+title: "MatR: Bruce Springsteen and Pete Seeger: Hobo's Lullaby"
+slug: matr-bruce-springsteen-and-pete-seeger-hobos-lullaby
+author: Ken Rosen
+description: "One of the rare outtakes from the Seeger Sessions, “Hobo’s Lullaby” features Bruce and Pete Seeger in one of their few studio recordings together."
+tags:
+- "arlo-guthrie"
+- "give-us-your-poor"
+- "hobos-lullaby"
+- "pete-seeger"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/10/yourpoor.jpg.webp
+  post_id: 20113
+---
+There aren't a lot of outtakes floating around from Bruce's original Seeger Sessions, but there are a couple hiding in plain sight... if you know where to look for them.
+
+We shone a spotlight on one of them ("[If I Had a Hammer]({{< relref "2019-10-07-cover-me-if-i-had-a-hammer.md" >}})") about a year ago; now let's take a look at another.
+
+Like many of the songs identified with Pete Seeger, "Hobo's Lullaby" dates back a lot further. Goebel Reeves recorded it and released it in the 1930s in his trademark yodeling style.
+
+{{< youtube Dwfwg1QEvx8 >}}
+
+It's been covered many times over the years, famously by Woody Guthrie (and again by his son Arlo), Joan Baez, Emmylou Harris, and of course Pete Seeger.
+
+{{< youtube MABqVdQStIw >}}
+
+Bruce covered it too, at the original gathering of Seeger Sessions musicians on November 2, 1997. Six songs were recorded that day, but only three were released.
+
+"Hobo's Lullaby" was one of the three recordings held back from the album that was released almost a decade later. ("Pretty Boy Floyd" and "I Come and Stand at Every Door" were the other two.)
+
+When Bruce was asked to contribute a recording to the 2007 benefit compilation *Give Us Your Poor*, Bruce turned the recording into a duet by having Seeger record his vocal and banjo overdubs from his own cabin on the 4th of July, 2006.
+
+The resulting track was released to very little notice, and that's a shame because it's a beautiful, lilting track.
+
+{{< youtube FbiiRUSdUyg >}}
+
+Bruce and Pete recorded "Hobo's Lullaby" from different locations, but they did get to perform it together on the same stage once: on September 29, 1996 (before Bruce even recorded his original track) at a Woody Guthrie tribute concert in Cleveland.
+
+However, that lone live performance wasn't a duet; Bruce and Pete were joined by Joe Ely, The Indigo Girls, Ani DiFranco, Arlo Guthrie, and others, so that very rare studio recording (it doesn't stream on the major services, and the CD itself is out of print) is our only chance to hear Bruce and Pete perform "Hobo's Lullaby" together.
+
+**Hobo's Lullaby**<br>
+**Recorded:** November 2, 1997 – July 4, 2008<br>
+**Released:** *Give US Your Poor* (2007)<br>
+**First performed:** September 29, 1996 (Cleveland, OH)<br>
+**Last performed:** September 29, 1996 (Cleveland, OH)<br>

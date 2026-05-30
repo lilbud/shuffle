@@ -1,0 +1,36 @@
+---
+aliases:
+- /cover-me-jason-isbell-and-amanda-shires-born-in-the-u-s-a/
+- /33817/
+layout: post
+date: 2022-04-10T12:00:00
+lastmod: 2022-04-10T13:14:12
+title: "Cover Me, Jason Isbell and Amanda Shires: Born in the U.S.A."
+slug: cover-me-jason-isbell-and-amanda-shires-born-in-the-u-s-a
+author: Ken Rosen
+description: "Jason Isbell and Amanda Shires kicked off an alt-country reimagining of Bruce’s Born in the U.S.A. album with their stunning cover of the title track."
+tags:
+- "amanda-shires"
+- "born-in-the-u-s-a"
+- "jason-isbell"
+categories:
+- "cover-me"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/04/isbell.jpg.webp
+  post_id: 33817
+---
+Today's *Cover Me* entry has literally been on my "To Blog" list from Day One.
+
+So why haven't I featured it before now? I guess because it's so darn good that I assumed everyone already knew it.
+
+But I had the privilege of catching Jason Isbell and Amanda Shires in an acoustic show in New Jersey this week, and it brought their remarkable cover of "[Born in the U.S.A.]({{< relref "1984-01-03-roll-of-the-dice-born-in-the-u-s-a.md" >}})" back to the top of my mind.
+
+{{< youtube 5AEqTSwtmms >}}
+
+Jason and Amanda's cover is the lead track on a 2014 alt-country reimagining of Bruce's landmark album, entitled *Dead Man's Town*. If you ever wondered what *Born in the U.S.A.* would have sounded like if it had been given the *Nebraska* treatment on its original release, this album is for you.
+
+As for the title track, Jason Isbell told *Rolling Stone*, "'Born in the U.S.A.' is one of my favorite songs of Springsteen's, making it one of my favorites ever. I love that the song paints a picture of struggle in the face of the American dream, and the irony in the chorus is delivered with such force that it nearly transcends irony altogether."
+
+Shires agreed: "Because I write songs and play rock & roll shows, Springsteen is obviously a hero of mine. 'Born in the U.S.A.' is one of my favorites because so many people have seemingly misunderstood the lyrical content and the song's overall tone. When you listen to the demo, the dark, minor key arrangement makes it clear that this is not strictly a song of celebration. We wanted to stay true to that version."
+
+They did stay true. Their version is absolutely haunting, reflecting Bruce's lyrics in a way that makes the song's meaning unmistakable to even the most casual listener.

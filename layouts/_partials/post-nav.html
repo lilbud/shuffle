@@ -1,0 +1,23 @@
+<div class="card post-navigation mb-4.5">
+  <div class="row d-flex">
+    {{ $pages := .CurrentSection.Pages.ByWeight }}
+
+    {{ with $pages.Prev . }}
+      <div class="col pe-4.5">
+        <a class="text-decoration-none" href="{{ .RelPermalink }}">
+          <div class="meta-nav text-purple">PREV</div>
+          {{ .LinkTitle }}
+        </a>
+      </div>
+    {{ end }}
+    <div class="vr p-0 col-1"></div>
+    {{ with $pages.Next . }}
+      <div class="col ps-4.5">
+        <a class="text-decoration-none" href="{{ .RelPermalink }}">
+          <div class="meta-nav text-purple">NEXT</div>
+          {{ .LinkTitle }}
+        </a>
+      </div>
+    {{ end }}
+  </div>
+</div>

@@ -1,0 +1,15 @@
+{{- with $id := or (.Get "id") (.Get 0) }}
+  <div class="jetpack-video-wrapper">
+    <div class="responsive-video-container">
+      <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
+        <iframe
+          src="https://videopress.com/embed/{{ $id }}?hd=1&amp;cover=1&amp;loop=0&amp;autoPlay=0&amp;permalink=1&amp;muted=0&amp;controls=1&amp;playsinline=0&amp;useAverageColor=0&amp;preloadContent=metadata"
+          title="Videopress Video Player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+{{ end }}

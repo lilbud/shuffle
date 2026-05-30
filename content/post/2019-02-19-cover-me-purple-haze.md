@@ -1,0 +1,44 @@
+---
+aliases:
+- /cover-me-purple-haze/
+- /7533/
+layout: post
+date: 2019-02-19T13:00:51
+lastmod: 2021-12-16T03:55:00
+title: "Cover Me: Purple Haze"
+slug: cover-me-purple-haze
+author: Ken Rosen
+description: "Less than three months after it exploded onto the American rock scene, Bruce’s high school band opened their show with a passionate cover of Jimi Hendrix’s “Purple Haze.” Listen to a 17-year-old Bruce Springsteen tear it up inside."
+tags:
+- "earth"
+- "jimi-hendrix-experience"
+- "purple-haze"
+- "the-castiles"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/02/PurpleHazeUK.jpg.webp
+  post_id: 7533
+---
+You can name that tune in one note.
+
+“Purple Haze” was a landmark in psychedelic rock, exploding onto the music scene immediately upon its release in 1967. It would influence would-be guitar heroes worldwide, and Rolling Stone would anoint it the second greatest guitar song of all time and rank it #17 on the Greatest Songs (period) of All Time.
+
+{{< youtube WGoDaYjdfSg >}}
+
+And although it never reached higher than #65 on the Billboard Hot 100 chart, “Purple Haze” clearly and immediately influenced Bruce.
+
+How do we know? Because less than three months after its debut in the United States, The Castiles (Bruce’s high school band) were already covering it in concert.
+
+Here they are–“the band of the year”–opening with it at The Left Foot in Freehold, New Jersey on September 16, 1967. When you listen to Bruce’s remarkable performance on vocals and lead guitar, keep in mind: He was still a week shy of his eighteenth birthday.
+
+{{< youtube qbF_Vh6QkKY >}}
+
+Although we have reason (via a preserved but undated setlist) to believe Bruce played it at least through his Earth era in 1968, this is the only known recording of him performing it.
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/02/earth-sl-bs.jpg.webp)
+
+**Purple Haze**<br>
+**First performed:** September 16, 1967 (Freehold, NJ)<br>
+**Last performed:** September 16, 1967 (Freehold, NJ)<br>

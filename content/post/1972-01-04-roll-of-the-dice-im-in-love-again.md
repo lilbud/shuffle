@@ -1,0 +1,79 @@
+---
+aliases:
+- /roll-of-the-dice-im-in-love-again/
+- /18395/
+layout: post
+date: 1972-01-04T19:00:00
+lastmod: 2026-05-10T16:04:51
+title: "I'm in Love Again"
+slug: roll-of-the-dice-im-in-love-again
+author: Ken Rosen
+description: "Welcome summer with Bruce’s tribute to 1960s girl groups, the wonderfully light “I’m in Love Again.”"
+tags:
+- "im-in-love-again"
+- "the-bruce-springsteen-band"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/05/loveagain.jpg.webp
+  post_id: 18395
+---
+Two Bruce Springsteen Band songs in one week? You bet: it's Memorial Day weekend, and I'm feeling summer coming on. That means it's time to break out my BSB bootlegs, crank up the volume, and welcome the season.
+
+I love those Bruce Springsteen Band shows–they're warm and soulful, cool and brassy, and at times as close to pop as Bruce ever got. I love playing them on a warm weekend afternoon.
+
+Earlier this week, we listened to "Natural Magic," Bruce's Van Morrison tribute. Today, we check out Bruce's hat tip to The Crystals, "I'm in Love Again." No further introduction needed–this song is as light as a feather. Let's take a listen:
+
+{{< videopress id=mEy5mzkR >}}
+
+While Bruce's lyrics here don't require any deep analysis, there are at least three things going on in "I'm in Love Again" that are worth mentioning.
+
+Let's start with the obvious: That's not Bruce singing.
+
+In the summer of 1971, the Bruce Springsteen Band was a nine-piece outfit. The core band included Bruce, Steve Van Zandt, Garry Tallent, David Sancious, and Vini Lopez. If Danny and Clarence had been in the mix, we could have called it a prototypical E Street Band.
+
+But wait, there's more: a horn section (Harvey Cherlin on trumpet and Bobby Feigenbaum on sax) and Barbara Dinkins and Delores Holmes on background vocals. Sometimes Carl "Tinker" West made it an even ten by sitting in on congas. It might be fairer to compare the Bruce Springsteen Band to the *Wrecking Ball*-era E Street Band.
+
+The late Dee Holmes (she passed away in 2010) was more than a backing vocalist though. An accomplished gospel singer and staple of the Jersey Shore music scene, Holmes shared the stage with Bruce as recently as 2008 and appeared with him on television when Bruce performed "My City of Ruins" shortly after September 11, 2001. (That's her standing in the middle of the background singers.)
+
+{{< youtube UpUv6ptY8xw >}}
+
+Holmes had a tremendous voice, so upon occasion she would step forward and take the lead vocal for The Bruce Springsteen Band, which gave Bruce a chance to write lyrics for a female singer.
+
+Which brings us to the second thing we notice: Bruce is obviously paying tribute with "I'm in Love Again" to the girl groups of the 1960s. The similarities in theme, structure, and lyrics to The Crystals' "Then He Kissed Me" (which Bruce would cover frequently in his early E Street Band years) are impossible to miss.
+
+> *I met him at a party on a lonely Saturday*<br>
+> *I listened to him talking and I liked the things he had to say*<br>
+> *He invited me up to see him, and I knew right from the start*<br>
+> *No use trying to fool myself, I'm in love again, I'm in love again*<br>
+> *No use being cruel to myself, its a hard enough world*<br>
+> *And I ain't no schoolgirl, I know it's a sin*<br>
+> *Cause I'm in love again*<br>
+
+> *His name is Joe and he talks real low, and he dance so good*<br>
+> *He looks so fine and I know he's mine like I knew he would*<br>
+> *He smiles so sweet when he holds my hand, he's my man*<br>
+> *No use trying to fool myself, I'm in love again, I'm in love again*<br>
+> *No use being cruel to myself, its a hard enough world*<br>
+> *And I ain't no schoolgirl, I know it's a sin*<br>
+> *Cause I'm in love again*<br>
+
+> *He sees me each and every day, and loves me each and every night*<br>
+> *When we go out to a show, he puts his arm around me and holds me real tight*<br>
+> *And lets me know everything's alright, everything's alright, everything's alright*<br>
+
+And finally, thing we notice #3: Bruce is absolutely smoking on guitar.
+
+In his early years, Bruce earned a reputation as the fastest guitar on the Jersey Shore, and it's during his Bruce Springsteen Band period that you can really hear why. His solos during "I'm in Love Again" sound both impressive and effortless.
+
+The combination of pop trifle, powerful guest vocals, bright brass, and a hotshot lead guitar add up to a terrific and unusual entry in Bruce's catalog that deserves greater (or any) recognition.
+
+Bring on summer!
+
+**I'm in Love Again**<br>
+**Never recorded**
+**Never released**
+**First performed:** July 23, 1971 (New York City, NY)<br>
+**Last performed:** July 29, 1971 (South Amboy, NJ)<br>
+
+© May 23, 2020

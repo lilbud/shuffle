@@ -1,0 +1,72 @@
+---
+aliases:
+- /roll-of-the-dice-life-itself/
+- /1278/
+layout: post
+date: 2018-03-26T12:00:56
+lastmod: 2019-11-24T18:39:55
+title: "Roll of the Dice: Life Itself"
+slug: roll-of-the-dice-life-itself
+author: Ken Rosen
+description: "“Life Itself” bridges the themes of Magic and Working on a Dream–a neat trick in itself."
+tags:
+- "life-itself"
+- "magic"
+- "working-on-a-dream"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/03/lifeitself_sin.jpg.webp
+  post_id: 1278
+---
+Little known fact: "Life Itself" was actually released ahead of Bruce's *Working on a Dream* album, along with the video below. "[Working on a Dream]({{< relref "2019-07-04-roll-of-the-dice-working-on-a-dream.md" >}})" (the single) and "[My Lucky Day]({{< relref "2019-09-02-roll-of-the-dice-my-lucky-day.md" >}})" also received the pre-release treatment, and both garnered much more attention than "Life Itself."
+
+That's too bad, because "Life Itself" is clearly the most complex and mature song of the three, and it deserved more airplay than it received.
+
+{{< youtube Pk8KPdWgAJY >}}
+
+At first listen, "Life Itself" plays like a straight Springsteen love song: Boy meets troubled girl and falls hard:
+
+> *We met down in the valley, where the wine of love and destruction flowed*<br>
+> *There in that curve of darkness where flowers of temptation grow*<br>
+> *I left the rest for the others; it was you and nothing else*<br>
+> *You felt so good to me baby, good as life itself*<br>
+
+> *I knew you were in trouble, anyone could tell*<br>
+> *You carried your little black book from which all your secrets fell*<br>
+> *You squandered all your riches, your love, your beauty and your wealth*<br>
+> *Like you had no further use for life itself*<br>
+
+> *You were life itself, rushing over me*<br>
+> *Life itself, the wind in black elms*<br>
+> *Life itself, in your heart and in your eyes*<br>
+> *I can't make it without you*<br>
+
+But the key to "Life Itself" is the third verse–it taps into the unifying theme of *Working on a Dream:* the aging process and coming to grips with it; the feeling of life accelerating and the gradual acclimation to loss.
+
+> *Why do the things that we treasure most slip away in time*<br>
+> *Till to the music we grow deaf and to God's beauty blind*<br>
+> *Why do the things that connect us slowly pull us apart*<br>
+> *Till we fall away in our own darkness, stranger to our own hearts*<br>
+
+When I sat down to write this post, I re-watched the official video above. I'm struck now as I was at first viewing by the images Bruce chose to show at key moments of the song: himself with Patti was an obvious choice. But a clip of Bruce and Stevie at the mic make it clear that Bruce didn't write this song purely about romantic love. And the image of the anonymous old man during the instrumental bridge telegraphs the emergence of the song's heart in verse three.
+
+But today I was struck by an image I'd overlooked before: around the 2:40 mark, at the key line:
+
+> *Why do the things that connect us slowly pull us apart*<br>
+> *Till we fall away in our own darkness, stranger to our own hearts*<br>
+
+…there's an image of an unknown older man, with an out-of-focus American flag waving in the background. I never noticed the flag before, but today I did–and I heard that line in a new and different way.
+
+And now I can hear the entire song through that lens as well. Did Bruce intend a double meaning? Is there a sly political subtext here? I think so: Bruce wrote and recorded a demo of "Life Itself" during the production of *Magic* , and that line seems very much in keeping with what Bruce wrote and sang about on that album.
+
+And very much relevant today.
+
+We're still waiting to hear "Life Itself" performed live; Bruce has yet to premiere it. But if we ever get that long-rumored solo tour after his Broadway run is finished, I nominate it for a setlist staple–I suspect it'll still be relevant by then.
+
+**Life Itself**<br>
+**Recorded** 2007-2008<br>
+**Released:** "Life Itself" (single) (2008); *Working on a Dream* (2009)<br>
+**Never Performed**<br>
+
+Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!

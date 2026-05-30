@@ -1,0 +1,87 @@
+---
+aliases:
+- /kingdom-of-days-january-26-2/
+- /55809/
+layout: post
+date: 2025-01-26T12:00:02
+lastmod: 2025-11-15T20:59:50
+title: "January 26"
+slug: kingdom-of-days-january-26-2
+author: Ken Rosen
+description: "On this date: Tom Morello joins the E Street Band, Bruce plays South Africa for the first time, the United Steelworkers honor Bruce, and much more."
+tags:
+- "born-in-the-usa-tour"
+- "cape-town"
+- "castiles"
+- "chicago"
+- "dallas"
+- "free-nelson-mandela"
+- "ghost-of-tom-joad-tour"
+- "high-hopes-tour"
+- "norfolk"
+- "river-tour"
+- "south-africa"
+- "south-bend"
+- "springsteen-on-broadway"
+- "syracuse"
+- "tom-morello"
+categories:
+- "kingdom-of-days"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/01/72x800-jo-lopez-capetown-_surfs-up.bruce-capetown-jo-lopez-jan-25-20147E1A6843.jpg.webp
+  post_id: 55809
+---
+**1968:** The Castiles (Bruce’s first band) play a gig at The Left Foot in Bruce’s hometown of Freehold.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/01/1968-0126.jpg.webp)
+
+**1973:** Bruce and the band continue their five-night stint at The Quiet Knight in Chicago, opening for The Persuasions.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/01/ad27.jpg.webp)
+
+**1974:** Bruce and the band play a sold-out show at Chrysler Hall in Norfolk, Virginia.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/01/1974-0126.jpg.webp)
+
+**1981:** On the River Tour, the E Street Band makes a stop at the University of Notre Dame. In the second set, Bruce pulls out back-to-back tour premieres: “[Double Shot (of My Baby’s Love)]({{< relref "2022-04-14-matr-bruce-springsteen-and-the-swingin-medallions-double-shot-of-my-babys-love.md" >}})” (after teaching the lyrics to the band during intermission) and “[Louie Louie]({{< relref "2020-03-20-cover-me-louie-louie.md" >}}).”<br>
+
+{{< videopress id=1N1myPz6 >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/01/1981-01-26.jpg.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/01/1981-01-26b.png.webp)
+
+**1985:** During intermission at the Carrier Dome in Syracuse, the United Steelworkers of America recognize and honor Bruce’s contributions to food banks along the *Born in the U.S.A.* Tour.<br>
+
+{{< videopress id=85FTtPOe >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/01/1985-01-26a.jpg.webp)
+
+**1996:** Bruce plays solo at the Bronco Bowl in Dallas, debuting “[State Trooper]({{< relref "2019-12-22-roll-of-the-dice-state-trooper.md" >}})” for the first time on the Ghost of Tom Joad Tour.<br>
+
+{{< videopress id=NFPZTvFe >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/01/1996-01-26.png.webp)
+
+**2009:** Bruce makes a guest DJ appearance on E Street Radio, spinning some of his favorite songs.<br>
+
+[https://estreetshuffle.com/wp-content/uploads/2025/01/02-DJ-Bruce-on-SiriusXM-01-2009-episode-2.mp3](https://estreetshuffle.com/wp-content/uploads/2025/01/02-DJ-Bruce-on-SiriusXM-01-2009-episode-2.mp3)
+{{< audio url="https://estreetshuffle.com/wp-content/uploads/2025/01/02-DJ-Bruce-on-SiriusXM-01-2009-episode-2.mp3" >}}
+
+**2014:** The *High Hopes* Tour kicks off in Cape Town South Africa, with the live debut of “[Free Nelson Mandela]({{< relref "2018-07-10-cover-me-free-nelson-mandela.md" >}})” and the concert premieres of “[Heaven’s Wall.]({{< relref "2020-02-02-roll-of-the-dice-heavens-wall.md" >}})” Tom Morello joins the E Street Band for this show and will remain a touring band member throughout the entire tour. (Photo credit: Jo Lopez)<br>
+
+{{< youtube FOCnZ6xwxTI >}}
+
+{{< youtube s1MJtrNTQgo >}}
+
+{{< youtube -GZ-Vbr01CI >}}
+
+{{< youtube vckWpLAFGCA >}}
+
+{{< youtube W0Qg9Lu3Mxg >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/01/Chicago_Tribune_2014_01_27_Page_4_2.jpg.webp)
+
+**2018:** *Springsteen on Broadway* continues its theatrical run at the Walter Kerr Theater in New York City.<br>
+
+**2023:** Bruce and the E Street Band rehearse for their upcoming world tour at Cure Insurance Arena in Trenton.<br>

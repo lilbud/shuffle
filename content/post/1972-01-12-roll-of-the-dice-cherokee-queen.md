@@ -1,0 +1,83 @@
+---
+aliases:
+- /roll-of-the-dice-cherokee-queen/
+- /27718/
+layout: post
+date: 1972-01-12T19:00:00
+lastmod: 2026-05-10T16:28:50
+title: "Cherokee Queen"
+slug: roll-of-the-dice-cherokee-queen
+author: Ken Rosen
+description: "Despite some insensitive lyrics to modern ears, “Cherokee Queen” is a catchy and poppy–it’s no wonder that Mike Appel tried to keep it for himself."
+tags:
+- "cherokee-queen"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/cherokee.jpg.webp
+  post_id: 27718
+---
+It's a well-known story: When Bruce Springsteen finally hit the big time with *Born to Run*, the inequity built into his contracts with agent Mike Appel became clear. A ten-month lawsuit over control of Bruce's publishing rights ensued, with Bruce legally prohibited from recording in the studio until it was resolved.
+
+Ultimately, Bruce paid Appel what amounted to a hefty severance fee and won back control of his entire catalog, to date and ongoing.
+
+His entire catalog, that is, except for a half-dozen songs that Appel wanted to keep for himself.
+
+"Thundercrack" was one of those songs–an early showstopper that Bruce would release on *Tracks* in 1998. "Song for Orphans" was another; Bruce wouldn't release that one until 2020.
+
+"Cherokee Queen" was a third.
+
+{{< youtube jGPDXzVkOhQ >}}
+
+"Cherokee Queen" remains unreleased (and presumably unrecorded) to this day. We only know it from surviving bootleg recordings from the Bruce Springsteen Band era, and it's likely to stay that way, thanks to some cringeworthy 50-year-old lyrics that land uncomfortably on modern ears.
+
+> *Ah she's a Cherokee queen*<br>
+> *Yeah prettiest thing I have ever seen*<br>
+> *She's an Oklahoma lady*<br>
+> *And she drives me crazy*<br>
+> *I don't know what it is about her*<br>
+> *But I just can't live without her*<br>
+> *She's got me in a trance sir*<br>
+> *In her heart she's a dancer*<br>
+> *Like the wind she silently comes*<br>
+> *The melody she sweetly hums*<br>
+> *She's got the words to all my songs*<br>
+> *She sang to me all night long*<br>
+
+> *She goes, "Daddy sing me a cradle song*<br>
+> *Like you did a long time ago*<br>
+> *Daddy sing me a silly song*<br>
+> *Won't you rock my crazy bones"*<br>
+> *"Daddy sing me a cradle song*<br>
+> *Like you did a long time ago*<br>
+> *Daddy sing me a silly song*<br>
+> *Won't you rock my crazy bones"*<br>
+
+> *She strayed off her reservation*<br>
+> *Oh and into my arms*<br>
+> *Bringing bad legislation*<br>
+> *With her Indian charms*<br>
+> *I don't know what it is she does sir*<br>
+> *That make me wanna love her*<br>
+> *It's that crazy way of smiling*<br>
+> *Oh it just drives the boys wild*<br>
+> *Reminds me of one of my high school haunts*<br>
+> *She knows what I need and she knows what I want*<br>
+> *She's got the words to all our songs*<br>
+> *And she sang to me all night long*<br>
+
+Yeah… we won't unpack these particular lyrics.
+
+It's too bad, though, because if not for Bruce's insensitive lyrics, "Cherokee Queen" could have been one of his earliest contenders for a radio hit. It's certainly one of his most ear-friendly and catchy early songs, with David Sancious a particular standout.
+
+Bruce seems to have belatedly recognized its potential, too: in early 1983, he bought the rights to it back from Appel, and on May 31st he registered it with the U.S. Copyright Office. "Cherokee Queen" belonged to Bruce again, but to date that copyright remains unutilized.
+
+Well, mostly unutilized. There actually is a commercially available studio track of "Cherokee Queen" available–it's just not Bruce performing it. We'll take a listen to it later this month.
+
+**Cherokee Queen**<br>
+**Never recorded**<br>
+**Never released**<br>
+**First performed:** July 1971 (South Amboy, NJ)<br>
+**Last performed:** October 23, 1971 (Richmond, VA)<br>
+
+© February 12, 2022

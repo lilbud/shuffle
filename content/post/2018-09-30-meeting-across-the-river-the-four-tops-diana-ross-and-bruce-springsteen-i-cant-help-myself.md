@@ -1,0 +1,38 @@
+---
+aliases:
+- /meeting-across-the-river-the-four-tops-diana-ross-and-bruce-springsteen-i-cant-help-myself/
+- /4619/
+layout: post
+date: 2018-09-30T12:00:40
+lastmod: 2020-12-04T00:57:39
+title: "Meeting Across the River: The Four Tops, Diana Ross, and Bruce Springsteen, I Can't Help Myself"
+slug: meeting-across-the-river-the-four-tops-diana-ross-and-bruce-springsteen-i-cant-help-myself
+author: Ken Rosen
+description: "Bruce joined The Four Tops and Diana Ross at the 1990 Rock and Roll Hall of Fame induction ceremonies for the Tops’ “I Can’t Help Myself.” (I think–can’t actually pick him out. But give it try.)"
+tags:
+- "diana-ross"
+- "i-cant-help-myself-sugar-pie-honey-bunch"
+- "the-four-tops"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/09/The-Four-Tops-I-Cant-Help-Myself-1533318023-640x636.jpg.webp
+  post_id: 4619
+---
+Another one for the completists (I promise I’ll get back to Bruce’s catalog shortly).
+
+We’ll have to take Brucebase’s word on it that Bruce supplied backing vocals and guitar when The Four Tops and Diana Ross performed the Four Tops’ hit “I Can’t Help Myself” at the Rock and Roll Hall of Fame induction ceremony back in 1990.
+
+Darned if I can pick him out–the camera-person must have been belt level in front of the stage the whole time.
+
+{{< youtube 0FObg9Wu_EM >}}
+
+The original, of course, was a huge hit, reaching the top of both the R&B and Hot 100 charts in 1965 and holding the #2 spot on the year-end chart. It’s one of Motown’s signature songs.
+
+{{< youtube s3bksUSPB4c >}}
+
+Maybe someday the Hall of Fame will release a wider-angle clip and we’ll be able to confirm Bruce’s participation with our own eyes and ears, but for now, this will have to do–because it’s the only time Bruce is ever known to have performed it.
+
+**I Can’t Help Myself (Sugar Pie Honey Bunch)****First performed:** January 17, 1990 (New York City, NY)<br>
+**Last performed:** January 17, 1990 (New York City, NY)<br>

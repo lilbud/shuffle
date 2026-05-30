@@ -1,0 +1,105 @@
+---
+aliases:
+- /cover-me-gary-u-s-bonds-your-love/
+- /3401/
+layout: post
+date: 2018-07-27T12:00:54
+lastmod: 2021-12-12T17:16:04
+title: "RotD/Cover Me, Gary U.S. Bonds: Your Love"
+slug: cover-me-gary-u-s-bonds-your-love
+author: Ken Rosen
+description: "One of many great songs Bruce gave away, “Your Love” is the missing link in a story that begins with “Little White Lies” and ends with “My Love Will Not Let You Down.”"
+tags:
+- "ben-e-king"
+- "gary-u-s-bonds"
+- "little-white-lies"
+- "miami-horns"
+- "my-love-will-not-let-you-down"
+- "steve-van-zandt"
+- "your-love"
+categories:
+- "cover-me"
+- "cover-you"
+- "meeting-across-the-river"
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/07/dedication.jpg.webp
+  post_id: 3401
+---
+The hardest part about this entry? Figuring out how to tag it.
+
+It's a Springsteen original composition, so it fits under my *Roll of the Dice* series. But Bruce never recorded it himself–he gave it away to Gary U.S. Bonds, so it's a Cover Me entry, too. And yet, Bruce and the E Street Band are the featured musicians, so maybe it's a meeting across the river.
+
+Whatever it is, it's also borderline criminal that Bruce never released his own version of "Your Love," because it's an unquestionably great song. "Your Love" is actually one of *three* great songs that Bruce wrote for Gary's 1981 *Dedication* album. There's no question in my mind that all three would have become fan favorites if Bruce had included them on his own albums.
+
+But Bruce was determined to help engineer a comeback for Bonds, who was both a friend and idol of his. Bruce had been performing Bonds' "[Quarter to Three](../2021-08-21-cover-me-quarter-to-three/post.md/)" in encores for years, so when Bonds came through town and played a local New Jersey club, he invited Bruce on stage to sing with him. Bruce had a blast with Gary on-stage and struck up a friendship, urging him to release a new album. Bruce enlisted Steve Van Zandt as producer (Bruce would co-produce part of the album) and the E Street Band and the Miami Horns as backing musicians, and the result was what might more accurately be called Gary U.S. Bonds and the E Street Band: *Dedication.*
+
+"Your Love" features not just the E Street Band and the Miami Horns, but also the great Ben E. King and Chuck Jackson on backing vocals. How do you go wrong with that level of assembled talent and a Bruce Springsteen-penned original song?
+
+You don't. Listen for yourself:
+
+{{< youtube xjylnIzPV3Y >}}
+
+The lyrics are perfectly suited for a performer like Bonds, late in his career but young enough to remember the throes of young love. The song centers around an older-but-wiser narrator cautioning his younger protégé not to be fooled by the promise and promises of young love, because his love–both the person and the emotion–will inevitably disappoint.
+
+> *She promises to be yours forever and always*<br>
+> *And you're too young to know it don't work out that way*<br>
+> *When she kisses you and your heart skips*<br>
+> *And you're ten feet off the ground*<br>
+> *Soon you'll be crying and that's when you'll have found*<br>
+
+> *That your love is gonna let you down, boy*<br>
+> *Your love is gonna let you down*<br>
+> *Your love is gonna let you down, boy*<br>
+> *Your love is gonna let you down*<br>
+
+> *Well it's kisses and sweet talk*<br>
+> *When she first starts coming 'round*<br>
+> *But soon tears start falling down*<br>
+> *You say every day she makes your dreams come true*<br>
+> *But soon those very dreams will be the death of you*<br>
+
+Bruce usually isn't often this cynical with his lyrics, and if something about the narrator feels familiar, the bridge should provide a jolt of recognition:
+
+***No cold denials, no one really lied***<br>
+***It was time spent, promises implied***<br>
+> *And suddenly you see something new in her eyes*<br>
+> *And in that moment you begin to realize*<br>
+
+Sound familiar? That's because those lines also appear in Bruce's "[Little White Lies]({{< relref "2018-03-20-roll-of-the-dice-little-white-lies.md" >}})" an outtake from *The River* that was released in that album's anniversary box set in 2015:
+
+***There were no cold denials, nobody really lied***<br>
+***It wasn't in the things we said, girl, just time spent, promises implied***<br>
+> *And when it began to fall apart eaten quietly away from the inside*<br>
+> *Bit by bit by those little white lies*<br>
+
+{{< youtube x6hpBol7W0M >}}
+
+So yes, I realize this may be my obsession with tracing story arcs across multiple Springsteen songs, but I'm convinced that the narrator of "Your Love" is the same man–many years later–that sings "Little White Lies."
+
+But I'm not done–because check out the last verse of "Your Love:"
+
+> *Lately you've been walking the streets at night (all night long)*<br>
+> *Like an empty shadow in the morning light (mm hmm)*<br>
+> *Like an empty shadow that's suddenly found (oh yeah)*<br>
+> *That your love is gonna let you down*<br>
+
+If something about that verse tugs at you, there's a reason for that, too–there's another outtake from the same time period in which the narrator walks the street at night, looking for romance but always stumbling in a half-trance. But that narrator refuses to accept a cynical outlook, declaring "[My Love Will Not Let You Down.]({{< relref "2018-01-24-roll-of-the-dice-my-love-will-not-let-you-down.md" >}})"
+
+{{< youtube c7ky70i_VGc >}}
+
+So yes, now we have a story arc that starts in "Little White Lies," crosses over to "Your Love," and is answered by "My Love Will Not Let You Down."
+
+It's entirely possible that I spend too much time thinking about this stuff, by the way.
+
+Bruce has never played "Your Love" in concert, but he actually did perform it once (and only once) with Bonds in 1978 at the The Cafe Bar in Long Branch, NJ. Unfortunately there's no audio or video of that performance to my knowledge.
+
+So "Your Love" remains on my chase list, and it's probably destined to stay there–but a Bonds guest appearance on an E Street Band stage is never out of the realm of possibility.
+
+**Your Love**<br>
+**Recorded** 1981<br>
+**Released:** Dedication (1981)<br>
+**First performed** (by Bruce): July 2, 1989 (Long Branch, NJ)<br>
+**Last performed** (by Bruce): July 2, 1989 (Long Branch, NJ)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

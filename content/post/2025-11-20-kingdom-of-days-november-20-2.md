@@ -1,0 +1,121 @@
+---
+aliases:
+- /kingdom-of-days-november-20-2/
+- /62408/
+layout: post
+date: 2025-11-20T12:00:36
+lastmod: 2025-10-21T23:34:56
+title: "Kingdom of Days: November 20"
+slug: kingdom-of-days-november-20-2
+author: Ken Rosen
+description: "Hear fans sing “Hungry Heart” to Bruce for the first time; watch Bruce give a remarkable interview to Charlie Rose; and catch Adam Sandler’s Bruce impression on SNL. These and more highlights inside, all from this date in history."
+tags:
+- "adam-sandler"
+- "baltimore"
+- "bobby-bandiera"
+- "born-in-the-usa"
+- "bruce-springsteen-band"
+- "champaign"
+- "charlie-rose"
+- "chicago"
+- "darkness-tour"
+- "ghost-of-tom-joad-tour"
+- "green-onions"
+- "hungry-heart"
+- "i-wanna-marry-you"
+- "its-hard-to-be-a-saint-in-the-city"
+- "louisville"
+- "richmond"
+- "river-tour"
+- "saturday-night-live"
+- "steel-mill"
+- "stone-pony"
+- "student-prince"
+- "thunder-road"
+- "working-on-a-dream-tour"
+- "your-love-keeps-lifting-me-higher-and-higher"
+categories:
+- "kingdom-of-days"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/11/20091120_booklet2.jpg.webp
+  post_id: 62408
+---
+***New for 2025:** New entry for 2006*<br>
+
+**1969:** Steel Mill headlines at the Free University in Richmond.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/11/40632756604_6af20d7824_o.jpg.webp)
+
+**1971:** The Bruce Springsteen Band is in residence at the Student Prince in Asbury Park.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/1971-11-19.png.webp)
+
+**1978:** Bruce and the E Street Band bring the Darkness Tour to the University of Illinois at Champaign.<br>
+
+{{< youtube yhJqumucMCY >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2023/11/The_Daily_Illini_Thu__Nov_30__1978_.jpg.webp)
+
+**1980:** Bruce makes his first appearance at the Rosemont Horizon, where the crowd sings "[Hungry Heart]({{< relref "2022-12-21-roll-of-the-dice-hungry-heart.md" >}})" to him for the very first time, and "[I Wanna Marry You]({{< relref "2022-04-22-roll-of-the-dice-i-wanna-marry-you.md" >}})" gets a unique and funny introduction.<br>
+
+{{< videopress id=orWUOCsG >}}
+
+{{< videopress id=PAwgHoD0 >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/10/46735508144_21f270c05a_o.jpg.webp)
+
+**1987:** Bruce joins Bobby Bandiera on stage at The Stone Pony in Asbury Park for three songs: "[Little Latin Lupe Lu]({{< relref "1976-01-14-cover-me-little-latin-lupe-lu.md" >}}/)," "[Stand by Me]({{< relref "2021-12-12-matr-u2-and-bruce-springsteen-stand-by-me.md" >}})," and "[Carol]({{< relref "2022-02-17-cover-me-carol.md" >}})."<br>
+
+{{< youtube G1TI_0yZCzA >}}
+
+**1993:** Bruce makes a special Thanksgiving appearance on *Saturday Night Live* to debut a new song.<br>
+
+{{< youtube 1mrbeyWzqxA >}}
+
+(Okay, so maybe it's Adam Sandler.)
+
+**1996:** Bruce plays a solo acoustic show at the Louisville Palace in Kentucky.<br>
+
+[https://estreetshuffle.com/wp-content/uploads/2019/10/Bruce-Springsteen-1996-11-20.mp3](https://estreetshuffle.com/wp-content/uploads/2019/10/Bruce-Springsteen-1996-11-20.mp3)
+{{< audio url="https://estreetshuffle.com/wp-content/uploads/2019/10/Bruce-Springsteen-1996-11-20.mp3" >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/1996-11-20.png.webp)
+
+**1998:** Bruce sits down for a remarkable 50-minute television interview with Charlie Rose and performs an acoustic "[Born in the U.S.A.]({{< relref "1984-01-03-roll-of-the-dice-born-in-the-u-s-a.md" >}})" Both are must-watch.<br>
+
+[Watch Video](https://charlierose.com/video/player/16872)
+
+{{< youtube fiuQ2tdD4p0 >}}
+
+**2002:** In town a day early for their show in Orlando, Bruce and the band have dinner at the Hard Rock cafe after Steve gets in a round of golf.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/2002-11-20.png.webp)
+
+**2006:** On their day off in Ireland, Bruce spends the afternoon at Slane Castle, where he and Patti dine and celebrate with Lord and Lady Mount Charles.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/11/Sunday_Independent_Dublin_ed__2006_11_26_16_02-scaled.jpg.webp)
+
+**2007:** The day after an emotional show spotlighting Danny Federici, Bruce confirms what fans already feared: Danny is taking a leave of absence to receive treatment for melanoma. "Danny is one of the pillars of our sound," Bruce writes. "We all eagerly await his healthy and speedy return."<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/2007-11-20.png.webp)
+
+**2009:** Bruce and the E Street Band play their penultimate Working on a Dream show at 1st Mariner Arena in Baltimore, where they perform the entire *Born to Run* album in sequence and switch up the sign collection song, playing "[Green Onions]({{< relref "2019-05-17-cover-me-green-onions.md" >}})" for the very first time.<br>
+
+{{< youtube 5WatovRfcHA >}}
+
+{{< youtube hPHYCqE26os >}}
+
+{{< youtube YVaEFMkT2iw >}}
+
+{{< youtube 8aXZDKb5fHw >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/2009-11-20a.png.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/2009-11-20b.png.webp)
+
+**2019:** Bruce gathers the E Street Band at his home studio in Colts Neck for the third day of a five-day recording session that will yield [*Letter to You*]({{< relref "2017-01-01-album-companion-letter-to-you.md" >}}).<br>
+
+**2023:** Bruce's scheduled show in Montreal is postponed to the following Halloween due to his peptic ulcer disease. Instead, Bruce releases the last episode (as of this writing) of *From My Home to Yours* on Sirius XM. This episode is entitled "California Sun."<br>
+
+[https://estreetshuffle.com/wp-content/uploads/2024/11/2023-11-20-Bruce-E-Street-Radio-DJ-set-31.mp3](https://estreetshuffle.com/wp-content/uploads/2024/11/2023-11-20-Bruce-E-Street-Radio-DJ-set-31.mp3)
+{{< audio url="https://estreetshuffle.com/wp-content/uploads/2024/11/2023-11-20-Bruce-E-Street-Radio-DJ-set-31.mp3" >}}

@@ -1,0 +1,94 @@
+{{ if hugo.Data.comments }}
+  {{/* Filter the data file by the current page's post_id */}}
+  {{ $current_post_id := string .Params.post_id }}
+
+  {{/* Create a slice to hold matching comments */}}
+  {{ $post_comments := slice }}
+  {{ range hugo.Data.comments }}
+    {{ if eq (string .post_id) $current_post_id }}
+      {{ $post_comments = $post_comments | append . }}
+    {{ end }}
+  {{ end }}
+
+  {{ $comments_count := len $post_comments }}
+  {{ if gt $comments_count 0 }}
+    <div class="card comments-card">
+      <h2 class="comments-title">
+        {{ $comments_count }} Replies to "{{ .Title }}"
+      </h2>
+      <div class="comment-list pt-3 px-3">
+        {{ range $index, $comment := $post_comments }}
+          {{/* Fetch matching author data from authors.yml */}}
+          {{ $author_match := where hugo.Data.authors "name" .name }}
+          {{ $author_data := index $author_match 0 }}
+
+          {{/* Bound depth to a max of 6, then calculate margin */}}
+          {{ $depth := int .depth }}
+          {{ if gt $depth 6 }}{{ $depth = 6 }}{{ end }}
+          {{ $margin_size := mul $depth 20 }}
+          <div
+            class="comment-wrapper"
+            style="margin-left: {{ $margin_size }}px;">
+            <div
+              class="row d-inline-flex w-100 py-2 {{ if gt $depth 0 }}
+                ps-3 depth-{{ $depth }} reply
+              {{ end }}"
+              id="comment-{{ .id }}">
+              <div
+                class="col-12 col-md-1 {{ if gt $depth 0 }}
+                  me-3 me-lg-2
+                {{ else }}
+                  me-5 me-lg-4
+                {{ end }}">
+                {{/* Use the avatar from the YAML, fallback to comment value if not found */}}
+                <img
+                  class="author-img"
+                  src="{{ with $author_data }}
+                    {{ .thumb }}
+                  {{ else }}
+                    {{ $comment.avatar_thumb }}
+                  {{ end }}"
+                  height="auto"
+                  width="auto"
+                  alt="{{ .name }}'s avatar" />
+              </div>
+              <div class="col">
+                <div class="comment-meta">
+                  <div class="comment-meta comment-author">
+                    {{/* Use the URL from the YAML data file */}}
+                    {{ $url := "" }}
+                    {{ with $author_data }}
+                      {{ $url = .url }}
+                    {{ else }}
+                      {{ $url = $comment.author_url }}
+                    {{ end }}
+
+                    {{ if ne $url "" }}
+                      <a class="comment-meta comment-author" href="{{ $url }}">
+                        {{ .name }}
+                      </a>
+                    {{ else }}
+                      {{ .name }}
+                    {{ end }}
+                  </div>
+                  {{/* Parse and format the GMT date string */}}
+                  {{ $date := time .date_gmt }}
+                  <div class="comment-meta comment-date">
+                    {{ $date.Format "January 02, 2006" }} at
+                    {{ lower ($date.Format "03:04 PM") }}
+                  </div>
+                </div>
+                <div class="comment-content mt-2">
+                  {{ .text | markdownify | htmlUnescape | safeHTML }}
+                </div>
+              </div>
+            </div>
+          </div>
+          {{ if lt $index (sub $comments_count 1) }}
+            <hr />
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+{{ end }}

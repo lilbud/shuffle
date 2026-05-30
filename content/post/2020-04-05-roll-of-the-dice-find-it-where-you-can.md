@@ -1,0 +1,64 @@
+---
+aliases:
+- /roll-of-the-dice-find-it-where-you-can/
+- /17123/
+layout: post
+date: 2020-04-05T12:00:00
+lastmod: 2023-01-01T22:13:45
+title: "Roll of the Dice: Find It Where You Can"
+slug: roll-of-the-dice-find-it-where-you-can
+author: Ken Rosen
+description: "Missing in action: this early lyrical forerunner to “Tougher Than the Rest” made it all the way to an E Street Band rehearsal but never to the studio."
+tags:
+- "find-it-where-you-can"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/04/mag-glass-1.jpg.webp
+  post_id: 17123
+---
+In late 2015, Bruce released an anniversary box set for *The River* called *The Ties That Bind: The River Collection*. Included in the set was a disc of outtakes that had never before seen an official release. While there are some genuine gems among those unreleased outtakes, there are also some headscratchers. ("[Mr. Outside]({{< relref "2019-06-10-roll-of-the-dice-mr-outside.md" >}})," I'm looking at you.)
+
+And then there are the songs from the River sessions that *still* haven't seen the light of day but certainly deserve to. Chief among those missing in action: "Find It Where You Can."
+
+"Find It Where You Can" made it pretty far along, though. It was one of the many songs Bruce recorded at home in early 1979 while he worked them out on acoustic guitar. Take a listen:
+
+{{< youtube c8flVDvDu5c >}}
+
+There were a lot of songs that Bruce started at home in early 1979 that never made their way to the E Street Band. But "Find It Where You Can" did–in fact, we have recordings of the E Street Band playing it at a rehearsal session in late March.
+
+{{< youtube LsmW6Udlrik >}}
+
+The lyrics are a bit tough to make out in the band version. Bruce didn't bother trying to capture the vocals since these tapes were meant to be guides for the band arrangements rather than demos or candidates for release.
+
+But luckily we have the early acoustic version below for comparison, and with the lyrics from one and the band performance from the other, we can get a sense of just how strong a track this might have become had the band committed it to record.
+
+Bruce's lyrics seem to be a forerunner to "[Tougher Than the Rest]({{< relref "1987-01-02-roll-of-the-dice-tougher-than-the-rest.md" >}}/)." In the later song, Bruce sings:
+
+> *Some girls they want a handsome Dan*<br>
+> *Or some good-lookin' Joe, on their arm*<br>
+> *Some girls like a sweet-talkin' Romeo*<br>
+> *Well 'round here baby*<br>
+> *I learned you get what you can get*<br>
+> *So if you're rough enough for love*<br>
+> *Honey I'm tougher than the rest*<br>
+
+In "Find It Where You Can," Bruce strikes a similar pose:
+
+> *I didn't ask for this conversation*<br>
+> *And maybe you don't think I'm nice*<br>
+> *Baby it's just the… situation*<br>
+> *I'm just another desperate man*<br>
+> *In this world you don't pick and choose girl*<br>
+> *You just find it where you can*<br>
+
+Despite the strong rehearsal tapes, there's no record of Bruce ever having recorded "Find It Where You Can" in the studio. That doesn't mean no such version exists, though, so we can always hold out hope.
+
+More likely than not, though, this is as close as we're going to get.
+
+**Find It Where You Can**<br>
+**Recorded** March 1979 (rehearsal)<br>
+**Never released**<br>
+**Never performed**<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

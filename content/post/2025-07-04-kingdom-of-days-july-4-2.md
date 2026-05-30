@@ -1,0 +1,92 @@
+---
+aliases:
+- /kingdom-of-days-july-4-2/
+- /57605/
+layout: post
+date: 2025-07-04T11:00:59
+lastmod: 2026-03-20T23:47:41
+title: "July 4"
+slug: kingdom-of-days-july-4-2
+author: Ken Rosen
+description: "Several great shows on this date in Springsteen history, but the chief highlight is a loose, funny 1978 radio interview Bruce gave on his day off. Check it out inside."
+tags:
+- "barcelona"
+- "born-in-the-usa-tour"
+- "france"
+- "gothenburg"
+- "independence-day"
+- "london"
+- "los-angeles"
+- "magic-tour"
+- "mary-turner"
+- "paris"
+- "southside-johnny"
+- "spain"
+- "steve-van-zandt"
+- "stone-pony"
+- "sundance-blues-band"
+- "sweden"
+- "uk"
+- "world-tour-1992"
+- "wrecking-ball-tour"
+categories:
+- "kingdom-of-days"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/07/admin-ajax-49.jpg.webp
+  post_id: 57605
+---
+**1971:** Bruce plays his last show as a full member of the Sundance Blues Band.<br>
+
+**1976:** A newly clean-shaven Bruce drops by Southside Johnny's Stone Pony concert; after Southside's set, Bruce and the E Street Band play a set themselves.<br>
+
+**1978:** Quite the Independence Day for Bruce in Los Angeles: the day starts off with a trip to KMET-FM, where local DJ Mary Turner interviews an infatuated, talkative Bruce. The interview is loose, rambling, and funny–well worth a listen–with some great stories, including one about the time Bruce played at a mental hospital, where a patient introduced him for twenty minutes, and another about his gig at Sing Sing prison, which has to be heard to be believed. (Bruce refers to both of these gigs during his Broadway show, but here's where you'll get the details.)<br>
+
+{{< youtube 38Z52NrRFb4 >}}
+
+After the interview, Bruce asks Mary out on a date–and tomorrow night he'll sweeten the offer with a song dedication. But in the meantime, a loose Bruce, Clarence and Garry hit the town and leave their mark–literally–on a Sunset Strip billboard:
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/07/040778-billboard-e1530310972459.jpg.webp)
+
+**1979:** Bruce and the E Street Band complete "The Man Who Got Away" at the Power Station in New York City. It will languish in the vault for 36 years.<br>
+
+{{< youtube Xqc_s3sOOUE >}}
+
+**1983:** Bruce spends the holiday on the water: friend and fan Obie Dziedzic charters the 70-foot *Atlantis* for a three hour cruise for Bruce, the band, and members of Bruce's gym. After watching the fireworks over Asbury Park, Bruce and company head to The Stone Pony.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/1983-07-04.jpg.webp)
+
+**1985:** At a rare July 4th concert, Bruce opens his second of three nights at London's Wembley Stadium with an acoustic "Independence Day," and Little Steven once again joins the band during the encore.<br>
+
+{{< youtube VT8tSFZ8QWs >}}
+
+{{< youtube 2Epn-TJSqIM >}}
+
+{{< youtube Tw-KDhmlE5k >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/07/1985-07-04.jpg.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/07/The_Courier_Journal_1985_07_03_Page_27-scaled.jpg.webp)
+
+**1992:** Bruce and his new touring band play their second night at Plaza Monumental in Barcelona.<br>
+
+{{< videopress id=3ZRVC8EG >}}
+
+{{< videopress id=bLdOUBZb >}}
+
+{{< videopress id=QSb0VzF1 >}}
+
+**2008:** Bruce and the E Street Band play their first of two nights at Ullevi in Gothenburg on the Magic Tour. Bruce acknowledges the date by opening the show with the tour premiere of "Born in the U.S.A."<br>
+
+{{< videopress id=dkSKEfXZ >}}
+
+{{< youtube VtTZ8V7czFg >}}
+
+[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zBF2CkbbRvghJhqt8OJ1AhD)
+
+**2012:** Bruce plays an Independence Day-themed set at Bercy in Paris, featuring the tour premieres of "4th of July, Asbury Park (Sandy)" and "Independence Day," along with "Darlington County" and "American Land." This show is available as part of Bruce's official archive series.<br>
+
+{{< youtube c_vd5ZTMpNw >}}
+
+{{< youtube SKzOHemAFPw >}}
+
+{{< youtube u_BdarUIwz4 >}}

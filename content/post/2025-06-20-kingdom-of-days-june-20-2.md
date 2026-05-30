@@ -1,0 +1,135 @@
+---
+aliases:
+- /kingdom-of-days-june-20-2/
+- /57120/
+layout: post
+date: 2025-06-20T11:00:08
+lastmod: 2026-02-15T21:07:06
+title: "June 20"
+slug: kingdom-of-days-june-20-2
+author: Ken Rosen
+description: "On this date: Bruce plays Red Rocks for the first time, guest stars abound, and the legendary ten-night MSG Reunion stand continues. More highlights inside."
+tags:
+- "23rd-street-lullaby"
+- "arnhem"
+- "better-days"
+- "bobby-bandiera"
+- "camden"
+- "cats-on-a-smooth-surface"
+- "coventry"
+- "darkness-tour"
+- "devils-and-dust-tour"
+- "france"
+- "glorias-eyes"
+- "i-fought-the-law"
+- "i-wish-i-were-blind"
+- "im-shipping-up-to-boston"
+- "italy"
+- "joe-grushecky"
+- "long-time-comin"
+- "madison-square-garden"
+- "milan"
+- "my-city-of-ruins"
+- "new-york-city"
+- "paris"
+- "patti-scialfa"
+- "red-rocks"
+- "reunion-tour"
+- "richmond"
+- "seeger-sessions-tour"
+- "soozie-tyrell"
+- "southside-johnny"
+- "springsteen-on-broadway"
+- "steel-mill"
+- "stone-pony"
+- "sundance-blues-band"
+- "the-netherlands"
+- "trapped"
+- "uk"
+- "world-tour-1992"
+- "wrecking-ball-tour"
+categories:
+- "kingdom-of-days"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/06/june-20th-2024-barcelona-es-bruce-springsteen-and-the-e-street-band-review-2.jpg.webp
+  post_id: 57120
+---
+**1970:** Steel Mill plays their second of two nights at The String Factory in Richmond.<br>
+
+**1971:** The Sundance Blues Band plays an afternoon gig at The Student Prince in Asbury Park.<br>
+
+**1977:** Bruce and the E Street Band record for what will become *Darkness on the Edge of Town* at Atlantic Studios in New York City.<br>
+
+**1978:** Bruce and the E Street Band play Red Rocks for the first time at this Darkness Tour stop. This show also notches two additional firsts: Bruce's first-ever show in Colorado and his first-ever cover of "I Fought the Law."<br>
+
+{{< videopress id=602P8E1i >}}
+
+**1979:** Bruce and the E Street Band work on "Stolen Car" at The Power Station in New York City.<br>
+
+**1982:** Bruce makes his by now customary "surprise" appearance with Cats on a Smooth Surface at The Stone Pony, with a setlist that includes covers of "Come On, Let's Go," "Little Latin Lupe Lu," "Sweet Little Sixteen," "Lucille," and more.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/06/1982-0620.jpg.webp)
+
+**1989:** Bruce makes a guest appearance with Bobby Bandiera at Martell's Sea Breeze in Point Pleasant Beach, New Jersey.<br>
+
+**1992:** World Tour 1992 moves on from Stockholm to Milan, with this first of two nights at Forum di Assago.<br>
+
+{{< videopress id=Sx92iRWL >}}
+
+**1999:** Bruce and the reunited E Street Band play their second of two nights in Arnhem, The Netherlands, where they tour premiere "Trapped."<br>
+
+{{< videopress id=uOIqfM0v >}}
+
+**2000:** Night Four of ten at Madison Square Garden, as the Reunion Tour's last stand continues. Highlights include the last "New York City Serenade" of the tour, "Take 'em as They Come," and a Soozie Tyrell guest appearance for "The Ghost of Tom Joad." In attendance tonight: Michael J. Fox and Tracey Pollan.<br>
+
+{{< videopress id=sdgFdg9s >}}
+
+{{< videopress id=4HMtjj7k >}}
+
+{{< videopress id=C4KwGzw3 >}}
+
+{{< videopress id=w2CqZvlc >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/06/Daily_News_Thu__Jun_22__2000_-scaled.jpg.webp)
+
+**2004:** CBS *Sunday Morning* airs a terrific profile of and interview with Patti Scialfa as part of her promotional tour for *23rd Street Lullaby*.<br>
+
+{{< videopress id=Hi4z7lS4 >}}
+
+**2005:** Elliott Murphy makes a guest appearance on "Better Days" when Bruce tour premieres it (along with "Cadillac Ranch") at his solo acoustic show in Paris.<br>
+
+{{< youtube 6DNpb_i2V7U >}}
+
+{{< youtube kNt7lvz1sE4 >}}
+
+{{< youtube GuyqFpWD9sM >}}
+
+{{< youtube tQ3_Fy5nd10 >}}
+
+**2006:** Bruce and the Sessions Band deliver a great show at the Tweeter Center in Camden, tour premiering a full-band "Maria's Bed." Southside Johnny and Joe Grushecky join Bruce for "Pay Me My Money Down."<br>
+
+{{< youtube yoq1or7rtS0 >}}
+
+{{< youtube 1E8KvYPH8RU >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/2006-06-20.jpg.webp)
+
+**2011:** Fans gather at The Stone Pony to remember Clarence Clemons, who passed away two days prior.<br>
+
+{{< youtube 456baiiyLcs >}}
+
+**2013:** Bruce and the E Street Band perform *Born to Run* from start to finish during their Wrecking Ball show at Coventry's Ricoh Arena. This show also features the first full-band (E Street Band, at least) performance of "Long Time Comin'."<br>
+
+{{< youtube 78eZDLRf1aI >}}
+
+{{< youtube oyfTmVXCNhE >}}
+
+**2018:** *Springsteen on Broadway* continues its theatrical run at the Walter Kerr Theater in New York City.<br>
+
+**2019:** Bruce and Patti attend a celebration of life at The Stone Pony for the late Kerry Layton, Patti's life-long friend.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/06/brucepattipony.jpeg.webp)
+
+**2024:** World Tour 2024 arrives in Barcelona for the first of two nights. This night features the tour premiere of "Radio Nowhere."<br>
+
+{{< youtube 74XJN6XUdpA >}}

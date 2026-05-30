@@ -1,0 +1,54 @@
+---
+aliases:
+- /cover-me-i-shall-be-released/
+- /32831/
+layout: post
+date: 2022-02-21T13:00:00
+lastmod: 2022-02-21T04:05:53
+title: "Cover Me: I Shall Be Released"
+slug: cover-me-i-shall-be-released
+author: Ken Rosen
+description: "One time only: Bruce Springsteen and the E Street Band sound check one of Bob Dylan’s greatest songs."
+tags:
+- "bob-dylan"
+- "boz"
+- "i-shall-be-released"
+- "the-band"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/02/band-i-shall-be-released.jpg.webp
+  post_id: 32831
+---
+Tracing the lineage of Bob Dylan's "I Shall Be Released" can get confusing, because it had already been covered dozens of times before Dylan finally got around to releasing his own version of his 1967 composition on his *Greatest Hits Volume II* album in 1971.
+
+{{< youtube E0pkHBVznLA >}}
+
+But that wasn't even Dylan's original recording of the song. The first version (recorded with the musicians who would become The Band) wouldn't be released until 1991, when it appeared on *The Basement Tapes*, and again in a remixed version in 2014.
+
+{{< youtube oHL5Y-ZCTY8 >}}
+
+It was The Band, of course, who became identified with the song when they released it on their debut studio album in 1968 and brought the song to popular attention.
+
+{{< youtube k9avKq94DGY >}}
+
+But even *that* wasn't the first recording of "I Shall Be Released" to hit record store shelves. That honor belongs to Boz, who released his version not quite two months before The Band released theirs.
+
+{{< youtube Qt2AYtXCwnA >}}
+
+See what I mean?
+
+Over the years, "I Shall Be Released" has been covered countless times, by artists such as Joni Mitchell, Joan Baez, Joe Cocker, Jeff Buckley, Melissa Etheridge, Sting, Bette Midler, Nina Simone, Jack Johnson, Kesha, and many, many more.
+
+Bruce Springsteen is not on that list, however. Despite his fondness for Dylan, he's never covered this particular song in concert even once.
+
+He *has* soundchecked it, though–once (that we know of) during the Tunnel of Love Express Tour in 1988. Before his show in Chapel Hill on March 4th, Bruce and the E Street Band worked up a warm, impromptu arrangement with an absolutely lovely saxophone solo by The Big Man.
+
+{{< youtube _n7u3qhxn80 >}}
+
+Thematically, the song wouldn't have fit with the tour's romantic set list, so it's easy to understand why this wonderful soundcheck performance never made it to an official stage. Fortunately for us, this "unofficial" performance was captured, so we can imagine what might have been.
+
+**I Shall Be Released**<br>
+**First performed:** March 4, 1988 (Chapel Hill, NC) (soundcheck only)<br>
+**Last performed:** March 4, 1988 (Chapel Hill, NC) (soundcheck only)<br>

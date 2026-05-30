@@ -1,0 +1,71 @@
+---
+aliases:
+- /roll-of-the-dice-danger-zone/
+- /17932/
+layout: post
+date: 2020-05-01T12:00:00
+lastmod: 2020-12-23T15:51:09
+title: "Roll of the Dice: Danger Zone"
+slug: roll-of-the-dice-danger-zone
+author: Ken Rosen
+description: "One of the earliest songs Bruce wrote in the Nebraska era, the unfinished “Danger Zone” stands apart as a warm and tender ballad deserving of attention."
+tags:
+- "danger-zone"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/05/danger-zone.jpg.webp
+  post_id: 17932
+---
+We've listened to a lot of Bruce's unreleased (but leaked) home demos together over the past few years, and I'll be the first to admit that most of them are interesting only as insight into Bruce's songwriting process and influences, or to trace the ancestry of Bruce's released catalog back to early prototypes.
+
+But this one's an exception.
+
+"Danger Zone" (also trading under the title "Let the Girl Go Home" after its oft-repeated chorus) is right up there among my favorite of Bruce's home demos, and it's one of the rare ones that I actually find myself repeatedly listening to for pleasure rather than research.
+
+Written and recorded during the Nebraska era, "Danger Zone" is tender, warm, and unlike anything else Bruce recorded during those years. Let's take a listen:
+
+{{< videopress id=ovwt7ZtQ >}}
+
+If there's a through line to be drawn from "Danger Zone," it might be one that threads through "Child Bride" on the way to "[Working on the Highway]({{< relref "1984-01-06-roll-of-the-dice-working-on-the-highway.md" >}})."
+
+Those latter two songs–one still unreleased, the other now a classic–center around a romantic relationship between their protagonist and an underage girl.
+
+While not explicitly stated such, "Danger Zone" at the very least implies some potential age-related impropriety.
+
+> *Baby, you are a big girl*<br>
+> *Yeah there ain't no doubt of that*<br>
+> *Baby you can't even walk around here*<br>
+> *And I know what's on your mind*<br>
+> *And even if she's the first to turn out the lights*<br>
+> *Man you're messing in a danger zone*<br>
+
+Perhaps if Bruce completed the song, we would have learned more about the situation, but I suspect he meant to leave room for ambiguity. I can't help but picture the protagonist singing about his best friend's kid sister, someone he's known all her life but who suddenly seems very grown up.
+
+Our hero is tempted–sorely tempted–when the girl makes her interest known, but he knows the right thing to do.
+
+> *Let the girl go home, let the girl go home*<br>
+> *She ain't ??? to be around here*<br>
+> *Let the girl go home, the girl go home*<br>
+> *You don't know what you feel*<br>
+> *Let the girl go home, let the girl go home*<br>
+> *Let her go back home this time*<br>
+> *Let the girl go home, let the girl go home*<br>
+> *Let her go back home*<br>
+
+Bruce keeps his narrator on the path of angels, but only through the constant exhortation of his conscience. (I can't make out that muffled section in the second line of the chorus, but I suspect it's something along the line of "old enough" or "grown enough.")
+
+Note: there's another brief section after the tape stops, but although it circulates as part of "Danger Zone" to me it sounds like a completely different song, and I suspect it is. I won't discuss it here.
+
+It's easy to see why Bruce wouldn't have released "Danger Zone" on *Nebraska* even if he had finished the song (and there's no indication he ever did). "Danger Zone" is gentle, sensitive, tender, and a far cry from the dark themes that would typify his next album.
+
+But the thing I find most fascinating about "Danger Zone" is that it's so unlike anything he'd written before or since. We could perhaps consider "[Janey, Don't You Lose Heart]({{< relref "2019-04-06-roll-of-the-dice-janey-dont-you-lose-heart.md" >}})" a distant cousin for its warm melody and like-a-big-brother narrator, but even that would be a stretch.
+
+We'll very likely never know how "Danger Zone" might have turned out, and that's too bad. I suspect it would have been a beautiful and unique addition to his catalog.
+
+**Danger Zone**<br>
+**Recorded** March-April 1981 (demo)<br>
+**Never released**<br>
+**Never performed**<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

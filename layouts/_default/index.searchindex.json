@@ -1,0 +1,14 @@
+[
+  {{- range $index, $page := .Site.RegularPages -}}
+  {{- if $index }},{{ end }}
+  {
+    "url": {{ $page.RelPermalink | jsonify }},
+    "title": {{ $page.Title | jsonify }},
+    "header_img": {{ $page.Params.header_img | jsonify }},
+    "categories": {{ $page.Params.categories | jsonify }},
+    "date": {{ $page.Date.Format "January 2, 2006" | jsonify }},
+    "author": {{ $page.Params.author | jsonify }},
+    "description": {{ $page.Params.Description | jsonify }}
+  }
+  {{- end -}}
+]

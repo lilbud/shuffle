@@ -1,0 +1,47 @@
+---
+aliases:
+- /roll-of-the-dice-dance-dance-dance/
+- /2779/
+layout: post
+date: 1972-01-05T19:00:11
+lastmod: 2026-05-11T16:45:01
+title: "Dance, Dance, Dance"
+slug: roll-of-the-dice-dance-dance-dance
+author: Ken Rosen
+description: "“Dance, Dance, Dance” is a delightfully atypical, funky, horn-fueled, unreleased delight from 1971."
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/06/dance-dance-dance.jpg.webp
+  post_id: 2779
+---
+Today's roll of the dice is undeservedly obscure.
+
+Sandwiched in between Bruce's guitar-heavy Steel Mill jams and his early Columbia character-driven stories is this funky, horn-fueled dance number.
+
+{{< youtube JMv8WkenPyg >}}
+
+There's no lyrical depth here, nor should there be, so it doesn't require or ask for lyrical analysis. If this song is about anything, it's about losing yourself in music:
+
+> *Everybody's grooving on the floor now*<br>
+> *Feet's moving, think they're gonna dance*<br>
+> *The band is playing as you walk in that door now*<br>
+> *Come on now, won't you take that chance*<br>
+> *I said come on now, won't you mama*<br>
+> *Come on, won't you take that chance*<br>
+> *There ain't nothing here that's gonna hound you*<br>
+> *There ain't nothing to it, let your body go*<br>
+> *(Dance, dance, dance)*<br>
+> *(Dance, dance, dance)*<br>
+
+…so go ahead, give it a listen, and lose yourself.
+
+Bruce performed "Dance, Dance, Dance" with The Bruce Springsteen Band a small handful of times in the summer of 1971, but no studio recordings are known to exist.
+
+**Dance, Dance, Dance**<br>
+**Never recorded**<br>
+**Never released**<br>
+**First performed:** July 10, 1971 (Lincroft, NJ)<br>
+**Last performed:** September 1, 1971 (Long Branch, NJ)<br>
+
+© June 22, 2018

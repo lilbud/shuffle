@@ -1,0 +1,76 @@
+---
+aliases:
+- /codeofsilence/
+- /3985/
+layout: post
+date: 2018-08-27T12:00:13
+lastmod: 2022-12-28T14:27:13
+title: "Roll of the Dice: Code of Silence"
+slug: codeofsilence
+author: Ken Rosen
+description: "“Code of Silence” is Bruce’s only live recording to win a Grammy, but his studio version with Joe Grushecky is pretty great, too."
+tags:
+- "a-good-life"
+- "code-of-silence"
+- "joe-grushecky"
+- "the-essential-bruce-springsteen"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/08/shh.jpg.webp
+  post_id: 3985
+---
+Quick, name the only live Springsteen performance to win a Grammy.
+
+Okay, that would probably be harder if you hadn't already read the title of this post. But yeah, it's not "[Jersey Girl]({{< relref "1976-02-07-cover-me-roll-of-the-dice-jersey-girl.md" >}}/)" or "[War]({{< relref "2016-01-02-cover-me-war.md" >}})" or "[Santa Claus is Comin' to Town]({{< relref "2021-12-24-cover-me-santa-claus-is-comin-to-town.md" >}})" or "American Skin (41 Shots)" or any of the other live recordings you'll hear on the radio (other then E Street Radio, that is).
+
+In February 2005, the Grammy for Best Solo Rock Vocal Performance went to "Code of Silence," recorded live on June 29, 2000 and buried deep on the bonus disc included in the first run of *The Essential Bruce Springsteen.*
+
+{{< youtube qmliFFBFQAQ >}}
+
+"Code of Silence" also carries another unusual distinction: it's a rare instance of Bruce co-writing with a song with another artist. Bruce and Joe Grushecky wrote this song together in 1997, although neither of them chose to record or perform it at the time.
+
+When Bruce and the E Street Band were wrapping up their Reunion Tour in June of 2000, Bruce start to premiere some brand new songs, telegraphing to fans that he wasn't done releasing new music. First came "[Further On (Up the Road)]({{< relref "2022-01-01-roll-of-the-dice-further-on-up-the-road.md" >}})" and "American Skin (41 Shots)" in Atlanta, and then at the very next show–the opening show of a ten-night closing stand at Madison Square Garden–Bruce opened the show with the debut of "Code of Silence." (Bruce would debut one more Bruce/Joe collaboration before the tour was done.)
+
+{{< videopress id=HOWgJ2Ki >}}
+
+The song was received by fans enthusiastically, and Bruce ended up playing it in eight shows of that final ten-night stand.
+
+Bruce brought it back for two outings on the Rising tour (one of them, unsurprisingly, in Pittsburgh, where he and Joe played the song together for the first time). From there, "Code of Silence" has remained surprisingly obscure, showing up only at benefits or when playing or guest-starring with Grushecky.
+
+"Code of Silence" is so fierce, so strong, that you might not even realize for a few listens that there are surprisingly very few lyrics. The song is essentially a scream of frustration by a lover feeling increasingly disconnected from his partner, trying desperately to bridge the widening gulf and scale the growing wall–but ultimately, he's just as complicit.
+
+> *There's a code of silence that we don't dare speak*<br>
+> *There's a wall between us and a river so deep*<br>
+> *And we keep pretending that there's nothing wrong*<br>
+> *Man, there's a code of silence and it can't go on*<br>
+
+> *Well, s the truth so elusive, so elusive you see*<br>
+> *That it ain't enough, baby, to bridge the distance between you and me*<br>
+> *There's a list of grievance a hundred miles long*<br>
+> *There's a code of silence and it can't go on*<br>
+
+> *Well you walk with your eyes open*<br>
+> *But your lips they remain sealed*<br>
+> *Beneath the promises we made are broken*<br>
+> *Someday the truth will be revealed*<br>
+> *Well I need to know now darlin'*<br>
+> *I need to know what's going on*<br>
+> *So come on, come on, come on, come on*<br>
+> *Come on, come on, come on*<br>
+
+Nothing happens in "Code of Silence," and nothing is resolved–the song is merely and powerfully a depiction of what it feels like to be caught and drowning in that "river so deep."
+
+In 2006, after the song won a Grammy, Bruce and Joe finally released a studio version of "Code of Silence" — but it was on one of Joe's albums rather than one of Bruce's.
+
+The arrangement is identical, the vocals are clearer, and the song is just as ferocious as ever. Here's Joe and Bruce together on "Code of Silence" from Joe's *A Good Life* album.
+
+{{< youtube yi4UJ5_Fd6E >}}
+
+**Code of Silence**<br>
+**Recorded:** June 29, 2000 (live version)<br>
+**Released:** *The Essential Bruce Springsteen* (2003, live version), *A Good Life* (2006, studio version)<br>
+**First performed:** June 12, 2000 (New York City, NY)<br>
+**Last performed:** July 18, 2015 (Asbury Park, NJ)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

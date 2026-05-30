@@ -1,0 +1,41 @@
+---
+aliases:
+- /matr-bruce-springsteen-and-sonny-kenn-the-wild-ideas-rip-it-up/
+- /15191/
+layout: post
+date: 2019-12-31T13:00:00
+lastmod: 2019-12-29T19:20:43
+title: "MatR: Bruce Springsteen and Sonny Kenn & The Wild Ideas: Rip It Up"
+slug: matr-bruce-springsteen-and-sonny-kenn-the-wild-ideas-rip-it-up
+author: Ken Rosen
+description: "Twice only during the summer of 1982: Bruce covers “Rip It Up,” Little Richard’s #1 R&B 1956 hit, at back-to-back surprise club appearances."
+tags:
+- "little-richard"
+- "rip-it-up"
+- "sonny-kenn-and-the-wild-ideas"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/12/ripitup.jpg.webp
+  post_id: 15191
+---
+Despite Bruce's admiration for Little Richard and his catalog, only two of Little Richard's three Number One R&B hits ("[Lucille]({{< relref "1976-01-07-cover-me-lucille.md" >}}/)" and "[Long Tall Sally]({{< relref "2019-04-19-cover-me-long-tall-sally.md" >}})") seem to make Bruce's set lists.
+
+Which one's missing in action? That would be "Rip It Up," which topped the R&B chart for two weeks in 1956.
+
+{{< youtube pc_F3PaYgl0 >}}
+
+"Rip It Up" hasn't gone completely unacknowledged by Bruce, however: he actually played it twice, on back-to-back nights during the summer of 1982.
+
+On Saturday night, July 31, Bruce dropped by Big Man's West in Red Bank and played "Rip It Up" (along with three other Little Richard and Chuck Berry hits) with Sonny Kenn and The Wild Ideas.
+
+The next night, Bruce made one of his open secret "surprise" appearances at The Stone Pony with house band Cats on a Smooth Surface. Perhaps influenced by his rocking set with Kenn the night before, Bruce's first song with the band that night was: "Rip It Up."
+
+Unfortunately, the Sunday night performance wasn't captured on tape, but we do have Saturday night's world debut. Here's that performance–Sonny Kenn, The Wild Ideas, and Bruce Springsteen delivering a rocking cover of Little Richard's "Rip It Up."
+
+{{< videopress id=X3VFWcJg >}}
+
+**Rip It Up**<br>
+**First performed:** July 31, 1982 (Red Bank, NJ)<br>
+**Last performed:** August 1, 1982 (Asbury Park, NJ)<br>

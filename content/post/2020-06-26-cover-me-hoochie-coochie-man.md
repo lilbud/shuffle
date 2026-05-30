@@ -1,0 +1,55 @@
+---
+aliases:
+- /cover-me-hoochie-coochie-man/
+- /19180/
+layout: post
+date: 2020-06-26T12:00:00
+lastmod: 2020-06-26T12:14:13
+title: "Cover Me: Hoochie Coochie Man"
+slug: cover-me-hoochie-coochie-man
+author: Ken Rosen
+description: "Almost 50 years ago, The Bruce Springsteen Band put their own stamp on Muddy Waters’ biggest hit. Listen to their absolutely epic “Hoochie Coochie Man” inside."
+tags:
+- "hoochie-coochie-man"
+- "muddy-waters"
+- "the-bruce-springsteen-band"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/06/hoochie.jpg.webp
+  post_id: 19180
+---
+When Muddy Waters released "Hoochie Coochie Man" in 1954, he introduced a vocal stop-time device that would quickly become one of the most recognizable riffs in any form of music, let alone the blues.
+
+{{< youtube AFxrLOVwsEE >}}
+
+"Hoochie Coochie Man" was an immediate hit–the biggest that Waters would ever have, in fact. It reached #3 on the Billboard Juke Box chart and #8 on the Best Seller Chart.
+
+For more than a year, it seemed like that riff would never leave the airwaves. First Bo Diddley lifted and economized it (from five notes to four) for "I'm a Man" in 1955.
+
+https://www.youtube.com/watch?v=SaC5ZKRjLUM
+
+Waters reclaimed his riff just two months later with his mic drop, "Mannish Boy."
+
+{{< youtube bSfqNEvykv0 >}}
+
+From that point forward, Waters' signature riff would forever be associated with the blues, and in the autumn of 1971, 22-year-old Bruce Springsteen was very much into the blues.
+
+Bruce had left his hard rock Steel Mill Days behind him by that point. He'd done a brief stint as a member of the Sundance Blues Band earlier in the year, but over the summer he decided to form his own group.
+
+The Bruce Springsteen Band started out as a big and brassy combo, at one point featuring a horn section, two backup singers, and even congas. At times, though, economics forced Bruce to field a slimmer team, and on October 23, 1971 at the University of Richmond, it was just Bruce, Steve Van Zandt, Garry Tallent, David Sancious, and Vini Lopez on the stage. And if that sounds to you like a prototypical E Street Band, I would not argue otherwise.
+
+The Bruce Springsteen Band's set that night featured a mix of Springsteen originals like "[When You Dance]({{< relref "1972-01-25-roll-of-the-dice-when-you-dance.md" >}})" and "[Goin' Back to Georgia]({{< relref "2019-03-07-roll-of-the-dice-goin-back-to-georgia.md" >}})" (the latter a Steel Mill holdover) mixed with some classic rhythm and blues covers like "[Got My Mojo Working]({{< relref "2019-01-24-cover-me-got-my-mojo-working.md" >}})," (another Muddy Waters standard) "[Not Fade Away](https://estreetshuffle.com/?p=15844)" and an absolutely epic "Hoochie Coochie Man."
+
+When you listen to the track below–preserved in amazing quality for its age and origin–keep in mind that Bruce had only just turned 22 a month earlier. The confidence in his vocal performance and virtuosity on guitar is nothing short of astounding. David Sancious takes a turn in the spotlight late in the song, too–there's some serious talent on display throughout.
+
+{{< videopress id=okrG4sPK >}}
+
+Bruce performed "Hoochie Coochie Man" only once more, just a week later (again with his eponymous band), but the first one is the superior recording.
+
+And I do mean superior.
+
+**Hoochie Coochie Man**<br>
+**First performed:** October 23, 1971 (Richmond, VA)<br>
+**Last performed:** October 30, 1971 (Richmond, VA)<br>

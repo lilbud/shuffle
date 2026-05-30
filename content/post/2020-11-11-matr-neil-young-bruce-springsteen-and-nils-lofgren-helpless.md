@@ -1,0 +1,41 @@
+---
+aliases:
+- /matr-neil-young-bruce-springsteen-and-nils-lofgren-helpless/
+- /22144/
+layout: post
+date: 2020-11-11T13:00:00
+lastmod: 2020-11-12T00:38:19
+title: "MatR: Neil Young, Bruce Springsteen, and Nils Lofgren: Helpless"
+slug: matr-neil-young-bruce-springsteen-and-nils-lofgren-helpless
+author: Ken Rosen
+description: "One time only: Bruce Springsteen, Neil Young, and Nils Lofgren perform a beautiful acoustic rendition of Neil’s “Helpless.”"
+tags:
+- "crosby-still-nash-and-young"
+- "helpless"
+- "neil-young"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/helpless.jpg.webp
+  post_id: 22144
+---
+> "Well, it's not literally a specific town so much as a feeling. Actually, it's a couple of towns. Omemee, Ontario, is one of them. It's where I first went to school and spent my ‘formative' years. Actually I was born in Toronto… *I was born in Toronto*… God, that sounds like the first line of a Bruce Springsteen song." — Neil Young, *Mojo*, December 1995
+
+Maybe if Neil Young had set his beloved "Helpless" (first recorded and released by Crosby, Stills, Nash & Young on their 1970 *Deja Vu* album) in Toronto, Bruce would have covered it sooner?
+
+{{< youtube C8LYOyqJE7k >}}
+
+As it stands, it took Bruce until 1986 to visit Neil's town in North Ontario, but it was a special moment when he did.
+
+It was at Neil and Pegi Young's first Bridge School benefit show in 1986, and Bruce was in the house to play an acoustic set that night. (Bruce put on a terrific show that's available for purchase as part of Bruce's official archive series–get it [here](https://live.brucespringsteen.net/live-music/0,22746/Bruce-Springsteen-mp3-flac-download-10-13-1986-Bridge-School-Benefit-Concert-at-Shoreline-Amphitheatre-Mountain-View-CA.html).)
+
+But Neil went first, and in the middle of his set he invited Bruce to the stage, along with Nils Lofgren, a member of both icons' bands. Side by side for the first time, the three musical legends performed a beautiful acoustic rendition of "Helpless."
+
+{{< videopress id=eQqMdMXN >}}
+
+You won't find that performance on Bruce's archive release from that night, but that's only because it's already been officially released. You can find it on the [*The Bridge Collection, Volume 2*](https://music.apple.com/us/album/the-bridge-school-collection-vol-2-live/208494388)on select streaming services.
+
+**Helpless**<br>
+**First performed:** October 13, 1986 (Mountain View, CA)<br>
+**Last performed:** October 13, 1986 (Mountain View, CA)<br>

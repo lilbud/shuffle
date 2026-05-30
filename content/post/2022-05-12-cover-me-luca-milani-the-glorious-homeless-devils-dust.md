@@ -1,0 +1,33 @@
+---
+aliases:
+- /cover-me-luca-milani-the-glorious-homeless-devils-dust/
+- /34622/
+layout: post
+date: 2022-05-12T12:00:00
+lastmod: 2022-05-11T23:40:06
+title: "Cover Me, Luca Milani & The Glorious Homeless: Devils & Dust"
+slug: cover-me-luca-milani-the-glorious-homeless-devils-dust
+author: Ken Rosen
+description: "The annual Cover Me competition is underway, and our first spotlight this year shines on Italian singer-songwriter Luca Milani’s hard-rocking re-imagining of Bruce’s Grammy-winning single."
+tags:
+- "devils-and-dust"
+- "luca-milani"
+categories:
+- "cover-me"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/05/milani.jpg.webp
+  post_id: 34622
+---
+If "[Born in the U.S.A.]({{< relref "1984-01-03-roll-of-the-dice-born-in-the-u-s-a.md" >}})," a protest song born of the blues, works as rock anthem, then why wouldn't "[Devils & Dust]({{< relref "2022-03-02-roll-of-the-dice-devils-dust.md" >}})"?
+
+"I did a version like that myself in the studio... and it worked very well," Bruce told Brian Hiatt in *Bruce Springsteen: The Stories Behind the Songs*.
+
+Italian singer-songwriter Luca Milani saw the song's potential as a straight-up rocker, too. Together with his band The Glorious Homeless, Milani worked up a full-band rock arrangement of "Devils & Dust" and recorded it for this year's edition of Noi & Springsteen's annual *Cover Me* contest devoted to creative re-imaginings of Bruce's work.
+
+It works spectacularly, preserving enough of the original arrangement to be instantly recognizable but adding urgency and dramatic emphasis that amplify the power of Bruce's lyrics rather than obfuscate them. Take a look and listen for yourself:
+
+{{< youtube 7LZVF9euwEI >}}
+
+The *Cover Me* competition for 2022 is underway, with new entries appearing by the day. If you're interested in entering, you can find full details and rules [here](https://www.noiespringsteen.com/contest/). (But move quickly–the entry deadline is May 31st!)
+
+If this year's crop of entries are as outstanding as last years, you can expect to be seeing features on contest entrants here throughout the summer. In the meantime, if you like what you heard here, check out Luca Milani's original music [here](https://www.luca-milani.com/).

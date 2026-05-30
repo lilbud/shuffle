@@ -1,0 +1,47 @@
+---
+aliases:
+- /roll-of-the-dice-love-is-a-gun/
+- /31068/
+layout: post
+date: 2021-12-10T13:00:00
+lastmod: 2021-12-22T22:13:55
+title: "Roll of the Dice: Love is a Gun"
+slug: roll-of-the-dice-love-is-a-gun
+author: Ken Rosen
+description: "Here’s a look at an early home demo of a song that never made it to the studio. There aren’t any lyrics to speak of, but Bruce was pretty far along with the music."
+tags:
+- "love-is-a-gun"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/12/lovegun.jpg.webp
+  post_id: 31068
+---
+Here's a work in progress that (as far as I can tell, at least) never ended up as a finished song in whole or in part.
+
+After the Darkness Tour ended on New Years Day 1979, Bruce retreated to his home in Holmdel and started working on material for his next album, armed with just his acoustic guitar and an ordinary cassette recorder.
+
+I have no idea how many cassettes Bruce filled with demos, drafts, or even just riffs and phrases, but judging from the number of circulating bootlegs from those "sessions," I'm guessing it was a lot.
+
+We've listened to several of these acoustic demos over the past four years, and often we can find within them a lyrical or musical seed that would bear fruit later in a different song.
+
+Today's entry is different. "Love Is a Gun" is little more than a musical exercise, with virtually non-existent lyrics. Bruce often writes his music before his lyrics, and this appears to be one of those times. "Love Is a Gun" is a complete musical piece, but good luck trying to make out any intelligible lyrics until you get to the end…. and even then, he's mostly bluffing.
+
+{{< youtube bdq3UbGrrog >}}
+
+I'm not even sure Bruce is singing *love is a gun*, to be honest. It sounds more like *under the gun*, which is actually the name of a different song (also a dead-end, although it at least made it to band rehearsal sessions) Bruce was working on around this time.
+
+It's quite possible that this acoustic demo is simply an early version of what would evolve into "[Under the Gun]({{< relref "2020-12-17-roll-of-the-dice-under-the-gun.md" >}})" with a different musical accompaniment, but we'll likely never know.
+
+But for students of Bruce's songwriting process, it's still interesting to hear an early draft of a song that never was.
+
+**Bonus:** In addition to the demo above, there's also a brief snippet of Bruce working out harmonies and a riff for "Love Is a Gun." Check it out below.<br>
+
+{{< youtube opXs1pAbrM4 >}}
+
+**Love is a Gun**<br>
+**Recorded:** January-June 1979 (demos only)<br>
+**Never released**<br>
+**Never performed**<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

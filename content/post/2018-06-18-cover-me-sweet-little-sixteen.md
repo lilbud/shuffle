@@ -1,0 +1,36 @@
+---
+aliases:
+- /cover-me-sweet-little-sixteen/
+- /2611/
+layout: post
+date: 2018-06-18T12:00:17
+lastmod: 2020-11-30T14:56:01
+title: "Cover Me: Sweet Little Sixteen"
+slug: cover-me-sweet-little-sixteen
+author: Ken Rosen
+description: "Watch a great pro-shot video of Bruce covering Chuck Berry’s classic 20 years after its release."
+tags:
+- "check-berry"
+- "darkness-tour"
+- "largo"
+- "sweet-little-sixteen"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/06/berrychuck-sweet.jpg.webp
+  post_id: 2611
+---
+“Sweet Little Sixteen” was one of Chuck Berry’s greatest hits, peaking at #2 on the Billboard Hot 100 chart. It also served as the music for another of rock’s most influential songs, “[Surfin’ U.S.A.]({{< relref "2019-06-03-matr-brian-wilson-and-bruce-springsteen-surfin-u-s-a.md" >}})”
+
+With that level of cultural influence, it’s no surprise that Bruce covered the song frequently during the seventies and eighties. Here’s one of the best, captured clearly on video, from Bruce’s Darkness show in Largo, MD on August 15, 1978.
+
+{{< youtube GtA_88vNeF0 >}}
+
+We’re also fortunate enough to have a great video of Chuck Berry performing his original version shortly just weeks after its debut in 1958.
+
+{{< youtube ZLV4NGpoy_E >}}
+
+**Sweet Little Sixteen**<br>
+**First performed:** April 28, 1973 (College Park, MD)<br>
+**Last performed:** December 17, 1989 (Ventura, CA)<br>

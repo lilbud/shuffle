@@ -1,0 +1,144 @@
+---
+aliases:
+- /roll-of-the-dice-mansion-on-the-hill/
+- /32613/
+layout: post
+date: 2022-03-06T13:15:00
+lastmod: 2024-01-03T16:31:59
+title: "Roll of the Dice: Mansion on the Hill"
+slug: roll-of-the-dice-mansion-on-the-hill
+author: Ken Rosen
+description: "How a tale of 19th-century heartbreak and a 1947 Hank Williams song led to one of the most affecting tracks on Nebraska."
+tags:
+- "mansion-on-the-hill"
+- "nebraska"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/03/mansion.jpg.webp
+  post_id: 32613
+---
+> "This is a song about when I was a kid. My father was always transfixed… he used to drive me outside of town, there was this nice white house, used to sit up on this hill. Later on, when I thought back on it… as I got older, [the house] took on a lot of meaning for me. It became very mystical, like a touchstone.
+>
+> Now when I dream, sometimes I'm outside the gates looking in, and sometimes I'm the man inside." — *Bruce Springsteen, June 29, 1984*<br>
+
+In 1886, a Nebraska banker and businessman named Leonidas Brandhoefer was seriously wooing his intended bride-to-be, who lived in Chicago. Determined to impress her with a life of luxury beyond what he could afford in the big city, Brandhoefer moved to the town of Ogallala, where land was cheap and plentiful.
+
+Ogallala was a baby town at the time–nowhere near the bustling metropolis of over 5,000 people it is today. Brandhoefer knew that if he and his intended were going to live a comfortable life, he'd need to help jumpstart the town. He ran for mayor and was elected, started a bank and a lumber business, and then he started construction on the house that he intended as a wedding gift for his beloved.
+
+And oh, what a home. He hired the best builders available from back in Chicago and (relatively) nearby Denver; he sourced the highest-quality materials New Jersey had to offer.
+
+The finished three-story, red brick Victorian home had ten-foot ceilings, sixteen-inch thick walls, two hand-carved cherry fireplaces, beautiful walnut windows, two in-home bathrooms (almost unheard of at the time), running water with a reservoir, and a plethora of beautiful and tasteful touches throughout.
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/03/170628_Mansion-on-the-Hill_Ogallala_AJD_9331-2-scaled-1.jpg.webp)
+
+Situated at the hilltop corner of 10th and Spruce Streets, the Mansion on the Hill (as it came to be called) loomed over the town of Ogallala as a symbol of luxury and prosperity. Satisfied that he'd built the perfect wedding house, he returned to Chicago to share the news with his beloved.
+
+But his beloved had betrothed another.
+
+Absent for too long, Brandhoefer was now left with his perfect home and no one to share it with. Devastated, he couldn't bear to move into it, so he sold it and the house became known as "Heartbreak House," and then later, "The Mansion on the Hill."
+
+Eighty years after Brandhoefer sold his heartbreak house, the great American singer-songwriter Hank Williams wrote a song called, "A Mansion on the Hill," with lyrics that would have hit Brandhoefer pretty close to home had he still been alive.
+
+{{< youtube pKKSMIwKfvQ >}}
+
+> *Tonight down here in the valley*<br>
+> *I'm lonesome and O how I feel*<br>
+> *As I sit here alone in my cabin*<br>
+> *I can see your mansion on the hill*<br>
+
+> *Do you recall when we parted*<br>
+> *The story to me you revealed*<br>
+> *You said you could live without loving*<br>
+> *In your loveless mansion on the hill*<br>
+
+> *I've waited all through the years love*<br>
+> *To give you a heart true and real*<br>
+> *Cause I know you're living in sorrow*<br>
+> *In your loveless mansion on the hill*<br>
+
+> *The light shine bright from yer window*<br>
+> *The trees stand so silent and still*<br>
+> *I know you're alone with your pride dear*<br>
+> *In your loveless mansion on the hill*<br>
+
+If something in your brain tugged at you while reading those lyrics, there's a good reason for that. While it's pretty commonly acknowledged that Bruce Springsteen lifted the title from Hank's 1947 recording for a song he recorded for his 1982 *Nebraska* album, Williams' influence goes way beyond the song's name.
+
+Bruce took the entire song structure and meter from Williams, and even the "silent and still" lyric. And while he substantially changed the melodic elements, it's still almost impossible to listen to Hank's and Bruce's recordings and not hear the other reflected.
+
+{{< youtube fxsHA0M8gtM >}}
+
+Thematically, Williams' wistful break-up song is very different from Bruce's childhood reminiscence. Both, however, employ the mansion as metaphor for a life that seems unattainable to their narrators.
+
+That's not a coincidence. Bruce was deep into his fascination with Williams during the Darkness era in which his "Mansion on the Hill" originates, and his 1982 recording owes so much to Williams that a plausible argument could almost be made for Williams as co-writer.
+
+But while Bruce may owe his central conceit and construction to Hank, the story he tells is all is own. On first listen, "Mansion on the Hill" is a straightforward ballad, a nostalgic memory of the town the narrator grew up in. There's a twist at the end, though–one that sheds light on its author's frame of mind at that particular moment in his life, and one that's sly enough to escape us if we're not paying attention, so let's pay attention now and take a deep listen.
+
+In his first two verses, Bruce establishes the metaphor: a grand house surrounded by gates of hardened steel–the symbol of a life off-limits and unattainable to those not born into it.
+
+> *There's a place out on the edge of town, sir*<br>
+> *Rising above the factories and the fields*<br>
+> *Now ever since I was a child I can remember*<br>
+> *That mansion on the hill*<br>
+
+> *In the day you can see the children playing*<br>
+> *On the road that leads to those gates of hardened steel*<br>
+> *Steel gates that completely surround, sir*<br>
+> *The mansion on the hill*<br>
+
+The house stands above the factories and the fields, always visible to the workers below. Children play on the road that leads to it, but they're never allowed inside.
+
+The mansion is a source of mystery and fascination. Behind its gates, inside its walls, there's music, light, and laughter–the elements of an easy life, free of care and trouble. (The phrase, "people laughing all the time" is key–it's how we know this vignette strikes a deeper chord with the narrator than he otherwise reveals.) The lively mansion grounds stand in stark contrast to the somber, silent and still streets of the town.
+
+> *At night my daddy'd take me and we'd ride*<br>
+> *Through the streets of a town so silent and still*<br>
+> *Park on a back road along the highway side*<br>
+> *Look up at that mansion on the hill*<br>
+
+> *In the summer all the lights would shine*<br>
+> *There'd be music playing, people laughing all the time*<br>
+> *Me and my sister we'd hide out in the tall corn fields*<br>
+> *Sit and listen to the mansion on the hill*<br>
+
+In a nightly ritual, father and son spend their summer evenings looking up at the mansion, imagining an unimaginable life. There's an implicit statement here, one that recurs often in Bruce's work: as it is with the father, so shall it be with the son. (We'll witness a similar ritual a year or so later in "[My Hometown]({{< relref "1983-01-12-roll-of-the-dice-my-hometown.md" >}}).") Our narrator is destined to live his life on the outside of those gates, just like his father before him.
+
+Or is he?
+
+Because in his last verse, the famously specific songwriter introduces just enough ambiguity to make us wonder.
+
+> *Tonight down here in Linden Town*<br>
+> *I watch the cars rushing by home from the mill*<br>
+> *There's a beautiful full moon rising*<br>
+> *Above the mansion on the hill*<br>
+
+There are two ways to hear this verse. Common to both of them is a flash forward to the present–we're now listening to the grown narrator at the end of a working day. But is he following in his father's footsteps, a worker looking up at the mansion from down in the town, dreaming of a life of luxury? Or is he now the man in the mansion, far removed from his beginnings but unable to forget them?
+
+When Bruce recorded "Mansion on the Hill" in the winter of 1981-82, he had just finished the year-long River Tour that established him as a bona fide global star. Still very much identifying with his blue collar origins, Bruce was beginning to get a sense of life in the mansion, and that transition was evincing itself in his lyrics–something he seemed to directly acknowledge when he introduced the song before its live debut in 1984.
+
+{{< youtube 9gnfbb5m_Yw >}}
+
+Bruce played "Mansion on the Hill" frequently during those first years of financial security, an odd set list choice given the quiet intimacy of the song and the ever-increasing size of his audiences and venues. And each time, he'd introduce it the same way–by remembering those drives he took with his father past the neighboring but unreachable mansion.
+
+{{< youtube fHpcfoVQ4eA >}}
+
+{{< youtube R8isx2H-imY >}}
+
+In later years, the arrangement would become more elaborate, and Bruce's vocals would lose their childlike wonder. "Mansion on the Hill" remained an emotional touchstone, but perhaps a bit less visceral for him than it had been decades earlier. If you live in it long enough, even a mansion feels like home.
+
+{{< youtube nccjJ3GUI5U >}}
+
+{{< videopress id=AwPjfTip >}}
+
+After four decades of living in the mansion, Bruce's song has become a rarity, with only seven 21st-century set list appearances compared to 130 in the twenty years before. It's always a special moment when it appears, though, and a signal that perhaps Bruce is feeling a bit nostalgic that night.
+
+{{< youtube kPD2ZBo9_Fc >}}
+
+And as for the original Mansion on the Hill, it still stands in its original location at 10th and Spruce, listed on the National Register of Historic Places since 1973. It's a museum today, open to the public should you ever find yourself driving through Ogallala.
+
+**Mansion on the Hill**<br>
+**Recorded** December 1981-January 1982<br>
+**Released:** *Nebraska* (1982)<br>
+**First performed:** June 29, 1984 (St. Paul, MN)<br>
+**Last performed:** February 7, 2016 (Hollywood, FL)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

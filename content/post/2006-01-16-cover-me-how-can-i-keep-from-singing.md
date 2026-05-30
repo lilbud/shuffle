@@ -1,0 +1,55 @@
+---
+aliases:
+- /cover-me-how-can-i-keep-from-singing/
+- /13196/
+layout: post
+date: 2006-01-16T19:00:00
+lastmod: 2026-01-11T23:17:32
+title: "How Can I Keep From Singing"
+slug: cover-me-how-can-i-keep-from-singing
+author: Ken Rosen
+description: "Buried away on the bonus DVD that accompanied the original Seeger Sessions album release, Bruce’s arrangement of “How Can I Keep From Singing” was too beautiful to keep hidden away for long. Listen to beautiful choral performances inside."
+tags:
+- "how-can-i-keep-from-singing"
+- "pete-seeger"
+- "we-shall-overcome-the-seeger-sessions-american-land-edition"
+categories:
+- "cover-me"
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/11/singing.jpg.webp
+  post_id: 13196
+---
+Here's one of the most under-the-radar officially released Springsteen tracks: a cover of a Christian hymn that dates back to at least the American Civil War era, about a devout but persecuted worshiper who refuses to surrender his faith.
+
+The most notable recording–and probably the one that caught Bruce's attention–was Pete Seeger's rendition. Seeger's version of "How Can I Keep From Singing" updates the song with a modern verse that refers to persecution that's more political than religious:
+
+> *When tyrants tremble, sick with fear, and hear their death-knell ringing*<br>
+> *When friends rejoice both far and near, how can I keep from singing?*<br>
+
+> *In prison cell and dungeon vile, our thoughts to them go winging*<br>
+> *When friends by shame are undefiled, how can I keep from singing?*<br>
+
+{{< youtube SRIY2SrYq98 >}}
+
+Bruce's version keeps the first half of that verse but otherwise keeps his cover trim and taut, clocking in at 2:18 and letting the singers' harmonies communicate the faith and solidarity at the heart of the song better than the lyrics can.
+
+{{< youtube 3qQ6rvBaQJ8 >}}
+
+In the recording above, Bruce is just another member of the choir, his voice at equal power with the rest of the singers. Perhaps that's why he held the song back from the original release of *We Shall Overcome: The Seeger Sessions*, releasing it only months later on the American Land Edition (although the song was also hidden away on the DVD that accompanied the original album release).
+
+When Bruce added "How Can I Keep From Singing" to the set list during his U.K. visit in 2006, however, there was definitely a lead voice in the mix–and it wasn't Bruce's.
+
+{{< videopress id=97TvPBiE >}}
+
+When performed live, "How Can I Keep From Singing" provided a rare spotlight for Patti's gorgeous vocals, and as for the rest of the Sessions choir–their harmonies blended even better on stage than on record.
+
+Those lucky Brits–they're the only ones who got to experience this song live in all three of its only performances ever.
+
+**How Can I Keep From Singing?**<br>
+**Recorded** January 21, 2006<br>
+**Released:** *We Shall Overcome: The Seeger Sessions (American Land Edition)* (2006)<br>
+**First performed:** May 7, 2006 (Manchester, England)<br>
+**Last performed:** May 9, 2006 (London, England)<br>
+
+© November 21, 2019

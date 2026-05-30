@@ -1,0 +1,37 @@
+---
+aliases:
+- /cover-me-moa-holmsten-badlands/
+- /26961/
+layout: post
+date: 2021-04-29T12:00:00
+lastmod: 2021-04-29T01:49:48
+title: "Cover Me, Moa Holmsten: Badlands"
+slug: cover-me-moa-holmsten-badlands
+author: Ken Rosen
+description: "A case of writer’s block led a Swedish heavy metal/avant-garde artist to cover an unfamiliar American rock star, and the result was one of the best Springsteen covers ever."
+tags:
+- "badlands"
+- "moa-holmsten"
+categories:
+- "cover-me"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/04/moabadlands.jpg.webp
+  post_id: 26961
+---
+Swedish recording artist Moa Holmsten fronted metal and punk bands before going solo with her own avant-garde material.
+
+Nothing in that previous sentence would suggest the source of some of the very best Springsteen covers out there, and yet here we are.
+
+Faced with writer's block coming off of her second solo album *Do You Want Me, Death*, Moa decided that the way back to her own creativity was by re-interpreting another artist's work. But who to choose?
+
+Moa had a few rules for selecting an artist, which she shared in a [RudolphsMusic interview](https://www.rudolfsmusic.com/moa-holmsten-interview/): "Someone that was far from my own music, someone that was pretty new to me and that had a big catalogue of songs. Voila... there is Bruce Springsteen."
+
+The first song she tackled was "[My Hometown]({{< relref "1983-01-12-roll-of-the-dice-my-hometown.md" >}})." Pleased with that one, she and producer Tony Naima decided to cover Bruce's 1978 anthem, "[Badlands]({{< relref "2016-01-20-roll-of-the-dice-badlands.md" >}})." The result was one of the very best, most daring, and most inventive Springsteen covers ever.
+
+{{< youtube aAWiDQnQhm0 >}}
+
+Somehow Holmsten and Naima saw a barroom sea shanty hiding in the heart of Bruce's 1978 anthem, and they brought it to the fore in an arrangement guaranteed to get stuck in your head (in the very best way).
+
+"Badlands" unlocked the door to a flood of Springsteen covers, which Holmsten and Naima collected and released on a 2014 album entitled *Bruised Arms & Broken Rhythm*. While I may yet feature another cover or two from that album, every track on it is worth listening to, and I encourage you to seek it out.
+
+Check out more of Moa's music at her web site [here](https://meetmoa.com/).

@@ -1,0 +1,72 @@
+---
+aliases:
+- /roll-of-the-dice-cover-me-freedom-cadence/
+- /8403/
+layout: post
+date: 2019-04-15T12:00:00
+lastmod: 2020-12-10T15:52:35
+title: "Roll of the Dice/Cover Me: Freedom Cadence"
+slug: roll-of-the-dice-cover-me-freedom-cadence
+author: Ken Rosen
+description: "Part cover, part adaptation, part tribute, part reminder: Bruce’s “Freedom Cadence” connects the dots from “Born in the U.S.A.’s” Vietnam vet to today’s Iraq war veterans."
+tags:
+- "freedom-cadence"
+- "some-say-freedom-is-free"
+- "thank-you-for-your-service"
+categories:
+- "cover-me"
+- "cover-you"
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/04/thankyou.png.webp
+  post_id: 8403
+---
+"Some Say Freedom is Free" is a soldier's marching cadence originally credited to Private First Class Roger L. Southard. With each generation, the cadence is passed down, its lyrics altered and (tragically) updated with each successive war.
+
+Search the Internet and you'll find dozens of examples, like at the 3:52 mark below.
+
+{{< youtube 8TsYsnsQIQo >}}
+
+In 2017, Jason Hall wrote and directed a movie about Iraq War veterans suffering from PTSD. The movie was based on and shares its name with a book by David Finkel, *Thank You For Your Service*, based on the true experiences of Staff Sergeant Adam Schumann.
+
+While making the movie, Schumann recalled and recounted the cadence he'd sung in bootcamp, and producer Jon Kilik recorded it on his phone. Jon played it for his friend Bruce Springsteen, who loved both the cadence and the movie.
+
+Bruce asked Jon for the recording of the cadence, and asked Jon and Schumann to come and see him.
+
+They did, and that's how Schumann ended up providing backing vocals (along with Kilik) on Bruce's recording of "Freedom Cadence," which played over the end credits of the film upon its release.
+
+Bruce didn't alter the melody one bit, but he arranged it for pump organ and banjo, anchoring the song in its history, while carrying it forward through Ron Aniello's drum loops and electric keyboards.
+
+The result is captivating and haunting:
+
+{{< youtube 4zwkklT8sR4 >}}
+
+In time-honored fashion, Bruce did adapt the lyrics however, and he did so with callbacks to "[Born in the U.S.A.]({{< relref "1984-01-03-roll-of-the-dice-born-in-the-u-s-a.md" >}})" that can't be accidental:
+
+> *Some say freedom is free, but I tend to disagree*
+> *I say freedom is won through the barrel of a gun*
+> *Had a brother in Iraq, he didn't come back*
+> *I ask why oh why do soldiers gotta die*
+> *Some say freedom is free, but I tend to disagree*
+> *I say freedom is won through the blood of someone's son*
+
+> *Some say freedom is free, but I tend to disagree*
+> *I say freedom is won through the barrel of a gun*
+> *Daddy died in Vietnam, he was killed at Khe Sanh*
+> *I ask why oh why do soldiers gotta die*
+> *Some say freedom is free, but I tend to disagree*
+> *I say freedom is won through the blood of someone's son*
+
+> *Some say freedom is free, but I tend to disagree*
+> *I say freedom is won through the barrel of a gun*
+> *Had a brother in Iraq, he didn't come back*
+> *I ask why oh why do soldiers gotta die*
+
+The reference to a brother who didn't come back, to a father who was killed at Khe Sanh–one can almost imagine the song is being sung by the son of the brother left in Khe Sanh in "[Born in the U.S.A.]({{< relref "1984-01-03-roll-of-the-dice-born-in-the-u-s-a.md" >}})," providing a through line that reminds us of our lasting duty to those who sacrifice for our freedom.
+
+**Freedom Cadence**<br>
+**Recorded:** 2017<br>
+**Released:** *Thank You For Your Service* (2017)<br>
+**Never performed**<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

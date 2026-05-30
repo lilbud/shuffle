@@ -1,0 +1,121 @@
+---
+aliases:
+- /roll-of-the-dice-my-love-will-not-let-you-down/
+- /397/
+layout: post
+date: 2018-01-24T15:00:23
+lastmod: 2024-01-01T22:25:39
+title: "Roll of the Dice: My Love Will Not Let You Down"
+slug: roll-of-the-dice-my-love-will-not-let-you-down
+author: Ken Rosen
+description: "Springsteen’s “My Love Will Not Let You Down” – an introvert’s inner scream"
+tags:
+- "18-tracks"
+- "born-in-the-usa"
+- "dancing-in-the-dark"
+- "live-in-nyc"
+- "my-love-will-not-let-you-down"
+- "tracks"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/01/mylove.jpg.webp
+  post_id: 397
+---
+For every song that made it on a Springsteen album, there's one (and usually a lot more) that didn't. The man is nothing if not prolific.
+
+Many of the outtakes eventually make their way into circulation, either officially or unofficially, and you can usually understand why they were left off the album. Not because they weren't great songs, though–Bruce has very few clunkers.
+
+Sometimes, it's because the song didn't fit the theme of the album or the message Bruce was trying to convey. (Bruce had enough recorded material to fuel an entire power pop album instead of [*Darkness on the Edge of Town*]({{< relref "2022-07-05-album-companion-darkness-on-the-edge-of-town.md" >}}) had he so desired. Sometimes, the song might be too close in theme or sound to other material. And sometimes, it's just a matter of how much music you can fit on one piece of vinyl (or CD).
+
+But for the life of me, I cannot fathom why Bruce left "My Love Will Not Let You Down" off of *Born in the U.S.A*.
+
+Seriously. Turn up the volume, press play below, and tell me you don't get an adrenaline rush:
+
+{{< youtube c7ky70i_VGc >}}
+
+Had this song made it onto *Born in the U.S.A.* (reportedly, Bruce's manager Jon Landau wanted it as the opener to Side 2), there's no doubt in my mind that it would have been an absolute monster hit. Instead, it was released 16 years after it was recorded buried smack in the middle of the *Tracks* box set of coulda-shoulda outtakes.
+
+It's not only the most powerful rock anthem Bruce ever wrote (IMHO)–it's also a fascinating counterpoint to "[Dancing in the Dark]({{< relref "2022-07-05-album-companion-darkness-on-the-edge-of-town.md" >}})." (In my dream album sequence for *Born in the U.S.A.*, "Dancing' would open side two, and "My Love' would close it.)
+
+In "Dancing in the Dark," the narrator is nocturnal, isolated and disconnected:
+
+*I get up in the evening, and* *I ain't got nothing to say*<br>
+> *I come home in the morning*<br>
+> *I go to bed feeling the same way*<br>
+> *I ain't nothing but tired*<br>
+> *Man , I'm just tired and bored with myself*<br>
+
+The narrator of "My Love Will Not Let You Down" lives during the day. He feels the same sense of isolation, but a sense of resignation is replaced by desperation:
+
+> *At night I go to bed, but I just can't sleep*<br>
+> *I got something running around my head that just won't keep*<br>
+> *In the silence, I hear my heart beating, time slipping away*<br>
+> *I got a time bomb ticking deep inside of me*<br>
+
+Both narrators make a plea for connection, but where "Dancing" guy is looking for a temporary physical fix…
+
+> *Hey there, baby: I could use just a little help*<br>
+> *You can't start a fire without a spark*<br>
+> *This gun's for hire, even if we're just dancing in the dark.*<br>
+
+…"My Love" guy wants the real thing. He knows his love is out there somewhere (the song is sung to a love he searches for but never finds), and he's determined to find her and prove himself:
+
+> *Girl, all I want to say: I keep searching for you darling, searching every where I go*<br>
+> *And when I find you there's gonna be just one thing that you gotta know:*<br>
+> *My love will not let you down.*<br>
+
+The "Dancing" narrator is self-obsessed:
+
+> *I want to change my clothes, my hair, my face*<br>
+> *Man, I ain't getting nowhere loving in a dump like this.*<br>
+
+> *I'm dying for some action*<br>
+> *I'm sick of sitting 'round here trying to write this book*<br>
+> *I need a love reaction*<br>
+> *Come on now baby, gimme just one look.*<br>
+
+The "My Love" narrator shows no self-loathing. but instead hints at an inability to spark the connection he seeks. His inner fire and bravery is belied by his outward shyness and hesitation:
+
+> *At night I walk the streets looking for romance*<br>
+> *But I always end up stumbling in a half-trance*<br>
+> *I search for connection in some new eyes*<br>
+> *that hardly protect you from too many dreams passed by*<br>
+> *I see you standing across the room, watching me without a sound*<br>
+> *I'm gonna push my way through that crowd*<br>
+> *I'm gonna tear all your walls do*<br>
+
+The irony, as any introvert will have already realized, is that it isn't *her* walls holding him back.
+
+Does the hero get the girl? I suspect not. His last lines are:
+
+> *Hold still now, darling–hold still for God's sake*<br>
+> *‘Cause I got me a promise that I ain't afraid to make*<br>
+
+…and then the song ends as he repeats his promise over and over:
+
+> *My love will not let you down.*<br>
+
+In my mind's eye, the subject of his affection walks away while he struggles in vain to get up the nerve to talk to her.
+
+On the surface, the lyrics are a powerful declaration of love–or at least an intent to love. Below the surface, this song is a conflict between the inner and outer introvert's dialog : How do I express my fire and feelings when I don't know how to start a conversation? It certainly resonates with me; had it been released on *Born in the U.S.A.* during my high school years, it would have been my personal anthem.
+
+This song is also a great example of how Springsteen uses music to slyly steer a song toward a particular interpretation. To the best of my knowledge, "My Love" has never been performed acoustically, but there's no doubt in my mind that there's an acoustic arrangement waiting to be debuted that lays bare the loneliness and isolation of the narrator. (No accident, I think, that the song was recorded in early 1982, in the *Nebraska* era.)
+
+Instead, when the full power of the E Street Band powers forward five seconds after Max Weinberg's opening drumbeat, there's no doubt that we're living in the narrator's inner fantasy world–all fire, passion, determination, declaration, *celebration*. It also features one of Bruce's most impassioned vocals, both on record and on stage. (Also, making "love" a six-plus-syllable word? Genius.)
+
+When Bruce debuted the song live in concert at the beginning of the 1999 Reunion tour, it immediately became a fan favorite. While it hasn't been a setlist staple since, it's never been gone for long either–making enough appearances on every tour for most ardent fans to catch it. Whenever it appears, no matter where it is in the setlist, it lights the arena on fire and sets the audience a-pogo. Max's furious drum solo near the end of the song elevates the song even higher for the coda.
+
+Bruce clearly enjoys singing it as much as fans love hearing it–not just because it's a great song, but because of that fourth-wall-breaking hook: "My love will not let you down." We hear it as a promise to us, his fans: Thanks for sticking with me. I'll never let you down.
+
+No surprise that Bruce opened his first U.S. reunion show with the E Street Band with this song. I expect it to continue to be a frequent setlist guest ever after.
+
+{{< youtube i0gycxFYxiA >}}
+
+**My Love Will Not Let You Down**<br>
+**Recorded:** May 5, 1982<br>
+**Released:** *Tracks* (1998), *18 Tracks* (1999), *Live in New York City* (2001)<br>
+**First performed:** March 18, 1999 (Asbury Park, NJ)<br>
+**Last performed:** July 13, 2023 (Copenhagen, Denmark)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

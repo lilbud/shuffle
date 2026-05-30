@@ -1,0 +1,57 @@
+---
+aliases:
+- /cover-me-good-rockin-tonight/
+- /20116/
+layout: post
+date: 2020-09-17T12:00:00
+lastmod: 2020-09-17T02:59:30
+title: "Cover Me: Good Rockin' Tonight"
+slug: cover-me-good-rockin-tonight
+author: Ken Rosen
+description: "Throughout the Darkness Tour, Bruce often announced his arrival with the song that announced the arrival of rock itself."
+tags:
+- "elvis-presley"
+- "good-rockin-tonight"
+- "good-rocking-tonight"
+- "roy-brown"
+- "wynonie-harris"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/09/goodrockin.jpg.webp
+  post_id: 20116
+---
+Have you heard the news? It sounds like the future.
+
+"Good Rockin' Tonight" may or may not be the original rock and roll song. (If I've learned anything from Andrew Hickey's excellent *A History of Rock Music in 500 Songs* podcast–and I've learned a *lot–*it's a fool's endeavor to try to pinpoint a single origin for rock and roll.)
+
+But we can at least say this: if Roy Brown's 1947 recording of "Good Rockin' Tonight" isn't the big bang of rock music, then it at least announced rock's arrival with one of the greatest opening lines in history.
+
+{{< youtube cgdzS4OSQ1M >}}
+
+Brown's recording of "Good Rockin' Tonight" was a hit, peaking at #13 on the Billboard R&B chart.
+
+But Wynonie Harris' cover–released the following year–added the all-important backbeat and made it all the way to #1, refusing to leave the chart for six months. (Harris actually turned down an option to be the first to record and release "Good Rockin' Tonight" when Brown, a fan of Harris, approached him first with the opportunity.)
+
+{{< youtube SllhnR7D8LA >}}
+
+"Good Rockin' Tonight" also helped announce Elvis Presley's arrival onto the rock and roll scene when it became his sophomore single in 1954. Elvis freshened the song, dropping its dated namechecks and adding a Scotty Moore guitar solo.
+
+{{< youtube 6FeWJHUB8aU >}}
+
+It was undoubtedly Elvis' cover that made a lasting impression on Bruce Springsteen. When Bruce covered the song throughout his 1978 Darkness on the Edge of Town Tour, we can clearly hear (and see, in this remarkably clear bootleg video) Bruce imitate the King's vocal stylings on phrases like "mighty, mighty man," and the overall arrangement hews pretty closely to the Elvis version (but at a Harris tempo).
+
+{{< youtube 0dOKvrHVIrc >}}
+
+"Good Rockin' Tonight" made a few follow-up appearances on the River Tour, but then it vanished from Bruce's set list for more than a quarter-century. It finally reappeared for a one-off late on the Magic Tour and has made two follow-up appearances since.
+
+In its last appearance (to date) on a Springsteen set list, Bruce brought "Good Rockin' Tonight" almost full circle, taking full advantage of the E Street Band's expanded horn section for an arrangement similar to the Harris version that first made the song a monster hit.
+
+{{< youtube aKqGDgXMFjM >}}
+
+It's been more than eight years since we last heard from one of rock's earliest hits, but its milestone importance suggests we haven't heard the last of it.
+
+**Good Rockin' Tonight**<br>
+**First performed:** August 19, 1978 (Philadelphia, PA)<br>
+**Last performed:** September 2, 2012 (Philadelphia, PA)<br>

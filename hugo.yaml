@@ -1,0 +1,13 @@
+baseURL: ''
+disablePathToLower: true
+refLinksErrorLevel: "warning"
+refLinksNotFoundURL: "/404"
+locale: en-us
+title: E Street Shuffle Revival
+permalinks:
+  page: "/:year/:month/:day/:slug/"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+

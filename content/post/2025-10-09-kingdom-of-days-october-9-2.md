@@ -1,0 +1,97 @@
+---
+aliases:
+- /kingdom-of-days-october-9-2/
+- /61076/
+layout: post
+date: 2025-10-09T11:00:55
+lastmod: 2025-10-03T19:56:49
+title: "Kingdom of Days: October 9"
+slug: kingdom-of-days-october-9-2
+author: Ken Rosen
+description: "It’s Bruce’s first show in Indiana and the Ivory Coast, and his last-ever show at Giants Stadium. Both happened on this date–more highlights inside."
+tags:
+- "detroit"
+- "devils-and-dust-tour"
+- "east-rutherford"
+- "giants-stadium"
+- "human-rights-now-tour"
+- "ivory-coast"
+- "lawsuit-tour"
+- "magic-tour"
+- "notre-dame"
+- "river-tour"
+- "south-bend"
+- "the-last-time"
+- "thundercrack"
+- "uniondale"
+- "working-on-a-dream-tour"
+- "wrecking-ball"
+categories:
+- "kingdom-of-days"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/10/20091009_booklet2.jpg.webp
+  post_id: 61076
+---
+***New for 2025:** No updates*<br>
+
+**1973:** Bruce plays at Grendel's Lair Coffee House in Philadelphia.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/10/1973-10-09.png.webp)
+
+**1976:** Bruce plays his first-ever show in Indiana, at the University of Notre Dame in South Bend. Following the show, Bruce and the band jam with Otis Rush on stage at a nearby club.<br>
+
+{{< youtube y65r87DErrw >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/10/1976-10-09.jpg.webp)
+
+**1979:** At the Power Station in New York City, Bruce and the E Street Band record "[Where the Bands Are.]({{< relref "2018-11-08-roll-of-the-dice-where-the-bands-are.md" >}})" The song will remain unreleased for almost 20 years.<br>
+
+{{< youtube 7FrUma-rtZA >}}
+
+**1980:** The River Tour moves on to Detroit's Cobo Arena, where Bruce and the boys close with a tour one-off of "[Quarter to Three](../2021-08-21-cover-me-quarter-to-three/post.md/)" (following the first "[Detroit Medley]({{< relref "1976-01-02-cover-me-detroit-medley.md" >}}/)" with "I Hear a Train" in it). After the show, Bruce is interviewed for the January 1981 issue of *Creem Magazine.*<br>
+
+{{< videopress id=nldSXriz >}}
+
+{{< youtube-playlist PLJTyL9twk3zAY05QslAQUnlshn4EyaLM8 >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/10/The_Windsor_Star_1980_10_10_25.jpg.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/09/creem.jpg.webp)
+
+**1988:** Bruce plays his first and only show to date in the Ivory Coast when the Human Rights Now! Tour stops there for a show.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/09/1988-10-09.jpg.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/10/1988-1009.jpg.webp)
+
+**1992:** A scheduled show at Mountain View's Shoreline Amphitheater is postponed until later in the month after Bruce takes ill.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/10/1992-10-08.jpg.webp)
+
+**2005:** Bruce opens his solo acoustic show at the Nassau Coliseum with a rare "Stolen Car."<br>
+
+{{< videopress id=7Uotb7nK >}}
+
+{{< videopress id=Yg4xtYkI >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/10/2005-10-09-scaled.jpg.webp)
+
+**2007:** It's a standard set at Magic Tour Night One at East Rutherford's Continental Airlines Arena, but surprises are in store for Night Two.<br>
+
+{{< youtube rw8nbrZzYPk >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/09/2007-10-09a.jpg.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/09/2007-10-09b.jpg.webp)
+
+**2009:** Bruce and the E Street Band play their last-ever show at Giants Stadium, sending it off in style with a final "[Wrecking Ball]({{< relref "2016-01-17-roll-of-the-dice-wrecking-ball.md" >}})" to open and a cover of "[The Last Time]({{< relref "2020-07-24-cover-me-the-last-time.md" >}})" in the encores.<br>
+
+{{< youtube UvtrrLkreH8 >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/09/2009-10-09a.jpg.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/09/2009-10-09b.jpg.webp)
+
+**2023:** After a two-year hiatus, *From My Home to Yours* returns for an encore episode on Sirius XM with Episode 30, with some special guests from Bruce's high school days along for the ride.<br>
+
+{{< videopress id=ndFv6eD3 >}}

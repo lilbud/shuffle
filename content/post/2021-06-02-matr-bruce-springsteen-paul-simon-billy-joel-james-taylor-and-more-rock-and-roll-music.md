@@ -1,0 +1,59 @@
+---
+aliases:
+- /matr-bruce-springsteen-paul-simon-billy-joel-james-taylor-and-more-rock-and-roll-music/
+- /27052/
+layout: post
+date: 2021-06-02T12:00:00
+lastmod: 2021-06-02T12:14:53
+title: "MatR: Bruce Springsteen, Paul Simon, Billy Joel, James Taylor, and more: Rock and Roll Music"
+slug: matr-bruce-springsteen-paul-simon-billy-joel-james-taylor-and-more-rock-and-roll-music
+author: Ken Rosen
+description: "One time only: Bruce leads an all-star line-up on a raucous cover of Chuck Berry’s “Rock and Roll Music.”"
+tags:
+- "billy-joel"
+- "chuck-berry"
+- "james-taylor"
+- "paul-simon"
+- "rock-and-roll-music"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/rrmusic.jpg.webp
+  post_id: 27052
+---
+The first time Bruce Springsteen performed with Chuck Berry, the rock pioneer had no idea who Bruce was. That's understandable, though–in April 1973, hardly anyone did.
+
+But when Bruce and his band (they didn't even have a name at the time, that's how early this was) were hired to open for Berry, Bruce begged the promoter to let his band back the headliner for his set, too.
+
+Let's let Bruce pick up the story from here:
+
+{{< videopress id=1Xt1C7qI >}}
+
+Bruce may not have remembered what Berry opened with that night, but their second song was "Rock and Roll Music," one of Berry's greatest hits.
+
+{{< youtube k_F1mmC3Nhg >}}
+
+Berry took "Rock and Roll Music" to #8 on the Billboard Hot 100 in 1957, but it wasn't just a hit for the original artist. The Beatles took it to the top of the charts in Europe in 1965...
+
+{{< youtube 5gbb1gLhI3o >}}
+
+...and The Beach Boys took it to #5 in the U.S. in the summer of '76.
+
+{{< youtube xzyLAfOGc4U >}}
+
+But it's the original version that endures. *Rolling Stone* ranked it #128 on their 500 Greatest Songs of All Time list, and the Rock and Roll Hall of Fame includes it in their 500 Songs That Shaped Rock and Roll.
+
+Unfortunately, no recording circulates (if it exists at all) of Bruce and Chuck's first performance together, but we do have a great video of Bruce's second-ever public performance of "Rock and Roll Music."
+
+The date was December 13, 1987, the venue was Madison Square Garden, and the occasion was Paul Simon's All Star Benefit for the Homeless Children. Paul assembled a truly stellar line-up for the occasion, and they all took the stage for the "Rock and Roll Music" finale.
+
+Paul Simon, Billy Joel, and James Taylor all took turns on lead vocals, but it was Bruce who served as the ensemble's true frontman–and it went over so well that Bruce launched them into a reprise that lasted almost as long as their first go.
+
+{{< videopress id=OoSDUzQr >}}
+
+Bruce did get to perform "Rock and Roll Music" once more with Berry–at the finale of the Rock and Roll Hall of Fame inaugural concert in 1995. There were a lot more musicians on stage than the last time, but this time *everyone* knew who Bruce was.
+
+**Rock and Roll Music**<br>
+**First performed:** April 28, 1973 (College Park, MD)<br>
+**Last performed:** September 2, 1995 (Cleveland, OH)<br>

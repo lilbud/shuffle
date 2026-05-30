@@ -1,0 +1,79 @@
+---
+aliases:
+- /kingdom-of-days-july-10-2/
+- /57665/
+layout: post
+date: 2025-07-10T11:00:36
+lastmod: 2026-03-02T23:24:49
+title: "July 10"
+slug: kingdom-of-days-july-10-2
+author: Ken Rosen
+description: "The Bruce Springsteen Band debuted on this date in 1971. Listen to their first performance inside, plus more highlights from this date in history."
+tags:
+- "castiles"
+- "cats-on-a-smooth-surface"
+- "cc-rider"
+- "down-the-road-a-piece"
+- "john-hammond"
+- "london"
+- "sheffield"
+- "stone-pony"
+- "tunnel-of-love-tour"
+- "uk"
+- "wembley"
+- "western-stars"
+- "world-tour-1992"
+categories:
+- "kingdom-of-days"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/06/19880710_front.jpg.webp
+  post_id: 57665
+---
+**1966:** The Castiles play a brief set at the Surf ‘N' See Club in Sea Bright, New Jersey.<br>
+
+**1971:** The Bruce Springsteen Band makes its debut, headlining at Brookdale Community College's 2nd Annual "Nothing's Festival" in Lincroft, New Jersey. (There wasn't a first annual festival, and the show is free and unpaid–but a gig's a gig.)<br>
+
+{{< youtube AqnlX8oq-2g >}}
+
+{{< youtube zWURsgK_-4M >}}
+
+{{< youtube r6all5hMCWY >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/06/1971-07-10.jpg.webp)
+
+**1983:** Bruce joins Cats on a Smooth Surface for five songs at The Stone Pony in Asbury Park, including "Wooly Bully" and "Little Latin Lupe Lu."<br>
+
+**1987:** Columbia Records producer, executive, and Bruce Springsteen-signer John Hammond passes away at the age of 76. Here's Bruce talking about his admiration for Hammond in an early interview.<br>
+
+{{< youtube C3OJKnbSQb0 >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/06/1987-07-10.jpg.webp)
+
+**1988:** Bruce and the E Street Band play their second of two Tunnel of Love shows at Bramall Lane in Sheffield.<br>
+
+{{< videopress id=EZbUAKue >}}
+
+[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zATGqy6HjddIRTztJhrdWsH)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/07/The_Miami_Herald_1988_07_11_9-scaled.jpg.webp)
+
+**1990:** Sixteen years after its original release, *The Wild, The Innocent & The E Street Shuffle* is finally certified platinum by the Recording Industry Association of America.<br>
+
+[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=OLAK5uy_kVpI9n-dmnHW7df2Iloxk8nXaya4yEzEw)
+
+**1992:** Night Three of five at Wembley Arena on World Tour 1992 features an acoustic "Dancing in the Dark."<br>
+
+{{< youtube a-SPT1ZR_Eo >}}
+
+{{< youtube EvQUeL841A0 >}}
+
+**2018:** *Springsteen on Broadway* resumes its theatrical run at the Walter Kerr Theater in New York City after a nine-day break. Patti is absent tonight, so Bruce drops their duets and instead substitutes "Long Time Comin'" in their place. To make up for playing one fewer song than usual, Bruce adds an encore of sorts: "This Hard Land."<br>
+
+{{< videopress id=Rt2JA6ng >}}
+
+**2019:** Bruce breaks news when he calls in to E Street Radio: a new film is on the way, a concert film based on *Western Stars*, directed by Thom Zimny. When it's released later in the year, Bruce will take a co-director credit.<br>
+
+[https://estreetshuffle.com/wp-content/uploads/2025/07/2019-07-10-Bruce-on-E-St-Radio.mp3](https://estreetshuffle.com/wp-content/uploads/2025/07/2019-07-10-Bruce-on-E-St-Radio.mp3)
+{{< audio url="https://estreetshuffle.com/wp-content/uploads/2025/07/2019-07-10-Bruce-on-E-St-Radio.mp3" >}}
+
+**2021:** *Springsteen on Broadway* continues its limited return engagement at the St. James Theater in New York City.<br>

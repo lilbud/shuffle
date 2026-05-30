@@ -1,0 +1,92 @@
+---
+aliases:
+- /roll-of-the-dice-drop-on-down-and-cover-me/
+- /14888/
+layout: post
+date: 1984-01-16T19:10:00
+lastmod: 2026-02-18T22:54:36
+title: "Drop on Down and Cover Me"
+slug: roll-of-the-dice-drop-on-down-and-cover-me
+author: Ken Rosen
+description: "The shoulda-been “Cover Me” that never was."
+tags:
+- "cover-me"
+- "drop-on-down-and-cover-me"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/12/dropcover.jpg.webp
+  post_id: 14888
+---
+This.
+
+*This* is what should have been on *Born in the U.S.A.* instead of "Cover Me."
+
+Even Bruce must have recognized at some point just that "Cover Me" wasn't ready for prime time, because he continued to work on the song long, long after he recorded the version that's on the album.
+
+In early June of 1983–almost a year and a half after he recorded "Cover Me," Bruce went back into the studio with the E Street Band and recorded a much, *much* stronger version of it. While the lyrics were still largely the same, Bruce stripped out the paranoid urgency, dialed up the tenderness, and set it all against one of his best mid-eighties backing tracks (a melody so good, in fact, that he'd nick it a couple of weeks later for "Janey, Don't You Lose Heart").
+
+The result: "Drop on Down and Cover Me," which I'd rank at or very near the top of the still-missing-in-action outtakes crying out for an official release.
+
+Take a listen:
+
+{{< youtube 4iQh-UzJiH4 >}}
+
+I'm not sure there's a better example of how subtle changes can dramatically alter a song than "Drop on Down and Cover Me." The lyrics undoubtedly sound very familiar–most of them are virtually identical.
+
+> *Times are tough there baby*<br>
+> *It's getting tougher now*<br>
+> *This world is rough honey*<br>
+> *It's just getting rougher now*<br>
+
+> *You're on top there, baby*<br>
+> *Just tryin' to score, well*<br>
+> *I seen enough, honey*<br>
+> *I don't wanna see no more*<br>
+> *Drop on down and cover me*<br>
+
+> *Sometimes girl I just wanna*<br>
+> *Leave it all behind us*<br>
+> *Hold me in your arms tonight*<br>
+> *let's let our love blind us*<br>
+
+But "Cover Me" rings of paranoia ("*Now promise me baby you won't let them find us*") and desperation, especially in the bridge:
+
+ *Outside's the rain, the driving snow*
+> *I can hear the wild wind blowing*<br>
+> *Turn out the light, bolt the door*<br>
+> *I ain't going out there no more*<br>
+
+In contrast, notice how Bruce alters the inclement weather of "Cover Me" to an internal storm in "Drop on Down and Cover Me."
+
+> *Inside I feel the pain that*<br>
+> *The hatred and the sorrow*<br>
+> *I wanna shut the light, baby*<br>
+> *C'mon and shut the door*<br>
+> *Drop on down and cover me*<br>
+
+> *I just wanna close my eyes and*<br>
+> *Let your love surround me*<br>
+> *I wanna close my heart*<br>
+> *To this world around me*<br>
+
+Both narrators are looking for shelter, but the protagonist of "Cover Me" is hiding from the world. The hero of "Drop on Down and Cover Me" merely seeks momentary refuge and the strength that comes from having a partner in this world.
+
+> *The anger and the heartlessness*<br>
+> *All the good things killed*<br>
+> *Come closer baby*<br>
+> *Now closer still*<br>
+> *Drop on down and cover me*<br>
+
+Like all art, music is subjective. But "Drop on Down and Cover Me" is such a superior song to the officially released "Cover Me" that I can't help but wonder why Bruce chose to release the older version.
+
+It clearly wasn't always his intention to do so–in the summer of 1983, Bruce had an album sequence that included "Drop on Down and Cover Me" right in the middle of Side One (after "[None But the Brave]({{< relref "2018-09-24-roll-of-the-dice-none-but-the-brave.md" >}})" and before "Shut Out the Light"–what an album that would have been).
+
+Unless we're lucky enough to get a sign-requested debut someday, we're not likely to ever gain any more insight; for now, we'll just chalk it up as just one more unsolved Springsteen mystery.
+
+**Drop on Down and Cover Me**<br>
+**Recorded** May 31 – June 2, 1983<br>
+**Never released**<br>
+**Never performed**<br>
+
+© December 18, 2019

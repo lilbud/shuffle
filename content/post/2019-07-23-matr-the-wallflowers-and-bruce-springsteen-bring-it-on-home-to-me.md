@@ -1,0 +1,39 @@
+---
+aliases:
+- /matr-the-wallflowers-and-bruce-springsteen-bring-it-on-home-to-me/
+- /11447/
+layout: post
+date: 2019-07-23T12:00:00
+lastmod: 2023-01-01T18:58:10
+title: "MatR: The Wallflowers and Bruce Springsteen, Bring It on Home to Me"
+slug: matr-the-wallflowers-and-bruce-springsteen-bring-it-on-home-to-me
+author: Ken Rosen
+description: "One time only: Bruce joins The Wallflowers in a gorgeous cover of Sam Cooke’s classic “Bring It on Home to Me.”"
+tags:
+- "bring-it-on-home-to-me"
+- "sam-cooke"
+- "the-wallflowers"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/07/cooke.jpg.webp
+  post_id: 11447
+---
+It was a B-side that couldn’t have been more different from its A-side, but both sides became smash hits.
+
+Sam Cooke’s “[Having a Party]({{< relref "2021-12-31-matr-bruce-springsteen-and-southside-johnny-having-a-party.md" >}})” peaked at #17 on the Billboard Hot 100 (#4 on the R&B chart) and became Cooke’s standard set closer, but its flipside of “Bring It on Home to Me” became a bona fide pop standard, peaking at #13 on the Hot 100 and #2 on the R&B charts, enshrined by the Rock and Roll Hall of Fame as one of the 500 Songs that Shaped Rock and Roll, and covered by dozens of artists from The Animals to Mandy Moore.
+
+{{< youtube WjtndPBN6jE >}}
+
+The Wallflowers frequently cover it, too–for more than twenty years, in fact, right up to today. But back in 1997, their cover version was still fresh and new.
+
+And when Bruce Springsteen dropped by the band’s gig in Sea Bright, New Jersey, and joined them on stage… well, that one-time-only performance was nothing short of magical.
+
+And luckily for us, it was recorded. Take a listen to The Wallflowers and Bruce Springsteen cover “Bring It on Home to Me”–the only time Bruce is known to have performed the song.
+
+{{< videopress id=QODOavVr >}}
+
+**Bring it On Home to Me**<br>
+**First performed:** March 8, 1997 (Sea Bright, NJ)<br>
+**Last performed:** March 8, 1997 (Sea Bright, NJ)<br>

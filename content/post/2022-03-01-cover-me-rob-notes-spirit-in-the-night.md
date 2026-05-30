@@ -1,0 +1,33 @@
+---
+aliases:
+- /cover-me-rob-notes-spirit-in-the-night/
+- /33030/
+layout: post
+date: 2022-03-01T13:00:00
+lastmod: 2022-03-01T13:36:44
+title: "Cover Me, Rob Notes: Spirit in the Night"
+slug: cover-me-rob-notes-spirit-in-the-night
+author: Ken Rosen
+description: "Rob Notes turns in an excellent seventies hard rock version of one of Bruce’s earliest songs."
+tags:
+- "rob-notes"
+- "spirit-in-the-night"
+categories:
+- "cover-me"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/03/notes.jpg.webp
+  post_id: 33030
+---
+My apologies for the recent skip days: I've had a busy couple of weeks with work and family travel. We should be back in a groove now, though, so let's start back up with one of my favorite recent Springsteen covers.
+
+Rob Notes is a German singer-songwriter with incredible range, no matter how you measure it: musically (he's equally at home at the piano or with an electric guitar), vocally (with a range of more than three octaves), and in his choice of material, which includes both original songs and covers of classics from Bette Midler to Bruce Springsteen.
+
+A few weeks ago, Rob debuted an album of fresh cover arrangements, called (appropriately) *CoverTime*. And while I may be biased, I think the standout track is his seventies hard rock version of "[Spirit in the Night]({{< relref "2011-01-08-roll-of-the-dice-spirit-in-the-night.md" >}}/)."
+
+{{< youtube 13ZrwNkGwbs >}}
+
+No matter how many times I listen to it (and I've listened to it a lot), my mind can't quite believe this isn't a vintage 1970s recording, so perfectly does Notes capture the guitar rock sound of the era.
+
+And if the arrangement doesn't sufficiently wow you, how about the fact this is a solo track? That's Rob on all instruments and vocals, right down to a killer guitar solo. Even the soundstage is dynamic–this is a track you should listen to with headphones on.
+
+Check out more of Rob's music [here](https://www.youtube.com/channel/UC2aFP-Lt_bUAj0UufO06QnQ), and let's hope he takes another dip into Bruce's catalog soon.

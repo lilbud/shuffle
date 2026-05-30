@@ -1,0 +1,47 @@
+---
+aliases:
+- /roll-of-the-dice-lady-walking-down-by-the-river/
+- /2696/
+layout: post
+date: 2018-06-27T12:00:19
+lastmod: 2019-04-14T16:40:45
+title: "Roll of the Dice: Lady Walking Down by the River"
+slug: roll-of-the-dice-lady-walking-down-by-the-river
+author: Ken Rosen
+description: "Bruce’s first published work in a college literary magazine leads to a Steel Mill song that would be recorded forty years later."
+tags:
+- "lady-walking-down-by-the-river"
+- "seascape"
+- "steel-mill"
+- "steel-mill-retro"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/06/a-walk-by-the-river-pierre-andre-brouillet.jpg.webp
+  post_id: 2696
+---
+Here's another one from the wayback machine: "Lady Walking Down by the River" is a Springsteen original from 1970, performed twice only (that we know of) with Steel Mill.
+
+{{< youtube -mc--9u9W80 >}}
+
+Its origins go back even further, however. In April 1969, Bruce published his very first piece of writing– a poem in Ocean County Community College's literary magazine. The poem was titled "Seascape" (as was the journal itself), and check out the third verse below.
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/06/1969_seascape_seascape.jpg.webp)
+
+That third verse appears in "Lady Walking Down by the River" in altered form as its second verse:
+
+> *Young men lovers quench their thirst for sunlight*
+> *Wet their tongues in a forestland stream*
+> *Bathe in the splendor of their bodies*
+> *And they sleep ‘neath the silent trees*
+
+As for the rest of the song–let's just say this one is about the music, not the lyrics–specifically the heavy riff and extended guitar jam that carries us along for most of the song's ten-plus minutes. Lyrically, the song is just a painted picture.
+
+Bruce performed "Lady Walking Down by the River" with Steel Mill only twice–but that didn't stop Steel Mill Retro from recording it forty years later. Here's the only known studio recording–without Bruce, note–of "Lady Walking Down by the River."
+
+{{< youtube NyuC7CcPmIk >}}
+
+**Lady Walking Down by the River**<br>
+**Recorded** N/A**First performed:** January 13, 1970 (San Francisco, CA)**Last performed:** February 28, 1970 (Richmond, VA)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

@@ -1,0 +1,96 @@
+---
+aliases:
+- /cover-me-vigilante-man/
+- /29312/
+layout: post
+date: 2021-09-14T12:00:00
+lastmod: 2024-01-03T03:30:01
+title: "Cover Me: Vigilante Man"
+slug: cover-me-vigilante-man
+author: Ken Rosen
+description: "Long before “The Ghost of Tom Joad,” Bruce recorded another song influenced by Steinbeck’s novel: an E Street Band cover of Woody Guthrie’s “Vigilante Man.”"
+tags:
+- "vigilante-man"
+- "woody-guthrie"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/09/folkways.jpg.webp
+  post_id: 29312
+---
+In late 1987, Bruce signed on to a Woody Guthrie tribute project called *Folkways: A Vision Shared*, produced by the late Harold Leventhal, who managed Guthrie along with Pete Seeger, Joan Baez, Judy Collins, and many other great folk artists.
+
+Bruce contributed not one but two songs to the project: We looked at the first one ("[I Ain't Got No Home]({{< relref "2019-02-10-cover-me-rotd-i-aint-got-no-home.md" >}})") a few years ago. Today we take a listen to the second–a reworking of Woody's "Vigilante Man."
+
+{{< youtube EcKbeSPE-uA >}}
+
+As Guthrie originally conceived it, "Vigilante Man" was set in the same period as *The Grapes of Wrath.* The titular vigilantes were self-appointed "defenders" against the migrant workers fleeing the dust bowl for the promised land of California.
+
+It's a fearful song bordering on paranoia. The song's narrator keeps constant watch against an unseen threat, and any less than-friendly reception might become more sinister in the dead of night, like the man who slew Preacher Casey in Steinbeck's novel.
+
+> *Have you seen that vigilante man?*<br>
+> *Have you seen that vigilante man?*<br>
+> *Have you seen that vigilante man?*<br>
+> *I've been hearin' his name all over the land*<br>
+
+> *Well what is a vigilante man?*<br>
+> *Tell me, what is a vigilante man?*<br>
+> *Has he got a gun and a club in his hand?*<br>
+> *Is that a vigilante man?*<br>
+
+> *Rainy night down in the engine house*<br>
+> *Sleepin' just as still as a mouse*<br>
+> *Man come along and he chased us out in the rain*<br>
+> *Was that a vigilante man?*<br>
+
+> *Stormy days, we pass the time away*<br>
+> *Sleeping in some good warm place*<br>
+> *Man come along and we give him a little race*<br>
+> *Was that a vigilante man?*<br>
+
+> *Preacher Casey was just a working man*<br>
+> *And he said, "Unite, all you working men"*<br>
+> *Killed him in the river, some strange man*<br>
+> *Was that a vigilante man?*<br>
+
+> *Oh why does a vigilante man*<br>
+> *Why does a vigilante man*<br>
+> *Carry that sawed-off shotgun in his hand?*<br>
+> *Would he shoot his brother and sister down?*<br>
+
+> *I rambled 'round from town to town*<br>
+> *I rambled 'round from town to town*<br>
+> *And they herded us around like a wild herd of cattle*<br>
+> *Was that the vigilante men?*<br>
+
+> *Have you seen that vigilante man?*<br>
+> *Have you seen that vigilante man?*<br>
+> *I've heard his name all over the land*<br>
+
+Years before Bruce recorded *The Ghost of Tom Joad*, he was taken enough with Guthrie's sequel (side-quel?) to record it with the E Street Band sometime between completing his *Tunnel of Love* album and embarking on the tour.
+
+[https://estreetshuffle.com/wp-content/uploads/2021/09/13-Vigilante-Man-Bruce-Springsteen-online-audio-converter.com_.mp3](https://estreetshuffle.com/wp-content/uploads/2021/09/13-Vigilante-Man-Bruce-Springsteen-online-audio-converter.com_.mp3)
+{{< audio url="https://estreetshuffle.com/wp-content/uploads/2021/09/13-Vigilante-Man-Bruce-Springsteen-online-audio-converter.com_.mp3" >}}
+
+Bruce's version leverages Guthrie's lyrics, but he drops the verses that date the song to the Dust Bowl era. That simple omission makes the song resonate with contemporary urgency–it could have been written about the plight of the homeless and the dangers they face on the city streets.
+
+Musically, though, Bruce completely reinvents the song as a taut, suspenseful rocker. Listen with your eyes closed and you'll see the narrator hiding and darting in the shadows, you'll bear witness to violent scenes choreographed to Bruce's guitar solo.
+
+It's a terrific E Street Band recording, and the last one before Bruce put the band on hiatus. Yet it's one of Bruce's most under-the-radar tracks, with many fans unaware of its existence even though it merited an official music video, too.
+
+{{< youtube eKXILNMXxs0 >}}
+
+That video was filmed at a soundcheck at Madison Square Garden on May 19, 1988. Bruce officially debuted the song later that night, and he played it during the next two shows as well.
+
+But other than a one-off in the UK a month later, we haven't heard from "Vigilante Man" since. Here's Bruce's last performance of Guthrie's reinvented classic–an expanded, five-and-a-half-minute performance from Bruce's Tunnel of Love show in Birmingham.
+
+{{< youtube YemLdhH1Ev8 >}}
+
+**Vigilante Man**<br>
+**Recorded** Late 1987 – Early 1988<br>
+**Released:** *Folkways: A Vision Shared: A Tribute To Woody Guthrie And Leadbelly* (1988)<br>
+**First performed:** May 19, 1988 (New York, NY)<br>
+**Last performed:** June 21, 1988 (Birmingham, England)<br>
+
+Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!

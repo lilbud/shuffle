@@ -1,0 +1,45 @@
+---
+aliases:
+- /cover-me-he-was-a-friend-of-mine/
+- /20109/
+layout: post
+date: 2020-08-21T12:00:00
+lastmod: 2020-08-21T05:41:15
+title: "Cover Me: He Was a Friend of Mine"
+slug: cover-me-he-was-a-friend-of-mine
+author: Ken Rosen
+description: "One time only: Bruce Springsteen and the E Street Band soundcheck a gentle cover of The Byrd’s elegy to President Kennedy, “He Was a Friend of Mine.”"
+tags:
+- "he-was-a-friend-of-mine"
+- "shorty-george"
+- "the-byrds"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/friendofmine.jpg.webp
+  post_id: 20109
+---
+Those who know "He Was a Friend of Mine" only from The Byrds' version might be surprised to learn the song dates back much further–at least to the 1930s.
+
+When Smith Casey recorded it in 1939, the song was called "Shorty George," but it's recognizable as the now-familiar folk song.
+
+{{< youtube 35NQkumxbfo >}}
+
+Modern audiences were *almost* introduced to it in 1961 when Bob Dylan recorded it for his first album, but he ended up leaving it off the final record. (Dylan would finally release it decades later.)
+
+So it was The Byrds who brought the song to popular attention in their 1965 album *Turn! Turn! Turn!*, but their version had been significantly rewritten to refer to the late President Kennedy.
+
+{{< youtube sW888n-gVXI >}}
+
+Their version of "He Was a Friend of Mine" sounded both traditional and fresh at the same time, and while it wasn't released as a single, it went on to become a staple of their live performances.
+
+It was this version of the song that Bruce Springsteen and the E Street Band covered at their 1988 Chapel Hill soundcheck. While the recording is surreptitiously distant, it's clear enough to make out the lyrics, the gentle arrangement, and the band's beautiful harmonies.
+
+{{< youtube Pbl3HooT_30 >}}
+
+This one would have been great to hear on the Sessions Tour back in 2006. If we're lucky enough to get an encore someday, let's hope for an official concert performance.
+
+**He Was a Friend of Mine**<br>
+**First performed:** March 4, 1988 (Chapel Hill, NC) (soundcheck only)<br>
+**Last performed:** March 4, 1988 (Chapel Hill, NC) (soundcheck only)<br>

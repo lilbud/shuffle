@@ -1,0 +1,58 @@
+---
+aliases:
+- /cover-me-erie-canal/
+- /13792/
+layout: post
+date: 2019-11-02T12:00:00
+lastmod: 2023-01-01T20:15:06
+title: "Cover Me: Erie Canal"
+slug: cover-me-erie-canal
+author: Ken Rosen
+description: "“Erie Canal” is a nostalgic callback to a slower-paced world. Bruce’s version captures the wistfulness, pride, and celebration of two workers (one human and one equine) at the sunset of their careers."
+tags:
+- "billy-murray"
+- "erie-canal"
+- "live-in-dublin"
+- "pete-seeger"
+- "we-shall-over-come-the-seeger-sessions"
+categories:
+- "cover-me"
+- "cover-you"
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/11/mule.jpg.webp
+  post_id: 13792
+---
+"Erie Canal" isn't the folk song you probably think it is. Or at least, it's not as old as you think it is.
+
+By the time Thomas Allen wrote it in 1905, the age of motorized barge travel had already begun. Construction began that year on a new, larger Erie Canal, and Allen's famous song (originally entitled "Low Bridge") was nostalgia even as it was written, memorializing an age of horse- or mule-drawn travel that was already receding into the past.
+
+Still, the song captured the public's imagination, and recordings of it began as early as Billy Murray's 1912 version and continue to this day.
+
+{{< youtube HFa2pbeNEd8 >}}
+
+The lyrics have changed over the years, as folks songs often do, but it's remarkable just how much of "Low Bridge"/"Erie Canal" survived intact. "Fifteen years" changed to "fifteen miles," and there are other small variations as well–but the song Bruce recorded is largely the same as it had been almost a century prior.
+
+But it's Pete Seeger's version that Bruce appears to have drawn the most inspiration from–Bruce's lyrics and arrangement hew extraordinarily close to Seeger's recording.
+
+{{< youtube gcwHz6bCnEg >}}
+
+The narrator of "Erie Canal" knows his day has passed as surely as it has for his mule; the song is (as Bruce has often comically but truthfully remarked) a love song from the narrator to the animal co-worker that made his livelihood possible.
+
+When Bruce re-assembled his Seeger Sessions musicians for a second recording session in March 2005, "Erie Canal" was one of the songs recorded that day, and Bruce's vocal perfectly captured the wistfulness that gives way to pride and ultimately nostalgic celebration as the song progresses. As Bruce gives his all to those final "Low Bridge!" choruses, we feel as if we're there on the top of that barge, joining our festive passengers as we duck to avoid each passing bridge.
+
+{{< youtube SDvYBCZwMIk >}}
+
+While several of the Seeger Sessions songs would enjoy occasional encores in the years following the Seeger Sessions Tour, "Erie Canal" wasn't among them. Like its human and equine heroes, its day was over while it still had lots of life left in it.
+
+Here's the penultimate performance of "Erie Canal" to date, from the final Seeger Session show in Dublin, memorialized in *Live in Dublin.*
+
+{{< youtube dmHpXfP7S0k >}}
+
+**Erie Canal**<br>
+**Recorded:** March 19, 2005<br>
+**Released:** *[We Shall Overcome: The Seeger Sessions]({{< relref "2006-01-01-album-companion-we-shall-overcome.md" >}})*(2006)<br>
+**First performed:** April 20, 2006 (Asbury Park, NJ)<br>
+**Last performed:** November 21, 2006 (Belfast, Northern Ireland)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

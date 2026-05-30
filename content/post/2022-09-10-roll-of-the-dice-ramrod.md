@@ -1,0 +1,116 @@
+---
+aliases:
+- /roll-of-the-dice-ramrod/
+- /36371/
+layout: post
+date: 2022-09-10T12:00:00
+lastmod: 2024-01-04T00:13:26
+title: "Roll of the Dice: Ramrod"
+slug: roll-of-the-dice-ramrod
+author: Ken Rosen
+description: "This encore staple and “Pink Cadillac” companion song isn’t as deep as Bruce might lead us to believe. But it sure is fun."
+tags:
+- "ramrod"
+- "the-river"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/09/Ramrod-1947-poster-4.jpeg.webp
+  post_id: 36371
+---
+> "This guy, he's there, but he's really *not* there no more. He's the guy in ‘[Wreck on the Highway]({{< relref "2022-08-28-roll-of-the-dice-wreck-on-the-highway.md" >}})‘–either guy, actually. But he's also the guy, in the end, who says, ‘I'll give you the word, now, sugar, we'll go ramrodding forever more.' I don't know, that's a real sad line to me, sometimes."
+>
+> — Bruce Springsteen to Dave Marsh, *Musician*, February 1981
+
+I call bullshit.
+
+Welcome to the latest installment of *Ken Ruins Your Favorite Springsteen Song*.
+
+Or who knows, maybe I'll polish it, depending on how you currently hear it.
+
+Despite Bruce's coy comments to the contrary, "Ramrod" is neither sad nor existential. It's not about aging, and it isn't about denial thereof. It's not even a car song.
+
+It's a sex song.
+
+{{< youtube BEhmiGQvjOY >}}
+
+"Ramrod" is as deep as its sister song, "[Pink Cadillac]({{< relref "2019-08-21-roll-of-the-dice-pink-cadillac.md" >}})." Both are laced liberally with double entendre, both are built on car-as-metaphor-for-genitalia chassis, and both are impossible to resist on record and in concert.
+
+And come on: even if you didn't know Bruce is singing about his character's penis, you *kind of* knew, didn't you? Especially if you've seen him perform it live:
+
+{{< videopress id=8ps8Tagv >}}
+
+"Ramrod" is as big a celebration of life as anything Bruce has ever written, and if there's anything about the narrator to be pitied, perhaps its his somewhat naïve notion that marriage is the key to everlasting sex.
+
+If we take his word for it, though, we might consider "Ramrod" as much a courtship song as a seduction song (although certainly not a subtle one on either count), because our narrator spends the entire song trying to convince his little dolly/little baby/little sugar/little girl (congratulations if you've got your Springsteen Female Infantilizing Bingo card in front of you, don't forget to fill in that free space!) to have sex with him all night.
+
+> *Well hey little dolly with the blue jeans on*<br>
+> *I wanna ramrod with you, honey, till half-past dawn*<br>
+> *Let your hair down, mama, and pick up this beat*<br>
+> *Come on and meet me tonight down on Bluebird Street*<br>
+> *I've been working all week, I'm up to my neck in hock*<br>
+> *Hey, come Saturday night I let my ramrod rock*<br>
+
+He's got the moves, and he's got the words. Who could resist a charmer who tells you he thinks about you while he "unwinds" each night?
+
+> *Well she's a hot stepping hemi with a four on the floor*<br>
+> *And she's a roadrunner engine in a '32 Ford*<br>
+> *Yeah late at night when I'm dead on the line*<br>
+> *I swear I think of your pretty face when I let her unwind*<br>
+> *Well look over yonder see them city lights*<br>
+> *Well come on little dolly and go ramrodding tonight*<br>
+
+He spends the bridge pleading with his girl to hop into bed with him…
+
+> *Well I said come on, come on, come on little baby*<br>
+> *Come on, come on let's shake it tonight*<br>
+> *Come on, come on, come on little sugar*<br>
+> *Dance with your daddy and we'll go ramrodding tonight*<br>
+
+…and he's willing to take her directly to the altar if she does.
+
+> *Well hey little dolly won't you say you will*<br>
+> *Meet me tonight up on top of the hill*<br>
+> *Well just a few miles ‘cross the county line*<br>
+> *There's a cute little chapel nestled down in the pines*<br>
+> *Say you'll be mine little girl, I'll put my foot to the floor*<br>
+> *Give me the word now, sugar, we'll go ramrodding forevermore*<br>
+
+And that's pretty much the whole song, lyrically at least.
+
+"Ramrod" doesn't work without its hard-driving E Street Band backing track, however. It barrels out of the gate and never looks back. The somewhat sinister combo of Max Weinberg, Garry Tallent, and Clarence Clemons carry the song relentlessly on their backs, while Danny Federici's happy-go-lucky farfisa rides above without a care in the world and The Big Man swaggers through his centerpiece solo.
+
+This is the E Street Band at their most cocksure. For an artist famous for arrangements that belie his lyrics, "Ramrod" features an absolutely perfect pairing.
+
+{{< youtube RJVauHVQ-X0 >}}
+
+And yet despite all that, I'd argue that to truly appreciate "Ramrod," one must witness it. As much as or more so than any other song in Springsteen's catalog, "Ramrod" is a visual song. It's positively kinetic, in fact, as any of the many professionally recorded performances over the years will attest.
+
+{{< youtube Tv_7WMPpzb4 >}}
+
+{{< youtube kmN4CNTni3I >}}
+
+Over the years, "Ramrod" has only grown in length, power, and schtick, and if you catch it today you're likely to also catch Bruce and Stevie at their goofiest… especially if there's a full moon.
+
+{{< videopress id=BhBwRNao >}}
+
+"Ramrod" isn't always faithful to its album arrangement. Bruce had a two-year dalliance with an alternate Latin-influenced arrangement in both acoustic and full-band (Sessions Band, that is) versions that breathed new life into the 1980 rocker.
+
+{{< youtube aBnk2vuep7s >}}
+
+{{< youtube GN457GBO5NI >}}
+
+But no matter what the form, "Ramrod" is an opportunity for Bruce to cut loose, which is why it's become a perennial encore staple. If you're a gambler, feel free to place your bets now: odds are good we'll be hearing "Ramrod" in concert throughout 2023.
+
+**Bonus:** Widely considered to be a River-era song due to its inclusion on that album, "Ramrod" actually made its debut during the Darkness Tour two years earlier. Here's that debut performance, the opening song from Bruce's show in Pittsburgh on December 28, 1978.<br>
+
+[https://estreetshuffle.com/wp-content/uploads/2022/09/1978-12-28-Ramrod.mp3](https://estreetshuffle.com/wp-content/uploads/2022/09/1978-12-28-Ramrod.mp3)
+{{< audio url="https://estreetshuffle.com/wp-content/uploads/2022/09/1978-12-28-Ramrod.mp3" >}}
+
+**Ramrod**<br>
+**Recorded** June 1979 – April 1980<br>
+**Released:** *The River* (1980)<br>
+**First performed:** December 28, 1978 (Pittsburgh, PA)<br>
+**Last performed:** May 27, 2023 (Amsterdam, The Netherlands)<br>
+
+Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!

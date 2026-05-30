@@ -1,0 +1,43 @@
+---
+aliases:
+- /cover-me-brown-eyed-girl/
+- /4534/
+layout: post
+date: 2018-09-20T12:00:55
+lastmod: 2018-09-20T13:05:38
+title: "Cover Me: Brown Eyed Girl"
+slug: cover-me-brown-eyed-girl
+author: Ken Rosen
+description: "Bruce doesn’t play “Brown Eyed Girl” often, but when he does, it’s a singalong highlight, with no teleprompter required."
+tags:
+- "brown-eyed-girl"
+- "timepiece"
+- "van-morrison"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/09/browneyedgirl.jpg.webp
+  post_id: 4534
+---
+For a classic rock song that he clearly knows by heart and enjoys singing, it's surprising that Bruce doesn't cover Van Morrison's "Brown Eyed Girl" more often.
+
+Check it out: no teleprompter in sight during this impromptu, by-request performance from 2014:
+
+{{< youtube dLFKEdHKeaw >}}
+
+"Brown Eyed Girl" is one of rock's most-recognized songs, peaking at #10 but enduring across the decades both in its original form and as countless covers–and always an irresistible singalong.
+
+{{< youtube UfmkgQRmmeE >}}
+
+But even though Bruce has performed it a dozen times over the years, only three of them were at his own shows. Eight of the others were during guest appearances with Joe Grushecky, and the other was a one-off at the Wonder Bar with Timepiece (Patti's brother's band).
+
+{{< youtube _F9getFn-to >}}
+
+...and then there's the most recent performance from Adelaide in 2017, in which... well, I'm just gonna leave it right here. An explanation would just ruin it.
+
+{{< youtube Bhktk0Qj4gc >}}
+
+**Brown Eyed Girl**<br>
+**First performed:** August 20, 1994 (Long Branch, NJ)<br>
+**Last performed:** January 30, 2017 (Adelaide, Australia)<br>

@@ -1,0 +1,103 @@
+---
+aliases:
+- /roll-of-the-dice-talking-about-my-baby/
+- /52380/
+layout: post
+date: 1972-01-10T19:00:00
+lastmod: 2026-05-10T16:14:49
+title: "Talking About My Baby"
+slug: roll-of-the-dice-talking-about-my-baby
+author: Ken Rosen
+description: "“Janey Needs a Shooter” traces its origins back to this one-time-only Bruce Springsteen Band homage to a 1964 hit single by Curtis Mayfield."
+tags:
+- "bruce-springsteen-band"
+- "janey-needs-a-shooter"
+- "talking-about-my-baby"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/06/Designer.png.webp
+  post_id: 52380
+---
+Ah, summer.
+
+Everyone has their seasonal traditions. For me, this is the time of year when I break out my old Bruce Springsteen Band recordings and set the wayback machine for the summer of 1971.
+
+At summer's outset, Bruce Springsteen was 21 years old, a full year away from signing his first record deal, and (as they say) between gigs.
+
+He'd disbanded guitar-heavy Steel Mill in January and spent the remainder of the winter making guest appearances and jamming at The Upstage in Asbury Park. As winter gave way to spring, Bruce tried out a few different band configurations, but the Friendly Enemies, the Red Hot Mammas, and Dr. Zoom and the Sonic Boom all failed to click.
+
+Springsteen had a vision for his next band, however, and each of those blink-and-miss-it bands captured at least one element of the bigger, brassier, bluesier sound he sought. He finally found it in a band he formed in June, debuted in July, and named after himself.
+
+The Bruce Springsteen Band made its first appearance the weekend after July 4th at the Jersey Shore and took up residence at the Student Prince that autumn. They rarely left the Asbury Park vicinity, but they did make a handful of appearances in Richmond, Virginia, where Bruce had cultivated his strongest following outside of New Jersey with Steel Mill.
+
+Springsteen's Richmond setlists often contained a few familiar Steel Mill chestnuts to satisfy his loyal fans, but the rest of the set usually consisted of blues covers and bright, almost poppy original songs. We've listened to almost all of them together over the last seven years (if you've been with me that long), but there's one notable original Springsteen song from that era we've so far only glanced at.
+
+{{< videopress id=Ce3a1tdd >}}
+
+Bruce wrote "Talking About My Baby" for the Bruce Springsteen Band, but to the best of our knowledge (documentation of the BSB era is spotty at best), he only performed it once–in Richmond on Halloween eve.
+
+Bruce has long lifted his song titles from popular music and films, but in this case he borrowed more than a title. His version of "Talking About My Baby" is essentially a re-write of Curtis Mayfield's 1964 hit single. The melody and lyrics are all Bruce's, but its theme is as direct an homage as its title.
+
+{{< youtube tyhQrjN2jaI >}}
+
+Musically, Springsteen took a completely different path than Mayfield, opting for a quiet, contemplatively worshipful arrangement rather than the bouncy, carefree paean of the original.
+
+Lyrically, he made his baby a femme fatale–ultimately no more substantial than Mayfield's off-screen love interest but with a world-weary wariness and aloofness that gives her the upper hand in the relationship. Right from the start, we sense that Bruce's narrator is never truly sure whether she is, in fact, his baby. (Best line of the song: *I can tell when she's mad, because she smiles*)
+
+> *She's cool, she's the only girl that played me for a fool*<br>
+> *And she's tough, and when she loves me, don't you know she loves me rough*<br>
+> *She comes on fast, she plays the game hard*<br>
+> *She once told me nothing ever lasts*<br>
+> *I said, "But look at you, baby*<br>
+> *Can't you see that you're battle-scarred?"*<br>
+
+> *(Well she's a diva), I find it so hard to please her*<br>
+> *(She's a ???), she's making eyes at each and every mister*<br>
+> *Oh and she got style*<br>
+> *I can tell when she's mad because she smiles*<br>
+
+> *She's cold, sometimes I think that her heart's made out of stone*<br>
+> *But when she's hot she loves me super warm and gives me everything that she's got*<br>
+> *She comes and cries to me, she says, "Honey, I got to be free"*<br>
+> *I tell her I don't mind*<br>
+> *Because that's the only way, the only way that I can be*<br>
+
+> *(She's a lover), don't you know she's a lover*<br>
+> *(She's a lover), she's another kind of love*<br>
+> *Oh she got class, I know she's for me*<br>
+> *(She's mine), that's how I know ????*<br>
+
+> *She's scared, I ain't never seen a woman who was so scared*<br>
+> *And don't you know that she's an outlaw*<br>
+> *Just ask her, she'll tell you what for*<br>
+> *She comes on fast, she plays the game hard*<br>
+> *She tells me baby, "Can't you see, nothing ever lasts"*<br>
+> *I said, "But babe, without you, I'm no good"*<br>
+
+> *(Can't you hear me, can't you hear me talking about my) baby*<br>
+> *(I'm talking about my baby), she's on my mind*<br>
+> *(I'm talking about my baby)*<br>
+> *(Can't you hear me, can't you hear me, can't you hear me talking about my)*<br>
+> *(Can't you hear me, can't you hear me, can't you hear me talking about my)*<br>
+> *I'm talking about my baby*<br>
+
+"Talking About My Baby" is a terrific song, suited and arranged perfectly for Springsteen's new band. So why did it disappear so quickly? We may never know. (I doubt Bruce would even remember the song if we asked him about it.) But musically, at least, its legacy lives on.
+
+Some months after that one-and-only documented performance of "Talking About My Baby," Bruce lifted and adapted his melody for a new song called "Janey Needs a Shooter." You can hear it most obviously in the opening couplets of the latter song's verses.
+
+{{< youtube AuoD-d0jblk >}}
+
+Bruce recorded "Janey" in the early days of 1973, and it was a candidate for inclusion on his next four albums. By the time he finally abandoned it, the song had evolved from its original acoustic form into a heavier full-band arrangement. For years, it was considered one of his lost classics, with rehearsals and outtakes circulating amongst collectors.
+
+And then of course, in late 2020, we were finally gifted with a modern, completed version of "Janey Needs a Shooter." And if we listen to it, we can clearly hear the strains of the Bruce Springsteen Band's original one-time wonder, almost a half-century later.
+
+{{< youtube A_BRCRkAkAE >}}
+
+**Talking About My Baby**<br>
+**Never recorded**<br>
+**Never released**<br>
+**First performed:** October 30, 1971 (Richmond, VA)<br>
+**Last performed:** October 30, 1971 (Richmond, VA)<br>
+
+© July 2, 2024

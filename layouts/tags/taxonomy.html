@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="content-area col-12 col-lg-8" id="main-column">
+  <div class="card p-3 mb-3 mb-lg-4.5" id="header-card">
+    <div class="row d-flex align-items-center justify-content-between">
+      <div class="col">
+        <div class="page-title">
+          <span class="text-purple text-capitalize">
+            {{ .Title }}
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="card p-3 p-lg-4.5 mb-3 mb-lg-4.5" id="main-content">
+    <ul>
+      {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+      <li>
+        <a href="{{ " /tags/" | relLangURL }}{{ $name | urlize }}">{{ $name | replaceRE "-" " " | title }}</a>
+        ({{ len $taxonomy }})
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</div>
+{{ end }}

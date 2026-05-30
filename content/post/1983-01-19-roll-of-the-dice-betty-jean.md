@@ -1,0 +1,85 @@
+---
+aliases:
+- /roll-of-the-dice-betty-jean/
+- /7410/
+layout: default-post
+date: 1983-01-19T20:00:48
+lastmod: 2026-02-16T23:44:01
+title: "Betty Jean"
+slug: roll-of-the-dice-betty-jean
+author: Ken Rosen
+description: "Listen to the tale of Betty Jean, Bobby’s younger sister. She never made it out of town, but she had her share of adventures just the same."
+tags:
+- "betty-jean"
+- "bobby-jean"
+- "delivery-man"
+categories:
+- "roll-of-the-dice"
+params:
+  post_id: 7410
+---
+No, that's not a typo in the title: this is the story of *Betty* Jean.
+
+We all know *Bobby* Jean's story, of course: ze went away and there was nothing we could have done or said to keep hir from doing otherwise. We didn't even get to say goodbye.
+
+Hir older sister, Betty, however… oh, she stayed all right, and she made life a mixed blessing for her man.
+
+Let's take a listen to "Betty Jean," Bruce's unreleased outtake from the *Born in the U.S.A.* sessions, recorded six months earlier than her gender-fluid sibling.
+
+{{< youtube 5M3i-cVWXKQ >}}
+
+Well, she's sure a handful, isn't she?
+
+Although it's hard to feel sorry for her boyfriend Bobby (odd coincidence, that)–he's a bit of a hell-raiser himself. But Betty sure seems to stoke his fire. When we first meet the pair, Bobby's about to drag race, and Betty is officiating:
+
+> *Black Mellon Road on a dark mellow night*<br>
+> *Two cars pulling up ahead on my right*<br>
+> *Going up the highway, gonna see my Betty Jean*<br>
+> *She got eyes like a jack rabbit, staring dead at my beams*<br>
+
+Who won the race? Who knows. Doesn't matter anyway, that's not the point. We're on to their next adventure out in the woods where Betty distractedly cheers Bobby on in a fistfight:
+
+> *Well over in the woods in a hail door light*<br>
+> *Two Red Hills boys in a bare-knuckle fight*<br>
+> *Stretched out on the hood of my GTO*<br>
+> *She's filing her nails, shouting, "Go Bobby, go!"*<br>
+
+Bobby sums Betty up pretty well:
+
+> *Betty Jean, Betty Jean, Betty Jean*<br>
+> *Betty Jean, Betty Jean, Betty Jean*<br>
+> *Honey you're cute, but you sure are mean*<br>
+> *Oh Betty Jean*<br>
+
+Bobby and Betty don't slow down one bit. Bobby races up the highway while Betty gives him… well, use your imagination (there's not a lot required):
+
+> *Well she jumped in my car, we started driving around*<br>
+> *She turned that radio dial, threw her head back and sound*<br>
+> *Going up the highway, she was giving me it*<br>
+> *She put her hand on my leg, I drove us in a drainage ditch*<br>
+
+You can't run forever, though. Sooner or later, life catches up and reality sinks its talons into you. And Bobby learns the lesson of "The River," although it's not clear they ever had the forethought to dream in the first place.
+
+Bruce gives the last verse of "Betty Jean" a final line just as memorable as the one in "The River," but a lot less poetic:
+
+> *Next thing I knew, I was running through the crowd*<br>
+> *I swore her my love forever, she was laughing out loud*<br>
+> *We were married in the spring out on 531*<br>
+> *Had fifteen kids and I hate every single one*<br>
+
+And there we have it: the tale of Betty Jean, who peaked early while her sibling Bobby Jean escaped with the wind at his back.
+
+A final curiosity about the Jeans: they actually have a *third* sibling.
+
+*Beverly* Jean made her debut in "Delivery Man," another unreleased song from the *Born in the U.S.A. Sessions* that Springsteen finally released on *Somewhere North of Nashville* in 2025. You can tell that Betty and Beverly are sisters because they both have the same "eyes like a jack rabbit starin' dead in your high beams."
+
+But Beverly's story is a tale for another day.
+
+Bobby may have been the first member of the Jean family to make it out into the wide world, but the others still have tales worth telling.
+
+**Betty Jean**<br>
+**Recorded:** January 20, 1983<br>
+**Never released**<br>
+**Never performed**<br>
+
+© February 13, 2019

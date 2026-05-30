@@ -1,0 +1,85 @@
+---
+aliases:
+- /roll-of-the-dice-winter-song/
+- /27149/
+layout: post
+date: 2021-06-03T12:00:00
+lastmod: 2021-06-03T03:25:06
+title: "Roll of the Dice: Winter Song"
+slug: roll-of-the-dice-winter-song
+author: Ken Rosen
+description: "Lost in the vault, “Winter Song” is a red-light tale of sexual fear and fascination."
+tags:
+- "winter-song"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/winter-song-1.jpg.webp
+  post_id: 27149
+---
+Even before his first album was released, Bruce Springsteen was already hard at work on his second.
+
+*Greetings From Asbury Park* made its under-the-radar debut on January 5, 1973. Over the following six weeks, Bruce recorded at least that many new songs–none of which would make his next album.
+
+"[Janey Needs a Shooter]({{< relref "2020-07-27-roll-of-the-dice-janey-needs-a-shooter.md" >}})" and "[Song for Orphans]({{< relref "2019-04-10-roll-of-the-dice-song-for-orphans.md" >}})" would eventually see the light of day in the form of modern recordings almost a half-century later, but the rest are still locked away in Bruce's vault (officially, anyway).
+
+That's too bad, because those early, pre-fame recordings are worthy of collection, and "Winter Song" is among the most impressive of the bunch.
+
+{{< youtube WWDQcqphUJg >}}
+
+Bruce recorded "Winter Song" in late January 1973, arranged as a solo piano showcase for the accomplished guitar hero. And while Bruce has always been more competent than dazzling at the piano, his artistry here is breathtaking.
+
+"Winter Song" sounds like the season it's named for. Bruce evokes a lonely, barren emotional landscape for his red-light tale of sexual fascination. Musically, Bruce beat Windham Hill to the punch by many years.
+
+Lyrically, let's just acknowledge that "Winter Song" isn't Bruce at his most enlightened. This is a story about a young man who appears to be a regular at a local brothel, torn between two hostesses–one submissive and one dominant. But as the song progresses, our experimenting narrator finds himself increasingly intrigued by the house's mysterious madam.
+
+> *From their northeast source the sour wind roars*<br>
+> *Their gifts fresh from the valley waters*<br>
+> *"Hello" echoes strip Pennsylvania mountain walls*<br>
+> *With their corsets and their old Betsy ruffle*<br>
+> *And their slips with pearly white*<br>
+> *They stand bulging up against the screen door*<br>
+> *And bid you "good night"*<br>
+
+> *Summer's sweet and she brings me water*<br>
+> *But give me Winter, that old icy whore*<br>
+> *While Summer lies meek and follows orders*<br>
+> *Winter cries "me" and pulls you through the door*<br>
+
+> *The lymph node tramp cries metal flake tears*<br>
+> *They drip like honey down soot mama's leg*<br>
+> *You lay watching a moth eat a hole in his cloth*<br>
+> *He'll ask, but he don't beg*<br>
+> *Said I'd like to see the mademoiselle*<br>
+> *Who holds the keys to all these doors around her waist*<br>
+> *And rings the bell*<br>
+
+> *Summer's sweet and she brings me water*<br>
+> *Give me Winter, that old icy whore*<br>
+> *Summer lies meek and follows orders*<br>
+> *Winter cries "me" and pulls you through the door*<br>
+
+> *With scuffling sound the knot-voiced matron makes her rounds*<br>
+> *Knocking on each and every door*<br>
+> *With a look like white heat, she sways, salty, sweet*<br>
+> *And leads me ‘cross her Persian floor*<br>
+> *She squeezed my hand and before her I stood*<br>
+> *I was scared, it was dark but it was good*<br>
+
+> *Summer's sweet and she brings me water*<br>
+> *But give me Winter, that old icy whore*<br>
+> *While Summer lies meek and follows orders*<br>
+> *Winter cries "me" and pulls me through her door*<br>
+
+"Winter Song" delivers its inexperienced narrator to the madam by the song's climax, but Bruce concludes the encounter with an understated "it was good."
+
+But while "Winter Song" may not be remarkable for its lyrics (or even its clever seasonal/sexual metaphor), it's nothing short of revelatory for Bruce's performance. Bruce's vocals manage to convey fascination, fear, passion and even disconnection in turns, and his performance at the piano is astonishingly delicate.
+
+The entire effect is a haunting one, and "Winter Song" lingers in the memory long after it ends.
+
+**Winter Song**<br>
+**Recorded** January 29-30, 1973<br>
+**Never released**<br>
+**Never performed**<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

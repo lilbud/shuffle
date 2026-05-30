@@ -1,0 +1,150 @@
+---
+aliases:
+- /kingdom-of-days-august-30-2/
+- /59507/
+layout: post
+date: 2025-08-30T11:00:03
+lastmod: 2026-05-14T20:43:00
+title: "August 30"
+slug: kingdom-of-days-august-30-2
+author: Ken Rosen
+description: "Bruce headlines the Harley Davidson Festival in Milwaukee and blows minds with a setlist for the ages in New Jersey, but it’s his surprise appearance with Southside Johnny at The Agora in Cleveland that wins the date."
+tags:
+- "across-the-border"
+- "born-to-be-wild"
+- "cats-on-a-smooth-surface"
+- "cleveland"
+- "darkness-tour"
+- "east-rutherford"
+- "emmylou-harris"
+- "giants-stadium"
+- "havin-a-party"
+- "i-dont-want-to-go-home"
+- "incident-on-57th-street"
+- "jersey-girl"
+- "julianne-phillips"
+- "magic-tour"
+- "maxs-kansas-city"
+- "milwaukee"
+- "new-york-city"
+- "pretty-flamingo"
+- "richfield"
+- "rickie-lee-jones"
+- "rising-tour"
+- "river-tour-2016"
+- "rosalita"
+- "secret-garden"
+- "southside-johnny"
+- "springsteen-on-broadway"
+- "st-louis"
+- "stagger-lee"
+- "the-fever"
+- "wooly-bully"
+categories:
+- "kingdom-of-days"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/08/20230830-east-rutherford-nj-bruce-springsteen-and-the-e-street-band-review.webp
+  post_id: 59507
+---
+**1972:** Bruce plays an unadvertised acoustic set at Max's Kansas City in New York.<br>
+
+**1977:** Bruce and the E Street Band are in the studio, recording material for what will become *Darkness on the Edge of Town*.<br>
+
+**1978:** Bruce and the E Street Band bring the Darkness Tour to the Richfield Coliseum. After the show, WNEW-TV interviews Bruce for *PM Magazine*.<br>
+
+{{< youtube NuJ-g62ekzc >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/1978-08-30.png.webp)
+
+Later that night–so late that it's technically the following day, August 31–Bruce makes a surprise appearance at The Agora in Cleveland. Even though they've already turned in a full show, Bruce, Steve, Clarence, Roy, and Garry join Southside Johnny and the Asbury Jukes on-stage for absolutely fantastic performances of "The Fever," "I Don't Want to Go Home," "Having a Party," and "Stagger Lee." Must-watch pro-shot video below, featuring the definitive version of "The Fever" — it may never be topped.
+
+{{< youtube eBhlLGi3lRI >}}
+
+{{< youtube 4OllWaG9HZQ >}}
+
+**1982:** Bruce joins Cats on a Smooth Surface on stage at a private event at Jon Jon's in Wall, New Jersey.<br>
+
+**1985:** Bruce's scheduled return to Giants Stadium is postponed due to rain, meaning this show will unexpectedly become the closing night of a six-show stand.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/1985-08-30.png.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/08/1985-08-30.jpg.webp)
+
+**1988:** Julianne Phillips files for divorce after newspaper tabloids published pictures of Bruce and Patti caught in intimate circumstances earlier in the summer.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/1988-08-30.png.webp)
+
+**2002:** The Rising Tour moves on to the Savvis Center in St. Louis. The set list is slowly opening up as "Downbound Train" makes its tour premiere early in the show.<br>
+
+{{< videopress id=sA1EzJjX >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/2002-08-30.png.webp)
+
+**2003:** An outstanding Night Nine (of ten) at Giants Stadium on the Rising Tour opens with the tour premiere of "Janey, Don't You Lose Heart." Later in the show, Emmylou Harris makes a guest appearance on "Across the Border," Dave and Serge Bielanko of Marah guest-star on the tour premiere of "Raise Your Hand," and "Pretty Flamingo" makes a rare appearance in the encore. Enjoy highlights from the show below.<br>
+
+{{< youtube JWgi0SwOr0I >}}
+
+[https://estreetshuffle.com/wp-content/uploads/2021/08/2003-08-30-E-Rutherford-IEM-Trapped.mp3](https://estreetshuffle.com/wp-content/uploads/2021/08/2003-08-30-E-Rutherford-IEM-Trapped.mp3)
+{{< audio url="https://estreetshuffle.com/wp-content/uploads/2021/08/2003-08-30-E-Rutherford-IEM-Trapped.mp3" >}}
+
+{{< youtube yi7DO6uBlXM >}}
+
+{{< youtube 35gqbd3yZ3A >}}
+
+{{< youtube 9ITR7lyaCPE >}}
+
+{{< youtube jGOuUpIBAwk >}}
+
+**2008:** An epilogue for the Magic Tour: Bruce and the E Street Band headline the Harley Davidson 105th Anniversary Festival at The Roadhouse at The Lakefront in Milwaukee. "Gypsy Biker" is a fitting opener, and "Born to Be Wild" bookends it as the final encore. "Wooly Bully" is a mid-set tour premiere (its first appearance in 23 years), and Danny Federici's son Jason plays his dad's part on "4th of July, Asbury Park (Sandy)."<br>
+
+{{< youtube WdPr0MDd9kE >}}
+
+{{< youtube F5qtnWWbDDk >}}
+
+{{< youtube KFe9i8x4x6w >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/2008-08-30.png.webp)
+
+**2009:** Bruce watches his daughter Jessica compete at the 34th annual Hampton Classic.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/2009-08-30.png.webp)
+
+**2016:** Jaws drop and the Internet breaks: Bruce and the E Street Band break their U.S. record–again–for the longest show ever (this time breaking the four-hour mark), but it's the set list at this final East Rutherford show that blows minds: the show starts with the by now (amazingly) standard opener, "New York City Serenade" complete with strings, but what follows is a largely chronological trip through Bruce's catalog. Rickie Lee Jones guest stars on three songs, and Bruce plays the entire second side of *The Wild, The Innocent, and The E Street Shuffle* (including the tour premiere of "Kitty's Back"). Also making their tour premiere: "Pretty Flamingo," "Living Proof," and "Secret Garden." A fireworks-accompanied "Jersey Girl" closes a remarkable show.<br>
+
+[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLrNIMOwexdz95YpVOZNuDZ_qAqPt2D4Vj)
+
+{{< youtube SMc8jc1kgXs >}}
+
+{{< youtube l-CpUBixLEs >}}
+
+{{< youtube _wGnI0Us_N0 >}}
+
+{{< youtube OryAFEYMjIc >}}
+
+{{< youtube ISH9xghWpqs >}}
+
+{{< youtube qoAPf-6_x_8 >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/2016-08-30a.png.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/2016-08-30b.png.webp)
+
+**2018:** *Springsteen on Broadway* continues its theatrical run at the Walter Kerr Theater in New York City. In attendance tonight: college basketball broadcaster Dick Vitale.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/08/vitale.jpg.webp)
+
+**2023:** "Sherry Darling" makes its tour premiere when Bruce and the E Street Band open their three-night stand at MetLife Stadium in East Rutherford.<br>
+
+{{< youtube Bz-h5JY74j0 >}}
+
+{{< youtube PYWjyw-gAxE >}}
+
+{{< youtube 3mOJNndwYRg >}}
+
+{{< youtube FxPO8u0C39I >}}
+
+{{< youtube rIIxe2KojjA >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/08/Asbury_Park_Press_2023_09_01_A1.jpg.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/08/Asbury_Park_Press_2023_09_01_A2.jpg.webp)

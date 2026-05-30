@@ -1,0 +1,30 @@
+---
+aliases:
+- /cover-me-johnny-mac-and-the-faithful-across-the-border/
+- /24821/
+layout: post
+date: 2021-02-01T13:00:00
+lastmod: 2021-02-01T13:05:36
+title: "Cover Me: Johnny Mac and the Faithful: Across the Border"
+slug: cover-me-johnny-mac-and-the-faithful-across-the-border
+author: Ken Rosen
+description: "Glasgow-based Johnny Mac and The Faithful gift us with a beautiful cover of Bruce’s “Across the Border.”"
+tags:
+- "across-the-border"
+- "johnny-mac-and-the-faithful"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/02/johnnymac.jpg.webp
+  post_id: 24821
+---
+Johnny Mac and The Faithful are a Glasgow-based celtic-folk-rock band that count the music of Bruce Springsteen and Woody Guthrie among their primary influences, so it's no surprise that when they decided to cover Bruce they turned to his most Guthrie-esque album.
+
+Their new cover of "[Across the Border]({{< relref "2020-09-06-roll-of-the-dice-across-the-border.md" >}})" does more than justice to Bruce's original. Lead singer John Mclaughlin's vocals are gorgeous, and the group's arrangement is hopeful and expansive. This is a splendid cover.
+
+And not that this has anything to do with the song, but does Johnny Mac bear an uncanny resemblance to The Boss himself, or what?
+
+{{< youtube Fpr3zOhSIRg >}}
+
+For more great music from Johnny Mac and The Faithful, check out their YouTube page [here](https://www.youtube.com/channel/UCzXBDz_u1qiiGSje9CKOcfQ).

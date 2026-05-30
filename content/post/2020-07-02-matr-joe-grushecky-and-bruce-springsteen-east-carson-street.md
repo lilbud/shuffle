@@ -1,0 +1,36 @@
+---
+aliases:
+- /matr-joe-grushecky-and-bruce-springsteen-east-carson-street/
+- /18899/
+layout: post
+date: 2020-07-02T12:00:00
+lastmod: 2020-07-02T11:49:23
+title: "MatR: Joe Grushecky and Bruce Springsteen: East Carson Street"
+slug: matr-joe-grushecky-and-bruce-springsteen-east-carson-street
+author: Ken Rosen
+description: "Bruce plays guitar on the title track of Joe Grushecky’s 2009 album, but even without Bruce’s contribution, “East Carson Street” is a great song about staying true to one’s roots."
+tags:
+- "east-carson-street"
+- "joe-grushecky-and-the-houserockers"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/carson.jpg.webp
+  post_id: 18899
+---
+Among the many similarities between Bruce Springsteen and Joe Grushecky: they both have deep roots. If Bruce is inseparably associated with New Jersey, Joe is the musical avatar of Pittsburgh.
+
+Joe's deep attachment to Pittsburgh is evident in his music and in his deep attachment to his hometown. Unlike Bruce, who sojourned for a while in Southern California, Joe remains steadfastly rooted to the Iron City.
+
+Might he have made it big(ger) if he'd moved somewhere with a more vibrant music industry? Who knows. But in the title track of his 2009 album *East Carson Street*, Joe adamantly rejects the notion that one has to leave home to find satisfaction.
+
+{{< youtube SF5NeWREX5I >}}
+
+"East Carson Street" feels too personal to not be at least somewhat autobiographical, but Joe is too skilled a songwriter to narrow his song's resonance. "East Carson Street" feels universal, a song for anyone lucky enough to already have a sense of community and belonging that no amount of fame and fortune could ever buy.
+
+Oh, and the Springsteen connection? Bruce plays guitar on the track. Don't let that distract you, though–"East Carson Street" is one of Joe's best 21st century songs no matter who's playing on it.
+
+**East Carson Street**<br>
+**Released:** *East Carson Street* (2009)<br>
+**Never performed**<br>

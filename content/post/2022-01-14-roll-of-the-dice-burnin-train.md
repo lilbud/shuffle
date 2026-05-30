@@ -1,0 +1,98 @@
+---
+aliases:
+- /roll-of-the-dice-burnin-train/
+- /30561/
+layout: post
+date: 2022-01-14T13:00:00
+lastmod: 2024-01-03T14:19:30
+title: "Roll of the Dice: Burnin' Train"
+slug: roll-of-the-dice-burnin-train
+author: Ken Rosen
+description: "It sticks out like a musical sore thumb, but lyrically “Burnin’ Train” is right at home on Letter to You with its theme of longevity through great sex."
+tags:
+- "burnin-train"
+- "letter-to-you"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/01/burningtrain.jpg.webp
+  post_id: 30561
+---
+So the story goes that Bruce Springsteen wrote his [*Letter to You*]({{< relref "2017-01-01-album-companion-letter-to-you.md" >}})album in a ten-day spurt of creativity, crafting nine new songs and supplementing them with three never-released older ones.
+
+That's not exactly true, though. In reality, a full half of the album's twelve songs were extant long before he wrote the other six in early 2019. But at least all twelve songs were recorded during a week-long session with the E Street Band that November, right?
+
+Well… that might be a bit of a stretch also.
+
+Because not only is "Burnin' Train" almost thirty years old (it was first demoed during Bruce's Los Angeles residency back in 1993), I'm not sure the official studio track dates entirely from those November 2019 sessions.
+
+For one thing, Toby Scott carries an engineering credit not just on "Burnin' Train" but also on "[One Minute You're Here]({{< relref "2021-05-30-roll-of-the-dice-one-minute-youre-here.md" >}})" (which dates back to 2003) and "[Rainmaker]({{< relref "2021-02-12-roll-of-the-dice-rainmaker.md" >}})" (2004)–and Toby left Bruce's employ in 2017.
+
+And interestingly, there is no footage of "Rainmaker" in the *Letter to You* documentary, and the only video for "One Minute You're Here" is of Bruce recording his vocals. There's some footage of band members recording "Burnin' Train" just before the end credits roll, but it's carefully edited enough that the sleuth in me suspects these may be hybrids of older recordings with more recent overdubs.
+
+One thing is certain, though: "Burnin' Train" certainly doesn't *sound* like the rest of *Letter to You*. Take a listen and hear for yourself.
+
+{{< youtube tTwpR6SCyRw >}}
+
+A hard-charging, full-on rocker, "Burnin' Train has a completely unique sound compared to the rest of its album-mates. Although the song reportedly dates back to the immediately post-*Lucky Town* era, it doesn't sound very nineties, either.
+
+If anything, "Burnin' Train" seems to be a close musical cousin to "[Gypsy Biker,]({{< relref "2019-05-02-roll-of-the-dice-gypsy-biker.md" >}})" so similar are their backing tracks–particularly their guitar solos.
+
+{{< youtube uLqNoQpOfms >}}
+
+Lyrically, though, "Burnin' Train" is a perfect fit for *Letter to You*.
+
+Bruce's most recent album is all about aging and mortality, and "Burnin' Train" is a song about staving off the inexorable march of time through the most ancient of ways: sex.
+
+All the thematic elements of a classic Springsteen song are here:
+
+✅ Loser narrator
+✅ Religious imagery
+✅ Train metaphor
+
+And, of course, the song-length sexual encounter, which Bruce employs with far more frequency than I think most fans realize.
+
+> *Zero's my number, time is my hunter*<br>
+> *I wanted you to heal me but instead you set me on fire*<br>
+> *We were out over the border, I washed you in holy water*<br>
+> *We whispered our black prayers and rose up in flames*<br>
+> *Take me on your burning train*<br>
+
+Meet our narrator. In true "I had a job, I had a girl" form, Bruce tells us all we need to know in the first line: *Zero's my number*–I'm a loser*. Time is my hunter–*I'm old*.* Looking for love, he instead finds the rejuvenating power of lust, and it's almost literally a religious experience.
+
+(In the interest of propriety, I'll forego my usual line-by-line analysis, but suffice it to say that Bruce is not the first artist to equate [holy water with bodily fluids](https://www.youtube.com/watch?v=9APOR1Ls1Bc) or [prayers with orgasms](https://www.youtube.com/watch?v=79fzeNUqQbQ).)
+
+> *White sun burning, black wings beating*<br>
+> *I ran my fingers ‘cross the hollow of your stomach as you lay breathing*<br>
+> *With our shared faith, rising dark and decayed*<br>
+> *Take me and shake me from this mortal cage*<br>
+> *Take me on your burning train*<br>
+
+The second verse holds the key to the song: *Take me and shake me from this mortal cage*. *Through sex with you, I am young, I am immortal.*
+
+> *Something shining in the light ‘neath your breast*<br>
+> *The thick smell of you on my chest*<br>
+
+> *On your bed of thorns, I brought you shining gifts*<br>
+> *Wiped the sweat from your brow and I touched your lips*<br>
+> *Sheets stained with sweat, outside the endless rain*<br>
+> *Darling I'm blessed in your blood and marked by Cain*<br>
+> *Take me on your burning train*<br>
+
+Basking in the afterglow (I trust your ability to interpret Bruce's lyrics through the climax), our narrator now bears the mark of Cain, a symbol of God's protection against an early death, bestowed upon him through acts of passion.
+
+I'm sure a Bible scholar would be quick to point out that God bestowed his mark to Cain not as a reward but to make sure that no one else had a chance to kill him while God was punishing him.
+
+But why quibble? Bruce's message is clear: hot sex = long life.
+
+May you live long and prosper.
+
+{{< youtube 93LbbdUR3xs >}}
+
+**Burnin' Train**<br>
+**Recorded** ? – 2019<br>
+**Released:** *Letter to You* (2020)<br>
+**First performed:** February 1, 2023 (Tampa, FL)<br>
+**Last performed:** March 7, 2023 (Milwaukee, WI)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

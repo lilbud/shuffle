@@ -1,0 +1,111 @@
+---
+aliases:
+- /roll-of-the-dice-this-depression/
+- /16059/
+layout: post
+date: 2020-02-21T13:00:00
+lastmod: 2024-01-02T19:36:55
+title: "Roll of the Dice: This Depression"
+slug: roll-of-the-dice-this-depression
+author: Ken Rosen
+description: "Years before he openly confessed his lifelong battle with depression, Bruce hid it in plain sight as the centerpiece of his Wrecking Ball album."
+tags:
+- "this-depression"
+- "wrecking-ball"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/02/depression.jpg.webp
+  post_id: 16059
+---
+In retrospect, it couldn't have been more obvious.
+
+When Bruce Springsteen released his [*Wrecking Ball*]({{< relref "2023-03-28-album-companion-wrecking-ball.md" >}})album in 2012, many a music critic admired "This Depression" with "if we didn't know better…" praise.
+
+They didn't know better.
+
+I didn't either.
+
+Listening to the song in 2012, I couldn't help but hear it as a song about a very different kind of depression. Certainly, I noticed and appreciated the dual contexts of depression, but the context of the album convinced me that Bruce had constructed a song about financial hardship that would translate more intimately in a more prosperous economy.
+
+When Bruce first acknowledged his lifelong battle with depression in 2016, however, "This Depression" snapped into sharp relief. I had it wrong, I realized: here was a deeply emotional, vulnerable, intimately powerful song taken artfully out of context when placed on the album.
+
+Serving as the centerpiece of an economic-themed album, Bruce slyly camouflaged "This Depression," hiding his confession even as he proclaimed it.
+
+In other words, Bruce's depression was hiding in plain sight all the time.
+
+{{< youtube QqjRo8Etmzg >}}
+
+Anchored by an intentionally plodding, almost miring drum beat (played by Bruce), punctuated by Patti's wordless, distant backing vocals, and abstracted by Tom Morello's otherworldly guitar solo, Bruce and producer Ron Aniello crafted the sonic equivalent of depression.
+
+Bruce's vocals drip with anguish, and his lyrics have never been so brutally direct:
+
+> *Baby, I've been down but never this down*<br>
+> *I've been lost but never this lost*<br>
+> *This is my confession, I need your heart*<br>
+> *In this depression, I need your heart*<br>
+
+Whether he was there at the moment or merely summoned the memory while writing, Bruce conveys the hopelessness and powerlessness one feels at the nadir of a depressive episode.
+
+Bruce is careful to never provide any details about what brought him to this state, and it wouldn't matter anyway–the circumstances aren't the point of the song. "This Depression" is what it feels like to be stuck inside one's head, unable to feel the connection you know you need to move forward.
+
+Still, the lack of context allows the listener to place the song against the backdrop of the album and hear phrases like "I've been down but never this down" as a cry of frustration by an unemployed worker, a neat trick that Springsteen undoubtedly intended. The man does very little by accident.
+
+> *Baby, I've been low but never this low*<br>
+> *I've had my faith shaken but never hopeless*<br>
+> *This is my confession, I need your heart*<br>
+> *In this depression, I need your heart*<br>
+
+We can listen to verses like these and take Bruce literally if we choose to: perhaps this really is the worst of a long series of depressive episodes. But based on conversations I've had with friends who have experienced depression, I suspect that Bruce is telling us something subtly different: that each time feels like the worst time. Each and every time.
+
+> *I haven't always been strong but I've never felt so weak*<br>
+> *And all my prayers gone for nothing*<br>
+> *I've been without love but never forsaken*<br>
+> *Now the morning sun, the morning sun is breaking*<br>
+
+I've always been fascinated by that last couplet–regardless of context, it can be heard in two very different ways. Perhaps this is the lowest of the lows, and for the first time Bruce truly feels forsaken as the morning sun ushers in a cold comfortless day following a sleepless night.
+
+Or perhaps it's a glimmer of optimism, a corner being turned: even now, Bruce isn't forsaken, and the morning sun floods the darkness of his depression with warmth and light.
+
+Any doubt in my mind about whether Bruce intended the verse to be deliberately ambiguous evaporates when one examines the role of "This Depression" on the *Wrecking Ball* album. It's dead center on the album, separating a five-song descent into darkness from a five-song climb into the light. (Among the many under-appreciated aspects of *Wrecking Ball* is what I would argue is the best track sequencing of any album in Bruce's catalog.)
+
+And as the song's chorus repeats, bringing the song to a close, we realize that it too serves dual context:
+
+> *This is my confession, I need your heart*<br>
+> *In this depression, I need your heart*<br>
+
+Perhaps it's a plea; perhaps it's merely an acknowledgment. Either way, it's remarkably brave soul-baring that makes me wonder if Bruce wrote it while writing his autobiography, catalyzing a process that finally gave Bruce the courage and momentum to come out and openly discuss what he could previously only obliquely write about before.
+
+The more we learn about Bruce's emotional experience through his *Born to Run* book and *Western Stars* film, the more we realize that "This Depression" marks the opening statement in that conversation. It's a song that deepens in significance over time.
+
+---
+
+Bruce debuted "This Depression" in concert twice: on back-to-back nights in Bergen in the summer of 2012, Bruce played the song for the first (and second) time in very different arrangements.
+
+On Night One, Bruce premiered "This Depression" as an intimate solo performance on acoustic guitar and harmonica. It's a beautiful arrangement that lays bare the soul of the song, and although fan-filmed videos can be very deceptive depending on where the filmer is placed, the crowd appears rapt by Bruce's vulnerable performance.
+
+{{< youtube Y1g5pVM2VsY >}}
+
+Bruce played it again on Night Two, this time with the full E Street Band behind him:
+
+{{< youtube _js1gWuxB_E >}}
+
+In that first performance, Nils Lofgren's guitar solos impress in their own right, but "This Depression" really needs Tom Morello's presence to convey the eerie alienation of the full-band arrangement.
+
+Fortunately, Tom made more than a few guest appearances on the Wrecking Ball Tour, and Bruce made sure to take advantage of the opportunity during a few of their U.S. performances. Here's one of the best ones, from the penultimate show of the American leg:
+
+{{< youtube J9gct0PZchc >}}
+
+"This Depression" made only one more appearance after that Anaheim performance above. On July 24, 2013 (a year to the day from its full-band debut), Bruce played "This Depression" for the last time to date.
+
+{{< youtube AtnJexfbZ0w >}}
+
+Despite a momentary lyrical lapse and some audio difficulties during Nils' solo, it's a powerful performance and a reminder that "This Depression" deserves more frequent outings in the future.
+
+**This Depression**<br>
+**Recorded:** Unknown<br>
+**Released:** *Wrecking Ball* (2012)<br>
+**First performed:** July 23, 2012 (Bergen, Norway)<br>
+**Last performed:** July 24, 2013 (Leeds, England)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

@@ -1,0 +1,36 @@
+---
+aliases:
+- /cover-me-jeniferever-one-step-up/
+- /13966/
+layout: post
+date: 2019-11-03T13:00:00
+lastmod: 2019-11-03T13:42:18
+title: "Cover Me, Jeniferever: One Step Up"
+slug: cover-me-jeniferever-one-step-up
+author: Ken Rosen
+description: "Swedish band Jeniferever turns in a terrific cover of “One Step Up,” preserving its tender core in a lushly arranged wrapper."
+tags:
+- "jeniferever"
+- "one-step-up"
+- "play-some-pool-skip-some-school-act-real-cool"
+categories:
+- "cover-me"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/11/onestep.jpg.webp
+  post_id: 13966
+---
+I'm a sucker for Springsteen tribute albums, if you haven't figured that out by now.
+
+I'm continually fascinated to hear how other artists receive and return Bruce's music to the world through their own lenses. I have to admit, though, that I tend to listen to them in full only once or twice before I select my favorite tracks and archive the rest.
+
+There are exceptions, however, and one of them is the 2009 compilation *Play Some Pool, Skip Some School, Act Real Cool.*
+
+There's something about hearing Bruce's music interpreted by young indie bands that appeals to me. I know virtually none of the album's 38 contributing indie artists and bands outside of this collection, but it's cool to hear how Bruce's music continues to connect with and influence new and up-and-coming artists. (Up-and-coming as of a decade ago, in this case, but you get my point.)
+
+Here's one of my favorite tracks on the album: a cover of "[One Step Up]({{< relref "1987-01-10-roll-of-the-dice-one-step-up.md" >}}/)" as performed by Swedish band Jeniferever.
+
+[Watch Video](https://bandcamp.com/EmbeddedPlayer/album=136685173/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=213265455/transparent=true/)
+
+The band clearly appreciates the song, managing to preserve its brooding, intimate guitar line while lushly wrapping it in a haunting arrangement that never overpowers the impassioned vocals.
+
+It's a beautifully produced cover of one of Bruce's very best songs.

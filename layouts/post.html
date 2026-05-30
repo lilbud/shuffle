@@ -1,0 +1,35 @@
+{{ define "main" }}
+<div class="content-area col-12 col-lg-10" id="main-column">
+  <div class="card p-3 p-lg-4.5 mb-4.5">
+    {{ .Content }}
+    {{ with site.RegularPages.Related . | first 3 }}
+    <div class="row row-cols-2 row-cols-lg-3 my-3">
+      {{ range . }}
+      <div class="col-6 col-lg-4 related-post">
+        <div class="row">
+          <a href="{{ .RelPermalink }}">
+            <img class="related-post-img img-fluid" src="{{ .Params.header_img }}" alt="">
+          </a>
+        </div>
+        <div class="row">
+          <a class="related-post-link" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+          <div>{{ .Date | time.Format ":date_long" }}</div>
+          <div>
+            {{ with .Params.categories }}
+            {{ $firstCategory := index . 0 }}
+            In "{{ $firstCategory | replaceRE "-" " " | title }}"
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+    {{ if .Params.post_id }}
+    {{ partial "tag-category.html" . }}
+    {{ partial "post-nav.html" . }}
+    {{ partial "comments.html" . }}
+    {{ end }}
+  </div>
+</div>
+{{ end }}

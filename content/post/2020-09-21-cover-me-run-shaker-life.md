@@ -1,0 +1,43 @@
+---
+aliases:
+- /cover-me-run-shaker-life/
+- /21252/
+layout: post
+date: 2020-09-21T12:00:00
+lastmod: 2020-09-21T04:30:03
+title: "Cover Me: Run, Shaker Life"
+slug: cover-me-run-shaker-life
+author: Ken Rosen
+description: "Richie Havens’ adaptation of the 19th century “Come Life, Shaker Life” became a standard show-closing encore for Steel Mill."
+tags:
+- "richie-havens"
+- "run-shaker-life"
+- "steel-mill"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/09/shakerlife.jpg.webp
+  post_id: 21252
+---
+I'm pretty sure Shaker poet Issachar Bates didn't envision what would become of his song, "Come Life, Shaker Life" when he wrote it toward the end of his life in the 1830s. It became one of the most covered and recorded Shaker songs, enduring and evolving as the years passed.
+
+In 1968, Richie Havens adapted and recorded it as "Run, Shaker Life," the final track of his *Something Else Again* album, reuniting his former band The Last Men for the occasion.
+
+{{< youtube 5O_R3wCmq34 >}}
+
+*Something Else Again* became Havens' first album to chart, and if he wasn't on Bruce Springsteen's radar before then, he certainly was now.
+
+Barely a year later, Bruce was not only performing "Run, Shaker Life" with Steel Mill, it quickly became a standard encore (often the final one) for the band throughout the remainder of their run.
+
+At almost six minutes long on the album, Havens' "Run, Shaker Life" was already a jam number, but Steel Mill never met a song they couldn't stretch into an even more extended showcase for lengthy solos and jams.
+
+The religious theme of "Run, Shaker Life" also gave Bruce an early chance to hone his rock and roll preacher shtick. Take a listen to the clip below (recorded at one of the very last Steel Mill shows) and in the last couple of minutes, you'll clearly hear the early stages of the on-stage patter style Bruce would employ many years later.
+
+{{< youtube k6WqhNPfJoY >}}
+
+"Run, Shaker Life" is the only Havens song Bruce has covered, but almost a quarter-century after Steel Mill's last performance of it, Havens returned the compliment by [covering one of Bruce's finest songs]({{< relref "2018-08-04-cover-me-richie-havens-streets-of-philadelphia.md" >}}).
+
+**Run, Shaker Life**<br>
+**First performed:** November 20, 1969 (Richmond, VA)<br>
+**Last performed:** January 22, 1971 (Asbury Park, NJ)<br>

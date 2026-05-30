@@ -1,0 +1,93 @@
+---
+aliases:
+- /roll-of-the-dice-the-train-song/
+- /29631/
+layout: post
+date: 2021-10-06T12:00:00
+lastmod: 2021-10-06T12:40:18
+title: "Roll of the Dice: The Train Song"
+slug: roll-of-the-dice-the-train-song
+author: Ken Rosen
+description: "One of the first songs Bruce ever recorded in a studio featured one heck of a plot twist."
+tags:
+- "steel-mill"
+- "the-train-song"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/10/trainsong-1.jpg.webp
+  post_id: 29631
+---
+Wait, *what?*
+
+I did *not* see that plot twist coming, and I'm betting you won't either, even with this spoiler-ish setup.
+
+On February 22, 1970, Bruce entered a recording studio for only the second time in his life. The first time was with The Castiles, almost four years earlier. This time he was accompanied by his new band, Steel Mill, and Bruce had three songs in hand for them to record.
+
+We've listened to two of them together before: "[He's Guilty]({{< relref "2020-07-10-roll-of-the-dice-hes-guilty-the-judge-song.md" >}})" (the only one of the three to see an official release), and "[Goin' Back to Georgia.]({{< relref "2019-03-07-roll-of-the-dice-goin-back-to-georgia.md" >}})" Today, we'll complete the trilogy with a sweet, southern, love song about an itinerant traveler on his way home to reunite with his lady love.
+
+Let's take a listen to "The Train Song."
+
+{{< videopress id=FxO6jjnA >}}
+
+See what I mean? That's one heck of a curve ball.
+
+Steel Mill's performance has been likened to the Allman Brothers, who the band was clearly influenced by at the time. But I've always thought "The Train Song" owes much to The Band's "[The Weight,]({{< relref "2019-03-26-cover-me-the-weight.md" >}})" which charted a remarkable four times (by four artists) in the two years prior to this recording and was almost certainly an influence as well.
+
+But let's not get distracted by the instrumental performance, because we need to talk about the lyrics.
+
+"The Train Song" starts out innocently enough, with our narrator travelling back home to New Orleans to reunite with his long-separated love.
+
+> *Locomotive number 9 travelling down to New Orleans*<br>
+> *Spitting fire, smoke black as coal, the hottest that I've ever seen*<br>
+> *Oh Engineer, Mr. Engineer, won't you please get me home on time*<br>
+> *‘Cause I can't stay away, no not another day from the pretty little woman of mine*<br>
+
+> *I been a long time riding oh down this rusty track*<br>
+> *And I fear that I'd never get home*<br>
+> *Long time dreaming of what I'll do when I get back*<br>
+> *Be there when the morning comes, when the morning comes*<br>
+
+> *Hey there Mr. Conductor, can you tell me what time we're due*<br>
+> *Well I hate to seem impatient but you'd be excited too*<br>
+> *If you had a pretty little woman like I got just waiting for you back at home*<br>
+> *And once I reach her loving arms I never again shall roam*<br>
+
+So far, so standard. We're not breaking any new ground here; this is just a simple southern-flavored country-rock road song.
+
+But suddenly–and I do mean suddenly–about three minutes in, the song takes an abrupt left turn.
+
+> *Seems kinda hard to believe that I'm going home at last*<br>
+> *They say that things have changed, well I guess a lot of time has passed*<br>
+> *And just a few more miles and a little more time before you know it I'll be there*<br>
+> *And I'll be waltzing arm in arm with my darling electric chair*<br>
+
+Now this certainly won't be the last time that Bruce introduces a plot twist in a song, but he'll certainly get a lot more graceful about it. As it stands, this one lands with a bewildering thud.
+
+The song slows to a crawl, possibly to simulate those last slow miles when the train nears its destination, possibly because time is slowing for the narrator as it simultaneously runs out, but more likely to make sure we don't miss what's coming.
+
+The last original words we hear in the song are the narrator's anticipation of waltzing… with his darling *electric chair*?
+
+The first time I heard this song, I had to rewind and confirm I heard it correctly. Then I momentarily wondered if maybe Bruce's narrator just missed his electric Barcalounger.
+
+But there's really no other way to view the song other than as a Nebraska-esque travelogue of a death row prisoner being transported for his electrocution, looking forward to being reunited with his lover in the afterlife. This train carries losers and sinners.
+
+If Bruce had introduced it a little earlier or with even a bit of subtlety, it might have played better, but as it stands it's just a head-scratcher.
+
+Or put another way: in theory, it's a pretty neat twist.
+
+The problem's in the execution.
+
+---
+
+**Bonus:** Bruce and Steel Mill performed "The Train Song" live in concert only once that we know of, a month before they took it into the studio. Given the scarcity of set lists from that period, though, and the likelihood that they would have performed any song they recorded at least a few times, odds are there were more undocumented performances as well.<br>
+
+{{< youtube BM7k_WmzfIM >}}
+
+**The Train Song**<br>
+**Recorded** February 22, 1970<br>
+**Never released**<br>
+**First performed:** January 13, 1970 (San Francisco, CA)<br>
+**Last performed:** January 13, 1970 (San Francisco, CA)<br>
+
+Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!

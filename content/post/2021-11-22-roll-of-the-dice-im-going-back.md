@@ -1,0 +1,45 @@
+---
+aliases:
+- /roll-of-the-dice-im-going-back/
+- /31030/
+layout: post
+date: 2021-11-22T12:36:00
+lastmod: 2021-11-22T13:12:36
+title: "Roll of the Dice: I'm Going Back"
+slug: roll-of-the-dice-im-going-back
+author: Ken Rosen
+description: "One of the rare outtakes from the Greatest Hits sessions that never evolved into a full song, “I’m Going Back” provides a fascinating glimpse at the newly reunited E Street Band working out new material."
+tags:
+- "im-going-back"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/11/goingback.jpg.webp
+  post_id: 31030
+---
+If you've been riding along with me these past four years, you know there are a lot of unreleased Springsteen works-in-progress floating around out there.
+
+We've listened to early prototypes of familiar songs, partially bluffed outtakes that contributed lyrical or musical DNA to other songs, and sometimes just musical dead ends.
+
+Almost all of those tracks are from the 1970s and 1980s, though. Almost never do we hear anything from the nineties forward, and especially not with the E Street Band.
+
+So that's what makes today's entry special. "I'm Going Back" (which almost certainly is not the title Bruce had in mind, if he ever even got that far) dates back to the January 1995 Greatest Hits sessions that yielded "[Back in Your Arms]({{< relref "2019-11-10-roll-of-the-dice-back-in-your-arms.md" >}})," "[Blood Brothers]({{< relref "2019-12-06-roll-of-the-dice-blood-brothers.md" >}})," and "[Secret Garden]({{< relref "2019-05-30-roll-of-the-dice-secret-garden.md" >}})."
+
+Almost every song from those sessions has been released in some fashion or other, but "I'm Going Back" is an exception.
+
+{{< youtube 26_jOBM25J0 >}}
+
+The take of "I'm Going Back" that circulates among collectors is an early one. There are almost no lyrics to speak of (except for the phrase fans have seized on for the title), but it's a thrill to hear the newly and temporarily reunited E Street Band working out a new song.
+
+Bruce bluffs his way through the track entirely in falsetto, while the band builds in power and momentum until they finally explode around the two-minute mark.
+
+What might this song have become if Bruce had taken the time to finish it? We may never know, unless a later take exists in his vault somewhere. But this early version gives us some insight into Bruce rediscovering and testing his "rock voice" with his old bandmates.
+
+It turned out to be too soon to stick–he had one more solo album to focus on first–but it was a harbinger of a new E Street Band era to come.
+
+**I'm Going Back**<br>
+**Recorded:** January 1995<br>
+**Never released**<br>
+**Never performed**<br>
+
+Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!

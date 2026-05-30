@@ -1,0 +1,98 @@
+---
+aliases:
+- /kingdom-of-days-may-15-2/
+- /56767/
+layout: post
+date: 2025-05-15T11:00:06
+lastmod: 2026-02-01T18:59:51
+title: "May 15"
+slug: kingdom-of-days-may-15-2
+author: Ken Rosen
+description: "On this date: Dr. Zoom and the Sonic Boom play their final gig, Bruce takes over a dancing school ball in Germany (really), and more."
+tags:
+- "born-in-the-usa"
+- "canary-islands"
+- "cleveland"
+- "devils-and-dust-tour"
+- "dr-zoom-and-the-sonic-boom"
+- "france"
+- "germany"
+- "ghost-of-tom-joad-tour"
+- "gijon"
+- "give-the-girl-a-kiss"
+- "hershey"
+- "jay-weinberg"
+- "las-palmas"
+- "lucille"
+- "lyon"
+- "munich"
+- "native-american"
+- "rising-tour"
+- "spain"
+- "steve-van-zandt"
+- "stolen-car"
+- "twist-and-shout"
+- "working-on-a-dream-tour"
+- "world-tour-1993"
+- "wrecking-ball-tour"
+categories:
+- "kingdom-of-days"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/05/348699415_207239028355172_674563633466168878_n.jpg.webp
+  post_id: 56767
+---
+**1971:** Dr. Zoom and the Sonic Boom make their second and final appearance under that moniker, at Newark State College’s Ernie the Chicken Festival. Miraculously, the show is recorded in very good quality–take a listen below for great covers like “Will You Love Me Tomorrow” and “It Takes a Lot to Laugh, It Takes a Train to Cry” and great Springsteen originals like “Look Towards the Land” and “Goin’ Back to Georgia.” Later that same evening, Bruce makes his debut as a member of The Sundance Blues Band at The Student Prince.<br>
+
+{{< youtube SKlCDDAWNx0 >}}
+
+**1993:** Bruce, Shane Fontayne, Bobby King, and Tommy Sims notice a dancing school ball being held in their hotel in Munich and decide to make an uninvited guest appearance. Someone had the presence of mind to capture the merriment and mayhem, and although it’s very shaky at the start, it’s still a fun watch. Check out “Lucille” and “Twist and Shout” below.<br>
+
+{{< youtube vKwG9rLdNHM >}}
+
+{{< youtube Uem80PZEqWs >}}
+
+**1997:** Bruce kicks off an acoustic mini-tour of France with a show at the Auditorium Maurice Ravel in Lyon.<br>
+
+{{< videopress id=izQmoLoJ >}}
+
+**2003:** The Rising Tour moves on to Gijon. Watch local TV coverage of the show, including the first minute of the opening “The Promised Land,” below.<br>
+
+{{< youtube udTJ_cq1Wec >}}
+
+{{< youtube YYkxVWLGLzY >}}
+
+{{< youtube TVPX_07jL1k >}}
+
+**2005:** The highlight of Bruce’s solo acoustic show at Cleveland State University is undoubtedly the tour premiere of “Stolen Car,” the first time (outside of a 2003 benefit show) Bruce has played this song in two decades.<br>
+
+{{< youtube QjKxwljcdiM >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/05/2005-05-15.jpg.webp)
+
+**2009**: Jay Weinberg sits in on drums again when the Working on a Dream Tour stops at Hersheypark Stadium in Hershey, Pennsylvania. The highlight: the tour premiere and first performance in a decade of “Give the Girl a Kiss.”<br>
+
+{{< youtube hj6zjx3_S0I >}}
+
+{{< youtube JXUkD-5WWf4 >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/05/2009-05-15a.jpg.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/05/2009-05-15b.jpg.webp)
+
+**2012:** The European leg of the Wrecking Ball Tour picks up steam as it moves on to Las Palmas in the Canary Islands. Bruce plays four tour premieres on this night: “Born in the U.S.A.,” “Two Hearts,” “Working on the Highway,” and “The River.”<br>
+
+{{< videopress id=yoA0eBRu >}}
+
+{{< videopress id=lEm4mpv9 >}}
+
+{{< youtube wBBxBR0g2iE >}}
+
+{{< youtube 75BtxuPKNo0 >}}
+
+**2022:** Bruce makes a virtual appearance at the Spring-Nuts Seaside Serenade at The Stone Pony in Asbury Park.<br>
+
+{{< youtube Psms6V3Yq38 >}}
+
+**2023:** Bruce and the E Street Band play their second of two shows at Paris La Défense Arena.<br>
+
+{{< youtube R1WDe_VMXAk >}}

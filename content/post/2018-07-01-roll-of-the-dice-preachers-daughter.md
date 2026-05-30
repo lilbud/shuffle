@@ -1,0 +1,112 @@
+---
+aliases:
+- /roll-of-the-dice-preachers-daughter/
+- /2933/
+layout: post
+date: 2018-07-01T12:00:36
+lastmod: 2022-12-28T13:43:12
+title: "Roll of the Dice: Preacher's Daughter"
+slug: roll-of-the-dice-preachers-daughter
+author: Ken Rosen
+description: "“Preacher’s Daughter” is one Bruce’s greatest unreleased outtakes–a Darkness cast-off with Born to Run sweep and cinematic power."
+tags:
+- "preachers-daughter"
+- "shes-the-one"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/07/preacher.jpg.webp
+  post_id: 2933
+---
+When I sit down to compose these essays, I always listen to the song a few times before I start to write: to refresh my memory, to remind myself of what I love or find curious, and to experience it with as close to fresh ears as I can manage.
+
+After three times listening to the way "Preacher's Daughter" builds in power, establishes its sweeping cinematic scope, and unleashes Bruce's vocals… I'm shaking my dang head at how it's possible that this masterpiece has never been released.
+
+Take a listen with me.
+
+{{< youtube LLE8DlZ8GXQ >}}
+
+Am I right, or what?
+
+"Preacher's Daughter" is an outtake from the [*Darkness on the Edge of Town*]({{< relref "2022-07-05-album-companion-darkness-on-the-edge-of-town.md" >}})sessions, but you would be forgiven for placing it during the *Born to Run* era instead. It certainly has more in common with Bruce's third album, with street fight scenes straight out of "Jungleland" and a melody and rhythm made to mash seamlessly with "[She's the One]({{< relref "2021-04-04-roll-of-the-dice-shes-the-one.md" >}})."
+
+Lyrically, "Preacher's Daughter" is a tale of good Catholic boy frustration–our hero is infatuated with the daughter of his church's preacher, but the preacher is more than a match for his street-fueled bravado.
+
+In the first verse, the narrator establishes the infatuation:
+
+> *I got a date with the preacher's daughter*<br>
+> *She give me life, she bring me water*<br>
+> *Every Sunday I watch her work*<br>
+> *Pretty little self in a pretty little church*<br>
+> *Daddy gives her a nod, she takes collection*<br>
+> *Her daddy gives her a nod, she kneels by his side*<br>
+> *Well I'd sell my soul for just one touch*<br>
+> *The good Lord would too if he loved her half as much*<br>
+> *Well I got a date with the preacher's daughter*<br>
+
+So far, so good–he's already got the date set up. What could go wrong? Well, it seems that the preacher has some strong opinions about boys who race:
+
+> *Daddy say that them boys no good*<br>
+> *Just wanna race some coons out through the back woods*<br>
+> *Well baby better believe what your daddy say*<br>
+> *I just wanna ramrod, baby, my life away*<br>
+> *It's a long walk to heaven and a road filled with sin*<br>
+> *And they better open up the freeway to let me in*<br>
+> *‘Cause I got a date with the preacher's daughter*<br>
+
+That's some great songwriting there–"Preacher's Daughter" falls smack in the middle of Bruce's road-as-metaphor-for-life period, but Bruce is more playful with the metaphor here than he usually is.
+
+Until this point, our narrator seems pretty zen about the situation, but now he starts to simmer:
+
+> *Well now I don't care what the preacher say*<br>
+> *I don't care what the preacher do*<br>
+> *I don't care what the preacher like*<br>
+> *I don't care what the preacher think*<br>
+> *He leads me to water but won't let me drink*<br>
+
+That's another great line–the preacher exhorts our hero to go to church, where his daughter waits in temptation.
+
+And now, the pressure that's been building throughout the song explodes in a scene of street violence–it's Saturday night–date night–and a fight breaks out in a sea of headlights, cleverly establishing a scene of youth, chaos, and testosterone.
+
+> *Hey now on Sawmill Road on Saturday Night*<br>
+> *Two boys fighting in a halo of light*<br>
+> *Car door flung open, radio loud*<br>
+> *And everybody shouting and running around*<br>
+> *Two guys bloody, over what I don't know*<br>
+> *And all the little girls shouting, "Go Billy go, go Billy go"*<br>
+
+Billy isn't the point-of-view character here, though–our couple are just bystanders. But that doesn't stop what happens next. In one of Bruce's most cinematic unreleased verses, from out of the night comes the preacher:
+
+> *Well just as I got the preacher's daughter ready for a light*<br>
+> *Yeah, Mister, the V-8 is firing but something ain't right*<br>
+> *And like a she-devil howling from the gates of hell*<br>
+> *Goddamn here come the preacher in his Coupe De Ville*<br>
+> *Burning up the back road, kicking in the dirt*<br>
+> *Whoa baby, preacher thinks he's in church*<br>
+
+But the preacher isn't in church–this isn't his place of authority, and the resentment that's been building in our hero boils over. He's guilty of nothing worse than offering his girl a cigarette, but he knows he's about to be deemed guilty by association and proximity.
+
+Well now your lips they shine in the willow mist
+And I swear I'd take your daddy on, girl, for just one kiss
+
+Will our hero stand his ground? Will he fight for the right to see his girl? Or will he swallow his pride and bow to authority?
+
+We never find out–the song ends with our narrator waiting or the confrontation, steeling himself:
+
+> *I got a date with the preacher's daughter*<br>
+> *I got a date with the preacher's daughter*<br>
+> *I got a date with the preacher's daughter*<br>
+
+Musically, "Preacher's Daughter" is clearly Bo Diddley-influenced, but Bruce keeps the rhythm restrained, letting his vocals build and seethe instead. By the time we reach the street scene, Bruce is singing in his upper register with unrestrained power, and we can only imagine how potent this song would be in concert.
+
+Actually, we don't have to imagine–while Bruce has never performed "Preacher's Daughter" in its entirety, he did sing part of it in a "Mona" – "Preacher's Daughter" – "She's the One" medley of sorts that highlighted the final month of the Darkness Tour. The three songs form a kind of Bo Diddley tribute trilogy, with "Preacher's Daughter" providing the melody for "Mona's" lyrics and. Listen to the recording below from the famous Winterland 1978 show–at about the 2:20 mark, Bruce erupts into the "Preacher's Daughter" street fight verse, and it's an electrifying moment.
+
+{{< youtube EB-_kWKqNJU >}}
+
+"Preacher's Daughter" still resides in that legendary vault of Bruce's, so maybe we'll see an official release someday in that mythical *Tracks II*.
+
+**Preacher's Daughter****Recorded:** October 27, 1977<br>
+**Never Released**<br>
+Never** **Performed** (in full, at least)
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

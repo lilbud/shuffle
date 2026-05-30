@@ -1,0 +1,77 @@
+---
+aliases:
+- /roll-of-the-dice-cover-me-clarence-clemons-savin-up/
+- /2114/
+layout: post
+date: 2018-05-14T12:00:44
+lastmod: 2024-01-01T23:07:48
+title: "Roll of the Dice/Cover Me, Clarence Clemons: Savin' Up"
+slug: roll-of-the-dice-cover-me-clarence-clemons-savin-up
+author: Ken Rosen
+description: "Double-entry today: “Savin’ Up” is a Bruce Springsteen original composition, recorded by Clarence Clemons and the Red Bank Rockers, but performed live by Bruce on many occasions."
+tags:
+- "clarence-clemons"
+- "norway"
+- "oslo"
+- "rescue"
+- "savin-up"
+- "wrecking-ball-tour"
+categories:
+- "cover-me"
+- "cover-you"
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/05/savinup.jpg.webp
+  post_id: 2114
+---
+Double-category entry today: Bruce wrote "Savin' Up" and gave it to Clarence to record for his *Rescue* album in 1983, but in recent years, Bruce has reclaimed it, performing it several times in concert.
+
+Here's Clarence's original 1983 recording, with J.T. Bowen on vocals, and Bruce on guitar:
+
+{{< youtube pbByblT-ejY >}}
+
+Written and recorded in the early 1980s, "Savin' Up" is an early warning against the obsession with excess and success that was beginning to characterize the decade, with straightforward lyrics and an infectious hook.
+
+The lyrics are an admonishment to a material girl to ‘start savin' up for the things that money can't buy." The lyrics and imagery are so direct that you'd be forgiven for thinking this is Bruce's answer to Madonna's famous hit, except that "Material Girl" came out a year later.
+
+> *You may have diamonds, you may have pearls*<br>
+> *You may think you got it baby over all the other girls*<br>
+> *But honey you ain't got nothing, and I'll tell you why*<br>
+> *If you're empty as a soul can be, baby, deep down inside*<br>
+
+> *You better start savin' up for the things that money can't buy*<br>
+
+> *You may have a big backyard, and ruby rings*<br>
+> *And my love's just a second-place runner, honey, to your fancy things*<br>
+> *But what you got to hold on to when the lights go down*<br>
+> *You come lookin' for me baby, but I ain't nowhere around*<br>
+
+> *You better start savin' up for the things that money can't buy*<br>
+
+The final verse takes a tender turn, making it clear that the narrator isn't bitter or spurned but rather making his case to the girl he still loves:
+
+> *You need a strong man, baby, to love and understand you*<br>
+> *A man who ain't afraid, sugar, to get some dirt on his hands for you*<br>
+> *And when you're feeling so down-hearted and all you wanna do is cry*<br>
+> *Ah, just come on, take my hand, baby, together you and I*<br>
+
+Bruce has performed "Savin' Up" nine times in concert, all but one during the past decade. Here's a great video document of the most recent E Street Band performance from Oslo, 2013, with Bruce in full preacher mode:
+
+{{< youtube lHZCGII66hM >}}
+
+Bruce also recorded a duet of "Savin' Up" in 2009 with John Luraschi (who played with Bruce way back in his Dr. Zoom days), for Luraschi's *The End of the Road* album.
+
+{{< youtube EzhuwnTFqfg >}}
+
+**Update 1/24/2020:** Improbably, Bruce played "Savin' Up" once more since this essay was posted, and boy was it a great one. Here's Bruce and his hat with Joe Grushecky and The Houserockers at Light of Day 20.<br>
+
+{{< youtube qOl9uXUBbHM >}}
+
+Where did "Cardi B. backyard" come from?
+
+**Savin' Up**<br>
+**Released:** *Rescue* (1983, Clarence Clemons & The Red Bank Rockers)<br>
+**First Performed:** August 14, 1987 (Asbury Park, NJ)<br>
+**Last performed:** January 18, 2020 (Asbury Park, NJ)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

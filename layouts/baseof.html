@@ -1,0 +1,32 @@
+<!doctype html>
+<html
+  lang="{{ site.Language.Locale }}"
+  dir="{{ or site.Language.Direction `ltr` }}">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+
+  <body>
+    <header>
+      {{ partial "header.html" . }}
+    </header>
+    <main>
+      <div class="padded-body">
+        {{ if .Params.header_img }}
+          {{ partial "title-card.html" . }}
+        {{ end }}
+        <div class="wrapper">
+          <div class="container">
+            <div class="row d-flex justify-content-center gap-0 g-4.5" id="content">
+              {{ block "main" . }}{{ end }}
+              {{ block "sidebar" . }}{{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    {{ partial "footer.html" . }}
+
+    {{ block "scripts" . }}{{ end }}
+  </body>
+</html>

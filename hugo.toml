@@ -1,0 +1,45 @@
+locale = 'en-us'
+title = 'E Street Shuffle Archive'
+theme = 'shuffle'
+refLinksErrorLevel = "WARNING"
+refLinksNotFoundURL = "/404"
+ignoreLogs = ['warning-goldmark-raw-html']
+custom_css = ["css/custom.css"]
+[permalinks]
+  [permalinks.page]
+    post = "/:year/:month/:day/:slug/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[pagination]
+  disableAliases = false
+  pagerSize = 10
+  path = 'page'
+
+[outputFormats]
+  [outputFormats.SearchIndex]
+    baseName = "index"
+    mediaType = "application/json"
+
+[outputs]
+  home = ["HTML", "RSS", "SearchIndex"]
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  author = 'author'
+
+disableKinds = ["term"]
+
+[server]
+  [[server.headers]]
+    for = "/**.woff2"
+    [server.headers.values]
+      Access-Control-Allow-Origin = "*"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

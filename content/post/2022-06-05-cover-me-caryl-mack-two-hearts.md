@@ -1,0 +1,37 @@
+---
+aliases:
+- /cover-me-caryl-mack-two-hearts/
+- /35354/
+layout: post
+date: 2022-06-05T12:00:00
+lastmod: 2024-01-03T23:39:09
+title: "Cover Me, Caryl Mack: Two Hearts"
+slug: cover-me-caryl-mack-two-hearts
+author: Ken Rosen
+description: "Singer-songwriter Caryl Mack finds the soul of “Two Hearts” in her gorgeous acoustic cover."
+tags:
+- "caryl-mack"
+- "two-hearts"
+categories:
+- "cover-me"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/06/carylmack.jpg.webp
+  post_id: 35354
+---
+"[Two Hearts]({{< relref "2018-05-28-roll-of-the-dice-two-hearts.md" >}})" didn't really do anything for me in its original arrangement.
+
+I recognized the beauty of Bruce's lyrics right away, and I wanted to like the song, but the album track barrels along so quickly that it left me out of breath when all I wanted to do was just *feel*.
+
+And then I heard Bruce perform it acoustically in 1996, and it instantly became one of my favorite songs. Slowed down so it can breathe, "Two Hearts" transforms into the tender promise of faith, friendship, and fidelity it was always meant to be.
+
+Every once in a while another artist hears that same tucked-away tenderness and tries an acoustic arrangement themselves, and I find myself falling in love with "Two Hearts" all over again.
+
+Like with today's entry. You may remember Caryl Mack from the late 1990s, when she had a couple singles on the Billboard Country chart. She's remained an accomplished, award-winning country singer-songwriter ever since, and recently she's developed a fondness for the music of a New Jersey rock and roll icon.
+
+"A few years ago, I did a deep dive into the music of Bruce Springsteen," she wrote on her Facebook page, "and discovered this little gem called ‘Two Hearts.' I love the message: We need each other."
+
+Although she'd covered it solo during the early lockdown phase of the pandemic, a song called "Two Hearts" calls for some collaborators. So just recently, she assembled her Live from the Firepit band and turned in an absolutely gorgeous performance that's on heavy rotation for me at the moment.
+
+{{< youtube uRYz1J4K8Fk >}}
+
+"Two Hearts" isn't the only Springsteen song Mack has added to her repertoire. If you're in the Nashville area this week, [catch her in concert](https://belmont.churchcenter.com/registrations/events/1301434) on Music Row, where she promises to cover more of Bruce's music in an event that promises "songs, stories, Springsteen."

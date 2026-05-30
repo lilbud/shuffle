@@ -1,0 +1,36 @@
+---
+aliases:
+- /cover-me-the-shining-tongues-state-trooper/
+- /22910/
+layout: post
+date: 2020-11-30T13:00:00
+lastmod: 2020-11-30T02:02:00
+title: "Cover Me, The Shining Tongues: State Trooper"
+slug: cover-me-the-shining-tongues-state-trooper
+author: Ken Rosen
+description: "The first cover single from former Infinite Three leader Daniel Knowler, The Shining Tongues’ version of “State Trooper” dials up the inner torment and paranoia at the heart of Bruce’s song."
+tags:
+- "daniel-knowler"
+- "state-trooper"
+- "the-shining-tongues"
+categories:
+- "cover-me"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/12/shiningtongues.jpg.webp
+  post_id: 22910
+---
+Here's the brand-new single from a brand-new band born during the great lockdown of 2020.
+
+The Shining Tongues is the latest songwriting project from former Infinite Three founder Daniel Knowler, who ended his decade-long former group when one of its members passed away last year.
+
+The Shining Tongues are in the process of recording their first album, but they've already released a couple of singles, including Knowler's first cover: Bruce Springsteen's "[State Trooper]({{< relref "2019-12-22-roll-of-the-dice-state-trooper.md" >}})."
+
+{{< youtube LhkggEcq3j0 >}}
+
+Knowler's previous band classified themselves as noise rock, and his latest promises to add "drone-rock, psychedelia, spiritual jazz and soundtrack music" to the mix.
+
+We can hear some of that at work in their cover of "State Trooper." Bruce's song was always a tormented and paranoid inner monologue, and Knowler's cover dials that up like never before.
+
+I'm looking forward to hearing what they bring to their first album.
+
+For more information on The Shining Tongues, check out their web site [here](https://www.theshiningtongues.com/).

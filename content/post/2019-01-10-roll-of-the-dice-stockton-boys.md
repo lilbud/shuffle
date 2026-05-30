@@ -1,0 +1,89 @@
+---
+aliases:
+- /roll-of-the-dice-stockton-boys/
+- /6883/
+layout: post
+date: 2019-01-10T12:30:18
+lastmod: 2021-12-16T03:35:47
+title: "Roll of the Dice: Stockton Boys"
+slug: roll-of-the-dice-stockton-boys
+author: Ken Rosen
+description: "A precursor to “Working on the Highway,” Bruce’s lost-in-time “Stockton Boys” never made it past the home demo stage–but those demos escaped into the wild. Take a listen inside."
+tags:
+- "stockton-boys"
+- "the-river"
+- "working-on-the-highway"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/01/stockton-boy.jpg.webp
+  post_id: 6883
+---
+In the early months of 1980, Bruce was still writing and tinkering with material for his upcoming album, *The River.* He often retreated into his home studio in Holmdel, New Jersey, where alone with his guitar and tape recorder, he'd work and re-work lyrics, test different arrangements, and occasionally even [graft lyrics onto completely different melodies]({{< relref "2018-11-04-roll-of-the-dice-jackson-cage.md" >}}).
+
+"[Two Hearts]({{< relref "2018-05-28-roll-of-the-dice-two-hearts.md" >}})" was written and finessed during this time, as was "[You Can Look (But You Better Not Touch)]({{< relref "2020-06-14-roll-of-the-dice-you-can-look-but-you-better-not-touch.md" >}})." A song called "[Whitetown]({{< relref "2018-04-19-roll-of-the-dice-whitetown.md" >}})" wouldn't see the light of day until it was officially released in the album's anniversary box set in 2015; other songs like "[Everybody Wants My Baby]({{< relref "2018-11-15-roll-of-the-dice-everybody-wants-my-baby.md" >}})" and "[You Gotta Be Kind]({{< relref "2018-02-23-roll-of-the-dice-you-gotta-be-kind.md" >}})" were relatively far along but remain unreleased to this day.
+
+And then there was "Stockton Boys" (and its twin sister, "[Stockton Girls]({{< relref "2020-02-27-roll-of-the-dice-stockton-girls.md" >}})," which we'll discuss another day). The most underdeveloped of the songs Bruce grappled with during these sessions, "Stockton Boys" was discarded somewhere along the way to *The River* (although some of its lyrics would show up a few years down the road on *Born in the U.S.A.).*
+
+However, not just one but *four* home-recorded outtakes of a very work-in-progress "Stockton Boys" escaped into the wild, and it's fascinating not just to hear this unreleased song, but also to listen in on Bruce's songwriting process. Let's eavesdrop…
+
+{{< youtube E66vPl0zvLA >}}
+
+As I mentioned, the song isn't fully developed. A lot of the lyrics are bluffed, but there's enough there to figure out what Bruce was aiming for. And those first lines should sound at least a bit familiar–and the second verse variation even more so:
+
+> *They wear it in their eyes, they wear it on their shirts*<br>
+> *They come down here looking to get hurt*<br>
+
+…because [they'd show up in somewhat altered form]({{< relref "1984-01-06-roll-of-the-dice-working-on-the-highway.md" >}}) a few years later:
+
+> *Friday night's pay night guys fresh out of work*<br>
+> *Talking about the weekend scrubbing off the dirt*<br>
+*Some heading home to their families, **some are looking to get hurt***
+*Some going down to Stovell **wearing trouble on their shirts***
+
+The chorus is the only part of the song with fully intelligible lyrics, and it's here where the song comes into focus:
+
+> *Oh Stockton boys*<br>
+> *Acting tough, making noise*<br>
+> *They say they're coming down here to collect*<br>
+> *The Stockton boys, acting tough making noise*<br>
+> *Man they just want to get wrecked*<br>
+
+The Stockton boys are hooligans, come to town to cause trouble. It's unclear from the fragments we have whether the boys are petty thieves "coming down here to collect," drug addicts "looking to get wrecked" or just escaping a life they never planned on but have found themselves saddled with.
+
+A later take provides more evidence for the last interpretation. In this version, the boys come to town every Friday night (fresh out of work). In fact, that first verse of "Working on the Highway" feels very much like it grew out of this particular take of "Stockton Boys."
+
+{{< youtube 3oP4FUeH1C8 >}}
+
+These boys are looking for release and reprieve. They "leave their little girls at home" and "come looking for a kiss."
+
+(By the way, there is indeed a town of Stockton in the state of New Jersey, but why Bruce would choose it as the setting for this song is a mystery: it's a tiny burg, with only a little over 500 residents even today, and it's nestled in a beautiful location along the river just north of Lambertville and across from New Hope, PA. Hardly the kind of town that would witness a scene like this one.)
+
+In a third version, Bruce puts a fine point on the Stockton boys:
+
+{{< youtube 6rY67dsXmnU >}}
+
+> *Oh Stockton Boys, too young to figure it out*<br>
+> *Just too dumb to pack it up and get out*<br>
+> *Stockton Boys*<br>
+> *Get out of Stockton boys*<br>
+
+Well, that's pretty direct, isn't it?
+
+Finally, a fourth outtake almost feels like a reversion. Bruce dips into his trusty book of stock character names to humanize and garner more sympathy for the song's protagonists:
+
+{{< youtube T4JL2egZvk8 >}}
+
+> *Oh Jenny's still got money in her car*<br>
+> *And Eddie stills begging fights in Queenstown bars*<br>
+> *This life never ends*<br>
+> *Will they never learn?*<br>
+
+There's no evidence to suggest that any version of "Stockton Boys" ever made it past the home demo stage. Other than some shared DNA with "Working on the Highway," this one appears to be truly lost in time.
+
+**Stockton Boys**<br>
+**Recorded:** January – February 1980 (home demos only)<br>
+**Never released**<br>
+**Never performed live**<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

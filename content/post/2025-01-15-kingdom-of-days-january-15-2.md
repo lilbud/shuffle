@@ -1,0 +1,55 @@
+---
+aliases:
+- /kingdom-of-days-january-15-2/
+- /55589/
+layout: post
+date: 2025-01-15T12:00:08
+lastmod: 2025-11-15T21:52:16
+title: "January 15"
+slug: kingdom-of-days-january-15-2
+author: Ken Rosen
+description: "On this date in Springsteen history: Watch a full Light of Day performance, plus the premiere of the video for “Tunnel of Love.”"
+tags:
+- "alejandro-escovedo"
+- "born-in-the-usa-tour"
+- "charlotte"
+- "jesse-malin"
+- "joe-grushecky"
+- "light-of-day"
+- "pittsburgh"
+- "river-tour-2016"
+- "tunnel-of-love"
+- "willie-nile"
+categories:
+- "kingdom-of-days"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/01/rs-1076-rectangle.jpg.webp
+  post_id: 55589
+---
+**1985:** The Born in the U.S.A. Tour pulls into Charlotte for the first of two nights at the Charlotte Coliseum.<br>
+
+{{< videopress id=YKDm9FGq >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/01/The_Charlotte_News_1985_01_16_8.jpg.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/12/1985-01-15b.png.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/12/1985-01-15c.png.webp)
+
+**1988:** The video for “[Tunnel of Love]({{< relref "1987-01-07-roll-of-the-dice-tunnel-of-love.md" >}}/)” premieres on *Friday Night Videos*.<br>
+
+{{< videopress id=u832h9EQ >}}
+
+**2004:** *Live in Barcelona* is certified triple platinum by the Recording Industry Association of America.<br>
+
+{{< youtube A9LpsP0goJ8 >}}
+
+**2011:** Bruce makes a traditional “surprise” appearance at Light of Day in Asbury Park, joining Jesse Malin for “[Broken Radio]({{< relref "2019-08-17-matr-jesse-malin-and-bruce-springsteen-broken-radio.md" >}}),” Willie Nile for “[Heaven Help the Lonely,]({{< relref "2018-12-29-matr-willie-nile-and-bruce-springsteen-heaven-help-the-lonely.md" >}})” Alejandro Escovedo for “[Always a Friend]({{< relref "2020-08-31-matr-alejandro-escovedo-and-bruce-springsteen-always-a-friend.md" >}}),” before launching into his own acoustic mini-set and a full set with Joe Grushecky and the Houserockers.<br>
+
+{{< videopress id=sZqestDr >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/12/2011-01-15a.png.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/12/2011-01-15b.png.webp)
+
+**2016:** Bruce and the E Street Band rehearse in Pittsburgh for the start of the River Tour (2016 version). They rehearse two Bowie songs as a tribute, “Suffragette City” and “Changes,” but they will end up playing a different song altogether when the tour opens the following night.<br>

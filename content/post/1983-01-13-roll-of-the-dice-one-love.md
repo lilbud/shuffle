@@ -1,0 +1,84 @@
+---
+aliases:
+- /roll-of-the-dice-one-love/
+- /8491/
+layout: post
+date: 1983-01-13T19:00:00
+lastmod: 2025-12-12T23:11:51
+title: "One Love"
+slug: roll-of-the-dice-one-love
+author: Ken Rosen
+description: "An almost B-side for an almost album, “One Love” remains locked away in Bruce’s vault (except for the demo escapee, which you can hear inside)."
+tags:
+- "one-love"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/04/one-love-1.png.webp
+  post_id: 8491
+---
+Bruce's recording sessions for what would become *Born in the U.S.A.* spanned more than two years. "Cover Me" (recorded in January, 1982) would end up as the earliest recorded song on the album; "Dancing in the Dark" would complete the album when it was recorded almost 25 months later.
+
+By the halfway mark in early 1983, Bruce had already written, recorded, and assembled enough material to release as an album–and he came fairly close to doing so, under a working title of *Murder Incorporated.*
+
+The track list is fascinating–it includes half of the songs that would eventually comprise *Born in the U.S.A.*, but it also included a handful of *very* strong contenders that have become fan favorites since their eventual release on *Greatest Hits* and *Tracks* years later:
+
+1. Born in the U.S.A.
+2. Murder Incorporated
+3. Downbound Train
+4. Glory Days
+5. This Hard Land
+6. My Love Will Not Let You Down
+7. Johnny Bye Bye
+8. Frankie
+9. I'm Goin' Down
+10. Working on the Highway
+11. I'm on Fire
+
+What an album that would have been!
+
+Bruce was so far along in planning the *Murder Incorporated* album, in fact, that he even had a handful of B-sides selected for the album's first five singles. Those B-sides included two songs Bruce would eventually debut during the Born in the U.S.A. Tour ("Sugarland" and "Follow That Dream"), along with three "lost tracks" that wouldn't ever be performed live and wouldn't see official release for more than four decades: "Don't Back Down," "Little Girl (Like You)," and "One Love."
+
+When I wrote about "Little Girl (Like You)" last spring, I wasn't very kind in my assessment. "One Love" is better (faint praise that may be), but it still suffers from an overly simple conceit, a lack of imagination, and Bruce's newfound fascination with drum machines. Take a listen to the original home demo:
+
+{{< youtube IyHiN-dF04A >}}
+
+"One Love" doesn't demand much in the way of lyrical analysis; Bruce never even dips a toe into metaphor.
+
+> *One girl, one love*<br>
+> *One dream in our heart*<br>
+> *Two hearts as one*<br>
+> *One hope, never to be torn apart*<br>
+
+> *Yeah, come on baby, rock me way down low*<br>
+> *Shake me darling, shake me, don't let me go*<br>
+> *You're the one, yeah, you're the one for me*<br>
+
+By the time we've finished that first verse, we pretty much get the idea: like the man says (here and elsewhere), two hearts are better than one. But just to make sure that we don't miss the point, the song continues:
+
+> *One dream, one dream*<br>
+> *Is all, is all I need*<br>
+> *One reason to believe*<br>
+> *In you I've found the thing I need*<br>
+
+> *Once I was alone*<br>
+> *So alone, so all alone*<br>
+> *Then you came along*<br>
+> *With a love you said I could call home*<br>
+
+> *Come on baby, rock me all night long*<br>
+> *I've been searching for you for so long*<br>
+> *You're the one, yeah, you're the one for me*<br>
+
+When *Tracks II: The Lost Albums* was announced with "One Love" included, I wondered if we'd finally hear a more polished version of the song. In a sense, I guess we do: the official release lops off the extended intro and fade-out, so the album version is considerably shorter. But it's still the same recording otherwise.
+
+{{< youtube qyp6Sh6tjC4 >}}
+
+The best we can say about "One Love" is that it's a simple but earnest and bouncy love song that probably wouldn't have stood the test of time had it been released as a B-side as intended back in the mid-eighties.
+
+**One Love**<br>
+**Recorded** January 19, 1983<br>
+**Released:** *L.A. Garage Sessions '83*<br>
+**Never performed**<br>
+
+© April 23, 2019 / December 12, 2025

@@ -1,0 +1,45 @@
+---
+aliases:
+- /matr-roy-orbison-bruce-springsteen-and-friends-mean-woman-blues/
+- /28461/
+layout: post
+date: 2021-11-17T13:00:00
+lastmod: 2021-11-17T01:25:04
+title: "MatR: Roy Orbison, Bruce Springsteen, and Friends: Mean Woman Blues"
+slug: matr-roy-orbison-bruce-springsteen-and-friends-mean-woman-blues
+author: Ken Rosen
+description: "One time only: Bruce backs Roy Orbison and an all-star band on an Elvis cover that one-ups The King."
+tags:
+- "black-and-white-night"
+- "elvis-presley"
+- "roy-orbison"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/mean.jpg.webp
+  post_id: 28461
+---
+It takes guts to cover an Elvis Presley song and think you can one-up The King, but that's exactly what Roy Orbison did when he covered "Mean Woman Blues," which Elvis took to #11 in 1957 in the soundtrack for his film *Loving You.*
+
+{{< youtube 9UBQmvTUqHg >}}
+
+Orbison's 1963 cover version doesn't just one-up the original, it stomps all over it.
+
+There are delights at every turn, from the sly Ray Charles hat-tip introduction to the "Wipeout" cover-within-a-cover, that ferocious guitar solo to the delightful "Sha-la-la" backing vocals, Roy's unearthly falsetto, and of course: that purr. And those final twenty seconds... play it loud!
+
+{{< youtube JBiKfknNZkU >}}
+
+Unsurprisingly, Orbison's version outperformed Presley's on the charts as well, peaking all the way at #5 on the Billboard Hot 100.
+
+"Mean Woman Blues" is one of Roy's hardest-rocking singles, a song that sounds like it's as fun to perform as it is to hear. It sure looked that way, at least, on September 30, 1987, when Orbison assembled an all-star backing band for his *Black and White Night* concert event. "Mean Woman Blues" was on the set list that night, and Bruce Springsteen was in the backing band.
+
+Bruce shared vocals and took a prominent role in a few songs during the show, but for "Mean Woman Blues" he stayed in the background on rhythm guitar. Watch him closely, because it's a joy to do so: I'm not sure I've ever seen Bruce happier on stage than he looked that night.
+
+{{< youtube -kWZZ71yzas >}}
+
+That was a one-time-only performance of "Mean Woman Blues," but it was only one of a set list full of classics they played that night. Check out more *Black and White Night* performances [here](/tags/black-and-white-night/).
+
+**Mean Woman Blues**<br>
+**First performed:** September 30, 1987 (Los Angeles, CA)<br>
+**Last performed:** September 30, 1987 (Los Angeles, CA)<br>

@@ -1,0 +1,33 @@
+---
+aliases:
+- /cover-me-diarrhea-planet-and-harry-kagan-born-to-run/
+- /15952/
+layout: post
+date: 2020-02-12T13:00:00
+lastmod: 2020-02-08T19:57:37
+title: "Cover Me, Diarrhea Planet and Harry Kagan: Born to Run"
+slug: cover-me-diarrhea-planet-and-harry-kagan-born-to-run
+author: Ken Rosen
+description: "Prepare yourself for the best cover of “Born to Run” ever–Diarrhea Planet’s festival-closing performance (with Harry Kagan on vocals and Ross Holmes on fiddle) is a mic drop performance if ever there was one."
+tags:
+- "born-to-run"
+- "diarrhea-planet"
+categories:
+- "cover-me"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/02/maxresdefault.jpg.webp
+  post_id: 15952
+---
+Prepare yourself for the absolute best freaking cover of "Born to Run" ever.
+
+Nashville rockers Diarrhea Planet are no strangers to Bruce's signature song–they'd covered it in concert years before their mic drop performance as the closers for Nashville's Freakin' Weekend in 2017.
+
+But add Music Band's Harry Kagan on lead vocals, and the incredible Ross Holmes from Mumford & Sons on fiddle (he darn near steals the show with his incredible solo), and the band's already incredible cover takes off into the stratosphere.
+
+Seriously: turn up the volume, switch to full screen mode, and just take it all in:
+
+{{< youtube jYHiTyBsdHI >}}
+
+See what I mean? Sadly, Diarrhea Planet is no more–the band broke up in 2018. But at least we have this incredible performance to remember them by.
+
+Just be careful not to mentally juxtapose the name of the band and the song, though, or else you may never hear "Born to Run" the same way again.

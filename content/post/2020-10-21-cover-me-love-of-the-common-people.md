@@ -1,0 +1,51 @@
+---
+aliases:
+- /cover-me-love-of-the-common-people/
+- /22141/
+layout: post
+date: 2020-10-21T11:02:00
+lastmod: 2021-12-21T02:12:30
+title: "Cover Me: Love of the Common People"
+slug: cover-me-love-of-the-common-people
+author: Ken Rosen
+description: "“Love of the Common People” stood out as one of the more contemporary set list selections on the Seeger Sessions Tour, but thematically it fit perfectly."
+tags:
+- "john-hurley"
+- "live-in-dublin"
+- "love-of-the-common-people"
+- "paul-young"
+- "the-four-preps"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/10/lovecommon.jpg.webp
+  post_id: 22141
+---
+"Love of the Common People" was one of the rare songs Bruce performed on the Seeger Sessions Tour that originated during his own lifetime.
+
+It was a perfect fit thematically, though. "Love of the Common People" is both frank about the misery of poverty and uplifting about the ability of the human spirit to live and love under such conditions.
+
+John Hurley and Ronnie Wilkins (authors of "Son of a Preacher Man") wrote the song, and The Four Preps first recorded and released it in the early days of 1967.
+
+{{< youtube 4WzGtmK6EIg >}}
+
+The Everly Brothers recorded a cover later that year. Neither version entered the Top 100. Hurley himself recorded his song a few years later, in 1970. That one wasn't a hit, either.
+
+{{< youtube lSOsKMMjyKU >}}
+
+Over the years, it's been covered by many, many well-known artists: Elton John, Wanda Jackson, John Denver, Waylon Jennings, and more. And yet, other than Paul Young's minor hit with it (it came close but never cracked the U.S. Top 40, although it fared much better in Europe) and Nicky Thomas' #9 UK hit in 1970, "Love of the Common People" never seemed to resonate with the public as much as it did with recording artists.
+
+{{< youtube SVmjKHkgxis >}}
+
+It resonated with Bruce Springsteen, though. He broke it out in the final days of his 2006 Seeger Sessions Tour, premiering it as an encore-opener in Valencia. The song went over so well that Bruce moved it to the main set and performed it an astonishing seven times in ten days. (I have to remind myself sometimes that there was a not-that-distant time when Bruce played shows that frequently.)
+
+{{< youtube 7JrXlGIpbRA >}}
+
+After a couple of performances, the arrangement was solid enough and the band's performance confident enough for Bruce to capture it on video and audio. The resulting performance from Barcelona (the one we just watched above) was included as a bonus track on *Live in Dublin* home audio and video releases.
+
+It may have been a late addition to the set list, but "Love of the Common People" proved a perfect complement for a wonderful stretch of shows that don't get nearly the amount of attention they deserve.
+
+**Love of the Common People**<br>
+**First performed:** October 21, 2006 (Valencia, Spain)<br>
+**Last performed:** October 30, 2006 (Stockholm, Sweden)<br>

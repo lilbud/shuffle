@@ -1,0 +1,110 @@
+---
+aliases:
+- /roll-of-the-dice-the-wind-and-the-rain/
+- /29315/
+layout: post
+date: 2021-10-10T12:00:00
+lastmod: 2021-10-10T12:33:59
+title: "Roll of the Dice: The Wind and the Rain"
+slug: roll-of-the-dice-the-wind-and-the-rain
+author: Ken Rosen
+description: "Bruce Springsteen, guitar hero. Don’t laugh, just listen."
+tags:
+- "steel-mill"
+- "the-wind-and-the-rain"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/10/windrain.jpg.webp
+  post_id: 29315
+---
+Bruce Springsteen: Guitar Hero.
+
+If anybody ever laughs when you say those words, make them listen to "The Wind and The Rain" and collect your apology.
+
+{{< youtube RBEWsZDUTp0 >}}
+
+As you can tell from the recording, "The Wind and The Rain" dates back a ways–more than a half-century. That performance was from Steel Mill's Monmouth College gig on April 24, 1970, and the lyrics date back farther still.
+
+Remember that [1968 Notebook](https://estreetshuffle.com/?s=1968+notebook) we've taken several dips into over the past four years? Well, tucked into the final pages of it were these early lyrics.
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/10/thewindandtherain_lyrics1.jpg.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/10/thewindandtherain_lyrics2.jpg.webp)
+
+There's another set of early lyrics in existence for "The Wind and The Rain," too:
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/10/thewindandtherain_handwritten2_page1.jpg.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/10/thewindandtherain_handwritten2_page2.jpg.webp)
+
+A careful read of either version will reveal lyrics that never made it to the stage:
+
+> *Clouded sky it's been that way since you've been gone*<br>
+> *I've served my punishment for doing you wrong*<br>
+> *So why does the feeling keep hanging on*<br>
+> *The wind + rain is my only song*<br>
+
+> *Countless days now my skin has wrinkled up*<br>
+> *Yet I haven't had enough*<br>
+> *The years have made me far too tough*<br>
+> *For the wind + rain is all I love*<br>
+
+But honestly, for all that workshopping, the final verses aren't much to write home about either. "The Wind and The Rain" is an intensely bitter post-breakup song with a central storm metaphor that didn't really require a lot of imagination to craft a song around. (Lifting the song title from Shakespeare, however, required a little bit of chutzpah.)
+
+> *The wind and rain slashing at my window pane*<br>
+> *Lightning's flashing, looks like the sky's gone insane*<br>
+> *And it seems like you have lied again*<br>
+> *And now I'm left with the wind and rain*<br>
+
+> *Oh shattered truth, jagged memories of you*<br>
+> *You know it's hard, them dreams that just can't come true*<br>
+> *How long has it been since I've known you*<br>
+> *Now the wind and the rain is my only truth*<br>
+
+> *Summertime, summertime, that was when you were mine*<br>
+> *And now that's left so far behind*<br>
+> *Can't you see what you've done to my mind*<br>
+> *Now the wind and the rain's forever mine*<br>
+
+> *Then time shorn it up*<br>
+> *The years have made me far too tough*<br>
+> *You know where I start and I go, I got drowned*<br>
+> *Now the wind and the rain is my only love*<br>
+
+> *Wintertime*<br>
+> *Memories of when you were mine*<br>
+> *Let 'em shine*<br>
+> *Golden moments lost in time*<br>
+> *Now I hear the grandfather chime*<br>
+> *Wind and rain's forever mine*<br>
+
+> *Now the wind and the rain slashing at my window pane*<br>
+> *Seems like you have lied again*<br>
+> *By now I guess that it's just the same*<br>
+> *And I am left with the wind and the rain*<br>
+
+> *Hasn't time shown you enough*<br>
+> *The years have made me far too tough*<br>
+> *But you know where I stood when the going got rough*<br>
+> *The wind and rain is my only love*<br>
+
+As is often the case with Bruce's Steel Mill material, the lyrics are just a coatrack on which to hang an epic instrumental jam or three. And my oh my, these are epic jams.
+
+From the four-minute intro to the nine-minute(!) mid-song break to the two minute finale (only about four minutes out of the twenty feature actual singing), Bruce is jaw-droppingly impressive on lead guitar. This twenty-year-old kid shreds with an intensity we've rarely seen from him since, and certainly at greater length than we've ever heard him commit to at one go.
+
+And what's most thrilling is that we can tell just by listening that Bruce knows exactly how good he is. Throughout his E Street career, even during his most impressive solos Bruce rarely shows off. In 1970, though, he was cocky as all hell, and that confidence electrifies his performance.
+
+Bruce was a triple threat at the time, flooring ever-growing audiences with his frontman presence, guitar shredding, and rapidly maturing songwriting. Before long, Bruce would decide to focus on only two of those three.
+
+But what if he'd chosen differently? Four months after that Monmouth performance, Bruce invited Robbin Thompson to join Steel Mill as the band's new co-lead vocalist, for a brief time it seemed like Bruce might be content to earn his place in history with his instrument rather than his stage presence.
+
+Imagine if Bruce had dedicated himself to the guitar with the same single-minded ferocity that would come to characterize his vocal performances. He was probably always deservedly destined for fame, but in some alternate universe, there's probably a Bruce Springsteen who is rightfully considered one of the greatest guitar players of all time.
+
+**The Wind and The Rain**<br>
+**Never recorded**<br>
+**Never released**<br>
+**First performed:** April 24, 1970 (West Long Branch, NJ)<br>
+**Last performed:** August 14, 1970 (Richmond, VA)<br>
+
+Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!

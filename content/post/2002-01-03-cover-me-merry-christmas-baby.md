@@ -1,0 +1,74 @@
+---
+aliases:
+- /cover-me-merry-christmas-baby/
+- /6315/
+layout: post
+date: 2002-01-03T19:00:21
+lastmod: 2025-11-07T01:44:12
+title: "Merry Christmas, Baby"
+slug: cover-me-merry-christmas-baby
+author: Ken Rosen
+description: "Bruce’s “other” Christmas song is almost as well-known and much-loved as his “Santa Claus,” even though he’s never performed it beyond New Jersey or New York."
+tags:
+- "a-very-special-christmas"
+- "johnny-moores-three-blazers"
+- "live-1975-85"
+- "merry-christmas-baby"
+- "otis-redding"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/12/merryxmasbaby.jpg.webp
+  post_id: 6315
+---
+If Bruce is associated with one holiday song, it's "Santa Claus is Comin' to Town." But if he's associated with *two*, the second one is most certainly "Merry Christmas Baby" — and yet, he's only ever played it in concert four times with the E Street Band, and never at all outside of New Jersey or New York State.
+
+"Merry Christmas Baby" doesn't go quite as far back as does "Santa," but it's close: it was first recorded in 1947 by Johnny Moore's Three Blazers.
+
+It was an immediate hit, peaking at #3 on the R&B chart, but it's more of a mellow fireside mood-setter than the concert favorite Bruce's version became.
+
+{{< youtube pquaVRipw4M >}}
+
+We don't know whether Bruce was familiar with Moore's original version, but we can surely surmise where Bruce gleaned his inspiration for his own arrangement.
+
+Although such luminaries as Chuck Berry and Elvis Presley covered "Merry Christmas Baby" before Bruce did, it's a pretty safe bet that Bruce based his version on Otis Redding's 1968 version. You can hear the influence from the instantly recognizable opening notes, as well as lyrics that only appear in Bruce's and Otis' versions.
+
+{{< youtube rEyV8gnC4aQ >}}
+
+Bruce premiered his version at his year-ending stand at Nassau Coliseum in December 1980, opening the show with its live debut on December 28th.
+
+{{< youtube 4cSe8KQAuKM >}}
+
+But it was the band's performance three days later that Bruce chose to officially release in 1986, as the B-side to "[War]({{< relref "2016-01-02-cover-me-war.md" >}})," the first single from *Live 1975-85*. (The song itself does not appear in the box set.)
+
+The very next year, that same performance was included in the Special Olympics benefit album, *A Very Special Christmas*.
+
+{{< youtube 8rLKWWMuUE4 >}}
+
+Although it became a perennial holiday favorite on the radio each holiday season, Bruce wouldn't play "Merry Christmas Baby" in concert again for 14 years–and even then it was only at a small benefit in Sea Bright, NJ.
+
+{{< youtube nbv2xybqvpQ >}}
+
+When Bruce kicked off his Asbury Park holiday show tradition after the Reunion Tour ended, "Merry Christmas Baby" was immediately established as an essential set list staple…
+
+{{< videopress id=IelUEzSa >}}
+
+…and Bruce performed it with the E Street Band on Conan O'Brien's show in 2002.
+
+{{< youtube GzV8OGocMS8 >}}
+
+But if you're looking for a proper E Street Band reprise of those classic 1980 performances, we'll have to flash all the way forward to the very last show of the Working on a Dream tour, [in Buffalo on November 22, 2009]({{< relref "2018-11-22-where-the-band-was-buffalo-november-22-2009.md" >}}). Believe it or not, it took almost *29 years* for "Merry Christmas Baby" to return to the E Street stage.
+
+{{< youtube B803AXVYzeE >}}
+
+Bruce gave it one last airing (to date) seven years later at Carnegie Hall, but I wouldn't bet on it staying gone for long. You can't keep the classics down.
+
+{{< youtube bhsJUCB5Gc8 >}}
+
+**Merry Christmas Baby**<br>
+**Released:** *A Very Special Christmas* (1987)<br>
+**First performed:** December 28, 1980 (Uniondale, NY)<br>
+**Last performed:** December 14, 2016 (New York City, NY)<br>
+
+(c) December 24, 2018 by Ken Rosen

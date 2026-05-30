@@ -1,0 +1,75 @@
+---
+aliases:
+- /cover-me-silent-bear-tenth-avenue-freeze-out/
+- /24580/
+layout: post
+date: 2021-01-24T13:00:00
+lastmod: 2023-01-03T01:13:04
+title: "Cover Me, Silent Bear: Tenth Avenue Freeze-Out"
+slug: cover-me-silent-bear-tenth-avenue-freeze-out
+author: Ken Rosen
+description: "Deep into his cover of “Tenth Avenue Freeze-Out,” Silent Bear sense a new context for Bruce’s classic song and took it in a daring new direction."
+tags:
+- "pete-seeger"
+- "silent-bear"
+- "tenth-avenue-freeze-out"
+categories:
+- "cover-me"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/01/silentbear.jpg.webp
+  post_id: 24580
+---
+Even Bruce Springsteen couldn't tell you what a "[Tenth Avenue Freeze-Out]({{< relref "2018-11-19-roll-of-the-dice-tenth-avenue-freeze-out.md" >}})" is.
+
+But deep into his epic cover of the E Street Band's origin story, Silent Bear figured it out for himself.
+
+Silent Bear is a Boulder-based singer-songwriter steeped in the blues tradition, never performing a song the same way twice. If you catch him in concert, you'll hear a performance truly in and of the moment, never to be repeated.
+
+A longtime fan of Springsteen, Silent Bear cites Bruce's passion as an inspiration for his own performances.
+
+> *"Bruce brings passion to everything that he does. His love and commitment to what he does always shines through and inspires. The last time I saw him was the second to last show of the MSG Reunion run. I remember thinking to myself upon leaving that show that Bruce is like an urban Shaman of sorts, a medicine man for the common people.*<br>
+
+> *"Unlike Indigenous cultures that still perform their original sacred ceremonies, most folks in modern western society have lost this primal connection. The rock concert might be the closest thing that we have to that ritual. So that's what I aspire to: presenting live music as a transformative, healing, medicinal experience, like Bruce does."*<br>
+
+Silent Bear combined that passion and his improvisational talent at The Mountain Sun in Boulder on January 18, 2015, when he covered "Tenth Avenue Freeze-Out" for only the second time.
+
+The Mountain Sun was known for playing host to jam bands, so Silent Bear embraced the vibe and and mesmerized with his funky, improvisational thirteen-minute cover. About seven minutes in, though, something remarkable happens. Trust me: take thirteen minutes for a deep listen.
+
+[Tenth Avenue Freeze Out by Silent Bear](https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F473723064&show_artwork=true&maxheight=1000&maxwidth=758)
+
+(Photo credit: Josh Elioseff — Dancer Productions)
+
+I was floored on first listen. Deeply in the moment, Silent Bear intuitively recognized a fresh context for a classic song and daringly reinvented it along the lines of "American Skin (41 Shots)."
+
+When I asked him what inspired him to make the connection, Silent Bear took me inside his head at that moment:
+
+*"The repeating of the phrase **Tenth Avenue freeze-out** led to something else. I started out with the blues tradition of scatting along with the guitar as I played. and then I found myself saying the words, ‘Shot my brother down.'*
+
+> *"This was not long after Ferguson and the Eric Garner murder, so police murders of people of color was in the air. So the narrative/flow of the improvisation went that way.*<br>
+
+> *The Big Man dressed in blue, shot my brother down*<br>
+> *Right in front of his mother*<br>
+> *Right by the Tenth Ave street line*<br>
+> *Lights flashing, sirens blaring*<br>
+
+> *"So basically, completely improvised, I found myself recreating the scene of the police shooting of a man of color in the street. The title took on another meaning in the moment and became symbolic of a shooting/murder on a city street. A whole different kind of "freeze out."*<br>
+
+Silent Bear and Bruce may never have met, but they're only one degree separated: they both shared a friendship and working relationship with the late, great Pete Seeger.
+
+Silent Bear connected with Seeger in 2009 to enlist Pete's support in Silent Bear's mission to secure freedom for Native American political prisoner Leonard Peltier. With Pete's blessing, Silent Bear adapted Pete's "[Bring 'em Home]({{< relref "2006-01-18-rotd-cover-me-bring-em-home.md" >}})" to create awareness for Peltier, retitling the song "Bring Him Home" and writing new verses.
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/01/letter2.jpg.webp)
+
+Seeger loved Silent Bear's version so much that he invited Silent Bear to perform it with him at a benefit for concert for Peltier in 2012.
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/01/seeger2.jpg.webp)
+
+(Photo credit: Rick Gilbert Photography – Skyhook Entertainment)
+
+Had Bruce not been on tour that year, Silent Bear might have actually had a chance to share the stage with Bruce, too–Seeger invited Bruce early on in the event planning.
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/01/seegerspringsteen-1.jpg.webp)
+
+That concert was an important step in a mission that Silent Bear continues to pursue to this day. It resulted in a friendship with Seeger that lasted until his death in 2014. Shortly before Pete passed away, he contributed tracks (including "Bring Him Home") to Silent Bear's 2014 album *[The Green Lion](https://www.amazon.com/Green-Lion-Silent-Bear/dp/B00LPQNFWS).* Those tracks are among the last recordings Pete ever made.
+
+Check out more music and performances by Silent Bear at his Facebook page [here](https://www.facebook.com/Silent-Bear-159723630749480/about/?ref=page_internal).

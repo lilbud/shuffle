@@ -1,0 +1,103 @@
+---
+aliases:
+- /cover-me-southside-johnny-and-the-drifters-little-girl-so-fine/
+- /17358/
+layout: post
+date: 2020-05-06T12:00:00
+lastmod: 2020-12-23T15:54:47
+title: "Cover Me, Southside Johnny (and The Drifters!): Little Girl So Fine"
+slug: cover-me-southside-johnny-and-the-drifters-little-girl-so-fine
+author: Ken Rosen
+description: "Now here’s a recipe: Start with inspiration from Leiber and Staller, add lyrics by Bruce, music by Steve, and lead vocals by Southside Johnny. Ice with backing vocals by The Drifters, and you’ve got pure pop confection."
+tags:
+- "little-girl-so-fine"
+- "southside-johnny"
+- "steve-van-zandt"
+- "the-drifters"
+- "this-time-its-for-real"
+categories:
+- "cover-me"
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/05/littlegirl.jpg.webp
+  post_id: 17358
+---
+When Little Steven played "Little Girl So Fine" on his most recent tour, he'd introduce it by acknowledging Bruce Springsteen as his co-songwriter, from "back when Mr. Springsteen needed the money. He was out of work! Had to give the kid a break."
+
+He wasn't kidding.
+
+By late 1976, Bruce's legal disputes with Mike Appel had forced him into seemingly endless touring, barred from recording new material in the studio. He almost certainly did need the work, so when Steve saw an opportunity to throw a bone Bruce's way while producing Southside Johnny's second album, Bruce no doubt leapt at the opportunity.
+
+Bruce ended up with co-author credit on three songs on *This Time It's For Real*, all with Steven. "Love on the Wrong Side of Town" is the most well-known of the three; "[When You Dance]({{< relref "1972-01-25-roll-of-the-dice-when-you-dance.md" >}})" was actually a retooled early Bruce Springsteen Band song.
+
+But "Little Girl So Fine" may be the most interesting one. To say the track wears its influences on its sleeve would be to understate–its influences are practically wearing the shirt.
+
+While I've seen no definitive account of who contributed what, we can be pretty certain that Steve wrote and arranged the music and came up with the basic theme. As Steve explained before performing it live, "Little Girl So Fine" is a Jerry Leiber & Mike Stoller tribute, and it has Steve's fingerprints all over it.
+
+This Van Zandt-fronted bluffed rehearsal track from 1976 (under a slightly different name) adds evidence to the extent of Steve's contributions.
+
+{{< youtube drPw132jFro >}}
+
+The finished lyrics, on the other hand, are almost certainly Bruce's. Even the title is about as Springsteenian as it gets.
+
+> *After the music had stopped I still heard it playing*<br>
+> *I moved a little closer to hear the words she was saying*<br>
+> *She said, "I'd never break your heart, I'd never try to fake it*<br>
+> *My love is here for you all you have to do is take it"*<br>
+> *Kisses sweeter than wine*<br>
+> *My little girl so fine*<br>
+
+> *The night seemed to say it was right but could I believe her?*<br>
+> *My heart said it's time to go but my eyes wouldn't leave her*<br>
+> *There's always someone trying to break your heart, somebody trying to take it*<br>
+> *My little girl tries so hard to help me make it*<br>
+> *Kisses sweeter than wine*<br>
+> *My little girl so fine*<br>
+
+> *Oh, oh, oh, oh, sha la la*<br>
+> *Oh, oh, sha la la*<br>
+> *So fine*<br>
+
+> *When we danced*<br>
+> *I forgot everything and whispered*<br>
+> *Hold me tight*<br>
+> *Take a chance on what tomorrow brings*<br>
+> *Won't you be mine, be mine*<br>
+> *Be mine tonight*<br>
+> *We walked away laughing together into the night*<br>
+> *Forever and ever and ever*<br>
+
+> *Now I know*<br>
+> *I'll never break my baby's heart*<br>
+> *I'll never try to fake it*<br>
+> *I'll give her all my love, all she has to do is take it*<br>
+> *Kisses sweeter than wine*<br>
+> *My little girl so fine*<br>
+> *Kisses sweeter than wine*<br>
+> *My little girl so fine*<br>
+> *Oh, oh, oh, oh*<br>
+> *Kisses sweeter than wine*<br>
+> *My little girl so fine*<br>
+
+Content-wise, "Little Girl So Fine" is a sweet tribute to the classic crooner ballads of the 1950s. There may not be a lot of depth on display, but to search for it is to miss the point.
+
+Which brings us to the most notable and wonderful aspect of "Little Girl So Fine": the marvelous backing vocals by The Drifters, who scored hits with a list of Leiber and Staller classics like "There Goes My Baby" and "On Broadway." Let's take a listen now to the finished track:
+
+{{< youtube -eWHFnOuiu0 >}}
+
+On stage, Little Steven talks about how he reunited The Drifters to perform on "Little Girl So Fine." Although certainly true in spirit, there have been so many Drifters line-ups (about forty just by the time Southside recorded "Little Girl So Fine") that the notion of "reuniting" is a tough one to apply to that particular group.
+
+Nevertheless, it's The Drifters' contributions that elevates "Little Girl So Fine" above what would otherwise have been a forgettable track. (Southside never quite musters up the required passion on the studio version, although he'd do it justice later on stage.)
+
+"Little Girl So Fine" is the only one of Bruce's contributions to *This Time It's for Real* that he hasn't ever performed live (or even acknowledged), but I'd argue that it's much better suited for Steve's or Southside's vocal stylings anyway.
+
+It was a highlight of Steve's Summer of Sorcery tour to hear "Little Girl So Fine" in its rightful glory, in that beautiful arrangement. Let's hope we haven't heard the last of it.
+
+{{< youtube l1IiErAx2P8 >}}
+
+**Little Girl So Fine**<br>
+**Recorded:** December 1976 or early 1977<br>
+**Released:** *This Time It's For Real* (1977)<br>
+**Never performed live**<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

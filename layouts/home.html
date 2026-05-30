@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="content-area col-12 col-lg-8" id="main-column">
+  {{ $paginator := .Paginate site.RegularPages 10 }}
+
+  {{ range $paginator.Pages }}
+  {{ partial "post-card.html" . }}
+  {{ end }}
+
+  {{ partial "pagination.html" . }}
+</div>
+{{ end }}
+{{ define "sidebar" }}
+{{ partial "sidebar.html" . }}
+{{ end }}

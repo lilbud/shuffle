@@ -1,0 +1,56 @@
+---
+aliases:
+- /roll-of-the-dice-the-fire-engines-are-returning-home/
+- /19175/
+layout: post
+date: 2020-07-31T11:10:00
+lastmod: 2020-07-31T11:12:27
+title: "Roll of the Dice: The Fire Engines Are Returning Home"
+slug: roll-of-the-dice-the-fire-engines-are-returning-home
+author: Ken Rosen
+description: "¯\_(ツ)_/¯"
+tags:
+- "steel-mill"
+- "the-fire-engines-are-returning-home"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/fire-engines.jpg.webp
+  post_id: 19175
+---
+I consider myself to be pretty decent at interpreting Bruce's songs, but I have to cry "uncle" on this one.
+
+"The Fire Engines Are Returning Home" is one of Bruce's Steel Mill-era compositions. As far as I know, the band never recorded it, but it's likely they at least rehearsed it.
+
+Bruce's lyrics appear to be complete, along with chord notations, on a surviving hand-written lyrics sheet. (There only seems to be three short verses, but Bruce's Steel Mill material was often short on lyrics to make room for the band's epic-length mid-song jams.)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/fireengines.jpg.webp)
+
+As for what's the song about, you tell me. Please.
+
+> *The fire engines are returning home*
+> *There are bunnies in the rain*
+> *Cars are tuned to The Rolling Stones*
+> *and are deaf to the whistling train*
+
+> *The fire engines are returning home*
+> *There are bunnies in the rain*
+> *Teddy bears lie left alone*
+> *As sleepytime children sing the refrain*
+
+> *Something for nothing, nothing for something*
+> *Isn't it all the same?*
+> *The bunnies are returning home*
+> *Like fire engines in the rain*
+
+Fire engines returning home in the rain implies that they aren't needed–the rain is putting the fire out. That notion would be reinforced by the abandoned teddy bears in the second verse, no longer required by their lullabied owners.
+
+But what's it in service of? Does Bruce have a message here?
+
+Beats the heck out of me. Anyone care to enlighten?
+
+**The Fire Engines Are Returning Home**<br>
+**Never recorded**<br>
+**Never performed**<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

@@ -1,0 +1,83 @@
+---
+aliases:
+- /roll-of-the-dice-cover-me-we-shall-overcome/
+- /3565/
+layout: post
+date: 2018-08-15T12:00:56
+lastmod: 2024-01-01T23:41:36
+title: "Roll of the Dice/Cover Me: We Shall Overcome"
+slug: roll-of-the-dice-cover-me-we-shall-overcome
+author: Ken Rosen
+description: "Bruce’s 1998 cover of “We Shall Overcome” helps keep this most potent of protest songs alive and fresh for a new generation."
+tags:
+- "cape-town"
+- "pete-seeger"
+- "we-shall-overcome"
+categories:
+- "cover-me"
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/08/overcome.jpeg.webp
+  post_id: 3565
+---
+> *It was the most powerful song of the 20th century. It started out in church pews and picket lines, inspired one of the greatest freedom movements in U.S. history, and went on to topple governments and bring about reform all over the world. Word for word, the short, simple lyrics of "We Shall Overcome" might be some of the most influential words in the English language.*<br>
+
+Those words are from the U.S. Library of Congress, describing the global societal impact of "We Shall Overcome."
+
+It may indeed be the most powerful song of the 20th century, but it's origins trace back a lot further: the music all the way back to Beethoven…
+
+{{< youtube XqSjIQBtuVY >}}
+
+..and the lyrics to a turn-of-the-20th-century hymn called "I'll Overcome Someday."
+
+{{< youtube ns4rLJbY370 >}}
+
+Beyond that, like many popular folk songs (although it seems somehow diminishing to call it that), the history and evolution of "We Shall Overcome" is hard to trace. But its popularity is widely attributed to Pete Seeger, who adopted and shaped it in the 1950s, and to Guy Carawan, who shares a copyright with Seeger and who introduced it to the Civil Rights movement and the SNCC in 1960.
+
+{{< youtube M_Ld8JGv56E >}}
+
+Here's a great interview with Pete Seeger a few years before his death, where he discusses the song's origins:
+
+[Pete Seeger on "We Shall Overcome" by Blank on Blank](https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F45879191&show_artwork=true&maxheight=1000&maxwidth=758)
+
+Almost immediately, "We Shall Overcome" became an anthem of social justice and resistance, spreading first through the Civil Rights movement and then worldwide. It's been recorded and performed by Joan Baez, Mahalia Jackson, and so many others–including, of course, Bruce Springsteen.
+
+Bruce's version dates back not to his 2006 album of the same name, as many people believe, but to almost a decade prior. In 1997, Bruce was contacted by the Appleseed record label with a request to contribute a track for an upcoming Pete Seeger tribute compilation called *Where Have All the Flowers Gone: The Songs of Pete Seeger.* Bruce accepted and chose "We Shall Overcome" as his contribution, recording the song in his home studio with Patti, Soozie, and a collection of musician friends and friends of friends.
+
+The tribute album was released in 1998, and Bruce's "We Shall Overcome" leads off Disc 2. If you listen to it below, you'll notice that it's a different mix than the one Bruce would release on his own eight years later, but it's also clearly the same recording.
+
+{{< youtube 026oa4oMG5k >}}
+
+In the aftermath of September 11, Bruce's version of "We Shall Overcome" made frequent appearance on TV news and documentary specials, and along with "My City of Ruins" helped shore up strength and resilience among frightened citizens.
+
+Eight years after that original home recording session, Bruce revisited "We Shall Overcome" and the five other songs recorded back in 1997, and he supplemented them with nine new recordings using the same musicians. A third and final recording session in early 2006 completed the collection that would yield [*We Shall Overcome: The Seeger Sessions*]({{< relref "2006-01-01-album-companion-we-shall-overcome.md" >}})and inspire one of Bruce's shortest, under-attended and joyous tours ever.
+
+Here's the album version of "We Shall Overcome." If you listen with sharp ears, you'll hear the differences in the mix from the original version.
+
+{{< youtube ULYpA_Z4yx8 >}}
+
+Throughout the Seeger Sessions tour, "We Shall Overcome" was a nightly highlight. Every performance was delicate but life-affirming, and it's almost impossible to pick stand-out performances.
+
+Certainly its first official outing from New Orleans Jazz Fest is a contender:
+
+{{< youtube LrBATPhL0DI >}}
+
+This one from London's St. Luke's Church is probably the most atmospheric:
+
+{{< youtube FMfaAHoZ8xs >}}
+
+But there were two other performances that stand out for me, both long after the Seeger Sessions Tour wrapped: one was a 2012 performance in Oslo by Bruce and Steve at the memorial concert for the victims of the Norway terror attacks, a somber but powerful performance.
+
+{{< youtube LTrgNSlCkKY >}}
+
+The other was remarkable for both the location–Cape Town, South Africa, where the song carried special resonance–and the date: January 28, 2014, mere hours after the passing of Pete Seeger. [I was lucky enough to be present for it]({{< relref "2018-01-28-where-the-band-was-cape-town-january-28-2014.md" >}}), and it remains to this day one of the most powerful concert moments I've ever experienced.
+
+{{< youtube PE2lhLHeDBw >}}
+
+**We Shall Overcome**<br>
+**Recorded:** November 2, 1997<br>
+**Released:** *Where Have All the Flowers Gone: The Songs of Pete Seeger* (1998), *We Shall Overcome: The Seeger Sessions* (2006), *We Shall Overcome: The Seeger Sessions – American Land Edition* (2006)<br>
+**First performed:** April 20, 2006 (Asbury Park, NJ)<br>
+**Last performed:** January 28, 2014 (Cape Town, South Africa)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

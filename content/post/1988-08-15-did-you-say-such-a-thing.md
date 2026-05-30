@@ -1,0 +1,35 @@
+---
+aliases:
+- /did-you-say-such-a-thing/
+- /67963/
+layout: post
+date: 1988-08-15T18:00:20
+lastmod: 2026-02-24T02:40:17
+title: "Did You Say Such a Thing"
+slug: did-you-say-such-a-thing
+author: Ken Rosen
+description: "One of three Mellencamp/Springsteen collaborations on John’s 2022 album Strictly a One-Eyed Jack, “Did You Say Such a Thing” is the only one that truly rocks…"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2026/02/john-mellencamp-myrna-suarezfinal-eypatch-5326-1629303211.jpg.webp
+  post_id: 67963
+---
+One of three Mellencamp/Springsteen collaborations on John's 2022 album *Strictly a One-Eyed Jack*, "Did You Say Such a Thing" is the only one that truly rocks the way we'd imagine their inevitable team-up to sound.
+
+{{< youtube _C2OaGmqQpw >}}
+
+Except it wasn't really inevitable.
+
+Although they'd ben acquaintances for years, they'd never exchanged more than polite pleasantries until they played together during a joint appearance at the Rainforest Foundation's annual (ish) benefit. I was fortunate enough to be there that night, but even in person their on-stage chemistry gave no inkling of the close bond they'd soon forge.
+
+"All of a sudden he was like my big brother," John told *Forbes.* "He treated me like I was his sibling, and I treated him with respect. And then we became really good friends, and it just kind of happened."
+
+What happened was Bruce Springsteen became his Indiana houseguest for a week, where the two hung out, grew closer, and made art and music.
+
+"Wasted Days" was the single that came out of that session, but "Did You Say Such a Thing" is equally strong. One wonders what might come from their next hang.
+
+**Did You Say Such a Thing**<br>
+**Recorded:** April 10, 2021<br>
+**Released:** *Strictly a One-Eyed Jack* (2022)<br>
+**Never performed**<br>
+
+© February 23, 2026

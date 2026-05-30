@@ -1,0 +1,55 @@
+---
+aliases:
+- /cover-me-round-up-dancing-in-the-dark/
+- /26103/
+layout: post
+date: 2021-03-21T12:00:00
+lastmod: 2023-01-03T01:36:43
+title: "Cover Me Round-Up: Dancing in the Dark"
+slug: cover-me-round-up-dancing-in-the-dark
+author: Ken Rosen
+description: "Part 2 in a new series spotlighting songs that are covered too frequently to feature individually–this time we take a look at five great versions of “Dancing in the Dark.”"
+tags:
+- "billy-moon"
+- "dancing-in-the-dark"
+- "holtze-family"
+- "human-magic"
+- "morgan-james"
+- "waltz-away"
+categories:
+- "cover-me"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/03/humanmagic.jpg.webp
+  post_id: 26103
+---
+Presenting the second in our new *Cover Me Round-Up* series, spotlighting Springsteen songs that are covered too frequently to keep up with unless I spotlight them in batches. (Check out the first installment featuring covers of "[I'm on Fire]({{< relref "1984-01-08-roll-of-the-dice-im-on-fire.md" >}})" [here]({{< relref "2021-03-05-cover-me-round-up-im-on-fire.md" >}}).)
+
+Leading off today's tour is Toronto indie-disco/neo-soul band, Human Magic. Recorded during the pandemic, their cover of "[Dancing in the Dark]({{< relref "1984-01-13-roll-of-the-dice-dancing-in-the-dark.md" >}})" is urgent, funky, and features a trombone solo instead of The Big Man's sax. It works amazingly well–this is one of my favorite "Dancing in the Dark" covers in many moons.
+
+{{< youtube 6aAtOw9uLPY >}}
+
+Next, let's slow it down with New York-based Morgan James' 2014 cover, from her debut album *Hunter*.
+
+{{< youtube CydhiFdl6ro >}}
+
+Morgan's cover is lonely and yearning, just like Bruce's lyrics, and her stripped down live performance (released the same week as her album) is fantastic, too.
+
+{{< youtube ErNp0qYcMNM >}}
+
+Let's stay in this mellow groove for just a bit longer and hop across the pond to take in Blackburn-based self-professed "sad white boy indie band" Waltz Away and their appropriate take on Bruce's greatest hit.
+
+{{< youtube aMSckr6mgec >}}
+
+Okay, that's enough brooding. Now let's turn the pace and volume up a notch with Michigan-based Billy Moon, and his awesomely hard-rocking version of "Dancing in the Dark." This one's been around for several years, but it's been undeservingly under the radar.
+
+{{< youtube lWYb4x_gxo4 >}}
+
+We've got time for one more in this installment, and it's one of my favorites.
+
+Like most of us, the Minnesota-based Holtze family found themselves spending a lot of extra time together (and almost zero time with anyone else). Luckily, the Holtzes are a musical family, so they put the extra family time to good use and started recording creative arrangements of popular songs and sharing them with the world.
+
+Their version of "Dancing in the Dark" features stomping boots, rattling keys, a lovely violin, and a family of gorgeous vocals.
+
+{{< youtube TblP0wFyzrk >}}
+
+That's it for this installment, but there will definitely be more–there are too many great Springsteen covers out there that deserve more attention!

@@ -1,0 +1,66 @@
+---
+aliases:
+- /cover-me-the-way-you-do-the-things-you-do/
+- /21785/
+layout: post
+date: 2020-11-20T13:00:00
+lastmod: 2020-11-20T03:57:10
+title: "Cover Me: The Way You Do The Things You Do"
+slug: cover-me-the-way-you-do-the-things-you-do
+author: Ken Rosen
+description: "When Bruce played the Apollo Theater for the first time, he worked up a special arrangement of The Temptations’ 1964 breakout hit for the occasion."
+tags:
+- "634-5789-soulsville-u-s-a"
+- "apollo-medley"
+- "smokey-robinson"
+- "the-temptations"
+- "the-way-you-do-the-things-you-do"
+- "wilson-pickett"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/wayyoudo.jpg.webp
+  post_id: 21785
+---
+When Bruce Springsteen played the legendary Apollo Theater for the very first time in early 2012, he prepared something appropriately special for the occasion.
+
+To pay tribute to all the great Motown soul singers that paved the way, Bruce and the E Street Band worked up an arrangement of The Temptations' "The Way You Do The Things You Do."
+
+{{< youtube 9gLBvgvXTok >}}
+
+He'd have been hard pressed to select a more suitable song.
+
+"The Way You Do The Things You Do" wasn't just a smash hit for The Temptations in 1964 (peaking at #11 on the Billboard Hot 100), the Smokey Robinson-penned pick-up line classic powered its way to Top 40 status in every decade from the sixties through the nineties.
+
+Rita Coolidge took "The Way You Do The Things You Do" to #20 in 1978.
+
+{{< youtube sg8pH1EgWss >}}
+
+Hall and Oates (with Temptations members David Ruffin and Eddie Kendricks) did the same in 1985 with their live recording from the Apollo.
+
+{{< youtube N0268Le2mBA >}}
+
+And in 1990, UB40 took "The Way You Do The Things You Do" to its highest chart position yet via a reggae arrangement, peaking at #6.
+
+{{< youtube J2RZPMo5jAs >}}
+
+But there's no beating the original. Both on disc and on stage, The Temptations captivated audiences with their performances.
+
+https://www.youtube.com/watch?v=iG38kyraN7Q
+
+"The Way You Do The Things You Do" was a show-stopping highlight of Bruce's Apollo show. Unsurprisingly, he kept it around, performing it frequently throughout the early legs of the Wrecking Ball Tour, less so during the latter ones.
+
+Blended with "[634-5789 (Soulsville, U.S.A.)]({{< relref "2018-08-14-cover-me-634-5789-soulsville-u-s-a.md" >}})," the combined performance became known as the "Apollo Medley," and it proved a nightly showcase for the vocalists of the E Street Band–particularly new member Jake Clemons, who quickly established a rapport with fans and by mid-tour had become a crowd-pleasing favorite.
+
+In the clip below (one of the song's very last outings to date), we can see that Jake had done his homework. Compare his physical performance with The Temptations above, and you'll notice some undoubtedly intentional similarities.
+
+{{< youtube r6kxSY4YSc4 >}}
+
+Bruce performed "The Way You Do The Things You Do" just twice more after that Glendale performance above. (Its medley-mate has fared better as far as subsequent performances go.)
+
+But a song that delights both audiences and artists alike isn't likely to stay missing in action forever. Keep an eye out for a return engagement.
+
+**The Way You Do The Things You Do**<br>
+**First performed:** March 9, 2012 (New York City, NY)<br>
+**Last performed:** March 14, 2013 (Brisbane, Australia)<br>

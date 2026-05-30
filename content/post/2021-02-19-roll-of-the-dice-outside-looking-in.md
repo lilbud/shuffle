@@ -1,0 +1,90 @@
+---
+aliases:
+- /roll-of-the-dice-outside-looking-in/
+- /25452/
+layout: post
+date: 2021-02-19T13:00:00
+lastmod: 2023-01-03T01:25:47
+title: "Roll of the Dice: Outside Looking In"
+slug: roll-of-the-dice-outside-looking-in
+author: Ken Rosen
+description: "In which Bruce wears his influence so much on his sleeve that it’s practically a “Peggy Sue” tattoo."
+tags:
+- "outside-looking-in"
+- "the-promise"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/02/peggysuetattoo.jpg.webp
+  post_id: 25452
+---
+> "I didn't want to be pegged as a revivalist, so I was hesitant to wear my influences too clearly on my sleeve at the moment." — Bruce Springsteen to Brian Hiatt, *Rolling Stone*, November 25, 2010
+
+Who can blame him?
+
+Bruce had already featured the Spector-esque "Born to Run" and the Bo Diddley homage "She's the One" on his previous record.
+
+Releasing "Outside Looking In" on his follow-up almost certainly would have invited a Buddy Holly comparison. When it comes to wearing one's influence on one's sleeve, "Outside Looking In" is the equivalent of a "Peggy Sue" tattoo.
+
+{{< youtube Ev4XO_RCAag >}}
+
+It's more than just Max Weinberg's rumbling percussion; even the chord progression of Bruce's 1977 [*Darkness on the Edge of Town*]({{< relref "2022-07-05-album-companion-darkness-on-the-edge-of-town.md" >}}) outtake is modeled after Buddy Holly's 1957 classic. It's not much of a stretch to argue that "Outside Looking In" is basically built on Peggy Sue's chassis.
+
+{{< youtube OUesbTObC9A >}}
+
+The irony of "Outside Looking In," however, is that content-wise it's the inverse of "Peggy Sue."
+
+"Peggy Sue" is a doe-eyed, devotional mash note of a song; "Outside Looking In"… well, let's just say the narrator's girl left him feeling a different kind of blue.
+
+> *It's all over now, the things we had*<br>
+> *I ain't sorry, girl, I just feel mad*<br>
+> *You walk real pretty and you talk real fine*<br>
+> *But night after night babe I'm on the line*<br>
+> *My life's the same story, again and again*<br>
+> *I'm on the outside looking in*<br>
+
+> *Well every day just brings the same*<br>
+> *You go out looking for some strange new games*<br>
+> *Pretty soon them games ain't fun anymore*<br>
+> *And it's something else that you're looking for*<br>
+> *You've got all the answers, you and your friends*<br>
+> *And I'm on the outside looking in*<br>
+
+> *Now you've got the pretty things you want*<br>
+> *The sins of the angels baby they will haunt*<br>
+> *Those pretty eyes that they all adore*<br>
+> *But baby not me, not anymore*<br>
+> *I do what I want to*,
+> *I'll be what I am*<br>
+> *I'm on the outside looking in*<br>
+
+Now if you're a romantic, feel free to interpret Bruce's lyrics as giving up on an emotionally distant girl who refuses to let her guard down. It's certainly possible to read the song that way.
+
+But to me, both the lyrics and vocals of "Outside Looking In" portray a sexually frustrated player who feels strung along and has lost all patience.
+
+Both interpretations might be true.
+
+The only thing that's crystal clear is that our narrator has had enough of trying to make this relationship work. He's walking away from it with his head held high, even though he suspects he's the one who's been played.
+
+(An earlier take of the song included a verse that makes the narrator appear a bit vulnerable, but it also made him appear a bit of a victim. Bruce wisely decided to jettison it from the final version.)
+
+> *Hey, you may believe it ain't real*<br>
+> *I don't doubt the way I feel*<br>
+> *You walk real pretty and you talk real sweet*<br>
+> *Well baby I was born in the driving seat*<br>
+> *My life's the same story, again and again*<br>
+> *I'm on the outside looking in*<br>
+
+{{< youtube Ye66WuPgyJo >}}
+
+"Outside Looking In" is a clever twist on a rock and roll classic, but it's one that many listeners wouldn't recognize beneath its familiar veneer.
+
+Bruce was wise to leave it off of *Darkness* but equally wise to dust it off three decades later for *The Promise*, his 2010 influence-wearing sleeve of an album.
+
+**Outside Looking In**<br>
+**Recorded** September 27, 1977<br>
+**Released:** *The Promise* (2010)<br>
+**First performed:** December 7, 2010 (Asbury Park, NJ)<br>
+**Last performed:** December 7, 2010 (Asbury Park, NJ)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

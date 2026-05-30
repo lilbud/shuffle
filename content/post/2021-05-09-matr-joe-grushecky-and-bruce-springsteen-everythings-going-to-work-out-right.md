@@ -1,0 +1,56 @@
+---
+aliases:
+- /matr-joe-grushecky-and-bruce-springsteen-everythings-going-to-work-out-right/
+- /25805/
+layout: post
+date: 2021-05-09T12:00:00
+lastmod: 2021-05-09T14:29:16
+title: "MatR: Joe Grushecky and Bruce Springsteen: Everything's Going to Work Out Right"
+slug: matr-joe-grushecky-and-bruce-springsteen-everythings-going-to-work-out-right
+author: Ken Rosen
+description: "Joe Grushecky’s first song on the heels of American Babylon was a complete tonal shift–a warm, uplifting rocker that resonates even more today than when he first released it."
+tags:
+- "everythings-going-to-work-out-right"
+- "joe-grushecky"
+- "joe-grushecky-and-the-houserockers"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/05/everything.jpg.webp
+  post_id: 25805
+---
+Bruce Springsteen co-wrote four songs on Joe Grushecky's 1998 album, *Coming Home*, but the strongest song on the album is one hundred percent Joe's.
+
+*Coming Home* leads off with one of my all-time favorite Grushecky songs. "Everything's Going to Be All Right" is a warm, optimistic rocker that sets the tone for an album rooted in family and the ties that bind.
+
+{{< youtube om6WqPrOTUA >}}
+
+It's also more than a little unjustly ironic, because it's Joe's first track following the artistic success but commercial failure of *[American Babylon]({{< relref "2020-10-17-american-babylon-a-retrospective.md" >}}).* One can't help but reflect that everything *didn't* work out right, which makes the opening verse and chorus by this teacher-by-day/rocker-by-night all the more meaningful:
+
+> *Don't ever lose your faith in me*<br>
+> *Because I will never let you down*<br>
+> *If I have to work seven days a week*<br>
+> *And drive myself into the ground*<br>
+
+> *I will always take good care of you*<br>
+> *No matter what I'll be there*<br>
+> *I'll be there for you and I know that*<br>
+
+"Everything's Going to Work Out Right" is a song that's rooted in the personal but resonates universally. There are times when we all need a song like that, especially during a global pandemic–which is why Joe broke it out last summer for his contribution to Feeding America's Rock for Relief benefit.
+
+{{< youtube M6sFMtDO6iM >}}
+
+Bruce may not have contributed to "Everything's Going to Work Out Right," but he did perform it with Joe and The Houserockers–twice, in fact, on two very appropriate occasions. The first time was at the very first Light of Day benefit in November 2000; the second was at the Flood Aid benefit show that Joe organized four years later to help the victims of Hurricane Ivan. The latter performance was captured on video, a highlight of a great night.
+
+{{< videopress id=C9lOj0xX >}}
+
+It's nice to see that Joe keeps this one in rotation, especially when circumstances call for it.
+
+I only have a minor quibble with "Everything's Going to Work Out Right"–Joe clearly sings "gonna" instead of "going to" throughout the song, which makes me wonder why he didn't just title it that way.
+
+Maybe it's the teacher in him.
+
+**Everything's Going to Work Out Right**<br>
+**First performed:** November 3, 2000 (Asbury Park, NJ)<br>
+**Last performed:** December 2, 2004 (Pittsburgh, PA)<br>

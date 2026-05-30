@@ -1,0 +1,53 @@
+---
+aliases:
+- /cover-me-ballad-of-easy-rider/
+- /23583/
+layout: post
+date: 2021-01-04T13:00:00
+lastmod: 2021-01-04T02:58:57
+title: "Cover Me: Ballad of Easy Rider"
+slug: cover-me-ballad-of-easy-rider
+author: Ken Rosen
+description: "One time only: Bruce covers Roger McGuinn’s (and Bob Dylan’s?) 1969 classic."
+tags:
+- "ballad-of-easy-rider"
+- "roger-mcguinn"
+- "the-byrds"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/01/easyrider.jpg.webp
+  post_id: 23583
+---
+"Ballad of Easy Rider" is one of those songs with a murky (and possibly apocryphal) origin.
+
+The story goes something like this: Peter Fonda wanted to use a Bob Dylan song for his upcoming *Easy Rider* movie, and he was hoping Dylan would write a theme song for the film as well.
+
+After seeing the movie, however, Dylan wanted nothing to do with the project for reasons that vary depending on whose account you read. After repeated cajoling from Fonda, Dylan scratched out a few lines on a napkin:
+
+> *The river flows, it flows to the sea*<br>
+> *Wherever that river goes, that's where I want to be*<br>
+> *Flow, river, flow*<br>
+
+Dylan gave the napkin to Fonda along with his blessing for another songwriter to take it from there.
+
+Fonda turned to Roger McGuinn of The Byrds, who completed the song and credited Dylan as co-writer–much to Dylan's annoyance. Dylan insisted his credit be removed, and today Dylan is cited simply as having provided "input."
+
+{{< youtube BWoMz6C7INQ >}}
+
+Meanwhile, although McGuinn recorded a lovely solo version of "Ballad of Easy Rider" for the film, for some reason he immediately re-recorded it with The Byrds for release as a single. As a result, in short order there were two different versions available, both featuring McGuinn: his solo recording (released in August 1969) and a band version (released in October).
+
+{{< youtube r8jC1lRZGTU >}}
+
+Both versions are great, and when Bruce Springsteen covered "Ballad of Easy Rider" for the first and only time (at his 1981 benefit concert for the Vietnam Veterans of America), his arrangement seemed to draw from both of them. Take a listen:
+
+{{< youtube FtKeYtQRM6A >}}
+
+Tucked into the encores that night, Bruce's version of "Ballad of Easy Rider" was tender and moving–why he never played it again is a question I can't answer.
+
+But if he was only ever going to play it once, he certainly made sure that performance was a stunner.
+
+**Ballad of Easy Rider**<br>
+**First performed:** August 20, 1981 (Los Angeles, CA)<br>
+**Last performed:** August 20, 1981 (Los Angeles, CA)<br>

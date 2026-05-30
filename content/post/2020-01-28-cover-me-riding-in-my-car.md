@@ -1,0 +1,48 @@
+---
+aliases:
+- /cover-me-riding-in-my-car/
+- /15413/
+layout: post
+date: 2020-01-28T13:00:00
+lastmod: 2024-01-02T19:30:19
+title: "Cover Me: Riding in My Car"
+slug: cover-me-riding-in-my-car
+author: Ken Rosen
+description: "Bruce has covered Woody Guthrie’s social and political folk songs time and again, but it was only a matter of time before Bruce discovered Guthrie’s children’s songs, too. “Riding in My Car” must have proved irresistible–which is exactly the descriptor for Bruce’s cover version."
+tags:
+- "car-song"
+- "riding-in-my-car"
+- "til-we-outnumber-them"
+- "woody-guthrie"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/01/30childrens-slide-PQKM-superJumbo.jpg.webp
+  post_id: 15413
+---
+Bruce Springsteen his covered the work of Woody Guthrie time and again.
+
+"[This Land Is Your Land]({{< relref "2023-07-04-cover-me-this-land-is-your-land.md" >}})" was a River Tour staple; "[Hard Times (Come Again No More)]({{< relref "2022-01-21-cover-me-hard-times-come-again-no-more.md" >}})" was a featured encore throughout the Working on a Dream Tour.
+
+Bruce has covered folk classics like "[Lonesome Valley]({{< relref "2018-02-08-cover-me-woody-guthries-lonesome-valley.md" >}})" and "[Deportee (Plane Wreck at Los Gatos)]({{< relref "2020-01-05-cover-me-deportee-plane-wreck-at-los-gatos.md" >}})" in concert, and he's released a studio recording of "[I Ain't Got No Home]({{< relref "2019-02-10-cover-me-rotd-i-aint-got-no-home.md" >}})."
+
+But as soon as Bruce became a parent, we knew it was only a matter of time before Guthrie's children's songs showed up in Bruce's set list, too. And really: was there ever any doubt that Woody's "Riding in My Car" (also known as "Car Song") would be the one that grabbed Bruce's attention?
+
+{{< youtube DUDtFdnn9oQ >}}
+
+Like Bruce would remark when he debuted it at a 1996 Guthrie tribute concert, "Automobiles: that's my business. Mr. Guthrie, no disrespect but that's *my* business."
+
+"Riding in My Car" was a natural choice for Bruce to cover; the only question for those in attendance as he introduced it was: could Bruce nail the car noises?
+
+Of course he could.
+
+{{< youtube NQM1LrzfFkM >}}
+
+Believe it or not, Bruce's cover of "Riding in My Car" has been officially released–you can find it on *‘Til We Outnumber Them*, which documents that 1996 tribute concert.
+
+For fans of Woody and Bruce, that's great news, because we're highly unlikely to hear Bruce cover it in concert again.
+
+**Riding in My Car (Car Song)**<br>
+**Recorded** September 29, 1996 (live)**Released:** *‘Til We Outnumber Them* (2000)**First performed:** September 29, 1996 (Cleveland, OH)<br>
+**Last performed:** September 29, 1996 (Cleveland, OH)<br>

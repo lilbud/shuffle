@@ -1,0 +1,69 @@
+---
+aliases:
+- /roll-of-the-dice-until-the-rain-comes/
+- /1762/
+layout: post
+date: 2018-04-22T12:00:17
+lastmod: 2019-04-13T21:04:23
+title: "Roll of the Dice: Until the Rain Comes"
+slug: roll-of-the-dice-until-the-rain-comes
+author: Ken Rosen
+description: "Unearthed handwritten lyrics by an 18-year-old Bruce Springsteen."
+tags:
+- "1968-notebook"
+- "until-the-rain-comes"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/04/1968_lyricsnotebook-1.jpg.webp
+  post_id: 1762
+---
+Today's entry is an unusual one. I've covered unreleased songs and even work-in-progress snippets, but this is the first essay for which we don't even have a scrap of music to listen to.
+
+The only reason we know that "Until the Rain Comes" exists is that its lyrics were included in the 2006 public auction of a notebook containing lyrics from songs Bruce had written in 1968 at the tender age of eighteen.
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/01/1968_lyricsnotebook.jpg.webp)
+
+The table of contents shows several previously-unknown songs.
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/1968_lyricsnotebook-contentspage.jpg.webp)
+
+The ninth song, "Until the Rain Comes," is actually known to have been played by Bruce during his solo acoustic shows that spring and summer, but no recording has surfaced.
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/04/untiltheraincomes_lyrics.jpg.webp)
+
+The handwritten lyrics are above (thanks to springsteenlyrics.com), but here they are transcribed:
+
+> *Today I sail from the shores of my homeland*
+> *reflections upon the water enchant my searching eyes*
+> *Across the flaming clouds rides the brave Apollo*
+> *until the rain comes leaving silence on the sky*
+
+> *I lay upon the soft green grass and think for many days*
+> *voices to my left and right tear me in two ways*
+> *Upon reaching the ancient age of 18 I have found*
+> *what is round isn't round at all, and what is up may be down*
+
+> *A windy day is running near, the white dove flies alone*
+> *broken brothers tear the earth and turn into dried up bones*
+> *I ask for an answer and do not hear a sound*
+> *lies upon lies again, until the rain comes*
+
+> *The emerald waves lap upon the shore*
+> *kiss the naked body of the night before*
+> *The sweet young sparrow weeps for things she's never done*
+> *and I'll drink her love, when the rain comes*
+
+> *So I cut the ropes that bind my craft to the shore*
+> *and sail upon the open sea, where freedom flows so pure*
+> *Back upon the sandy beach a child cries with dawn*
+> *I'll never return again, until the rain comes*
+
+Lyrically (and that's all we have to go on), "Until the Rain Comes" is very much the product of an 18-year-old, newly independent, questioning and unsure, saying goodbye to his childhood and venturing forth into adulthood.
+
+Perhaps a recording will surface one day and we'll hear Bruce breathe life into the song.
+
+**Until the Rain Comes****Never Recorded**<br>
+**First/Last Performed:** mid-1968<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

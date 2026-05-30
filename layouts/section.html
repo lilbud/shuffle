@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <div class="card p-3 p-lg-4.5 mb-3 mb-lg-4.5" id="header-card">
+    <div class="row d-flex align-items-center justify-content-between">
+      <div class="page-title">
+        Category:
+        <span class="text-purple text-capitalize">
+          {{ .Title }}
+        </span>
+      </div>
+    </div>
+  </div>
+  {{ range site.RegularPages }}
+    {{ partial "post-card.html" . }}
+  {{ end }}
+{{ end }}

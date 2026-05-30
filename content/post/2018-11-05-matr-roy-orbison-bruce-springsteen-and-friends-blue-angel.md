@@ -1,0 +1,42 @@
+---
+aliases:
+- /matr-roy-orbison-bruce-springsteen-and-friends-blue-angel/
+- /5415/
+layout: post
+date: 2018-11-05T12:36:38
+lastmod: 2020-12-05T18:23:41
+title: "MatR: Roy Orbison, Bruce Springsteen and Friends, Blue Angel"
+slug: matr-roy-orbison-bruce-springsteen-and-friends-blue-angel
+author: Ken Rosen
+description: "Originally cut from the Black & White Night broadcast and home video release, “Blue Angel” spotlights Roy Orbison’s amazing vocals, backed by a stellar band that includes Bruce."
+tags:
+- "black-white-night"
+- "blue-angel"
+- "los-angeles"
+- "roy-orbison"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/11/roy-orbison.png.webp
+  post_id: 5415
+---
+On September 30 1987, an all-star array of musical talent gathered at the Cocoanut Grove in Los Angeles for the filming of *Roy Orbison & Friends: A Black & White Night*.
+
+Bruce has always been a big Orbison fan, so it's not surprising to learn that he volunteered to be part of Roy's backing band. He can be seen prominently throughout the concert, which was broadcast on Cinemax in 1988 and issued (several times) on home video over the years.
+
+However, a few songs were cut (for time) from the original broadcast and home releases, and the sublime "Blue Angel" was one of them. It appeared for the first time more than a decade later; if you haven't seen the the re-release, check out the performance below.
+
+{{< youtube GCe40AlSAsE >}}
+
+That's Bruce seated in the background on guitar, and if you watch carefully you'll catch Jackson Browne, Elvis Costello, and k.d. lang, and others as well.
+
+Orbison originally released "Blue Angel" in 1960. It peaked at #9 on the U.S. Hot 100.
+
+{{< youtube YUMFNz0IpEQ >}}
+
+Check out more Orbison/Springsteen highlights from *Black and White Night* [here](https://estreetshuffle.com/?s=orbison).
+
+**Blue Angel**<br>
+**First performed:** September 30, 1987 (Los Angeles, CA)<br>
+**Last performed:** September 30, 1987 (Los Angeles, CA)<br>

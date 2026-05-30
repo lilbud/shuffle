@@ -1,0 +1,67 @@
+---
+aliases:
+- /roll-of-the-dice-lets-be-friends-skin-to-skin/
+- /829/
+layout: post
+date: 2018-03-02T13:00:53
+lastmod: 2020-11-26T20:31:25
+title: "Roll of the Dice: Let's Be Friends (Skin to Skin)"
+slug: roll-of-the-dice-lets-be-friends-skin-to-skin
+author: Ken Rosen
+description: "Haters gonna hate it, but I’m gonna love it: “Let’s Be Friends” is one of my favorite tracks on The Rising."
+tags:
+- "lets-be-friends"
+- "the-rising"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/03/letsbefriends.jpg.webp
+  post_id: 829
+---
+I'm gonna say it: I *love* this song, and it's in my top three tracks on *The Rising.*
+
+Fans love to lavish the hate on this song–heck, even Bruce seems embarrassed by it (he only ever performed it once). But from the first listen, "Let's Be Friends" hooked me with it's summery, shimmery, feel-good R&B groove.
+
+{{< youtube hEPtmU5okkk >}}
+
+There's no depth to "Let's Be Friends." It's a seduction song, pure and simple, and the lyrics boil down to: stop pussyfooting and start carpe dieming:
+
+> *I been watchin' you a long time*
+> *Trying to figure out where and when*
+> *We been moving down that same line*
+> *Time is now maybe we could get skin to skin*
+
+> *Don't know when this chance might come again*
+> *Good times got a way of comin' to an end*
+> *Don't know when this chance might come again*
+> *Good times got a way of slippin' away*
+> *Let's be friends, baby let's be friends*
+
+> *I know we're different, you and me*
+> *Got a different way of walkin'*
+> *The time has come to let the past be history*
+> *Yeah if we could just start talkin'*
+
+> *There's a lot of talk going 'round you*
+> *Let them talk you know you're the only one*
+> *There's a lot of walls need tearing down*
+> *Together we could take them down one by one*
+
+It's easy to speculate that Bruce wrote it about the early days of his and Patti's relationship, but I believe he was just reaching for a sound, a groove, a feeling–and this is what came out.
+
+I play this song any time I need a spirit lift. Even under the grayest of Seattle skies, "Let's Be Friends" brings out the sun.
+
+I honestly can't fathom the criticism that "Let's Be Friends" attracts, although I will readily admit that it is *horribly* out of place smack dab in the middle of *The Rising.* Seriously, Bruce? You're such a perfectionist when you sequence and structure your albums, and you thought it was a good idea to include "Let's Be Friends?" Yeah, "[The Fuse]({{< relref "2020-07-04-roll-of-the-dice-the-fuse.md" >}})" covers similar ground, but it's set against a stark backdrop; and "[Waitin' on a Sunny Day]({{< relref "2019-09-27-roll-of-the-dice-waitin-on-a-sunny-day.md" >}})" may be light pop, but it's rooted in sadness. "Let's Be Friends" is just flat-out inappropriate for that album, IMO. Shoulda saved it for *Working on a Dream.*
+
+If you're hoping (like me) to catch this song live, don't hold your breath. Bruce has played it only once, at the tail end of The Rising Tour, and it was, um, rough:
+
+{{< youtube wawtqYSdCPM >}}
+
+Yeah, maybe this one is better kept to vinyl. But if the E Street Band ever plays a show on the beach, this is gonna be my request sign. Y'all will just have to deal.
+
+**Let's Be Friends (Skin to Skin)**<br>
+**Recorded** 1999-2002**Released:** *The Rising* (2002)<br>
+**First performed:** September 16, 2003 (Hartford, CT)<br>
+**Last performed:** September 16, 2003 (Hartford, CT)<br>
+
+Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!

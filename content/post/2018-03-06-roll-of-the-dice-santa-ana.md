@@ -1,0 +1,91 @@
+---
+aliases:
+- /roll-of-the-dice-santa-ana/
+- /970/
+layout: post
+date: 2018-03-06T13:00:10
+lastmod: 2022-12-28T06:09:01
+title: "Roll of the Dice: Santa Ana"
+slug: roll-of-the-dice-santa-ana
+author: Ken Rosen
+description: "Visit the vividly painted streetscape of “Santa Ana,” featuring a lost Clarence Clemons flute performance and dreamlike imagery."
+tags:
+- "santa-ana"
+- "tracks"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/03/Santa-Ana-800x800.jpg.webp
+  post_id: 970
+---
+"Santa Ana" is typical early-Bruce tapestry–full of larger-than-life characters, colorful metaphors, and some liberal dips into the rhyming dictionary a la "Blinded by the Light." Written in 1972 and recorded in early 1973, it wouldn't see the light of day (officially, anyway) for a full quarter century thereafter.
+
+There's not much in the way of plot in "Santa Ana"–as Bruce said in a 1998 interview for Mojo, "Santa Ana is just a series of images, but it works."
+
+{{< youtube M0V18vfvQh8 >}}
+
+At a 1973 show in Bryn Mawr, PA, Bruce recounted the origin of the song, born out of a road trip to Mexico with his father (which he would later recount in his autobiography). Listen to the story below.
+
+{{< youtube W4Ge8ShsyEI >}}
+
+The lyrics are a series of streetscapes–the first from above, as a boy watches a parade featuring Daniel Webster, Robert Oppenheimer, Sam Houston, and more–but wonders whence Santa Anna.
+
+> *From the tin rooftop the little boy did watch the procession down through town*<br>
+> *Through the museum where Daniel whupped the Devil with them boys from the underground*<br>
+> *Where the Giants of Science fight for tight control over the wildlands of New Mexico*<br>
+> *Sam Houston's ghost's in Texas fighting for his soul*<br>
+> *And the townsfolk rest uneasy beneath the guns of Kid Cole (ahhhh)*<br>
+> *And the kid says, "Hey, where is Santa Ana?"*<br>
+> *He who could romance the dumb into talking*<br>
+> *Take a chance with me tonight, my contessa*<br>
+> *If it don't work out I ain't lame, I can walk, hey!*<br>
+
+The second verse is grittier and streetier, with imagery reminiscent of "[Hollywood Kids](../2011-01-19-roll-of-the-dice-hollywood-kids/post.md/)" from the same period. It also features a lyric pairing too good to languish in obscurity:
+
+> *Now some folks think cancer's taken to the streets of this town*<br>
+> *But Sandy eats her candy and then lays her money down*<br>
+> *Them cats are in from the canyons to strut their stuff in town*<br>
+> *But there's only secret sinners here, Lord, there's only secret thieves*<br>
+> *Only a fool would try to save what the desert chose to leave*<br>
+> *And now, hey there, senorita, with your playboys in their Spanish bandanas*<br>
+***French cream won't soften those boots, baby***<br>
+***French kisses will not break your heart, oh!***<br>
+
+(Those last two lines would reappear slightly morphed in "[She's the One]({{< relref "2021-04-04-roll-of-the-dice-shes-the-one.md" >}})" a few years later.)
+
+In the final verse, the boy–no longer so little–joins the street scene and imagines himself as Santa Anna, the Napoleon of the West reduced to a cartoon as he "matches braces" with a Spanish lady, enjoying the night and spurning the Giants of Science to live in the moment.
+
+> *Oh, painted night set free with light glows outside the Rainbow Saloon*<br>
+> *Matching braces with a Spanish lady ‘neath a graduation moon*<br>
+> *No more colleges, no more coronations, some punk's idea of a teenage nation*<br>
+> *Has forced Santa Ana to change his station from soldier to cartoon*<br>
+> *And the Giants of Science spend their days and nights*<br>
+> *Not with wives, not with lovers, but searching for the lights*<br>
+> *They spotted in the desert on their helicopter flights*<br>
+> *Just to be lost in the dust and the night*<br>
+> *Hey, now my contessa, in your juke joint rags you always bring candy for the kids*<br>
+> *Come waltz with me tonight senorita 'cause only fools are alone on a night like this, oh!*<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/03/santa-ana-lyricsheet-2.jpg.webp)
+
+"Santa Ana" was recorded in early 1973 during the Wild and Innocent sessions and was originally intended for inclusion on that album. It didn't make the cut, but it did make a 1974 UK promotional acetate, and from there into the land of bootleggers, where "Santa Ana" roamed free until a later take was released officially as part of the *Tracks* box set in 1998.
+
+It's interesting to compare the bootleg version with the released version from *Tracks.* The official version (at the top of this post) is a rare snapshot of the early E Street Band, including backing vocals from Suki Lahav, and David Sancious on piano.
+
+The bootleg version–an earlier take of the song–uses the same vocal performance with a pared-down instrumental accompaniment. It's simpler, looser, and features a prominent performance by Clarence Clemons–on the flute! (Clarence's contribution would be dropped from the released track.)
+
+{{< youtube tRjpRM4rVgQ >}}
+
+In concert, "Santa Ana" has been performed very few times–that we know of. There are four known performances from 1974 (including the one earlier in this post), but Bruce claims to have performed it often during the early years. As there are many early gigs without recorded setlists, it's entirely possible he's right, but Bruce is also known to have a fuzzy memory about the history of his more obscure songs (as illustrated below, when "Santa Ana" returned to the stage after a 32-year absence).
+
+{{< youtube weWzFj8sPBQ >}}
+
+Bruce rescued "Santa Ana" from obscurity in 2005 for five performances, and then promptly returned it from whence it came. It hasn't been seen since.
+
+**Santa Ana**<br>
+**Recorded:** June 28, 1973<br>
+**Released:** *Tracks* (1998)<br>
+**First performed:** January 3, 1973 (Bryn Mawr, PA)<br>
+**Last performed:** November 21, 2005 (Trenton, NJ)<br>
+
+Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!

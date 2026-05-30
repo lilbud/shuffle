@@ -1,0 +1,86 @@
+---
+aliases:
+- /roll-of-the-dice-the-ballad-of-jesse-james/
+- /21638/
+layout: post
+date: 1972-01-13T19:00:00
+lastmod: 2026-05-10T16:30:03
+title: "The Ballad of Jesse James"
+slug: roll-of-the-dice-the-ballad-of-jesse-james
+author: Ken Rosen
+description: "Recorded in 1972, it took 44 years for “The Ballad of Jesse James” to become the first officially released recording by The Bruce Springsteen Band."
+tags:
+- "chapter-and-verse"
+- "the-ballad-of-jesse-james"
+- "the-bruce-springsteen-band"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/10/jessejames.jpg.webp
+  post_id: 21638
+---
+One of the odder consequences of Bruce's penchant for keeping songs in the vault for so long is that we have to look to his most recent albums to find his oldest songs.
+
+Case in point: "The Ballad of Jesse James," released in 2016 on *Chapter and Verse* but recorded *forty-four years* earlier at a Bruce Springsteen Band rehearsal session.
+
+In fact, "The Ballad of Jesse James" is the *only* Bruce Springsteen Band recording to ever see an official release, which is almost criminal–not just because the all-too-brief Bruce Springsteen Band era sparked some of Bruce's best early songwriting, but also because… well, let's just say "The Ballad of Jesse James" ranks pretty low on that list.
+
+{{< youtube 4ULWawkDDdA >}}
+
+"The Ballad of Jesse James" sounds more like a Steel Mill holdover than a song written for the bluesier Bruce Springsteen Band. (There may be a reason for that: Bruce's first known performance of the song comes only weeks into his eponymous band's existence, so he may have had that one at the ready prior to his new group's formation.
+
+It certainly follows the Steel Mill formula, though: light on lyrics, heavy on guitar solos, and arrangements that stretch on seemingly forever. In fact, modern-day Bruce edited out three verses (a full minute and a half) from the released version above, seemingly recognizing that perhaps the song stretched on just a bit too long.
+
+(We're not missing anything though, because those three verses are actually repeated in full after the mid-song jam. Bruce left the second occurrences in the song, so while it's significantly shorter, it's still content complete. Compare with the unedited bootleg version below and see for yourself.)
+
+{{< youtube myE7hMcbpNg >}}
+
+As for those lyrics, there's not much to analyze. "The Ballad of Jesse James" is the credo of a young rocker, an exhortation to rebel, revel, and relish all that life has to offer while you're young enough to appreciate it.
+
+> *Well don't you wanna climb a mountain*<br>
+> *Yeah don't you wanna ride the river*<br>
+> *Drink from a magic fountain*<br>
+> *Give your woman all the love that you can give her*<br>
+
+> *Well don't you wanna be an outlaw*<br>
+> *Don't you wanna ride the range*<br>
+> *Don't you wanna be an outlaw, children*<br>
+> *Just like Jesse, like Jesse James, just like Jesse boy*<br>
+
+> *Well now don't you wanna swim the ocean*<br>
+> *Yeah don't you wanna climb the highest tree*<br>
+> *Drink some of Mama's love potion*<br>
+> *Kiss your woman till she just can't see*<br>
+
+> *Don't you wanna be an outlaw, yeah baby*<br>
+> *Just a poor boy caught on the skids*<br>
+> *Don't you wanna be an outlaw, children*<br>
+> *Just like Billy, just like Billy the Kid*<br>
+
+> *Yeah Jesse he was a bad boy*<br>
+> *He roamed the wild west*<br>
+> *And many notches on his gun as the year of 21*<br>
+> *Someone laid him to an early rest*<br>
+> *All right, baby*<br>
+
+If there's any nuance to be found in "The Ballad of Jesse James," it's in that pivotal verse above. It's a cautionary tale, but one that can be read two ways: a *carpe diem* call to action lest life cut your opportunity short before you're ready; or a warning that living and loving with abandon can hasten that end.
+
+Either way, in my opinion it's not enough to elevate "The Ballad of Jesse James" to a release-worthy Bruce Springsteen Band recording.
+
+Bruce could have given us the light-on-its feet "I'm in Love Again," the Van Morrison-esque "Natural Magic," or the lovely, lonely "She's Leaving." Maybe someday he still will.
+
+But for now we have "The Ballad of Jesse James," and it seems like that wasn't a choice Bruce made lightly. In April 2017, the core of the Bruce Springsteen Band reunited alongside a host of additional Asbury Park musical legends.
+
+This mighty one-time-only "Upstage Jam Band" tore through a set list of classic rock covers and a pair of Springsteen originals: "The Fever" (a lock, given the presence of Southside Johnny) and "The Ballad of Jesse James."
+
+Here's that performance–its first in 46 years–performed by the original Bruce Springsteen Band line-up of Bruce, David Sancious, Garry Tallent, Steve Van Zandt, and (in a curve ball) Vini Lopez on lead vocals.
+
+{{< youtube IJ-MMNnX_AE >}}
+
+**The Ballad of Jesse James**<br>
+**Recorded:** March 14, 1972<br>
+**Released:** *Chapter and Verse* (2016)<br>
+**First performed:** September 1, 1971 (Long Branch, NJ)<br>
+**Last performed:** April 21, 2017 (Asbury Park, NJ)<br>
+
+© October 22, 2020

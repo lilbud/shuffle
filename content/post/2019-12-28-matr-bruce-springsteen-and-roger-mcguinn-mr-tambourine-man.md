@@ -1,0 +1,46 @@
+---
+aliases:
+- /matr-bruce-springsteen-and-roger-mcguinn-mr-tambourine-man/
+- /15051/
+layout: post
+date: 2019-12-28T13:00:00
+lastmod: 2021-12-20T00:21:36
+title: "MatR: Bruce Springsteen and Roger McGuinn, Mr. Tambourine Man"
+slug: matr-bruce-springsteen-and-roger-mcguinn-mr-tambourine-man
+author: Ken Rosen
+description: "One time only: Bruce and Roger McGuinn team up on the Magic Tour for a special performance of Bob Dylan’s (and The Byrds’) “Mr. Tambourine Man.”"
+tags:
+- "bob-dylan"
+- "mr-tambourine-man"
+- "roger-mcguinn"
+- "the-byrds"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/12/tambourine.jpg.webp
+  post_id: 15051
+---
+On April 23, 2008, the E Street Band was still raw from the recent loss of Danny Federici when they arrived in Orlando.
+
+It was only their second show since Danny’s funeral, and the set list was still emotional, opening with a rare “[Blood Brothers]({{< relref "2019-12-06-roll-of-the-dice-blood-brothers.md" >}}),” and featuring a dedicated-to-Danny “[Spirit in the Night]({{< relref "2011-01-08-roll-of-the-dice-spirit-in-the-night.md" >}}/).” For the encore, though, Bruce wanted something uplifting, so he turned to one of his influences, Florida resident Roger McGuinn of The Byrds.
+
+After a heartfelt introduction (it was that kind of night), Bruce and Roger played a consoling “Turn! Turn! Turn!” that would eventually be officially released on the *Magic Tour Highlights* EP. But that wasn’t the only number the two men played that night–they followed “[Turn! Turn! Turn!]({{< relref "2021-06-09-matr-bruce-springsteen-and-roger-mcguinn-turn-turn-turn.md" >}})” with The Byrds’ other number one hit, “Mr. Tambourine Man.”
+
+{{< videopress id=Ifqqc6cS >}}
+
+Although this was the first time Bruce and Roger performed the song together in public, they’d actually performed it once before, almost two decades earlier in a most private setting: at Tom Petty’s birthday party in 1990.
+
+Astute listeners probably realize that the version Bruce and Roger played in Tampa was considerably longer than The Byrds’ 1965 version, and it had more verses.
+
+{{< youtube Swqw5a8I4b4 >}}
+
+That’s because the “Mr. Tambourine Man” was more than twice as long when Bob Dylan first wrote, recorded, and released it just a few weeks before The Byrds’ version.
+
+{{< youtube oecX_1pqxk0 >}}
+
+It was the abridged Byrds’ version that became a smash hit, though. In a way, Bruce was covering both Dylan and The Byrds that night, using Dylan’s original lyrics and The Byrds’ arrangement for a one-time-only special performance.
+
+**Mr. Tambourine Man**<br>
+**First performed:** October 29, 1990 (Encino, CA)<br>
+**Last performed:** April 23, 2008 (Orlando, FL)<br>

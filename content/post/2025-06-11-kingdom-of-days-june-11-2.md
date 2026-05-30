@@ -1,0 +1,103 @@
+---
+aliases:
+- /kingdom-of-days-june-11-2/
+- /57048/
+layout: post
+date: 2025-06-11T11:00:51
+lastmod: 2026-02-15T20:43:19
+title: "June 11"
+slug: kingdom-of-days-june-11-2
+author: Ken Rosen
+description: "Bruce likes to spend June 11th in Italy–watch highlights from three Italian shows held on this date."
+tags:
+- "badlands"
+- "be-true"
+- "boom-boom"
+- "elliot-murphy"
+- "genoa"
+- "italy"
+- "jacobs-ladder"
+- "no-surrender"
+- "reunion-tour"
+- "seeger-sessions-tour"
+- "st-paul"
+- "trieste"
+- "tunnel-of-love"
+- "tunnel-of-love-tour"
+- "turin"
+- "we-take-care-of-our-own"
+categories:
+- "kingdom-of-days"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/06/537091047_18520362721052296_5175092859982628767_n.jpg.webp
+  post_id: 57048
+---
+**1988:** The European leg of the Tunnel of Love Tour kicks off in Italy, starting with a show at Stadio Comunale in Turin that features the tour premiere of "Because the Night."<br>
+
+{{< youtube Q9KzCea1pas >}}
+
+{{< videopress id=gYCoDgq3 >}}
+
+{{< videopress id=t0FP0YBc >}}
+
+{{< videopress id=biYvkhDi >}}
+
+{{< youtube adIkoqMKc1o >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/06/Daily_News_Thu__Jun_16__1988_-scaled.jpg.webp)
+
+**1999:** Bruce and the reunited E Street Band make a tour stop in Genoa, Italy.<br>
+
+{{< youtube 2-7fj8Of7ok >}}
+
+{{< youtube 63BVID2q18M >}}
+
+{{< youtube WcRpP5lWB_E >}}
+
+{{< youtube KhuCEwHwy30 >}}
+
+{{< youtube rcPAp51lgpw >}}
+
+{{< youtube BTf7n8cpxA4 >}}
+
+{{< youtube jIyY16fAwxs >}}
+
+**2005:** A scheduled solo acoustic show in Hamburg is rescheduled after Terry Magovern's fiancée passes away.<br>
+
+**2006:** The Seeger Sessions Tour stops at Xcel Energy Center in St. Paul, where "Long Black Veil" makes its American premiere.<br>
+
+{{< youtube OJZmPNby-9U >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/05/2006-06-11.jpg.webp)
+
+**2007:** Bruce joins Jackson Browne, Tom Chapin, and others at a World Hunger Year benefit at The Lighthouse at Chelsea Piers in New York City.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/06/Oakland_Tribune_Wed__Jun_13__2007_.jpg.webp)
+
+**2012:** Elliott Murphy guest-stars in Trieste at the last Italian show of the 2012 tour.<br>
+
+{{< youtube PTyyLZXTepw >}}
+
+{{< youtube f86-p4P1ZFk >}}
+
+{{< youtube iH3kQ58-2D4 >}}
+
+{{< youtube nv4bP9tb_k4 >}}
+
+{{< youtube NXOEj7DT3WA >}}
+
+**2023:** Bruce and the E Street Band return to the stage after an eleven-day break with a show at Megaland in Landgraaf, The Netherlands. Buy or stream this show [here](https://live.brucespringsteen.net/live-music/0,31079/Bruce-Springsteen-mp3-flac-download-6-11-2023-Megaland-Landgraaf-NLD.html).<br>
+
+{{< youtube piUALxtq05U >}}
+
+{{< youtube cW97ZkLHJUg >}}
+
+{{< youtube NPS5b-XWCyU >}}
+
+**2025:** The Land of Hope and Dreams Tour moves on to Olympiastadion in Berlin, where "Two Hearts" and "Seven Nights to Rock" receive rare outings.<br>
+
+{{< youtube 9QYg0126zzY >}}
+
+{{< youtube Cdl-GBT758k >}}
+
+{{< youtube rIywFg9CPJw >}}

@@ -1,0 +1,117 @@
+---
+aliases:
+- /roll-of-the-dice-break-out/
+- /25002/
+layout: post
+date: 2021-03-20T12:00:00
+lastmod: 2023-01-03T01:37:11
+title: "Roll of the Dice: Break Out"
+slug: roll-of-the-dice-break-out
+author: Ken Rosen
+description: "If you’ve ever wondered what it would sound like of Bruce crammed all of his Darkness themes into one unreleased outtake, this song is for you."
+tags:
+- "badlands"
+- "break-out"
+- "darkness-on-the-edge-of-town"
+- "frankie"
+- "prove-it-all-night"
+- "the-promised-land"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/02/breakout.jpg.webp
+  post_id: 25002
+---
+If you ever wondered what it sound like if Bruce crammed all of his lyrical themes from [*Darkness on the Edge of Town*]({{< relref "2022-07-05-album-companion-darkness-on-the-edge-of-town.md" >}}) into a single unreleased outtake, you've come to the right place.
+
+Today, we take a look at "Break Out" (also known as "All Night Long"), an early outtake from the *Darkness* sessions that has yet to see the light of day.
+
+Only two takes of "Break Out" have escaped into the wild. The first is *super* early–so early that Bruce had only written about three lines and had to bluff the rest.
+
+{{< youtube aSzxswVVNGQ >}}
+
+I include that take here solely because of the extended scat Bruce does at about the 1:15 mark that I'm pretty sure was intended as a Muppets homage.
+
+{{< youtube y5W60VwDkas >}}
+
+Okay, maybe not. (Although I also think there's a decent chance Bruce modeled his early '70s look after that muppet dude.)
+
+Anyway: let's move on to the second version. This next take is clearly a finished song, although it's certainly not a releasable mix. The vocals are a bit buried but still easily understandable, and Garry's bass is far too prominent (but delightfully so–he sounds like he's having a blast).
+
+Take a listen and see how many references to other released Springsteen songs you can catch.
+
+{{< youtube vk9MGJkJPoY >}}
+
+It's difficult to analyze "Break Out," since even this take is still a work in progress, but it's clear that Bruce is tilling similar soil as "[Badlands]({{< relref "2016-01-20-roll-of-the-dice-badlands.md" >}})" — and in fact, I'm sure you picked out some lyrics that would eventually find their way to that iconic song. So rather than cover that ground again, I'll simply annotate when we encounter a lyric that leads elsewhere.
+
+Here are Bruce's lyrics, courtesy of the fine folks at SpringeteenLyrics.com. (I'm not 100% sure of their accuracy, but they match what I hear closely enough.)
+
+> *I was born saved in heaven, and I messed around the promised land*<br>
+> *Raised in a good Christian house underneath a good Christian hand*<br>
+> *I was schooled down and dirty, signed a note getting back to town*<br>
+> *It was there where the workers slaved all week waiting for payday to come around*<br>
+
+The official take of "[The Promised Land]({{< relref "2016-01-09-roll-of-the-dice-the-promised-land.md" >}})" was completed only weeks after the second take of "Break Out" above. The phrase must have been on his mind, because it appears twice in this outtake.
+
+We'll also see some similarities to "The Promised Land" in the chorus:
+
+> *Break out, come on if you're coming 'cause baby I just can't stay*<br>
+> *I want to take out the walls of this joint, I want to blow this town away*<br>
+
+In the second verse, however, we hear the seed of a different *Darkness* classic:
+
+> *Now I ain't into fast livin', I ain't into dying young*<br>
+> *And I ain't looking to be forgiven for any of the stupid things that I've done*<br>
+***For the ones who once had a notion, a notion it was good to be alive***<br>
+> *Feel the spark, the rush of emotion, I want to break out baby tonight*<br>
+
+We're listening to a track from November 1977. Just a few weeks later, that **bolded** line would appear in a more polished form in "Badlands." (It also appears in a more familiar form a few verses below.)
+
+> *I wanna dream, that I got a place*<br>
+> *I wanna scream in somebody's face*<br>
+> *Make it seem, get out of this muddy race*<br>
+> *All night long*<br>
+
+> *Well all little queens lose their thrones tonight*<br>
+> *All you little pretty things better learn to sleep alone tonight*<br>
+
+This one's a bit obscure, but if that last couplet sounded familiar, it's probably because it reminds you of this passage from "[Frankie]({{< relref "2019-03-31-roll-of-the-dice-frankie.md" >}})" (even though "Frankie" was written first):
+
+> *Let all the finer things sleep alone tonight*<br>
+> *Let all the minor kings lose their thrones tonight*<br>
+
+Let's continue:
+
+> *It was down in the cool dirty living with the man with the master plan*<br>
+> *Some girl who can beg forgiveness and a ticket to the promised land*<br>
+
+> *Down where they'll tear your guts out, making out what you're all about*<br>
+> *And making while we were blasting like a motor, I want out, I want out, I want out*<br>
+
+> *Want out to the outside, well I'm a small and dirty fool*<br>
+> *I wanna shout, I'm bound for nothing, I wanna shout about something too*<br>
+> *For the ones who once had a notion, it ain't no sin to be glad you're alive*<br>
+> *I feel the heat, the rush of devotion, I want to tear out baby tonight*<br>
+
+> *I wanna do what ain't ever been done*<br>
+> *I wanna win what ain't ever been won*<br>
+> *I wanna lose what ???*<br>
+> *Prove it all night long*<br>
+
+Song reference #4: Bruce had already written and recorded early versions of "[Prove It All Night]({{< relref "2020-10-24-roll-of-the-dice-prove-it-all-night.md" >}})" around the time of that first bluffed version of "Break Out" above, so we know that the appearance of that phrase here is almost certainly a loan.
+
+> *I wanna know that I got a place*<br>
+> *I wanna go where I can see your face*<br>
+> *I wanna rock the roof off this place*<br>
+> *I want you to know I wanna live*<br>
+
+I know we've been focusing on the lyrical easter eggs, but "Break Out" really does deserve some recognition for its backing track. It's a great rocker even in its early versions, and I suspect Bruce did eventually finish the song–"Break Out" was reportedly one of the songs Bruce and team worked on for *Tracks* two decades later, although it obviously didn't make the cut.
+
+So keep your fingers crossed: "Break Out" may yet break out.
+
+**Break Out**<br>
+**Recorded** September-November 1977<br>
+**Never released**<br>
+**Never performed**<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

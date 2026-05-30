@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <div class="card p-3 p-lg-4.5 mb-4.5">
+    <div class="row d-flex-inline row-cols-2 gap-0 gx-4 mt-0 mb-1">
+      <div class="col-auto text-nowrap post-meta post-date">
+        <i class="bi bi-clock"></i>
+        {{ .Date| time.Format ":date_long" }}
+      </div>
+      <div class="col-auto post-meta post-author">
+        <i class="bi bi-person-fill"></i>
+        By
+        {{ .Params.author }}
+      </div>
+    </div>
+
+    <div class="entry-title mb-3">{{ .Title }}</div>
+    {{ .Content }}
+
+    {{ partial "tag-category.html" . }}
+    {{ partial "post-nav.html" . }}
+  </div>
+{{ end }}

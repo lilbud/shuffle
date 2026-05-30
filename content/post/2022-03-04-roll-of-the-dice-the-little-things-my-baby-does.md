@@ -1,0 +1,81 @@
+---
+aliases:
+- /roll-of-the-dice-the-little-things-my-baby-does/
+- /32877/
+layout: post
+date: 2022-03-04T13:00:00
+lastmod: 2023-01-03T15:19:50
+title: "Roll of the Dice: The Little Things (My Baby Does)"
+slug: roll-of-the-dice-the-little-things-my-baby-does
+author: Ken Rosen
+description: "Little Steven calls it the E Street Band’s finest moment on record, and he may be right."
+tags:
+- "the-little-things-my-baby-does"
+- "the-promise"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/03/littlethings.jpg.webp
+  post_id: 32877
+---
+> "‘The Little Things (My Baby Does)'… in my opinion, for me right now, may be our finest moment on record. Period. I'm serious." — Little Steven, *Little Steven's Underground Garage*, Episode 470
+
+Stevie makes a pretty compelling claim.
+
+If you're a fan of Bruce's more romantic songwriting and the Spector sound, you'll be hard pressed to find any catalog confection sweeter than "The Little Things (My Baby Does)."
+
+{{< youtube pCAHAsxFVOQ >}}
+
+"It's perfect," Van Zandt told author Peter Ames Carlin in *Bruce*. "Everything is right about it. You hear how the guitar and piano answer the vocals, and the level for once is pretty close to right. And the whole arrangement, the sensibility, is the greatest thing ever."
+
+I have to agree. If only we had a version with vintage vocals, this would be a perfect track. As it stands, with Bruce's modern (2010) vocals grafted onto a 1977 E Street Band performance, it's just a little too far removed from the *Born to Run* era for us to appreciate just how finely honed Bruce's Spector-esque pop songwriting had become at that early point in his career.
+
+"The Little Things (My Baby Does)" might have been recorded during the [*Darkness on the Edge of Town*]({{< relref "2022-07-05-album-companion-darkness-on-the-edge-of-town.md" >}})sessions, but it was far more of a piece with Bruce' previous album and proof that while he may have been ready to tell more adult stories, he wasn't ready to let go of youth's glories just yet.
+
+This is a love letter to the girl groups of the 1960s, from Max's abrupt, machine-gun intro to Bruce's swooning lyrics and soaring vocals. (There's an argument to be made that 1977 Bruce wouldn't have had the falsetto to pull this performance off.) The bridge sounds like a hat-tip to Martha and the Vandellas, and the Big Man's sax solo sounds like it was nicked from The Shangri-Las.
+
+It's a gorgeous track from any angle, so let's not diminish it by analyzing the lyrics, because they're secondary at best. There's not a lot to analyze, anyway:
+
+> *The way she kisses so tenderly*<br>
+> *The way she gives her love to me*<br>
+> *I been felt by the graces and angels up above*<br>
+> *The little things my baby does*<br>
+> *The little things my baby does*<br>
+> *The little things my baby does*<br>
+> *That make me love her*<br>
+
+> *The way she sighs when I hold her tight*<br>
+> *Good times and bad will be alright*<br>
+> *Faces on the street they push hard and they shove*<br>
+> *Disappear with the little things my baby does*<br>
+> *The little things my baby does*<br>
+> *The little things my baby does*<br>
+> *I know I love her*<br>
+
+> *The soft summer breeze fills her every sigh*<br>
+> *Her eyes are bluer than the summer sky*<br>
+
+> *I been felt by the graces and angels up above*<br>
+> *The little things my baby does*<br>
+> *The little things my baby does*<br>
+> *The little things my baby does*<br>
+> *That make me love her*<br>
+
+> *And when the night closes in*<br>
+> *I'm drifting and I can't find a friend*<br>
+> *On the wings of the angels I'm saved by her love*<br>
+> *The little things my baby does*<br>
+> *The little things my baby does*<br>
+> *The little things my baby does*<br>
+> *That make me love her*<br>
+
+If there's anything of interest here, it's the similarity in content and structure to another of Bruce's contemporaneous songs, "[The Way]({{< relref "2021-08-06-roll-of-the-dice-the-way.md" >}})." Recorded only a couple of months apart, an argument can be made for the evolution of "The Little Things (My Baby Does)" into "The Way," even though there are no actual common lyrics or melodic elements.
+
+Locked in the vault for decades, Bruce finally released "The Little Things (My Baby Does)" on his double-album *The Promise* in 2010, along with the similarly romantic and nostalgic "[Someday (We'll Be Together)]({{< relref "2019-10-03-roll-of-the-dice-someday-well-be-together.md" >}}), "[Gotta Get That Feeling]({{< relref "2021-02-08-roll-of-the-dice-gotta-get-that-feeling.md" >}})" and "Spanish Eyes." All of them remain un- or under-played roadside attractions on a highway not taken.
+
+**The Little Things (My Baby Does)**<br>
+**Recorded** August 15, 1977 (core track), July 2010 (vocals)<br>
+**Released:** *The Promise* (2010)<br>
+**Never performed**<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

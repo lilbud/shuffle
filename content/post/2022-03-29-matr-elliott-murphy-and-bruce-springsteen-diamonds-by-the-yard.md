@@ -1,0 +1,40 @@
+---
+aliases:
+- /matr-elliott-murphy-and-bruce-springsteen-diamonds-by-the-yard/
+- /33512/
+layout: post
+date: 2022-03-29T12:00:00
+lastmod: 2022-03-29T12:14:37
+title: "MatR: Elliott Murphy and Bruce Springsteen: Diamonds by the Yard"
+slug: matr-elliott-murphy-and-bruce-springsteen-diamonds-by-the-yard
+author: Ken Rosen
+description: "One time only: Elliott Murphy joins Bruce on stage in Paris for an acoustic duet on Elliott’s 1976 epic."
+tags:
+- "diamonds-by-the-yard"
+- "elliott-murphy"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/03/diamonds.jpg.webp
+  post_id: 33512
+---
+In their early years, Bruce Springsteen and Elliott Murphy were often compared, each receiving the "New Dylan" sobriquet at one time or another. They were friends back then, too–as far back as their first meeting at Max's Kansas City in 1973, where they struck up an instant and lifelong friendship.
+
+Surprisingly, though, they never played together on stage until 1992, when Bruce's World Tour took him to Paris, where Elliott was now living. They only played one song that night (Elliot's "[Rock Ballad]({{< relref "2021-08-24-matr-elliot-murphy-and-bruce-springsteen-rock-ballad.md" >}})"), but that was all it took to set a precedent, and from that point forward whenever Bruce was in Paris for a gig, you'd likely find Murphy on stage with him at some point during the show.
+
+Murphy joined Bruce on stage in Paris nine more times over the next 25 years, starting with an encore appearance during Bruce's solo acoustic show on May 26, 1997.
+
+Like they did five years earlier, they played one of Elliott's songs–this time "Diamonds by the Yard," the opening track of his 1976 album, *Night Lights*.
+
+{{< youtube KkYwDhxzAJ0 >}}
+
+"Diamonds by the Yard" was Elliott's first "epic" song; at nearly seven minutes, it's practically Springsteenian in length and grandeur. It was a natural pick for them to play together that night in Paris.
+
+{{< videopress id=2h3HrD0y >}}
+
+With only two acoustic guitars between them, it wasn't quite as majestic an arrangement as on the album, but it was a delightful surprise and lovely performance nonetheless and remains the only time Bruce has ever performed Elliott's song.
+
+**Diamonds by the Yard**<br>
+**First performed:** May 26, 1997 (Paris, France)<br>
+**Last performed:** May 26, 1997 (Paris, France)<br>

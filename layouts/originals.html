@@ -1,0 +1,111 @@
+{{ define "main" }}
+<div class="content-area col-12 col-lg-10" id="main-column">
+  <a href="#" class="back-to-top d-flex justify-content-center align-items-center"><i class="bi bi-caret-up-fill"></i></a>
+  <div class="card widget-card mb-3">
+    <div class="widget-title">Navigation</div>
+    <div class="widget-body">
+      <select class="form-select" id="album_select">
+        <option selected>Select Album</option>
+        {{ range $index, $album := hugo.Data.originals_1 }}
+        <option value="#album_{{ add $index 1 }}">{{ $album.name }}</option>
+        {{ end }}
+      </select>
+    </div>
+  </div>
+  <div class="card p-3">
+    {{ range $index, $album := hugo.Data.originals_1 }}
+    {{ if $album.img }}
+    <div class="row" id="album_{{ add $index 1 }}">
+      <div class="col-12 col-lg-6 mb-3 mb-lg-0">
+        {{ if $album.url }}
+        <a href="{{ $album.url | relURL }}"><img class="img-fluid" src="{{ $album.img }}" alt=""></a>
+        {{ else }}
+        <img class="img-fluid" src="{{ $album.img }}" alt="">
+        {{ end }}
+      </div>
+      <div class="col-12 col-lg-6">
+        <strong>
+          {{ if $album.url }}
+          <a class="text-reset" href="{{ $album.url | relURL }}">{{ $album.name }}:</a>
+          {{ else }}
+          {{ $album.name }}:
+          {{ end }}
+        </strong>
+        <ul class="list-unstyled">
+          {{ range $album.songs }}
+          {{ if .url }}
+          <li><a href="{{ .url | relURL }}">{{ .name }}</a></li>
+          {{ else }}
+          <li>{{ .name }}</li>
+          {{ end }}
+          {{ end }}
+        </ul>
+
+        {{ if $album.outtakes }}
+        <strong>Outtakes:</strong>
+        <ul class="list-unstyled">
+          {{ range $album.outtakes }}
+          {{ if .url }}
+          <li><a href="{{ .url | relURL }}">{{ .name }}</a></li>
+          {{ else }}
+          <li>{{ .name }}</li>
+          {{ end }}
+          {{ end }}
+        </ul>
+        {{ end }}
+
+        {{ if $album.other }}
+        <strong>Other:</strong>
+        <ul class="list-unstyled">
+          {{ range $album.other }}
+          {{ if .url }}
+          <li><a href="{{ .url | relURL }}">{{ .name }}</a></li>
+          {{ else }}
+          <li>{{ .name }}</li>
+          {{ end }}
+          {{ end }}
+        </ul>
+        {{ end }}
+      </div>
+    </div>
+
+    {{/* Check if it's not the last item in the data array */}}
+    {{ if ne (add $index 1) (len hugo.Data.originals_1) }}
+    <div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+    {{ end }}
+
+    {{ else }}
+
+    <div class="row mb-4" id="album_{{ add $index 1 }}">
+      <div class="col-12 text-center justify-content-center">
+        <strong>{{ $album.name }}:</strong>
+        <ul class="list-unstyled">
+          {{ range $album.songs }}
+          {{ if .url }}
+          <li><a href="{{ .url | relURL }}">{{ .name }}</a></li>
+          {{ else }}
+          <li>{{ .name }}</li>
+          {{ end }}
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+    {{ end }}
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+
+{{ define "scripts" }}
+<script>
+    document.querySelector('#album_select').addEventListener('change', function () {
+      const targetId = this.value;
+      if (targetId) {
+        const element = document.querySelector(targetId);
+        if (element) {
+          element.scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    });
+  </script>
+{{ end }}

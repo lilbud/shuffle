@@ -1,0 +1,54 @@
+---
+aliases:
+- /spare-parts-again/
+- /30801/
+layout: post
+date: 2021-11-11T11:50:00
+lastmod: 2023-01-03T14:45:48
+title: "Spare Parts: Blogger About Town"
+slug: spare-parts-again
+author: Ken Rosen
+description: "I know, I know–another vacation. But this one’s short, and I brought you back something!"
+tags:
+- "american-babylon"
+- "dancing-in-the-dark"
+- "hungry-heart"
+- "ill-work-for-your-love"
+- "joe-grushecky"
+- "letter-to-you"
+- "stand-up-for-heroes"
+categories:
+- "spare-parts"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/11/backtowork.jpg.webp
+  post_id: 30801
+---
+I know, I know.
+
+I sure do take vacations an awful lot these days, don't I?
+
+But this one's short–only two days–and once again it's a working vacation, because I've been covering events and writing for Backstreets. (Current events coverage doesn't really fit the format here.) And as always, *Kingdom of Days* never skips a beat, so technically the daily commitment continues.
+
+And because I love you, I brought you back something!
+
+This past Monday night, I attended Stand Up For Heroes in New York City, my third time at the annual Bob Woodruff Foundation benefit for veterans and their families. and my favorite time as well.
+
+Bruce performed four songs (all with dirty jokes serving as introductions), including the public debut of "[Letter to You]({{< relref "2017-01-03-roll-of-the-dice-letter-to-you.md" >}})" and an ultra-rare acoustic "[Hungry Heart]({{< relref "2022-12-21-roll-of-the-dice-hungry-heart.md" >}})." I captured his entire set on video, and I think they came out great. Enjoy them below:
+
+{{< videopress id=4jab0Nll >}}
+
+{{< videopress id=Cor6CHI8 >}}
+
+{{< videopress id=md0CXS3t >}}
+
+{{< videopress id=OpcWI8O4 >}}
+
+You can check out my event recap [here](https://www.backstreets.com/news.html#SUFH)if you like, too.
+
+As this piece publishes, I'm on my way to Pittsburgh to catch Joe Grushecky and The Houserockers at a special hometown concert to celebrate the release of the new 25th Anniversary edition of [*American Babylon*]({{< relref "2020-10-17-american-babylon-a-retrospective.md" >}}). The show is tonight, and thanks to Little Steven's Underground Garage, you can watch it for free from the comfort of your own home. Join Joe and the band (and me in the audience!) [here](https://www.facebook.com/undergroundgarage).
+
+Finally, also by the time this sees print, my review of the aforementioned AB25 deluxe edition should be up on Backstreets News. I can't recommend the album highly enough, and there's [some pretty cool breaking Bruce news in my review](https://backstreets.com/news.html#AB25) that you're going to want to check out. (Apple Music subscribers, make sure you block off Friday at 5pm Eastern on your calendars!)
+
+That's all for now, but I'll be back tomorrow with a couple more special treats. (So maybe this isn't really a break after all?)
+
+Anyway, thanks for sticking with me while I moonlight a bit. I'll be back home and blogging away again in a couple of days–look for a new *Roll of the Dice* this weekend.

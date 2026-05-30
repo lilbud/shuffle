@@ -1,0 +1,45 @@
+---
+aliases:
+- /cover-me-see-my-friends/
+- /17544/
+layout: post
+date: 2020-04-30T12:00:00
+lastmod: 2021-12-20T04:04:06
+title: "Cover Me: See My Friends"
+slug: cover-me-see-my-friends
+author: Ken Rosen
+description: "One time only: a very young Bruce Springsteen and his high school band The Castiles tackle one of the earliest songs to introduce the Indian raga sound to western rock music."
+tags:
+- "see-my-friends"
+- "the-castiles"
+- "the-kinks"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/04/kinks-see-my-friends.jpg.webp
+  post_id: 17544
+---
+They may have been a high school band, but we have to give The Castiles some extra credit, because they certainly did not shy away from challenging material.
+
+Whether tackling guitar hero challenges like “[Purple Haze]({{< relref "2019-02-19-cover-me-purple-haze.md" >}})” and “[Jeff’s Boogie](https://estreetshuffle.com/?p=17364)” or covering the Indian-influenced “See My Friends,” The Castiles were always stretching themselves, because Bruce Springsteen always had something to prove.
+
+Released in 1965, “See My Friends” by The Kinks was one of the first songs to introduce the Indian raga sound to rock music, using an electric guitar drone to approximate a sitar to pretty decent effect.
+
+{{< youtube ZMtDYAJ2UtU >}}
+
+To a young band in the mid-1960s, it must have sounded completely and fascinatingly new.
+
+By 1967, The Castiles were including it in their sets. We know of only one performance, but it’s unlikely that they’d work up such a challenging arrangement as a one-off. “Challenging” is probably the best descriptor for it, though, because their performance never quite cleared the bar.
+
+Take a listen to their performance and you’ll see what I mean.
+
+{{< youtube M-y9W65eLXA >}}
+
+Bruce’s guitar couldn’t quite synthesize the sitar effect; the vocals are muddy even with the recording quality taken into account; and the mid-song instrumental break loses all coherence.
+
+Still, it was a valiant effort that no doubt stretched the young band to new heights. Bruce would start vaulting over increasingly higher bars soon enough.
+
+**See My Friends**<br>
+**First performed:** September 16, 1967 (Freehold, NJ)<br>
+**Last performed:** September 16, 1967 (Freehold, NJ)<br>

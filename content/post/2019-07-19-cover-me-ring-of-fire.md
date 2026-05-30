@@ -1,0 +1,64 @@
+---
+aliases:
+- /cover-me-ring-of-fire/
+- /11632/
+layout: post
+date: 2019-07-19T12:00:00
+lastmod: 2023-01-01T18:59:56
+title: "Cover Me: Ring of Fire"
+slug: cover-me-ring-of-fire
+author: Ken Rosen
+description: "Traditional, slow-grooving, or hard-rocking, they’re all great: check out Bruce’s three very different covers of Johnny Cash’s “Ring of Fire” spanning five decades."
+tags:
+- "johnny-cash"
+- "ring-of-fire"
+- "social-distortion"
+- "the-carter-family"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/07/ringoffire.jpg.webp
+  post_id: 11632
+---
+On the night of November 18, 2009, in the final week of the Working on a Dream Tour in Nashville, Bruce opened the encores with those words every Springsteen fan loves to hear:
+
+> *"We've never played this before…"*<br>
+
+And then without further ado, he launched into a just-for-Nashville cover of Johnny Cash's "Ring of Fire" (taking full advantage of Curt Ramm).
+
+{{< youtube IUaDmax2CxM >}}
+
+It was a terrific and faithful performance, but Bruce got one thing wrong:
+
+It was *not* in fact the first time he'd played the song. He'd performed it at least twice before, but we can forgive him for not remembering–after all, the last time had been 35 years prior.
+
+But oh, that early version–just listen to it. Even through the rough sound quality, Bruce's daring arrangement absolutely dazzles. It's an E Street Band performance, but it sounds like something The Bruce Springsteen Band might have played.
+
+{{< youtube SmNh7gGOQ0U >}}
+
+What I wouldn't give for a clean copy of that.
+
+Bruce wasn't the first artist to take liberties with the song. That distinction belongs to Johnny Cash himself, in fact, because the song was originally written by his future wife June Carter and first recorded and released by June's sister Anita in 1962, a year before Cash's version.
+
+{{< youtube OlWGsaorj6U >}}
+
+Cash loved the song when he first heard it, but he had a vision of a mariachi horn accompaniment, which of course he famously added when he covered the song the following year. It immediately became the song's defining trait and an instant classic, peaking at #17 on the Billboard Hot 100 but reaching the top of the Country chart.
+
+{{< youtube 1WaV2x8GXj0 >}}
+
+(That iconic horn riff is immediately recognizable, as Springsteen fans realized when they first heard Bruce's 2012 track, "[We Are Alive]({{< relref "2018-09-15-roll-of-the-dice-we-are-alive.md" >}}).")
+
+{{< youtube crzGQAoLKW0 >}}
+
+Today, "Ring of Fire" is recognized as one of the greatest country songs ever recorded and ranks #87 on *Rolling Stone's* 500 Greatest Songs of All Time.
+
+It's been covered and reimagined time and again, most successfully by Eric Burdon & The Animals, most differently by Frank Zappa (in a reggae arrangement), and most Springsteen-relatedly by Social Distortion in 1990.
+
+I bring that last one up because the one other time that Bruce performed "Ring of Fire" in concert was just last year, with Social Distortion at Asbury Park's Sea.Hear.Now Festival–yet another fantastic rendition of a song that shines in any genre.
+
+{{< youtube MKWlQy9d2Ug >}}
+
+**Ring of Fire**<br>
+**First performed:** March 13, 1973 (Boston, MA)<br>
+**Last performed:** September 30, 2018 (Asbury Park, NJ)<br>

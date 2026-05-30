@@ -1,0 +1,34 @@
+---
+aliases:
+- /matr-the-south-community-choir-of-asbury-park-and-bruce-springsteen-ive-got-a-feeling-everythings-gonna-be-alright/
+- /22583/
+layout: post
+date: 2020-11-04T13:00:00
+lastmod: 2020-11-04T13:15:53
+title: "MatR: The South Community Choir of Asbury Park and Bruce Springsteen: I've Got a Feeling (Everything's Gonna Be Alright)"
+slug: matr-the-south-community-choir-of-asbury-park-and-bruce-springsteen-ive-got-a-feeling-everythings-gonna-be-alright
+author: Ken Rosen
+description: "In 2001 and 2003, Bruce opened several of his Asbury Park holiday shows by joining the South Community Choir of Asbury Park on this timely gospel classic."
+tags:
+- "albertina-walker"
+- "ive-got-a-feeling-everythings-gonna-be-alright"
+- "south-community-choir-of-asbury-park"
+categories:
+- "cover-me"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/content.jpg.webp
+  post_id: 22583
+---
+I had this post originally scheduled for the end of the month, but it struck me this morning as better suited for today.
+
+On the evening of December6 2001, Bruce kicked off his holiday concert by joining the South Community Choir of Asbury Park for an eight-minute gospel rave-up of "I've Got a Feeling (Everything's Gonna Be Alright)."
+
+{{< videopress id=B8Z4q52W >}}
+
+It was such a spirit-lifter for a community still remembering how to celebrate so soon after a devastating tragedy that Bruce went on to perform it with them five more times over the next two years.
+
+And while it's been almost 17 years since he's last performed it, today seems like a good day for a little reminder that while things sometimes take a little while to clarify, I've got a feeling everything's gonna be alright.
+
+**I've Got a Feeling (Everything's Gonna Be Alright)**<br>
+**First performed:** December 6, 2001 (Asbury Park, NJ)<br>
+**Last performed:** December 8, 2003 (Asbury Park, NJ)<br>

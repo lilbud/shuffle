@@ -1,0 +1,51 @@
+---
+aliases:
+- /matr-pete-seeger-and-bruce-springsteen-goodnight-irene/
+- /11630/
+layout: post
+date: 2019-08-01T12:00:00
+lastmod: 2019-07-31T23:48:22
+title: "MatR: Pete Seeger and Bruce Springsteen – Goodnight, Irene"
+slug: matr-pete-seeger-and-bruce-springsteen-goodnight-irene
+author: Ken Rosen
+description: "By remarkable circumstance, Bruce covered “Goodnight, Irene” in concert twice, but almost no one in the venue heard him! You can, though–watch the great video inside."
+tags:
+- "goodnight-irene"
+- "lead-belly"
+- "pete-seeger"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/08/goodnight-irene.jpg.webp
+  post_id: 11630
+---
+No one knows for sure quite when or where it started, but we know that Lead Belly was the first to record it: In 1933, he released the first recorded version of "Goodnight, Irene," and it went on to become not just one of Lead Belly's most popular songs but a bonafide American folk standard.
+
+Here's a recording that dates back to 1943, when it was already quite popular:
+
+{{< youtube NT-OuWmXDsY >}}
+
+As for the Bruce connection, that comes via Pete Seeger's cover in 1950 with The Weavers:
+
+{{< youtube MSDyiUBrUSk >}}
+
+Bruce has performed "Goodnight, Irene" twice, although an argument could be made about whether either should "count."
+
+The first time was at Pete Seeger's 90th birthday concert at Madison Square Garden, on the evening of May 3, 2009. The assembled artists (and there were *many*, Bruce and Patti included) re-assembled at the end of the night for a final encore of "Goodnight, Irene."
+
+But neither Bruce nor Patti were anywhere near the microphone, so while we can clearly see them singing, we'll have to take it on faith that their voices are somewhere deep down in the mix.
+
+{{< youtube Jo-1ybxwFc4 >}}
+
+Bruce's second attempt came a few years later, at London's Hyde Park, as an improvised "good night" when the venue cut the power after Bruce and Sir Paul McCartney(!) finished "Twist and Shout."
+
+It's only a single chorus, and it's probably the lowest (no-est?) energy Springsteen encore ever, but it made for a unique and memorable ending to an even more memorable show.
+
+https://youtu.be/qtk5Ej1DI9Y
+
+Because the power had been cut, only those near the stage (or the engineers monitoring the feed above) could hear it–by strange coincidence making "Goodnight, Irene" a song that Bruce has "officially" covered more than once but which almost no one in the venue could hear.
+
+**Goodnight, Irene**<br>
+**First performed:** May 3, 2009 (New York City, NY)<br>
+**Last performed:** July 14, 2012 (London, England)<br>

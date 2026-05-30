@@ -1,0 +1,51 @@
+---
+aliases:
+- /matr-bruce-springsteen-and-sam-moore-hold-on-im-comin/
+- /8767/
+layout: post
+date: 2019-04-24T12:00:00
+lastmod: 2023-01-01T17:45:35
+title: "MatR: Bruce Springsteen and Sam Moore: Hold On, I'm Comin'"
+slug: matr-bruce-springsteen-and-sam-moore-hold-on-im-comin
+author: Ken Rosen
+description: "Magic happens when two legendary front men share the stage. Check out Bruce and Sam Moore performing Sam and Dave’s timeless “Hold On, I’m Comin'”"
+tags:
+- "hold-on-im-comin"
+- "sam-and-dave"
+- "sam-moore"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/05/holdon.jpg.webp
+  post_id: 8767
+---
+Bruce has long credited Sam Moore as a major influence, and if you’ve ever seen Sam perform live, it’s easy to see why and how. But let’s let Bruce explain it in his own words to Elvis Costello:
+
+{{< videopress id=2K7gfajm >}}
+
+Sam Moore and Dave Prater had a string of hits on the Stax label in the late sixties. Their instantly recognizable “Hold On, I’m Comin'” became their first single to reach the top of the U.S. R&B chart upon its release in 1966 (it peaked at 21 on the Hot 100).
+
+{{< youtube hR3KX58bpHE >}}
+
+But it was undoubtedly Sam’s stage presence that commanded Bruce’s attention. Watch Sam and Dave perform “Hold On, I’m Comin'” shortly after its release below–when Sam takes control during the mid-song break about halfway through, you can trace a through-line directly to modern-day Bruce.
+
+{{< youtube Fowldx4hRtI >}}
+
+Although Sam contributed his backing vocals in the studio to Bruce’s “Soul Driver,” “[Real World]({{< relref "2022-07-25-roll-of-the-dice-real-world.md" >}}),” and “[Man’s Job,]({{< relref "2022-05-30-roll-of-the-dice-mans-job.md" >}})” they never had the chance to perform together live until Sam joined Bruce on-stage for “[Soul Man]({{< relref "2018-07-25-meeting-across-the-river-bruce-springsteen-and-sam-moore-soul-man.md" >}})” during the Reunion Tour. Bruce enjoyed the one-off performance enough to invite Sam to join him for a nightly mini-set during Bruce’s Asbury Park holiday shows in 2003.
+
+This time with the proper backing of the horn-powered Max Weinberg 7 and the Alliance Singers, the 68-year old Moore was in fine form with his bandleader’s instincts still intact, and Bruce and Steve clearly relished the opportunity to perform with him.
+
+{{< videopress id=vzHr4Pqi >}}
+
+Sam’s appearances were such a highlight that when Bruce headlined the Rock and Roll Hall of Fame 25th Anniversary Concerts six years later, Sam (now 74) was one of the legendary artists Bruce asked to join him on stage.
+
+If anything, Sam’s voice and charisma were even stronger that night than in the 2003 shows, and the look on Bruce’s face around the 2:40 mark (when Sam takes the helm of the E Street Band) is priceless.
+
+{{< youtube RTplny76s7M >}}
+
+Today, Sam Moore is 83 years old, still recording music, still performing live, still sounding great, and still commanding the stage. Consider yourself lucky if you’ve had the chance to see him, and leap at the opportunity if one comes along.
+
+**Hold On, I’m Comin’**<br>
+**First performed:** August 10, 1996 (Whitefish, MT)<br>
+**Last performed:** March 9, 2012 (New York City, NY)<br>

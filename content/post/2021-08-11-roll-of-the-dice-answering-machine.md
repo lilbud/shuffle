@@ -1,0 +1,65 @@
+---
+aliases:
+- /roll-of-the-dice-answering-machine/
+- /28873/
+layout: post
+date: 2021-08-11T12:00:00
+lastmod: 2023-01-03T13:12:37
+title: "Roll of the Dice: Answering Machine"
+slug: roll-of-the-dice-answering-machine
+author: Ken Rosen
+description: "This lost companion piece to “Hungry Heart” has only ever been officially released to friends and family with Bruce’s private number."
+tags:
+- "answering-machine"
+- "hungry-heart"
+categories:
+- "roll-of-the-dice"
+- "spare-parts"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/ModernicaPH000105_3X9X11-LR.jpg.webp
+  post_id: 28873
+---
+If you weren't on the planet during the *Born in the U.S.A.* era, here's a quick history lesson:
+
+Way back in the 1980s, pretty much every American household had an answering machine.
+
+An answering machine was kind of like voice mail, except that it was a tape recorder that lived in your house and answered your phone for you. When it answered a call, it would play an outgoing message, and then (just like with voice mail) it would record the caller's incoming message after a tone. When you returned home, you'd rewind the tape and play back your messages.
+
+By the mid-1980s, answering machines had grown from a novelty item into a necessity, and the creativity of your outgoing message was a topic of frequent conversation and judgment.
+
+If you had an answering machine, it's a safe bet that at one point or another you agonized over coming up with a greeting that would make people smile or laugh. We all did–even rock stars.
+
+{{< videopress id=zL8OU1w8 >}}
+
+Okay, that wasn't real.
+
+But still, I guarantee you that even Bruce Springsteen spent more time than he'd have cared to admit coming up with a great answering machine message.
+
+It was time well spent, though, because his *actual* answering machine message was pretty darn awesome. And yes, this one is a genuine, unreleased, original Springsteen composition.
+
+{{< youtube xZOfaAQRLgo >}}
+
+"Answering Machine" (as this unreleased gem has come to be known) is a fine example of a classic early-eighties Springsteen song: a rocking, uptempo melody that masks the disconnection and alienation in Bruce's lyrics.
+
+> *Yeah, there ain't nobody home*<br>
+> *Yeah, there ain't nobody home*<br>
+> *Yeah, there ain't nobody home to come to the telephone*<br>
+
+> *I don't know when I'm coming back*<br>
+> *I don't know when I'm coming back*<br>
+> *I don't know when I'm coming back, if you got something to say, you better spit it out, Jack*<br>
+
+While we don't know exactly when "Answering Machine" was written, the reprise of the back/Jack couplet suggests that it's a sequel–or perhaps even a prequel–to "[Hungry Heart]({{< relref "2022-12-21-roll-of-the-dice-hungry-heart.md" >}})." One imagines the narrator of that 1980 classic recording this outgoing message in his Baltimore home just before he goes out for his fateful ride.
+
+Unlike "Hungry Heart," however, Bruce offers the narrator of "Answering Machine" the possibility of redemption. By leaving the metaphorical door open ("I don't know *when* I'm coming back" suggests that he might someday), Bruce waters a seed of hope for his narrator's return home after his latest Kingstown fling.
+
+With "Answering Machine," Bruce once again displays his impressive talent for songwriting economy, this time honed to a razor-sharp edge. In a mere thirty seconds, we experience and empathize with his character's loneliness, self-loathing ("there ain't nobody home"), rootlessness, and resilience. It's wholly appropriate that he recorded it solo, Nebraska-style, rather than with his band.
+
+"Answering Machine" is a tour de force that belongs in every Springsteen fan's collection.
+
+**Answering Machine**<br>
+**Recorded:** Unknown<br>
+**Never released**<br>
+**Never performed**<br>
+
+Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!

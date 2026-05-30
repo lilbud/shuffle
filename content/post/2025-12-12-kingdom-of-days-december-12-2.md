@@ -1,0 +1,142 @@
+---
+aliases:
+- /kingdom-of-days-december-12-2/
+- /62986/
+layout: post
+date: 2025-12-12T12:00:05
+lastmod: 2025-11-10T23:10:55
+title: "Kingdom of Days: December 12"
+slug: kingdom-of-days-december-12-2
+author: Ken Rosen
+description: "On this date: Bruce records one of the most beloved, evergreen holiday pop songs ever. Plus: the first “It’s My Life,” a Hurricane Sandy telethon performance and more."
+tags:
+- "antwerp"
+- "belgium"
+- "bobby-bandiera"
+- "born-to-run-tour"
+- "bruce-springsteen-band"
+- "ghost-of-tom-joad-tour"
+- "greenvale"
+- "hartford"
+- "highway-29"
+- "holiday-shows"
+- "hurricane-sandy"
+- "jackson-cage"
+- "jon-bon-jovi"
+- "magic-tour"
+- "nashville"
+- "new-york-city"
+- "patti-scialfa"
+- "river-tour"
+- "santa-claus-is-comin-to-town"
+- "soozie-tyrell"
+- "southside-johnny"
+- "springsteen-on-broadway"
+- "steel-mill"
+- "student-prince"
+- "the-river"
+- "who-says-you-cant-go-home"
+categories:
+- "kingdom-of-days"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/12/greenvale.jpg.webp
+  post_id: 62986
+---
+***New for 2025:** Audio for 1975; new entry for 1977 and 2024*<br>
+
+**1969:** Steel Mill (or as the poster puts it, "Child under an assumed name") headlines at Monmouth College in West Long Branch, New Jersey.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/12/1969-1212.jpg.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/1969-12-12.png.webp)
+
+**1970:** Steel Mill replaces scheduled headliner Flock at Asbury Park's Sunshine In when flight delays force to cancel at the last minute, leaving the local press to scratch their heads at why Bruce and company are settling for fill-in status.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/12/Asbury_Park_Press_1970_12_14_Page_22.jpg.webp)
+
+**1971:** The Bruce Springsteen Band is in residence at the Student Prince in Asbury Park.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/1971-12-10.png.webp)
+
+**1975:** Bruce and the E Street Band take the Born to Run Tour to C.W. Post College in Greenvale, New York, where Bruce debuts his cover of "[It's My Life]({{< relref "2021-11-23-cover-me-its-my-life.md" >}})," apparently (according to Max) played as an audible with no prior rehearsal. The band's encore performance of "[Santa Claus is Comin' to Town]({{< relref "2021-12-24-cover-me-santa-claus-is-comin-to-town.md" >}})" is recorded and officially released–it's the version you'll hear on the radio at least once this month. This show is available as part of Bruce's official archive series–get it [here](https://live.brucespringsteen.net/live-music/0,28028/Bruce-Springsteen-mp3-flac-download-12-12-1975-Post-Dome-CW-Post-College-Greenvale-NY.html).<br>
+
+{{< youtube fLI-vMZ4HEw >}}
+
+{{< youtube fCAf-mWrpW8 >}}
+
+{{< youtube 351dEutLEDQ >}}
+
+{{< youtube m2SvNksQ-eQ >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/12/Newsday_Suffolk_Edition__1975_12_15_87-scaled.jpg.webp)
+
+**1977:** Bruce holds a recording session for *Darkness on the Edge of Town* at The Record Plant in New York City.<br>
+
+**1980:** *The River* is certified platinum by the Recording Industry Association of America. That evening, Bruce and the boys play a River Tour show at the Hartford Civic Center.<br>
+
+{{< youtube 5Br1-TK1B8Y >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/1980-12-12.png.webp)
+
+**1995:** Bruce brings his solo acoustic tour to the Beacon Theater in New York City for the first of three nights.<br>
+
+{{< youtube zunmq9enbZs >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/1995-12-12.png.webp)
+
+**1996:** Patti and Soozie make several guest appearances throughout Bruce's solo acoustic show at Ryman Auditorium in Nashville. In attendance tonight: Emmylou Harris, Mary Chapin Carpenter, and Amy Grant.<br>
+
+{{< videopress id=uosEtWY7 >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/1996-12-12.png.webp)
+
+**2006:** Bruce closes the show at Bobby Bandiera's All-Star Holiday Concert at the Count Basie Theater in Red Bank, joining Bobby's band, Southside Johnny and the Asbury Jukes, Jon Bon Jovi, The Grinch, and some muppets for some holiday fun.<br>
+
+{{< videopress id=4ERUSA81 >}}
+
+{{< videopress id=Cu0TqnCR >}}
+
+[https://estreetshuffle.com/wp-content/uploads/2022/12/2006-12-12__Merged.mp3](https://estreetshuffle.com/wp-content/uploads/2022/12/2006-12-12__Merged.mp3)
+{{< audio url="https://estreetshuffle.com/wp-content/uploads/2022/12/2006-12-12__Merged.mp3" >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/2006-12-12.png.webp)
+
+**2007:** Bruce tour premieres "Because the Night" at his Magic Tour stop in Antwerp.<br>
+
+{{< youtube 0O-p-K2tO9k >}}
+
+{{< youtube eA3-z9SI0ec >}}
+
+**2008:** Bruce takes his daughter Jessica and friends to the Z100 Jingle Ball at Madison Square Garden and meets Lady Gaga for the first time backstage.<br>
+
+**2012:** Bruce and the E Street Band join a line-up of stellar talent at Madison Square Garden for a benefit show to help the Robin Hood Relief Fund for Hurricane Sandy victims in the tri-state area. The show is televised and streamed, starting with Bruce's opening four-song set (including "Born to Run" with a Jon Bon Jovi guest appearance) and Bruce's guest-star turn with Bon Jovi (on "[Who Says You Can't Go Home]({{< relref "2019-06-22-matr-jon-bon-jovi-and-bruce-springsteen-who-says-you-cant-go-home.md" >}})") during his set.<br>
+
+{{< youtube NQWFklgKA_E >}}
+
+{{< youtube M1i5lyNLmNM >}}
+
+{{< youtube jAzczH-AwnM >}}
+
+{{< youtube OgBVpttagJc >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/2012-12-12a.png.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/2012-12-12b.png.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/11/2012-12-12c.png.webp)
+
+**2017:** *Springsteen on Broadway* continues its theatrical run at the Walter Kerr Theater in New York City. In attendance tonight: Alex Rodriguez and Jennifer Lopez.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/11/2017-12-12.jpg.webp)
+
+**2018:** *Springsteen on Broadway* enters the final week of its theatrical run at the Walter Kerr Theater in New York City. In attendance tonight: Bruce Willis and Billy Joel.<br>
+
+**2020:** Still in the midst of the pandemic, Bruce and most of the E Street Band (minus Garry and Soozie, plus Jack Daley sitting in on bass) perform "[Ghosts]({{< relref "2017-01-11-roll-of-the-dice-ghosts.md" >}})" and "[I'll See You in My Dreams]({{< relref "2021-11-26-roll-of-the-dice-ill-see-you-in-my-dreams.md" >}})" on *Saturday Night Live*.<br>
+
+{{< videopress id=2OZScE6v >}}
+
+{{< videopress id=Ia5NayNl >}}
+
+**2023:** Bruce's scheduled show in San Francisco (already postponed once this year) is moved again to the following March due to his peptic ulcer disease.<br>
+
+**2024:** Bruce drops by the set of *Deliver Me From Nowhere*, filming today at Convention Hall in Asbury Park.<br>

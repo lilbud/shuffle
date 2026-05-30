@@ -1,0 +1,60 @@
+---
+aliases:
+- /roll-of-the-dice-secret-to-the-blues/
+- /54391/
+layout: post
+date: 2024-09-14T22:15:00
+lastmod: 2024-09-14T22:13:07
+title: "Roll of the Dice: Secret to the Blues"
+slug: roll-of-the-dice-secret-to-the-blues
+author: Ken Rosen
+description: "The Bruce Springsteen Band morphed into the E Street Band so naturally that for all of 1973 and half of 1974, no one seemed to…"
+tags:
+- "bruce-springsteen-band"
+- "secret-to-the-blues"
+- "the-bands-just-boppin-the-blues"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/09/0_kY9q5e9blrLBaPFT.jpg.webp
+  post_id: 54391
+---
+The Bruce Springsteen Band morphed into the E Street Band so naturally that for all of 1973 and half of 1974, no one seemed to notice or care that the band was between names.
+
+But while the band's personnel might have moved seamlessly to E Street, the same can't be said of their repertoire. When Bruce dissolved his eponymous band, he left behind almost the entire catalog of songs he'd written and tailored to their funky, bluesy, and often brassy sound.
+
+It's almost impossible to find songs from the Bruce Springsteen Band era that crossed over to E Street, and the few that did didn't last long. Long-time fans might be familiar with "[You Mean So Much to Me]({{< relref "1972-01-02-roll-of-the-dice-you-mean-so-much-to-me.md" >}})," which made several appearances throughout Bruce's first two album tours. Beyond that, we'd have to scavenge set lists for the occasional one- or two-off cameos of early relics like "[Funk Song]({{< relref "1972-01-22-roll-of-the-dice-funk-song.md" >}})."
+
+And then there's "Secret to the Blues."
+
+{{< youtube 7cpSujTLZ9s >}}
+
+Now you could argue that "Secret to the Blues" isn't technically a crossover, as its three known performances were all in 1973. But you could also argue that it's essentially the same song as "[The Band's Just Bopping the Blues,]({{< relref "1972-01-20-roll-of-the-dice-the-bands-just-boppin-the-blues.md" >}})" which was played twice (that we know of) by the BSB in 1971-72.
+
+It's a tough call. They certainly share the same melody, arrangement, and lyrical conceit, so at the very least "Secret to the Blues" is an evolution of its predecessor in the same way "So Young and in Love" shares DNA with "A Love So Fine" and "[Action in the Streets]({{< relref "2022-06-27-roll-of-the-dice-action-in-the-streets.md" >}})."
+
+In any event, both "Bopping" and "Secret" are essentially excuses for the as-yet-unnamed E Street Band to keep their blues muscle from atrophying. "Secret" is leaner and tighter than "Bopping," an apt comparison for the two bands as well.
+
+Lyrically, "Secret to the Blues" has been distilled down to a handful of lines that amount to the mission statement of a blues musician with a blue-collar day job.
+
+> *Well now it's a [insert day of week here] night and I'll be sitting in my seat all alone*<br>
+> *And I'm feeling kind of tired from working all day, but not tired enough to go on home*<br>
+> *So sit back and let loose 'cause that's the secret to the blues*<br>
+
+> *Oh we got the Funky Chicken on the bass, [unintelligible nickname for Dan Federici] on the keys*<br>
+> *Well when Big Man plays the saxophone, them teenyboppers fall right to their knees*<br>
+> *So sit back and be loose, it's the secret to the blues*<br>
+
+That's "Funky" Garry Tallent Bruce is referring to, and of course we know who the Big Man is. Both "Bopping" and "Secret" served to spotlight the band members in ways that songs like "Rosalita (Come Out Tonight)" and "Kitty's Back" would soon do.
+
+From the opening measures of "Secret to the Blues," we can hear Bruce go to town with a deep groove that certainly stands out in his otherwise *Greetings*-heavy setlists at the time. Over the course of its almost eight minutes, we can hear elements of not just the BSB and the E Street Band, but even traces of Steel Mill in its heavier moments.
+
+"Secret to the Blues" didn't stick around long, but in the pair of recordings known to exist, we hear Bruce and the boys captured mid-transition in a way no other song can.
+
+**Secret to the Blues**<br>
+**Never Recorded**<br>
+**Never Released**<br>
+**First performed:** January 4, 1973 (Bryn Mawr, PA)<br>
+**Last performed:** June 13, 1973 (Binghamton, NY)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries coming soon!

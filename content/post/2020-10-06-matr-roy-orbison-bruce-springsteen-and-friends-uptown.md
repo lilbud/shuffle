@@ -1,0 +1,45 @@
+---
+aliases:
+- /matr-roy-orbison-bruce-springsteen-and-friends-uptown/
+- /21386/
+layout: post
+date: 2020-10-06T12:00:00
+lastmod: 2020-10-06T03:29:37
+title: "MatR: Roy Orbison, Bruce Springsteen and Friends: Uptown"
+slug: matr-roy-orbison-bruce-springsteen-and-friends-uptown
+author: Ken Rosen
+description: "One time only: Bruce joins Roy Orbison on one of Roy’s earliest and most influential hits."
+tags:
+- "black-and-white-night"
+- "roy-orbison"
+- "uptown"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/10/uptown_original-1.jpg.webp
+  post_id: 21386
+---
+Oh, those strings.
+
+When Roy Orbison recorded "Uptown" in 1959, a string section in rock and roll was a genuine novelty, and they lent "Uptown" an air of lush sophistication that commanded attention and admiration.
+
+{{< youtube PggaPUzp7fA >}}
+
+"Uptown" quickly became Orbison's biggest-selling hit since his breakout "Ooby Dooby" three years prior, peaking at #72 on the Hot 100 and clearing a path for more orchestral arrangements in years to come from Orbison to Spector to Springsteen and beyond.
+
+In 1987, Bruce had a chance to perform "Uptown" with Orbison himself as a member of Roy's all-star backing band for his *Black & White Night* special.
+
+For most of that concert, Bruce was content to linger in the background, supporting the original artist on guitar. But on "Uptown," Bruce stepped to the fore and provided Roy with warm and prominent backing vocals.
+
+It's one of my favorite moments from an incredible show, and yes... there are strings.
+
+{{< youtube _EE3Ko6aGug >}}
+
+Thankfully, that show was captured and released (and re-released) in beautiful quality, because Roy and Bruce's performance of "Uptown" was a one-time-only affair. Roy died of a heart attack at the age of 52 just a year later.
+
+Enjoy more incredible moments from that all-star *Black & White Night* event [here](https://estreetshuffle.com/?s=orbison).
+
+**Uptown**<br>
+**First performed:** September 30, 1987 (Los Angeles, CA)<br>
+**Last performed:** September 30, 1987 (Los Angeles, CA)<br>

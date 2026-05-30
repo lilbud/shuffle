@@ -1,0 +1,51 @@
+---
+aliases:
+- /matr-nicky-addeo-bruce-springsteen-and-friends-crying-in-the-chapel/
+- /15846/
+layout: post
+date: 2020-02-22T13:00:00
+lastmod: 2020-02-26T04:16:54
+title: "MatR: Nicky Addeo, Bruce Springsteen and Friends: Crying in the Chapel"
+slug: matr-nicky-addeo-bruce-springsteen-and-friends-crying-in-the-chapel
+author: Ken Rosen
+description: "One time only: Bruce backs a special Wonder Bar house band of local legends on a cover of Darrell Glenn’s classic “Crying in the Chapel.”"
+tags:
+- "crying-in-the-chapel"
+- "darrell-glenn"
+- "elvis-presley"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/02/crying-chapel.jpg.webp
+  post_id: 15846
+---
+***Updated 2/25/20** with corrections from Rose Montana (thanks, Rose!)*<br>
+
+When I introduce one of these entries as "one for the completists," that's code for one of the following: either a) the accompanying recording is terrible, or b) Bruce isn't in it very much.
+
+Well, Bruce's only performance of "Crying in the Chapel" definitely isn't the former–we've got a great close-up video of the Stone Pony gig where he played it.
+
+And the song's pretty great, too–so great in fact that not only did Darrell Glenn take his original 1953 recording to #6 on the Billboard pop chart and #4 on the country and western chart…
+
+{{< youtube XM1PzEWnZZ0 >}}
+
+…Rex Allen took his cover to #8, Ella Fitzgerald took hers to #15, and Art Lund notched at #23—*all in the same year as Glenn's original.* That's what you call a hit.
+
+But it was Elvis Presley's cover in 1960 that scored the highest: unreleased until 1965, "Crying in the Chapel" was a #3 hit for Elvis on the Billboard Hot 100 and #1 (for seven weeks!) on the easy listening chart.
+
+{{< youtube CYOUcV7nlN8 >}}
+
+As for Bruce Springsteen, he never "officially" covered "Crying in the Chapel" in concert. But: in 2011, he backed some local legends who did.
+
+At a special concert event at the Wonder Bar celebrating the music of Asbury Park's west side, Nicky Addeo assembled a house band for the evening that included Vini Lopez, Ed Manion and Billy Ryan, along with vocalists like Southside Johnny, Bobby Thomas, and Addeo.
+
+Oh, and one more local legend: In the background for the first set, at the fore during the second, Bruce took the lead on a few songs that night ("[What's Your Name]({{< relref "2018-02-18-matr-bruce-springsteen-and-nicky-addeo-the-night-owls-whats-your-name.md" >}})," for example), but for "Crying in the Chapel" he was content to provide backing guitar for Bobby Thomas' lead vocals. Keep an eye out in the video below during the artists' soulful performance, and you'll see Bruce a few times lurking behind Southside.
+
+{{< youtube qX8G_fiYklY >}}
+
+So yeah, from a Springsteen perspective, this is one for the completists. But aren't you glad you watched anyway?
+
+**Crying in the Chapel**<br>
+**First performed:** April 2, 2011 (Asbury Park, NJ)<br>
+**Last performed:** April 2, 2011 (Asbury Park, NJ)<br>

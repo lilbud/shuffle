@@ -1,0 +1,50 @@
+---
+aliases:
+- /meeting-across-the-river-bruce-springsteen-and-joe-grushecky-pumping-iron/
+- /5413/
+layout: post
+date: 2018-11-03T12:00:37
+lastmod: 2024-01-02T00:06:20
+title: "Meeting Across the River: Bruce Springsteen and Joe Grushecky, Pumping Iron"
+slug: meeting-across-the-river-bruce-springsteen-and-joe-grushecky-pumping-iron
+author: Ken Rosen
+description: "As much an anthem for Pittsburgh as anything Bruce ever wrote for New Jersey, “Pumping Iron” is a surefire setlist bet any time Joe Grushecky and Bruce play together."
+tags:
+- "iron-city-houserockers"
+- "joe-grushecky"
+- "pumping-iron"
+- "steve-van-zandt"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/11/pumping.jpg.webp
+  post_id: 5413
+---
+In 1980, Joe Grushecky's band, the Iron City Houserockers, were recording their second album, [*Have a Good Time But Get Out Alive*]({{< relref "1988-04-25-have-a-good-time-but-get-out-alive.md" >}}).
+
+Steve Van Zandt produced and arranged five of the songs on that album (and played guitar on one), all while still working in the studio with the E Street Band on *The River.* One night, Steve invited Joe to tag along and introduced him to Bruce. That, as they say, was the beginning of a long and beautiful friendship.
+
+One of the songs that Steve did *not* have a hand in but still ended up on the album was "Pumping Iron," as much an anthem for Pittsburgh as anything Bruce ever wrote for New Jersey.
+
+{{< youtube TJYuNTpsBhY >}}
+
+"Pumping Iron" couldn't be more perfectly tailored for a Grushecky/Springsteen team-up, which is probably why they've performed it together almost two dozen times over the years (and probably more to come).
+
+One the earliest of those performances was captured live on October 20, 1995, at Nick's Fat City in Pittsburgh on the American Babylon Tour. It was officially released on Joe's *Down the Road Apiece* live album in 1999.
+
+Take a listen to this superb recording of Joe Grushecky and The Houserockers (featuring Bruce Springsteen) performing "Pumping Iron."
+
+{{< youtube uel97b0CV9A >}}
+
+Bruce joined Joe and The Houserockers throughout their American Babylon Tour (otherwise known as the October Assault), and "Pumping Iron" featured prominently in the setlist.
+
+**Bonus:** Bruce and Joe would reprise it many times over the years that followed–although only in Pittsburgh or Asbury Park. Their last performances (to date, at least) were at the Wonder Bar on July 18, 2015, and at Light of Day in January 2020, and fortunately they were captured from close-up.<br>
+
+{{< youtube SN5QnT6WOp4 >}}
+
+{{< youtube 5TrjyioI4IQ >}}
+
+**Pumping Iron**<br>
+**First performed:** July 22, 1995 (Sea Bright, NJ)<br>
+**Last performed:** January 18, 2020 (Asbury Park, NJ)<br>

@@ -1,0 +1,41 @@
+---
+aliases:
+- /matr-roy-orbison-bruce-springsteen-and-friends-running-scared/
+- /20596/
+layout: post
+date: 2020-08-24T12:00:00
+lastmod: 2020-08-24T12:16:35
+title: "MatR: Roy Orbison, Bruce Springsteen and Friends: Running Scared"
+slug: matr-roy-orbison-bruce-springsteen-and-friends-running-scared
+author: Ken Rosen
+description: "One time only: Bruce joins Roy Orbison and an all-star backing band in a show-stopping performance of “Running Scared.”"
+tags:
+- "black-and-white-night"
+- "roy-orbison"
+- "running-scared"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/Roy-Orbison-Running-Scared-1522163688-640x634-1.jpg.webp
+  post_id: 20596
+---
+Okay, so maybe this particular team-up is a bit one-sided: although we can see Bruce playing guitar over Roy Orbison's shoulder, it's clear he's humbled by talent before him and around him.
+
+{{< youtube DAYyMIZNxfM >}}
+
+But come on: who can blame him? "Running Scared" was a showcase for Orbison's soaring vocals from the get-go, building dramatically over its two-and-a-half minutes (without ever introducing a chorus) to a climax that only Roy could pull off.
+
+In the last few seconds of the 1987 clip above, we can almost see Bruce thinking, "*damn...* he still has it!" If anything, Roy sounded even more impressive in 1987 than he did in his 1961 original.
+
+{{< youtube E7M-g1fW9XM >}}
+
+Upon its release in the spring of 1961, "Running Scared" became Orbison's first #1 hit on the Billboard Hot 100 and notched the top spot in Canada as well.
+
+Bruce has (wisely) never attempted the song on his own.
+
+(Check out more Orbison/Springsteen team-ups [here](https://estreetshuffle.com/?s=orbison).)
+
+**Running Scared**<br>
+**First performed:** September 30, 1987 (Los Angeles, CA)<br>
+**Last performed:** September 30, 1987 (Los Angeles, CA)<br>

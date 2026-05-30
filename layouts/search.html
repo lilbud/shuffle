@@ -1,0 +1,151 @@
+{{ define "main" }}
+  <div class="card p-3 p-lg-4.5 mb-3" id="header-card">
+    <div class="row d-flex align-items-center justify-content-between">
+      <div class="col">
+        <div class="page-title">
+          <span>
+            Search Results for:
+            <span id="search-query-display" class="text-purple"></span>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card p-3 p-lg-4.5 mb-3" id="header-card">
+    <div class="row d-flex align-items-center justify-content-between">
+      {{ partial "lunr.html" }}
+    </div>
+  </div>
+
+  <div id="search-results"></div>
+
+  <!-- Load Lunr.js -->
+  <script src="/js/lunr.js"></script>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const urlParams = new URLSearchParams(window.location.search);
+      const query = urlParams.get("q");
+      const searchResultsContainer = document.getElementById("search-results");
+      const queryDisplay = document.getElementById("search-query-display");
+      const maxResults = 10;
+
+      if (!query) {
+        searchResultsContainer.innerHTML =
+          '<div class="alert alert-warning">No search query provided.</div>';
+        return;
+      }
+
+      queryDisplay.textContent = query;
+
+      fetch("/index.json")
+        .then((response) => response.json())
+        .then((data) => {
+          const idx = lunr(function () {
+            this.ref("url");
+            this.field("title", { boost: 10 });
+            this.field("description");
+
+            data.forEach(function (doc) {
+              this.add(doc);
+            }, this);
+          });
+
+          const results = idx.search(query);
+          const limitedResults = results.slice(0, maxResults);
+
+          if (limitedResults.length > 0) {
+            let htmlOutput = "";
+
+            limitedResults.forEach((result) => {
+              const item = data.find((doc) => doc.url === result.ref);
+              if (item) {
+                // Replicate the Hugo template logic using JS conditionals
+
+                // Image template logic
+                let imgHtml = "";
+                if (item.header_img) {
+                  imgHtml = `
+                <div class="col-12 col-md-5 post-img-wrapper mb-4 mb-md-0">
+                  <img class="img-fluid post-img" src="${item.header_img}" height="auto" width="auto" alt="" />
+                </div>`;
+                }
+
+                // Category template logic
+                let categoryHtml = "";
+                if (item.categories && item.categories.length > 0) {
+                  const firstCategory = item.categories[0];
+                  // Replicate Hugo's urlize (lowercase, hyphens instead of spaces)
+                  const urlizedCat = firstCategory
+                    .toLowerCase()
+                    .replace(/[^a-z0-9]+/g, "-")
+                    .replace(/(^-|-$)/g, "");
+                  // Replicate Hugo's title case conversion
+                  const titleCat = firstCategory
+                    .replace(/-/g, " ")
+                    .replace(/\b\w/g, (c) => c.toUpperCase());
+
+                  categoryHtml = `
+                <div class="post-category post-meta mb-1">
+                  <i class="bi bi-folder meta-icon"></i>
+                  <a class="post-meta text-decoration-none" href="/categories/${urlizedCat}">
+                    ${titleCat}
+                  </a>
+                </div>`;
+                }
+
+                // Assemble the complete card HTML markup
+                htmlOutput += `
+              <div class="card post-card p-3 p-lg-4.5" id="post-card">
+                <div class="row d-flex align-items-center justify-content-between">
+                  ${imgHtml}
+                  <div class="col post-content">
+                    <div class="row">
+                      <div class="col">
+                        ${categoryHtml}
+                        <div class="post-title mb-1 mb-lg-2">
+                          <a class="text-decoration-none" href="${item.url}">
+                            ${item.title}
+                          </a>
+                        </div>
+                        <div class="row d-flex-inline row-cols-2 gap-0 gx-3 my-3">
+                          <div class="col-auto text-nowrap post-meta post-date">
+                            <i class="bi bi-clock"></i>
+                            <a class="post-meta text-decoration-none" href="${item.url}">
+                              ${item.date || ""}
+                            </a>
+                          </div>
+                          <div class="col-auto post-meta post-author">
+                            <i class="bi bi-person-fill"></i>
+                            By ${item.author || "Anonymous"}
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col">
+                            <div class="post-excerpt">${item.description || ""}</div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            `;
+              }
+            });
+
+            searchResultsContainer.innerHTML = htmlOutput;
+          } else {
+            searchResultsContainer.innerHTML =
+              '<div class="alert alert-light">No pages matched your search.</div>';
+          }
+        })
+        .catch((err) => {
+          console.error("Error loading search index:", err);
+          searchResultsContainer.innerHTML =
+            '<div class="alert alert-danger">Error loading search engine.</div>';
+        });
+    });
+  </script>
+{{ end }}

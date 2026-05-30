@@ -1,0 +1,46 @@
+---
+aliases:
+- /cover-me-southside-johnny-and-ronnie-spector-you-mean-so-much-to-me/
+- /15636/
+layout: post
+date: 2020-02-16T13:00:00
+lastmod: 2020-02-16T13:11:22
+title: "Cover Me, Southside Johnny and Ronnie Spector: You Mean So Much to Me"
+slug: cover-me-southside-johnny-and-ronnie-spector-you-mean-so-much-to-me
+author: Ken Rosen
+description: "The story of “You Mean So Much to Me” continues beyond its last E Street stage appearance. Listen to the definitive cover by Southside Johnny and Ronnie Spector, plus Bruce and Ronnie’s unexpected 1977 team-up."
+tags:
+- "southside-johnny"
+- "you-mean-so-much-to-me"
+categories:
+- "cover-me"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/02/south-ronnie.jpg.webp
+  post_id: 15636
+---
+I wrote about "[You Mean So Much to Me]({{< relref "1972-01-02-roll-of-the-dice-you-mean-so-much-to-me.md" >}})" last month, tracing its evolution from a brassy Bruce Springsteen Band jam to a cool, jazzy showcase for the E Street keyboardists.
+
+But the story doesn't end there.
+
+Although Bruce ditched "You Mean So Much to Me" part way through the Wild and Innocent Tour and never looked back, Bruce's orphaned song found a new family.
+
+When Bruce realized he wasn't going to find a place for "You Mean So Much to Me," and when Southside Johnny landed a record deal of his own, Bruce gifted his good friend with the song. Southside recorded it as a duet with Ronnie Spector with Steve Van Zandt producing, and the result was the definitive version of the song.
+
+{{< youtube 4JabbiFhBAE >}}
+
+Or perhaps I should've said: the definitive *studio* version, because Southside and Ronnie take the song to the next level in their live performance on Ronnie's *Very Best of Ronnie Spector* album.
+
+{{< youtube xERh3DH3x_4 >}}
+
+But there's still one more page to the story.
+
+For two nights only in May of 1977, Ronnie Spector sang "You Mean So Much to Me" as a duet with the songwriter himself.
+
+Originally billed as a Southside Johnny and The Asbury Jukes gig, Southside took sick and couldn't perform. Steve Van Zandt rode to the rescue, creating an all-star revue called, well, The Asbury Park All-Star Revue, consisting of the Jukes, the E Street Band, Ronnie and Bruce.
+
+The set list for each show (there were three across the two nights) consisted primarily of Southside songs, with a few Spector and Springsteen songs sprinkled in. But late in the encores came a special duet of a song Bruce hadn't performed in more than three years and never would again.
+
+Here's one of those special performances, and the end of the line for Bruce's custody of "You Mean So Much to Me."
+
+{{< videopress id=kwyJ1epn >}}

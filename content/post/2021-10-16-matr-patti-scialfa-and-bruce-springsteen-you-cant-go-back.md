@@ -1,0 +1,41 @@
+---
+aliases:
+- /matr-patti-scialfa-and-bruce-springsteen-you-cant-go-back/
+- /30171/
+layout: post
+date: 2021-10-16T12:00:00
+lastmod: 2021-10-16T04:33:47
+title: "MatR: Patti Scialfa and Bruce Springsteen: You Can't Go Back"
+slug: matr-patti-scialfa-and-bruce-springsteen-you-cant-go-back
+author: Ken Rosen
+description: "It may be called 23rd Street Lullaby, but “You Can’t Go Back” is the song that best captures the spirit of Patti’s second album."
+tags:
+- "23rd-street-lullaby"
+- "patti-scialfa"
+- "you-cant-go-back"
+categories:
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/10/youcant.jpg.webp
+  post_id: 30171
+---
+The first track may have lent the album its title, but the second track captures its spirit.
+
+In 2004, Patti Scialfa released her second solo album*.* She was fifty years old at the time, and *23rd Street Lullaby* is a very fifty album, filled with layered, beautifully arranged and performed tracks that look back at the songwriter's youth from a vantage point decades down the road.
+
+No song better captures the album's theme than its second track, "You Can't Go Back" (which actually would have been a perfect name for the album, too).
+
+{{< youtube Hm0XYpT-y90 >}}
+
+In "You Can't Go Back," Patti revisits the New York City streets she once haunted, searching for that sense of freedom, adventure, and possibility of youth. Her glasses aren't rose-colored (there's a reason she slyly co-ops the chord progression from Lou Reed's "Walk on the Wild Side"), but it's significant that she anchors her memory in 1988, leaving no doubt who she's singing to in the first verse.
+
+"You Can't Go Back," she sings, but you can carry your past with you–something she suggests with a carefully crafted backing track containing a musical mélange of styles past and present. Patti's husband is fittingly part of that track, contributing his electric guitar and keyboards underneath Patti's vocals.
+
+And while Bruce and Patti have never performed it together in concert, we fortunately have documents of Patti performing it herself. Well, not exactly by herself, but with her own backing band–one that features a few familiar faces.
+
+{{< videopress id=VKJ2hyKD >}}
+
+**You Can't Go Back**<br>
+**Recorded:** January 200<br>
+**Released:** *23rd Street Lullaby* (2004)<br>
+**Never performed**<br>

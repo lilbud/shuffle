@@ -1,0 +1,75 @@
+---
+aliases:
+- /roll-of-the-dice-i-wanna-be-with-you/
+- /226/
+layout: post
+date: 2018-01-14T23:41:51
+lastmod: 2024-01-01T22:28:05
+title: "Roll of the Dice: I Wanna Be With You"
+slug: roll-of-the-dice-i-wanna-be-with-you
+author: Ken Rosen
+description: "A lost power-pop classic, “I Wanna Be With You” charms with its lovesick loser protagonist, fiercely defiant lyrics and exuberant arrangement."
+tags:
+- "i-wanna-be-with-you"
+- "outtakes"
+- "raspberries"
+- "reunion"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/01/wanna.jpg.webp
+  post_id: 226
+---
+In a parallel universe, Bruce Springsteen released every song he ever wrote and holds the record for most pop hits by a single artist.
+
+In this universe, however, Springsteen discarded or stashed away bona fide power pop gems that other artists would have sold their soul to have written, because they didn't fit the message he was trying to communicate at the time.
+
+The time was 1977, and Bruce was recording a group of songs for that would rank among his most timeless: "[Prove It All Night]({{< relref "2020-10-24-roll-of-the-dice-prove-it-all-night.md" >}})," "[The Promised Land]({{< relref "2016-01-09-roll-of-the-dice-the-promised-land.md" >}})," "[Racing in the Street]({{< relref "2021-10-03-roll-of-the-dice-racing-in-the-street.md" >}})," "[Adam Raised a Cain]({{< relref "2022-07-03-roll-of-the-dice-adam-raised-a-cain.md" >}})," and the rest of the fierce, fueled collection that would become [*Darkness on the Edge of Town*](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/01/BruceSpringsteenDarknessontheEdgeofTown.jpg.webp)
+
+But while Bruce was writing and recording his most serious and mature music to date, he was also prolifically penning pop songs with a more romantic vibe: "Spanish Eyes," [Rendezvous]({{< relref "2021-05-08-roll-of-the-dice-rendezvous.md" >}})," "[Breakaway]({{< relref "2020-04-23-roll-of-the-dice-breakaway.md" >}})," "[The Little Things (My Baby Does)]({{< relref "2022-03-04-roll-of-the-dice-the-little-things-my-baby-does.md" >}})" and more. Bruce wasn't ready to express that side of himself publicly, so those songs sat in the vault for over 30 years, until they were finally released on *The Promise* in 2010.
+
+And then there was "I Wanna Be With You." First recorded in June 1977, the lyrics had the desperation of *Darkness* paired with a simple guitar riff that grabbed you from the first and an ambling E Street band that couldn't quite match the fervor of the song's protagonist. It too went into the vault, but you can hear that first never-released Darkness-era recording here:
+
+[https://estreetshuffle.com/wp-content/uploads/2018/01/06-Bruce-Springsteen-I-Wanna-Be-With-You-online-audio-converter.com_.mp3](https://estreetshuffle.com/wp-content/uploads/2018/01/06-Bruce-Springsteen-I-Wanna-Be-With-You-online-audio-converter.com_.mp3)
+{{< audio url="https://estreetshuffle.com/wp-content/uploads/2018/01/06-Bruce-Springsteen-I-Wanna-Be-With-You-online-audio-converter.com_.mp3" >}}
+
+Bruce had always been fascinated with pop music. One of his favorite pop bands was The Raspberries (Bruce has often encouraged his fans to seek out their recordings, even decades later) and it's clear that "I Wanna Be With You" was at least in part an homage to them. In fact, the first song on The Raspberries' first album bears the same name and covers similar ground:
+
+{{< youtube FNAsRAT3Q7Q >}}
+
+In Bruce's version, the narrator was just as much in love as The Raspberries' protagonist. But in keeping with Bruce's world and his *Darkness* characters, his is a lovesick loser, so desperately devoted that he's lost his job, his home, his friends, his self-respect… and he doesn't care, so fixated he is on his love.
+
+He doesn't care if "frozen cities crumble and fall" or "tumble right into the sea."
+He lost his job at a Texaco station "'cause instead of pumping gas, I'd dream of you."
+His professed devotion "until they rip out my heart" is imagery violent enough to make you question whether this guy is devoted or obsessed.
+
+In 1979, during the recording sessions for what would become *The River*, Bruce pulled "I Wanna Be With You" out of the vault temporarily, rewriting the last verse slightly but reworking the arrangement mightily. This time, the band sounds just as desperate Bruce's vocals, and by the time they reach the bridge, Bruce's character is so discombobulated that he trips over his own words, tumbling and catapulting into the brilliant final verse where the our lovesick loser realizes just how far gone he is:
+
+> *No, I don't know, I don't know, I don't I just can't understand it*<br>
+> *You're not pretty at all*<br>
+> *But I come when you whisper*<br>
+> *I run when you call*<br>
+> *When I see you on the street, I fall on my face*<br>
+> *I drop to my knees, I plead my case.*<br>
+
+One more chorus follows, and rather than a fadeout, the song ends with a triumphant, declarative, "I wanna be with you, because I love you so!" and a final Mighty Max-accompanied "huh!" A mic drop before there were mic drops.
+
+{{< youtube Ie4bDLGnfR0 >}}
+
+The result is an unreleased classic, among the most fun and exuberant in his catalog. Although it would have been perfectly suited for *The River*, that album was already overstuffed, so back into the vault it went, where it stayed for almost two decades before being released on the four-disc *Tracks* box set of outtakes in 1998 and the follow-up best-of *18 Tracks* in 1999. The song made a third official appearance on the bonus outtakes disc that accompanied the River anniversary box set in late 2015.
+
+Performance-wise, "I Wanna Be With You" remains a holy grail for most (including me), played only 15 times ever. Bruce pulled it out for the first time early on the Reunion tour, opening with it in Milan on April 20, 1999.
+
+It was a perfect opener for a Reunion tour: Bruce played the opening guitar riff and brought each member of the band in one by one, culminating in Clarence's mighty saxophone declaration before the band powers into the song and the concert together. The video below is the opening moments of one of the New Jersey shows that summer, and you can see the the song played to full effect.
+
+{{< youtube WCIHUsw5Dsk >}}
+
+After the Reunion tour, the song pretty much disappeared, appearing only 5 times in the 21st century, despite frequent fan request. For most ardent fans of this little-known classic, the chase continues.
+
+**I Wanna Be With You**<br>
+**Recorded** May 31, 1979<br>
+**Released:** *Tracks* (1998); *18 Tracks* (1999)<br>
+**First Performed:** April 20, 1999 (Milan)<br>
+**Last Performed:** May 14, 2016 (Barcelona)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

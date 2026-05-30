@@ -1,0 +1,104 @@
+---
+aliases:
+- /kingdom-of-days-august-29-2/
+- /59500/
+layout: post
+date: 2025-08-29T11:00:38
+lastmod: 2026-05-14T20:47:57
+title: "August 29"
+slug: kingdom-of-days-august-29-2
+author: Ken Rosen
+description: "On this date: Bruce and the E Street Band open the MTV Video Music Awards, play a one-time-only cover of “(I Heard That) Lonesome Whistle” and more."
+tags:
+- "born-in-the-usa-tour"
+- "child"
+- "dancing-in-the-dark"
+- "darkness-tour"
+- "i-heard-that-lonesome-whistle"
+- "im-a-rocker"
+- "largo"
+- "mtv-video-music-awards"
+- "nashville"
+- "new-york-city"
+- "philadelphia"
+- "pittsburgh"
+- "ramrod"
+- "rising-tour"
+- "springsteen-on-broadway"
+- "steel-mill"
+- "the-rising"
+- "vernon"
+- "washington-dc"
+- "world-tour-1992"
+- "wrecking-ball-tour"
+categories:
+- "kingdom-of-days"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/08/admin-ajax-79.jpg.webp
+  post_id: 59500
+---
+**1969:** Child plays a gig at the Ocean Side Surf Club in Sea Bright, New Jersey.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/1969-0829.jpg.webp)
+
+**1970:** Bruce plays his first-ever show in Tennessee when Steel Mill opens for Roy Orbison, Ronnie Milsap and others at the 3rd Annual Nashville Music Festival. About 50,000 people attend, making this show the largest Bruce will play until he starts playing stadiums in the mid-1980s.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/1970-08-29.png.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/08/1970-0829.jpg.webp)
+
+**1975:** Bruce cancels a scheduled show at the University of Miami.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/1975-08-29a.png.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/1975-08-29b.png.webp)
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/08/1975-08-29.jpg.webp)
+
+**1977:** Bruce and the band are in the studio, recording for what will become *Darkness on the Edge of Town*.<br>
+
+**1978:** Bruce and the E Street Band play their second of two nights at the Stanley Theater in Pittsburgh, where Bruce tour premieres "It's My Life" and plays "(I Heard That) Lonesome Whistle" for the first and only time to date. The TV show *PM Magazine* airs a segment shortly afterward, featuring footage from this show–check it out below.<br>
+
+{{< youtube eScrQVnfB34 >}}
+
+{{< youtube NuJ-g62ekzc >}}
+
+**1979:** Bruce and the E Street Band record an alternate version of "The River" at The Power Station in New York City.<br>
+
+{{< youtube BjSsFvrrh7g >}}
+
+**1984:** Bruce and the boys wrap up their four-night stand at the Capital Center in Largo, Maryland.<br>
+
+{{< videopress id=lUINKgNF >}}
+
+**1992:** Night Two at The Philadelphia Spectrum on World Tour 1992 features the last "All or Nothin' at All" for seventeen years and a "Follow That Dream" show closer.<br>
+
+{{< videopress id=C5ZvQSju >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/1992-08-29.png.webp)
+
+**1995:** Bruce and Joe Grushecky sit down for an interview at Cheers in Long Branch to promote Joe's upcoming Bruce-produced album, *American Babylon*.<br>
+
+[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PL39D3CD52696EBA54)
+
+**2002:** On a rainy night, Bruce and the E Street Band kick off the MTV Video Music Awards, performing "The Rising" outside Hayden Planetarium in New York City for the cameras followed by a private 75-minute concert in the rain.<br>
+
+{{< videopress id=DJSBoofS >}}
+
+{{< videopress id=GLcWAlPv >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/2002-08-29.png.webp)
+
+**2012:** Bruce and the band play an unusual venue: the Vernon Downs Raceway, a horse racing track in central New York State. Bruce delivers a great set list, tour premiering "Stand On It" and "Human Touch" and giving rare outings to "Frankie," "I'm a Rocker," the 1978 version of "Prove It All Night" and "Open All Night."<br>
+
+{{< youtube 1nsW3dQSPAY >}}
+
+{{< youtube HNUWGvC-dvk >}}
+
+{{< youtube Brdh8HS4M_w >}}
+
+{{< youtube S6GTb8JIfzU >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/08/The_Buffalo_News_2012_09_01_31.jpg.webp)
+
+**2018:** *Springsteen on Broadway* continues its theatrical run at the Walter Kerr Theater in New York City.<br>

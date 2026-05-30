@@ -1,0 +1,69 @@
+---
+aliases:
+- /roll-of-the-dice-its-a-shame/
+- /37140/
+layout: post
+date: 2022-10-15T12:00:00
+lastmod: 2023-01-03T16:43:39
+title: "Roll of the Dice: It's a Shame"
+slug: roll-of-the-dice-its-a-shame
+author: Ken Rosen
+description: "Jon Landau logs a lone performer credit on this obscure hybrid outtake from the Darkness era."
+tags:
+- "its-a-shame"
+- "jons-jam"
+- "prove-it-all-night"
+- "the-promise"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/10/shame.jpg.webp
+  post_id: 37140
+---
+On May 28, 1977, Bruce Springsteen and former manager Mike Appel settled the mutual litigation that barred Springsteen from a recording studio for almost a year. Only four days later, Bruce and the E Street Band were back in the recording studio, recording eight songs that first night alone for what would eventually become [*Darkness on the Edge of Town*]({{< relref "2022-07-05-album-companion-darkness-on-the-edge-of-town.md" >}}). He was overflowing with material, arriving almost every day with new songs for the band to test drive.
+
+On June 14th, Bruce had the bones of a song he was eager to flesh out, but Max and Garry had yet to arrive. Unwilling to wait, he enlisted Jon Landau on drums and road manager Bob Chirmside on bass and led the E Street-ish Band through what the session log labeled as "Jon's Jam."
+
+It's unclear whether Bruce had written any lyrics for it at the time; I suspect he hadn't, or it would likely have had a more descriptive name. We don't know for sure, because Bruce locked that unusual track away in the vault. More than three decades later, he dusted it off when searching for outtake candidates for *The Promise*, his 2010 alternative album companion to *Darkness.*
+
+Some of the tracks on *The Promise* are vintage, some had some modern elements applied. "Jon's Jam" arguably had the most work done to it: Bruce layered on a full horn section (featuring Barry Danielian, Stan Harrison, Dan Levine, Ed Manion, and Curt Ramm), supplied brand-new vocals (furthering my suspicion that none had been written back in the day), and renamed the song "It's a Shame."
+
+{{< youtube 3HOQCNmhvIc >}}
+
+"It's a Shame" isn't exactly the E Street Band's finest moment on record, but Landau and Chirmside hold their own in a catchy R&B jam that doesn't aspire to anything more than a pleasant distraction and succeeds admirably.
+
+There's nothing remarkable here lyrically, either. Bruce turns in a fairly pedestrian lament about a guy who just can't seem to make his girl happy. It's neither his first nor his best draw from this particular well. It's not even the best one on that album–"[Ain't Good Enough For You]({{< relref "2019-06-02-roll-of-the-dice-aint-good-enough-for-you.md" >}})" is basically the same song and far superior.
+
+> *Well I walk the way you want me to*<br>
+> *And I'll talk the way you want me to*<br>
+> *And I've tried to do all I can just to please you*<br>
+
+> *Well I work hard every day for you*<br>
+> *And I brought home all my pay for you*<br>
+> *And I've cried my tears through the rain, at night and again*<br>
+
+> *And oh whoa girl, it's a shame*<br>
+> *Oh whoa girl, it's a doggone shame*<br>
+> *We worked so hard, but it's all in vain*<br>
+> *Oh whoa girl, it's a shame*<br>
+
+> *Now I bought you gold and diamond rings*<br>
+> *And I brought you home your pretty things*<br>
+> *And I thought I'd shown all the love I had for you, yes I did*<br>
+
+> *But as hard as I try it all falls through*<br>
+> *Well maybe I was born to be just your fool*<br>
+> *Trying to satisfy your every desire, each need you require*<br>
+
+If there's anything historically or artistically significant about "It's a Shame," it's in the riff. Bruce held on to it and evolved it into a full-fledged melody. It took him a while to find the right words to pair with it (in a parallel universe it backs the lyrics for "[Something in the Night]({{< relref "2021-05-28-roll-of-the-dice-something-in-the-night.md" >}})"), but by September [he'd found them]({{< relref "2020-10-24-roll-of-the-dice-prove-it-all-night.md" >}}).
+
+{{< youtube UzjkWdRqWFo >}}
+
+Neither "Jon's Jam" or "It's a Shame" have ever had a live outing, but the song it inspired became one of Bruce's most-played songs ever.
+
+**It's a Shame**<br>
+**Recorded** June 14, 1977 (with 2010 horn and vocal overdubs)<br>
+**Released:** *The Promise* (2010)<br>
+**Never performed**<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

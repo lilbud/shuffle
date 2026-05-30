@@ -1,0 +1,61 @@
+---
+aliases:
+- /roll-of-the-dice-the-ballad/
+- /15190/
+layout: post
+date: 2019-12-29T13:00:00
+lastmod: 2023-01-01T20:52:56
+title: "Roll of the Dice: The Ballad"
+slug: roll-of-the-dice-the-ballad
+author: Ken Rosen
+description: "Nicknamed “Castaway” by bootleggers, “The Ballad” features a gorgeous Darkness-era E Street Band performance. If only we could get a reliable translation of those lyrics…"
+tags:
+- "castaway"
+- "the-ballad"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/12/wilson_volleyball_castaway_front.jpg.webp
+  post_id: 15190
+---
+"The Ballad" has always intrigued me.
+
+Many of the lyrics from this [*Darkness on the Edge of Town*]({{< relref "2022-07-05-album-companion-darkness-on-the-edge-of-town.md" >}}) outtake are too distant to confidently make out, and the title offers us no clues or context to the song's content.
+
+If only the instrumental track wasn't so darn gorgeous, I'd ignore the track altogether–but just give it a listen and marvel at what might have been had Bruce finished the song.
+
+{{< videopress id=HquSw7d2 >}}
+
+"The Ballad" begins with a church organ introduction that immediately establishes a devout, almost holy tone, but the lyrics immediately establish a more secular song. (A note here: while I greatly appreciate the folks who contribute transcriptions of unreleased outtakes to springsteenlyrics.com, in this case, I think their interpretation is wide of the mark. I've relied on my own ears below.)
+
+> *Baby's got on her new dress tonight*<br>
+> *With her hair piled high she looks so right*<br>
+> *And I will not be denied*<br>
+> *All I wanted is to be the one to try*<br>
+
+At this point, we have to talk about the title this song is commonly referred to by bootleg-collecting fans: "Castaway." That name comes from the first line that accompanies the entrance of the E Street Band.
+
+Except I don't believe that's what Bruce is singing at all. Maddeningly, I can't make it out clearly, but I'm quite sure he's not singing "castaway." Instead of "away," I hear "alone," and given the content of the rest of the song–a lonely wanderer, a pariah perhaps, searching for his love in the night–I'm pretty sure I'm correct.
+
+I've used "cast alone" below, which works, but it's a bit clumsy and I suspect Bruce is saying something else instead of "cast." If you can figure it out, please comment and let me know. (**Update:** reader Andy commented below that he hears "dance alone," and I think he's right. I hear it now, and if fits the context perfectly. Thanks, Andy!) Nevertheless, I acknowledge I'm in the minority, and although the official name in Bruce's session logs is "The Ballad," most sources you encounter will refer to it by its more common, fan-defined name.
+
+> *And now cast alone, cast alone, tonight all night*<br>
+> *I'm walking deep beneath your lies*<br>
+> *I call your name, no answer comes*<br>
+> *While I am wondering what have I done*<br>
+> *Can you go be alone, all alone*<br>
+
+> *And now baby knows I'll be there tonight*<br>
+> *To rest in my last town for a while*<br>
+> *We'll leave to exit the beginning of*<br>
+> *What am I wondering, I don't know why*<br>
+> *I want an answer tonight*<br>
+
+It's probably best not to spend too much time obsessing over the lyrics–more likely than not, many of them are bluffed per Bruce's habit while working on new material. But the thrust of the song is clear: "The Ballad" follows a lonely heartbroken man, doomed to wander the land in search of a lost love.
+
+**The Ballad**<br>
+**Recorded** October 14, 1977<br>
+**Never released**<br>
+**Never performed**<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

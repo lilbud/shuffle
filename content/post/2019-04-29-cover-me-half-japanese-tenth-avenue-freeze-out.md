@@ -1,0 +1,27 @@
+---
+aliases:
+- /cover-me-half-japanese-tenth-avenue-freeze-out/
+- /9704/
+layout: post
+date: 2019-04-29T12:00:00
+lastmod: 2024-01-02T02:22:23
+title: "Cover Me, Half Japanese: Tenth Avenue Freeze-Out"
+slug: cover-me-half-japanese-tenth-avenue-freeze-out
+author: Ken Rosen
+description: "You’ve wondered what “Tenth Avenue Freeze-Out” would sound like covered by the punkiest of punk bands, right? Of course you have."
+tags:
+- "half-japanese"
+- "tenth-avenue-freeze-out"
+categories:
+- "cover-me"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/04/halfjap.jpg.webp
+  post_id: 9704
+---
+I don't even know what to say about Half Japanese's cover of "[Tenth Avenue Freeze-Out]({{< relref "2018-11-19-roll-of-the-dice-tenth-avenue-freeze-out.md" >}})" other than: if you already know their style, you already know what to expect.
+
+And if you don't, just know that they've been around about as long as Bruce has and that they have a rather laissez faire (at best) attitude toward things like, say, melody and chords. Also tuning. Sometimes even stringing. And they have a cult following for precisely those reasons, along with a fervor and a passion for rock and roll that rivals Bruce's even if on a completely different vector.
+
+So, yeah. That's pretty much what you need to know. Go ahead now and listen to "Tenth Avenue Freeze-Out" from the band's 1980 studio album, *Half Gentlemen/Not Beasts*. You'll know within 20 seconds whether you want to listen all the way through.
+
+{{< youtube TsHzMOXQXO4 >}}

@@ -1,0 +1,36 @@
+---
+aliases:
+- /matr-joe-grushecky-and-bruce-springsteen-is-she-the-one/
+- /29192/
+layout: post
+date: 2022-01-02T13:15:00
+lastmod: 2022-01-02T13:11:21
+title: "MatR: Joe Grushecky and Bruce Springsteen: Is She The One"
+slug: matr-joe-grushecky-and-bruce-springsteen-is-she-the-one
+author: Ken Rosen
+description: "Bruce contributed harmony vocals and a guitar riff to this bright, happy track from Joe’s 2006 album."
+tags:
+- "is-she-the-one"
+- "joe-grushecky"
+categories:
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/01/goodlife.jpg.webp
+  post_id: 29192
+---
+The first time Joe Grushecky and Bruce Springsteen collaborated, they covered some dark and bloody ground. Joe's landmark [*American Babylon*]({{< relref "2020-10-17-american-babylon-a-retrospective.md" >}}) was produced by Bruce, who appears on almost every track on the 1995 album.
+
+Their next project together–eleven years later–was a whole lot lighter. Joe's 2006 album *A Good Life* was as bright and optimistic as its title suggests.
+
+This time Bruce appeared on four tracks, including the comparatively dark, Grammy-winning "[Code of Silence]({{< relref "2018-08-27-codeofsilence.md" >}})," a song the pair co-wrote years earlier.
+
+The other songs tapped a different vein, though. "Is She The One" and "[A Good Life]({{< relref "2021-01-21-matr-joe-grushecky-and-bruce-springsteen-a-good-life.md" >}})" are bright, happy songs ("*uncharacteristically* happy," Joe noted with a laugh when we discussed the albums several months back), and Bruce chose them specifically for his contributions, which he recorded remotely from his home studio in Rumson.
+
+With a happy riff and sweet backing vocals from Bruce, "Is She The One" came out pure pop confection. Take a listen and see for yourself–and if you're inclined, pick up the album at [Joe's website](https://joegrushecky.com/store/catalogue/details//product_id:1117).
+
+{{< youtube soyE1oxt0kM >}}
+
+**Is She the One**<br>
+**Recorded:** February 2006<br>
+**Released:** *A Good Life* (2006)<br>
+**Never performed**<br>

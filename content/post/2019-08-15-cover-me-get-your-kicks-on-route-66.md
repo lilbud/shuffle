@@ -1,0 +1,63 @@
+---
+aliases:
+- /cover-me-get-your-kicks-on-route-66/
+- /11842/
+layout: post
+date: 2019-08-15T12:00:00
+lastmod: 2019-08-15T05:57:21
+title: "Cover Me: (Get Your Kicks On) Route 66"
+slug: cover-me-get-your-kicks-on-route-66
+author: Ken Rosen
+description: "Listen to two very different covers of “Route 66” recorded a half-century apart–both do justice to this 73-year-old R&B classic."
+tags:
+- "chuck-berry"
+- "elliott-murphy"
+- "get-your-kicks-on-route-66"
+- "greg-kihn"
+- "john-eddie"
+- "king-cole-trio"
+- "marhsall-crenshaw"
+- "nat-king-cole"
+- "the-bruce-springsteen-band"
+- "the-rolling-stones"
+categories:
+- "cover-me"
+- "cover-you"
+- "meeting-across-the-river"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/08/route66.jpg.webp
+  post_id: 11842
+---
+It's hard to know which versions of "(Get Your Kicks On) Route 66" Bruce had in mind when he first covered it in 1971.
+
+Bruce surely knew Nat King Cole's original 1946 version–it had been firmly established as an R&B classic for a full quarter-century before Bruce first attempted it in concert.
+
+{{< youtube dSzGoJcVVg0 >}}
+
+But it's The Rolling Stones' version that seems to have most directly inspired The Bruce Springsteen Band's arrangement. The Stones' memorable version was the opening track of their very first album.
+
+{{< youtube Q131ZJ6YkG0 >}}
+
+And if you listen to this recording of The Bruce Springsteen Band from September 1, 1971, it's clear that Bruce is hewing closely to the Stones' version (before it veers off into jam territory, anyway).
+
+{{< youtube I1hdt69lcSw >}}
+
+(Apologies for the recording quality, but it's all we've got, and it's amazing that recordings of a pre-fame 21-year-old Bruce Springsteen survive at all.)
+
+Interestingly, we can clearly hear Bruce delivering a classic Chuck Berry riff at around the 1:30 mark in the clip above, which might lead us to believe that perhaps Bruce also had Berry's cover in mind:
+
+{{< youtube tg2EbJy-9dc >}}
+
+Except: as you can hear in the recording above (which is actually what influenced the Stones' version), Berry is actually pretty restrained guitar-wise. His trademark riff never really appears. So perhaps Bruce was merely paying homage to Berry rather than directly covering him.
+
+In any event, Bruce would go on to cover "Route 66" a half-dozen times throughout the 1970s and 1980s, always in small venues and almost always without the presence of tapers.
+
+It would be almost a full quarter-century before we'd get a clear, circulating recording of Bruce covering "Route 66" again, but it was worth the wait. On October 21, 1994, Bruce joined Greg Kihn, John Eddie, Marshall Crenshaw, and Elliott Murphy on stage at The Playpen in Sayreville, New Jersey, and their cover of "Route 66" (with a "[Bang a Gong (Get It On)]({{< relref "2019-04-11-matr-john-eddie-and-bruce-springsteen-bang-a-gong-get-it-on.md" >}})" intro) is dirty, driving, and rocking.
+
+Take a listen below–it's one of my favorite tracks from a Springsteen bar gig.
+
+{{< youtube 9osA0jMFeBk >}}
+
+**(Get Your Kicks On) Route 66**<br>
+**First performed:** September 1, 1971 (Long Branch, NJ)<br>
+**Last performed:** November 13, 1994 (Castaic, CA)<br>

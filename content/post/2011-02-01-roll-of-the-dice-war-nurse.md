@@ -1,0 +1,58 @@
+---
+aliases:
+- /roll-of-the-dice-war-nurse/
+- /14433/
+layout: post
+date: 2011-02-01T13:00:00
+lastmod: 2025-11-16T00:10:58
+title: "War Nurse"
+slug: roll-of-the-dice-war-nurse
+author: Ken Rosen
+description: "Bruce’s two-minute character study demo is a fascinating pre-Greetings curiosity."
+tags:
+- "war-nurse"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/12/warnurse.jpg.webp
+  post_id: 14433
+---
+The first half of 1972 found Bruce in prolific (even by his own standard) songwriting mode.
+
+For every song written during this period that eventually found its way to Bruce's first album, there were at least three that only saw the light of day via bootleg releases (and another thirtyish we only know about by their titles).
+
+One of the songs that managed to escape was "War Nurse."
+
+Recorded in the spring of 1972 at Jim Cretecos' apartment, "War Nurse" is little more than a character study. Uncharacteristically taut at barely two minutes, one wonders if Bruce intended "War Nurse" as a complete song or if it was merely a character study, perhaps an early work-in-progress of something greater down the line.
+
+{{< youtube _dWZ4Yrpk_c >}}
+
+Bruce tells us very little about the war nurse, and that appears to be intentional. Rather than paint her as a distinct character, he universalizes her–paying tribute to all of the women who served their country by saving lives, regardless of their pre-war walk of life.
+
+> *She was just another war nurse, she could strike a noble pose*<br>
+> *Caring for our young boys when a bullet laid them low*<br>
+> *She would hover over them and cry and pull the covers over them when they'd die*<br>
+> *She was just another lonesome lady, lover, sister of the gun*<br>
+> *And though France would call her darling she was a nurse ‘neath the rising sun*<br>
+
+> *She knew no hells or heavens, or harbors or havens*<br>
+> *She was every mother, sister, wife, and lover whose love a soldier boy was savin'*<br>
+> *She believed in the birth of the broadsword but she was not a shielded one*<br>
+> *Though France would call her darling she was a nurse ‘neath the rising sun*<br>
+
+> *She was a soldier's shrapnel sweetheart direct from the combat zone*<br>
+> *She was a reincarnation of the Virgin Mary, she was the hooker down on San Antone*<br>
+> *And though her heart was somewhere in Iceland commanding the dawn patrol*<br>
+> *Blessed in this blood and stitched into these bones, the war nurse left her soul*<br>
+> *Blessed in this blood and stitched into these bones, the war nurse left her soul*<br>
+
+The final line of the first two verses are curiously specific: Although the rising sun reference would seem to indicate Japan, it's possible that Bruce, at his young age, contextualized greater southeast Asia with that reference as well in order to place his song in the Korean or Vietnam War.
+
+We're not likely to ever find out what Bruce was aiming for when he wrote "War Nurse." Even among Bruce's early demos, "War Nurse" is an obscure curiosity, one he's never publicly discussed or performed live.
+
+**War Nurse**<br>
+**Recorded** April 1972<br>
+**Never released**<br>
+**Never performed**<br>
+
+© December 14, 2019

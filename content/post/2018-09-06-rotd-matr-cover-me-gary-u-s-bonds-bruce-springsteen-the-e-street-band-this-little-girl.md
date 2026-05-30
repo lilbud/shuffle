@@ -1,0 +1,123 @@
+---
+aliases:
+- /rotd-matr-cover-me-gary-u-s-bonds-bruce-springsteen-the-e-street-band-this-little-girl/
+- /4184/
+layout: post
+date: 2018-09-06T12:00:57
+lastmod: 2024-01-01T23:48:11
+title: "ROTD/MatR/Cover Me, Gary U.S. Bonds, Bruce Springsteen & The E Street Band, This Little Girl"
+slug: rotd-matr-cover-me-gary-u-s-bonds-bruce-springsteen-the-e-street-band-this-little-girl
+author: Ken Rosen
+description: "Bruce penned “This Little Girl” for Gary U.S. Bonds’ comeback album, and it worked–providing Bonds with a Top 40 (and almost a Top 10) hit, powered by the E Street Band and Bruce’s lyrics, music, and backing vocals."
+tags:
+- "aint-good-enough-for-you"
+- "dedication"
+- "gary-u-s-bonds"
+- "quarter-to-three"
+- "this-little-girl"
+categories:
+- "cover-me"
+- "cover-you"
+- "meeting-across-the-river"
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/09/thislittlegirl_sin-us-07i.jpg.webp
+  post_id: 4184
+---
+The first time I ever heard "This Little Girl," I was twelve.
+
+My dad had the song on a 45 single, and he played that thing to death. He loved that song, and I loved it too–but I remember thinking to myself the first time I heard it: *this sounds like a Bruce Springsteen song*. It's the earliest memory I have of recognizing an artist's style in a recording credited to someone else.
+
+{{< youtube X90dxTyz1GU >}}
+
+I've already written about "[Your Love]({{< relref "2018-07-27-cover-me-gary-u-s-bonds-your-love.md" >}})" and "[Dedication]({{< relref "2018-06-17-cover-me-roll-of-the-dice-gary-u-s-bonds-dedication.md" >}})," the other two songs Bruce wrote for Gary U.S. Bonds' third album, so feel free to read those essays for backstory between Bruce and Gary. "This Little Girl" rounds out the set, and it was the biggest commercial success of all of them, peaking at #11 on the pop chart and #5 on the rock chart.
+
+It's also the only one of the three Bruce-penned songs on which you can actually and clearly hear Bruce singing and playing (along with the rest of the E Street Band). Hence my difficulty in knowing how to classify it: it's an original, a cover, and a team-up all at the same time.
+
+Musically, "This Little Girl" is clearly in Bonds' wheelhouse: it has the same beat and syncopated hand claps of "[Quarter to Three,](../2021-08-21-cover-me-quarter-to-three/post.md/)" Bonds' biggest hit, and it seems clearly designed to evoke associations with it while re-introducing Bonds to a new audience.
+
+{{< youtube hoopfp5iaKw >}}
+
+There's some debate about how and when Bruce actually wrote it. Some sources attribute it to the group of songs written for *The River;* Bonds himself claims that Bruce called him up late one night claiming he'd just written it for him. Both could be true, I suppose.
+
+My suspicion: Bruce had already been playing around with the sound of "This Little Girl," so it was a song waiting to be written. With the benefit of hindsight (and a retroactive boxset of outtakes) we now know that Bruce had a song called "[Ain't Good Enough for You]({{< relref "2019-06-02-roll-of-the-dice-aint-good-enough-for-you.md" >}})" that was written and recorded during the *[Darkness on the Edge of Town]({{< relref "2022-07-05-album-companion-darkness-on-the-edge-of-town.md" >}})*sessions, but Bruce locked it away in the vault when he realized it didn't match the tone of the album he was putting together.
+
+Whether Bruce deliberately borrowed his own riff or whether he'd forgotten all about his earlier song, the similarities between "Ain't Good Enough for You" and "This Little Girl" are too significant to ignore and easy enough to reconcile: Bruce had long acknowledged Gary as one of his influences, and "Quarter to Three" had long been one of his standard and favorite encores. So he almost certainly had been trying to recreate its style while fashioning something of his own.
+
+{{< youtube kPg6ZZC3AcY >}}
+
+The opportunity to write for Bonds himself must have catalyzed him, and the result was one of Bruce's all-time best pop confections.
+
+Lyrically, though, "This Little Girl" would be borderline inappropriate if released today. At best, it's a celebration of machismo, at worst it's the epitome of what earned Bruce early criticism that he infantilized women.
+
+In fact, when I was twelve and first heard the song, I was positive the song was about an overprotective father and his daughter. And in fairness, you can get about halfway through the song before I'd lose that argument, and even then, it's only one line that causes the problem. Read the lyrics through that lens and see how it *almost* works:
+
+> *Here she comes, walking down the street*<br>
+> *You know she's walking just like she's walking to come and see me*<br>
+> *Oh, she's so young*<br>
+> *And she's so fine*<br>
+> *I know what's on your mind, know what you want to do*<br>
+> *But if you mess with her, I'm gonna mess with you*<br>
+> *You better watch your step, you better stay in line*<br>
+
+> *This little girl is mine*<br>
+> *Oh oh this little girl is mine*<br>
+> *Oh oh this little girl, this little girl, this little girl is mine*<br>
+
+> *Well if the world were mine to do with what I want to do, sir*<br>
+> *Well I'd wrap it up in a bow and give it all to her*<br>
+> *Yeah, and all my love, all of the time*<br>
+> *You know I'd hold her tight, I'd never let her go*<br>
+> *And late at night you know I'd love her so*<br>
+> *Yeah I'd treat her right, so she'd never mind*<br>
+
+> *That this little girl is mine*<br>
+> *Oh oh this little girl is mine*<br>
+> *Oh oh this little girl, this little girl, this little girl is mine, mine, mine, mine*<br>
+
+> *Hey!*<br>
+> *You better watch out*<br>
+> *I'm telling you the score*<br>
+> *Or you're gonna be sweeping your broken heart up off the floor*<br>
+> *Oh, and that ain't all*<br>
+> *I'm telling you my friend*<br>
+
+> *I know what's on your mind, know what you want to do*<br>
+> *But if you mess with her, I'm gonna mess with you*<br>
+> *You like the way she moves, you like to watch her walk*<br>
+> *You better listen up, 'cause man, this ain't just talk*<br>
+> *You better watch your step, you better stay in line*<br>
+
+> *Now baby, I said*<br>
+> *This little girl is mine*<br>
+> *Oh oh this little girl is mine*<br>
+> *This little girl, this little girl, this little girl is mine*<br>
+
+So yeah, it's maybe a little embarrassing that I thought Bonds was singing about his daughter, so I won't bother sharing just how old I was before I figured out otherwise.
+
+"This Little Girl" works great in concert–so much so that it's always surprised me that Bruce didn't play it more often. In the early years, perhaps he was content to let Bonds reap the benefit, as he did during this 1981 show at the Capitol Theater in Passaic:
+
+{{< youtube 4Cddjhc5_LY >}}
+
+Whenever Bruce *did* play it on stage, it was because Bonds was right there next to him. Here's the earliest recording of the two of them performing "This Little Girl" live, from The River Tour.
+
+[https://estreetshuffle.com/wp-content/uploads/2018/09/204-This-Little-Girl-online-audio-converter.com_.mp3](https://estreetshuffle.com/wp-content/uploads/2018/09/204-This-Little-Girl-online-audio-converter.com_.mp3)
+{{< audio url="https://estreetshuffle.com/wp-content/uploads/2018/09/204-This-Little-Girl-online-audio-converter.com_.mp3" >}}
+
+…and another one (a bit too slow for my tastes) from 2012:
+
+{{< youtube FP7m_o7Gqc4 >}}
+
+In fact, the only time I'm aware of that Bruce played the song *without* Bonds is at Light of Day 2015. This was also the last time Bruce played "This Little Girl" to date.
+
+{{< youtube jppzj2EY-SQ >}}
+
+At this point in my Bruce concert career, I don't have a lot left on my chase list, but "This Little Girl" is pretty close to the top of it. I wish I'd kept that 45…
+
+**This Little** **Girl**<br>
+**Recorded:** 1980<br>
+**Released:** *Dedication* (1981)<br>
+**First performed:** June 15, 1981 (San Francisco, CA)<br>
+**Last performed:** January 17, 2015 (Asbury Park, NJ)<br>
+
+Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!

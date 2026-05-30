@@ -1,0 +1,46 @@
+---
+aliases:
+- /cover-me-satin-doll/
+- /4442/
+layout: post
+date: 2018-09-18T12:00:58
+lastmod: 2018-09-18T04:54:21
+title: "Cover Me: Satin Doll"
+slug: cover-me-satin-doll
+author: Ken Rosen
+description: "Part novelty and part testimony to the E Street Band’s versatility, Bruce opened several early shows with a cover of Duke Ellington’s last great hit."
+tags:
+- "duke-ellington"
+- "satin-doll"
+categories:
+- "cover-me"
+- "cover-you"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/09/duke.jpg.webp
+  post_id: 4442
+---
+Definitely a contender for the "Least Likely to Be Covered by the E Street Band Award," Duke Ellington's "Satin Doll" was nevertheless an occasional show opener (usually for an on-air, in-studio radio acoustic appearance) during the both the Greetings and Wild & Innocent tours.
+
+An instrumental jazz standard since its release in 1953, "Satin Doll" made it to #27 on the pop chart and was familiar to anyone growing up in the 1950s and 1960s.
+
+{{< youtube wQ-n7jhs_K8 >}}
+
+After it became a hit, Johnny Mercer penned some lyrics to gain it some wider airplay, but mercifully (because the lyrics are truly awful) the vocal version never eclipsed the original–even when sung by some stellar vocalists.
+
+{{< youtube CI2ieY4qqYQ >}}
+
+Bruce clearly enjoyed playing the song as an opening number, likely because it gave the band a chance to show off their versatility (Clarence leads the melody, with Danny on accordion and Garry on tuba).
+
+Still, the band never seemed to take it too seriously: although Bruce was certainly aware of the lyrics and wisely stayed away from them, neither he nor the band could resist the "switcherooney!"
+
+{{< youtube jArMRxbUhU0 >}}
+
+At least once, he swapped out "switcherooney" for "ask your mama." Why? Who knows–either way it cracked up the band.
+
+{{< youtube vLR1xmQuSNU >}}
+
+Bruce may never have treated "Satin Doll" as more than a novelty song, but multiple performances of it exist in the wild as documents to the early versatility and musicality of the E Street Band.
+
+**Satin Doll**<br>
+**First performed:** January 9, 1973<br>
+**Last performed:** April 9, 1974<br>

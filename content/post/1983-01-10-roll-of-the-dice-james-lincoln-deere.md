@@ -1,0 +1,170 @@
+---
+aliases:
+- /roll-of-the-dice-james-lincoln-deere/
+- /39522/
+layout: post
+date: 1983-01-10T19:00:00
+lastmod: 2026-01-25T18:42:15
+title: "Jim Deer"
+slug: roll-of-the-dice-james-lincoln-deere
+author: Ken Rosen
+description: "This early post-Nebraska outtake sows the seeds for an entire crop of cautionary tales."
+tags:
+- "born-in-the-u-s-a"
+- "james-lincoln-deere"
+- "my-hometown"
+- "richfield-whistle"
+categories:
+- "roll-of-the-dice"
+params:
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/11/jld.jpg.webp
+  post_id: 39522
+---
+With so much stylistic variation from album to album, it's easy to miss the throughlines in Bruce Springsteen's songwriting.
+
+Case in point: *The Ghost of Tom Joad.*
+
+If you were a recent convert, Springsteen's 1995 album seemed a shocking tonal shift from the bright, optimistic *Human Touch* and *Lucky Town* albums that immediately preceded it. For longtime fans, it was a return to the quiet, introspective, acoustic sound of *Nebraska*.
+
+But if we listen to his lyrics from *Nebraska* to *Born in the U.S.A.* to *Tunnel of Love* and even *Lucky Town*, we find thematic veins that are always present in Bruce's songwriting no matter the broader context of any given album.
+
+Sometimes we have to dig a little to find them, though, especially because Bruce locked so many great stories away his vault. Case in point: "Jim Deer."
+
+The story of Jim Deer begins (as far as we know) with an acoustic home demo that Springsteen recorded in March 1982. It circulated for years under the name "James Lincoln Dear." (The misspelling is almost certainly fan-attributed. I'll stick with it while discussing the early demo.)
+
+{{< youtube rQHPVnV1Xjk >}}
+
+At the time he recorded that demo, Bruce was carrying *Nebraska* around on a cassette tape. He obviously wasn't finished with that style of cinematic, film noir songwriting, however, as "James Lincoln Dear" demonstrates.
+
+From the very first line, we hear similarities to the quiet, first-person reflection of "Highway Patrolman," and in its thematic exploration of the relationship between unemployment and crime, we hear distinct parallels to "Johnny 99."
+
+When times get hard, both Ralph and Jimmy find themselves driven by desperation first to theft and inevitably to murder. But whereas Johnny 99's capital crime stems from an alcoholic binge, the titular anti-hero of "James Lincoln Dear" is more cold-blooded.
+
+Bruce starts his tale with the epilogue: Jimmy Dear is a resident of Richfield Prison, interned for a crime we won't learn about until the end.
+
+> *My name is James Francis Dear*<br>
+> *I was born in Remington*<br>
+> *Found my home in Richfield prison*<br>
+> *Where I paid for the wrongs I done*<br>
+> *Once, I was free and on the streets of Indiana*<br>
+> *And I was twenty-two*<br>
+> *Just a kid, no better or worse than you*<br>
+
+I don't know why Dear refers to himself as James Francis in the first line and James Lincoln in the last. This was a work in progress when Bruce recorded it, and it's not the only inconsistency we'll find.
+
+Middle name notwithstanding, James introduces himself to us as an everyman, "no better or worse than you." Or at least he *was*, once–which tells us he isn't quite so much now. At the outset, though, life was good. He had a job, and he had a girl, and they had something going in their world.
+
+> *Me and Terry married in the spring*<br>
+> *We moved in with her ma and pa*<br>
+> *On our wedding night she sighed, "Jimmy*,
+> *We can have anything we want."*<br>
+
+> *She got a job in Silverton*<br>
+> *We worked hard and we scraped and saved*<br>
+> *And we got by all right*<br>
+> *On the money that we made*<br>
+
+Life was good. Not easy, but good. As his wife reminds him: it isn't money that buys happiness anyway. That's easier to believe when you have a steady income of course. Jimmy and Terry did have a steady income, though, so when Terry's seedy brother Syl tries to persuade Jimmy to pursue ill-gotten gains, it's not hard for Jimmy to turn him down.
+
+> *Terry had a brother*<br>
+> *A brother, name of Syl*<br>
+> *Made a livin' stealin' farm equipment*<br>
+> *Down in Wiggonville*<br>
+
+> *He'd sit at my kitchen table Friday nights*<br>
+> *His roll of dough he'd flash*<br>
+> *Say, "Johnny, you need a little extra work*<br>
+> *All you gotta do is ask.*<br>
+
+> *"You got a wife and a child to feed*<br>
+> *There's no one, buddy, lookin' out here for you*<br>
+> *In this world a man takes what he can*<br>
+> *Or he ain't nothin' but a fool"*<br>
+
+There's another name change in that second stanza; I think we can chalk that one up as accidental, too. However, it's interesting that Bruce specifically tempts his protagonist with stolen farm equipment and names his character very similarly to a leading purveyor of such equipment.
+
+More pertinent, though, is Syl's voice of temptation. It's a storytelling tradition that dates back to the Book of Genesis: casting a role that for most of us is just a voice in our own minds. Bruce employs it often; we'll see it again in "The Big Muddy," for example, and again in "Straight Time."
+
+("Straight Time" isn't the only *Ghost of Tom Joad* connection to "James Lincoln Dear." If Bruce's 1982 guitar melody sounds strangely familiar, it's because he'd re-use it for "The New Timer" in 1995.)
+
+Now here comes the inciting incident:
+
+> *Then came the shutdowns*<br>
+> *And our whole world went black*<br>
+> *Man said, "These jobs are goin' boys*<br>
+> *And they ain't comin' back."*<br>
+
+You recognized that verse instantly, didn't you? Those last two lines would soon migrate to "My Hometown."
+
+What happens to good people when faced with hard times? That's a question Bruce has explored many times over the decades, and this was one of the earliest examples.
+
+> *Then I required a different job*<br>
+> *Couldn't find none*<br>
+> *Found myself sittin'*<br>
+> *On the curb outside Syl's house*<br>
+
+Forced to find a new job but unable to do so, Jimmy remembers his brother-in-law's words: *You got a wife and a child to feed.* *There's no one, buddy, lookin' out here for you.* *In this world a man takes what he can o**r he ain't nothin' but a fool."*
+
+Bruce employs an interesting storytelling device at this point, flashing forward to the trial but still keeping us in suspense about the offense. Jimmy now sits behind bars, unable to do anything but reflect on the consequences of his actions between visits from his wife and child.
+
+> *Trial, trial was short*<br>
+> *An honest man had died*<br>
+> *They put us on the prison trucks*<br>
+> *And let us ride*<br>
+
+> *Now I got nothin' to do*<br>
+> *Except wait for these days to pass*<br>
+> *I see my wife and child*<br>
+> *Through double-pained Richfield glass*<br>
+
+Only at the very end of the song does Jimmy reveal the nature of his crime, and it's breathtakingly cruel.
+
+> *Me and Syl, we robbed a Stop and Shop*<br>
+> *On a cold and windy night*<br>
+> *I had my pistol*<br>
+> *And I shot a boy in flight.*<br>
+
+> *I held my pistol to his face*<br>
+> *His eyes caught fire with fear*<br>
+> *I said, "Remember me before you die.*<br>
+> *My name is James Lincoln Dear."*<br>
+
+In my honest opinion, the reveal doesn't really work. It's too dark a turn, and one that hasn't been earned by planting and watering seeds throughout the song. In "Johnny 99," Ralph commits manslaughter while under the influence, but Jimmy executes his victim point blank with a cold fury.
+
+Bruce must have come to the same conclusion, because the version of "Jim Deer" that was eventually released on *L.A. Garage Sessions '83–*never before heard by fans or bootleggers–is a far more polished song featuring a protagonist not yet beyond redemption.
+
+{{< youtube 7QpZfhk8Zw0 >}}
+
+For the song's first minute, only the music seems dramatically different from the outtake: Bruce plays his acoustic guitar faster and more stridently, accompanying himself on harmonica as well. Lyrically, the early changes are minor: Jimmy's middle name is now Lucas, and his wife is now Pat.
+
+But as soon as the song's second minute begins, Bruce plants the seeds for a gentler and more gradual dark turn.
+
+> *Well it was for those things we wanted I did all the stealing I could do*<br>
+> *I stole from the law, I stole from her pa, I probably stole from you, sir*<br>
+
+Instead of scraping and saving honestly as in the earlier version, here Jimmy is a thief from the outset.
+
+And while Syl's introduction still serves as the song's inciting incident, Jimmy and Syl are portrayed here as criminally inept rather than sinister.
+
+ *Was on a job down in Oxford, we woke that farm boy from his bed*
+> *We took off running, Syl dropped his rifle and shot himself in the leg*<br>
+> *Well they caught up with us out on Highway 61*<br>
+> *Yeah when we seen 'em coming we didn't even run*<br>
+
+> *Well the trial was short and sweet, me and Syl got our stories crossed*<br>
+> *The judge said, "Boys first you played and now you pay the cost*<br>
+> *I'm gonna give you some time to get straight your facts*<br>
+> *Yeah two years dead and even in the Richfield County rack"*<br>
+
+That's a *very* different turn of events than in the earlier outtake. In the official version, no one dies, and the only one injured is Syl by his own clumsiness. And instead of being condemned to live out his days in prison, here Jimmy and Syl are sentenced only to two years in prison, which offers the home of some rehabilitation and redemption.
+
+Jimmy was eventually paroled in the winter of 1981, although we don't learn that here. His days in Richfield Prison would haunt him, though, and the straight and narrow would not be an easy road to walk.
+
+We'll pick up the story of Jim Deer in "Richfield Whistle."
+
+**James Lincoln Deere**<br>
+**Recorded:** January-March 1983<br>
+**Released:** *L.A. Garage Sessions '83* (2025)<br>
+**Never performed**<br>
+
+© November 29, 2022 / January 25, 2026
