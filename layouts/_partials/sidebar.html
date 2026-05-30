@@ -32,7 +32,7 @@
             {{ with site.GetPage (print "/authors/" $author) }}
             {{ $dirPath := .File.Dir }}
             {{ $parentFolder := path.Base $dirPath }}
-            <option value="/authors/{{ $parentFolder }}">
+            <option value='{{ relURL "/authors/{{ $parentFolder }}" }}'>
               {{ .Title }}
               ({{ $pages.Count }})
             </option>

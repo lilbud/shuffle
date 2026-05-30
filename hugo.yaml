@@ -1,4 +1,4 @@
-baseURL: ''
+baseURL: "https://lilbud.github.io/shuffle/"
 disablePathToLower: true
 refLinksErrorLevel: "warning"
 refLinksNotFoundURL: "/404"

@@ -36,7 +36,7 @@
             {{ range hugo.Data.navigation }}
             <li class="nav-item py-1">
               <a
-                href="{{ .link }}"
+                href="{{ relURL .link }}"
                 aria-current="page"
                 class="nav-link {{ if eq $.RelPermalink .link }}active{{ end }}">
                 {{ .name }}
@@ -55,7 +55,7 @@
               <ul class="dropdown-menu">
                 {{ range $category, $pages := .Site.Taxonomies.categories }}
                 <li>
-                  <a class="dropdown-item" href="/categories/{{ $category }}">
+                  <a class="dropdown-item" href='{{ relURL "/categories/$category" }}'>
                     {{ $category | replaceRE "-" " " | title }}
                     ({{ $pages.Count }})
                   </a>
@@ -78,7 +78,7 @@
                 {{ $dirPath := .File.Dir }}
                 {{ $parentFolder := path.Base $dirPath }}
                 <li>
-                  <a class="dropdown-item" href="/authors/{{ $parentFolder }}">{{ .Title }} ({{ $pages.Count }})</a>
+                  <a class="dropdown-item" href='{{ RelURL "/authors/$parentFolder" }}'>{{ .Title }} ({{ $pages.Count }})</a>
                 </li>
                 {{ end }}
                 {{ end }}
@@ -96,7 +96,7 @@
         <ul class="navbar-nav">
           {{ range hugo.Data.navigation }}
           <li class="nav-item align-items-center d-grid">
-            <a href="{{ .link }}" class="nav-link {{ if eq $.RelPermalink .link }}active{{ end }}">
+            <a href="{{ RelURL .link }}" class="nav-link {{ if eq $.RelPermalink .link }}active{{ end }}">
               {{ .name }}
             </a>
           </li>
@@ -113,7 +113,7 @@
             <ul class="dropdown-menu">
               {{ range $category, $pages := .Site.Taxonomies.categories }}
               <li>
-                <a class="dropdown-item" href="/categories/{{ $category }}">
+                <a class="dropdown-item" href='{{ relURL "/categories/$category" }}'>
                   {{ $category | replaceRE "-" " " | title }}
                   ({{ $pages.Count }})
                 </a>
@@ -136,7 +136,7 @@
                 {{ $dirPath := .File.Dir }}
                 {{ $parentFolder := path.Base $dirPath }}
                 <li>
-                  <a class="dropdown-item" href="/authors/{{ $parentFolder }}">{{ .Title }} ({{ $pages.Count }})</a>
+                  <a class="dropdown-item" href='{{ RelURL "/authors/$parentFolder" }}'>{{ .Title }} ({{ $pages.Count }})</a>
                 </li>
                 {{ end }}
                 {{ end }}
