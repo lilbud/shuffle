@@ -73,7 +73,11 @@
                 </div>`;
                 }
 
-                const urlizedAuthor = item.author .toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+                if (item.author) {
+                  var urlizedAuthor = item.author.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+                } else {
+                  var urlizedAuthor = "";
+                }
 
                 // Category template logic
                 let categoryHtml = "";
