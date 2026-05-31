@@ -73,6 +73,8 @@
                 </div>`;
                 }
 
+                const urlizedAuthor = item.author .toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+
                 // Category template logic
                 let categoryHtml = "";
                 if (item.categories && item.categories.length > 0) {
@@ -82,6 +84,7 @@
                     .toLowerCase()
                     .replace(/[^a-z0-9]+/g, "-")
                     .replace(/(^-|-$)/g, "");
+
                   // Replicate Hugo's title case conversion
                   const titleCat = firstCategory
                     .replace(/-/g, " ")
@@ -90,7 +93,7 @@
                   categoryHtml = `
                 <div class="post-category post-meta mb-1">
                   <i class="bi bi-folder meta-icon"></i>
-                  <a class="post-meta text-decoration-none" href="/categories/${urlizedCat}">
+                  <a class="post-meta text-decoration-none" href="/shuffle/categories/${urlizedCat}">
                     ${titleCat}
                   </a>
                 </div>`;
@@ -119,7 +122,12 @@
                           </div>
                           <div class="col-auto post-meta post-author">
                             <i class="bi bi-person-fill"></i>
-                            By ${item.author || "Anonymous"}
+                            By
+                            <a
+                              class="post-meta text-decoration-none"
+                              href="{{ "authors/" | relURL }}${urlizedAuthor}">
+                              ${item.author || ""}
+                            </a>
                           </div>
                         </div>
                         <div class="row">
