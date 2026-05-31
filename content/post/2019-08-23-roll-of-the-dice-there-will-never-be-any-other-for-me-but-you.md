@@ -79,4 +79,4 @@ Hearing the song for the first time in concert, did his fans understand the true
 **First performed:** September 19, 1996 (Providence, RI)<br>
 **Last performed:** May 10, 1997 (Warsaw, Poland)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

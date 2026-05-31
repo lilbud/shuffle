@@ -96,7 +96,7 @@ Wondering how that show came to happen? Watch the interview below.
 
 {{< youtube eJEVlVlXDPw >}}
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zCgA3ja676YD_rnoFLX9Rh4)
+{{< youtube-playlist PLJTyL9twk3zCgA3ja676YD_rnoFLX9Rh4 >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/1988-06-21.jpg.webp)
 

@@ -91,4 +91,4 @@ It's too gentle a song to translate well to a full band, but I hold out hope for
 **First performed:** April 21. 2005 (Asbury Park, NJ)<br>
 **Last performed:** November 22, 2005 (Trenton, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

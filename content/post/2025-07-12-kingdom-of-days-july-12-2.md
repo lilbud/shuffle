@@ -80,7 +80,7 @@ params:
 
 **1988:** The Tunnel of Love Tour continues its final leg, stopping in Frankfurt for one show.<br>
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zDyj6Y8J4-wFBZXiAdDa7AE)
+{{< youtube-playlist PLJTyL9twk3zDyj6Y8J4-wFBZXiAdDa7AE >}}
 
 **1991:** Bruce joins Bobby Bandiera on stage for five songs at McLoone's Rum Runner in Sea Bright, New Jersey.<br>
 

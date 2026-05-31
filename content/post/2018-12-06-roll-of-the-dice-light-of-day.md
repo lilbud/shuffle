@@ -109,4 +109,4 @@ May it always be just around the corner.
 **Released:** *In Concert: MTV xxPlugged* (1993)**First performed:** April 12, 1987 (Asbury Park, NJ)<br>
 **Last performed:** January 18, 2020 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

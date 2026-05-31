@@ -108,4 +108,4 @@ Despite a momentary lyrical lapse and some audio difficulties during Nils' solo,
 **First performed:** July 23, 2012 (Bergen, Norway)<br>
 **Last performed:** July 24, 2013 (Leeds, England)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

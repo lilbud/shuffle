@@ -74,4 +74,4 @@ It may be little known, but it counts.
 **First performed:** November 27, 1995 (Los Angeles, CA)<br>
 **Last performed:** February 20, 2003 (Somerville, MA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

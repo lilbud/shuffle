@@ -38,4 +38,4 @@ As far as we know, "I Don't Wanna Be" never developed into a full song. It's mel
 **Never released**<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

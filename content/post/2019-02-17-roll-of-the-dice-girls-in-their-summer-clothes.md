@@ -161,4 +161,4 @@ If we're fortunate enough to get at least one more solo acoustic tour, this is o
 **First performed:** September 24, 2007 (Asbury Park, NJ)<br>
 **Last performed:** February 7, 2014 (Perth, Australia)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

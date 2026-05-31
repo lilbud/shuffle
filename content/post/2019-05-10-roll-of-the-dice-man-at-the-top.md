@@ -83,4 +83,4 @@ Performed in the same arrangement he used for the Born in the U.S.A. Tour, Bruce
 **First performed:** July 12, 1984 (East Troy, WI)<br>
 **Last performed:** July 28, 2013 (Kilkenny, Ireland)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

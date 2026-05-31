@@ -56,4 +56,4 @@ We'll chalk this one up to a songwriter's experiment, one of what must be countl
 **Never released**<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

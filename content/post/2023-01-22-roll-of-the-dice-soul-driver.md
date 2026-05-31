@@ -97,4 +97,4 @@ If only he'd realized that when recording the album.
 **First performed:** November 17, 1990 (Los Angeles, CA)<br>
 **Last performed:** August 10, 2005 (Portland, OR)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

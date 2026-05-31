@@ -61,4 +61,4 @@ But even if Bruce never performs "John Henry" again, we'll certainly be hearing 
 **First performed:** April 20, 2006 (Asbury Park, NJ)<br>
 **Last performed:** November, 21, 2006 (Belfast, Northern Ireland)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -51,4 +51,4 @@ But of course here we are almost two years later, still waiting for a proper con
 **First performed:** November 15, 2022 (New York City, NY)<br>
 **Last performed:** November 15, 2022 (New York City, NY)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -52,4 +52,4 @@ Like the narrator, we're destined to never know where Mary's gone to, but we'll 
 **Recorded** 2007**Released:** *American Beauty* (2014)<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

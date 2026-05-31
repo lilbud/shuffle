@@ -141,4 +141,4 @@ Because the closer we all get to the end of the drive, the more we need to enjoy
 **First performed:** October 3, 1980 (Ann Arbor, MI)<br>
 **Last performed:** November 16, 2019 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

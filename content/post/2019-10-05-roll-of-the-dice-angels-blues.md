@@ -100,4 +100,4 @@ The rest is pre-history.
 **First performed:** March 10, 1974 (Houston, TX)<br>
 **Last performed:** March 10, 1974 (Houston, TX)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

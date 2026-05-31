@@ -63,7 +63,7 @@ params:
 
 **1976:** Bruce, the E Street Band, and the Miami Horns bring the Lawsuit Tour to the Palace Theater in Waterbury, Connecticut.<br>
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zAjgbMwpEkMyYVEXwh-zM2O)
+{{< youtube-playlist PLJTyL9twk3zAjgbMwpEkMyYVEXwh-zM2O >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/1976-08-21.png.webp)
 
@@ -73,7 +73,7 @@ params:
 
 {{< youtube 5AJeDj3og0A >}}
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLu8VBPtfGX1BMGlg5htzeREH7csgj0guB)
+{{< youtube-playlist PLu8VBPtfGX1BMGlg5htzeREH7csgj0guB >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/1978-08-21.jpg.webp)
 
@@ -83,7 +83,7 @@ params:
 
 **1981:** At the second of six nights at the Los Angeles Memorial Sports Arena on the River Tour, Flo and Eddie guest-star on "Hungry Heart." (They also provided backing vocals on the original album track.)<br>
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zBsoSImHtGzvLwx-Z_eDw-P)
+{{< youtube-playlist PLJTyL9twk3zBsoSImHtGzvLwx-Z_eDw-P >}}
 
 {{< youtube xwVaag7j2KI >}}
 
@@ -105,7 +105,7 @@ params:
 
 **1990:** *The River* is certified double platinum by the Recording Industry Association of America.<br>
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=OLAK5uy_nQCRH689dsWcnQUgI1Tv3xx4UqJCzlHA4)
+{{< youtube-playlist OLAK5uy_nQCRH689dsWcnQUgI1Tv3xx4UqJCzlHA4 >}}
 
 **1992:** Bruce and his 1992-93 touring band bring World Tour 1992 to the Richfield Coliseum for the first of two nights.<br>
 
@@ -131,7 +131,7 @@ params:
 
 {{< youtube POE4Ab8EDzQ >}}
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zCglog4rO23DhkYFmSYQjxS)
+{{< youtube-playlist PLJTyL9twk3zCglog4rO23DhkYFmSYQjxS >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/2002-08-21a.jpg.webp)
 

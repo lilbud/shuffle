@@ -58,4 +58,4 @@ There's not a lot to analyze here, due both to the illegible lines and the relat
 **Never released**<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

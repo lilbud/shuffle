@@ -25,7 +25,7 @@ After all, Bruce Springsteen has spent his entire life pursuing his passion, cul
 
 Still, won't you join me in a sympathetic wince on Bruce's behalf? Because despite the incredible polished body of work he's produced over the years, there's a ton of unfinished and unrecorded songs floating around that he almost certainly never intended to see the light of day.
 
-It's bad enough that pages circulate from [his songwriting notebook](/tags/1968-notebook/) from as far back as the age of eighteen. (How would you feel if your 18-year-old self's poems and songs found their way onto the Internet?)
+It's bad enough that pages circulate from [his songwriting notebook](/shuffle/tags/1968-notebook/) from as far back as the age of eighteen. (How would you feel if your 18-year-old self's poems and songs found their way onto the Internet?)
 
 But when an untitled page of original Springsteen lyrics surfaced in [an on-line auction in 2010](https://www.hakes.com/Auction/ItemDetail/59442/BRUCE-SPRINGSTEEN-HAND-WRITTEN-UNPUBLISHED-LYRICS), and the auction site helpfully labeled the song "Vaginal Vandals" (after a phrase that appears in the song but which in no way represents what the song is actually about)… well, I have to imagine there was some cringing in the Springsteen household that day.
 
@@ -62,4 +62,4 @@ If only it wasn't saddled with that title.
 **Never recorded**<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

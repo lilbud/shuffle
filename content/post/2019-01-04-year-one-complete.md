@@ -25,13 +25,13 @@ Special thanks to those of you who have written to me with corrections, addition
 
 When I started this blog, I didn't set out to keep a daily schedule–I just kind of fell into it, and once I realized it, I challenged myself to keep it up. Today marks 365 consecutive days of new content, and this post makes the grand total for the year a whopping 795 posts. I don't foresee breaking that streak any time soon.
 
-Today also marks the end of the year-long "[Kingdom of Days](/categories/kingdom-of-days/)" series–but tomorrow marks a new beginning!
+Today also marks the end of the year-long "[Kingdom of Days](/shuffle/categories/kingdom-of-days/)" series–but tomorrow marks a new beginning!
 
 Starting tomorrow, I'll be reblogging the daily "Kingdom of Days" entries, and the vast majority of them should feature minor to significant updates. Since the posts are now all written, that frees up about 50% of my blogging time to focus on more uploads of rare video, obscure shows, and more. This past year, I tended to upload a track or two to spotlight; this year, I'll try to upload entire shows as often as I can.
 
 (This is probably as good a time as any to recommend checking out [our companion youtube channel](https://www.youtube.com/channel/UCsJqIOT5dS3zfPk31U8o8_A?view_as=subscriber). It features the hundreds of videos I've uploaded this past year, and I add new content almost daily. Everything there appears simultaneously on this blog as well, so it's purely personal preference as to whether you find it worth subscribing to either/both.)
 
-In addition, I'll continue to spotlight an [original Springsteen song](/categories/roll-of-the-dice/), [cover](/categories/cover-me/), or [team-up](/categories/meeting-across-the-river/) each day, and I'll be introducing at least one new post series as well in the near future, spotlighting some of my favorite Bruce-related resources, blogs, podcasts, etc. I just did a quick tally of articles left to write based on the above... and it's more than 1,100. Looks like we're just getting started.
+In addition, I'll continue to spotlight an [original Springsteen song](/shuffle/categories/roll-of-the-dice/), [cover](/shuffle/categories/cover-me/), or [team-up](/shuffle/categories/meeting-across-the-river/) each day, and I'll be introducing at least one new post series as well in the near future, spotlighting some of my favorite Bruce-related resources, blogs, podcasts, etc. I just did a quick tally of articles left to write based on the above... and it's more than 1,100. Looks like we're just getting started.
 
 Thanks again for reading. I hope you stick around for Year Two!
 

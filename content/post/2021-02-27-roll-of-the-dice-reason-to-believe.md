@@ -159,4 +159,4 @@ Bruce's 1982 recording of "Reason to Believe" was a question, but when he perfor
 **First performed:** July 1, 1984 (St. Paul, MN)<br>
 **Last performed:** July 11, 2016 (Paris, France)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

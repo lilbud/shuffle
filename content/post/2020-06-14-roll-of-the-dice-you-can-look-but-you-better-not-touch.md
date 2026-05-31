@@ -130,4 +130,4 @@ You can bet "You Can Look" will be around for a long time to come.
 **First performed:** October 7, 1980 (Richfield, OH)<br>
 **Last performed:** February 18, 2017 (Hunter Valley, Australia)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

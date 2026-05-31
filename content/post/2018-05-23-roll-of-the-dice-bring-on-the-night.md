@@ -92,4 +92,4 @@ Nevertheless, it offers a fascinating peek into Bruce's songwriting process, and
 **Released:** *Tracks* (1998)<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

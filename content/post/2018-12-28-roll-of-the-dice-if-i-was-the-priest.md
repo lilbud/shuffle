@@ -126,4 +126,4 @@ So here's a bonus demo instead: earlier than both of the above performances, thi
 **Released:** *Letter to You* (2020)<br>
 **First performed:** February 14, 2023 (Houston, TX) (but likely performed in 1971 as well)<br>
 **Last performed:** February 21, 2023 (Tulsa, OK)<br>
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

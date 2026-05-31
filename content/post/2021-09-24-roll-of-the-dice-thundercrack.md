@@ -154,4 +154,4 @@ And really, who can blame them? It's guaranteed fun at the very least, and a rem
 **First performed:** October 29, 1972 (Long Branch, NJ)<br>
 **Last performed:** September 7, 2016 (Philadelphia, PA)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

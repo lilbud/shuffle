@@ -131,4 +131,4 @@ It's very different from Bruce's nightly performance on tour, and the only live 
 **First performed:** April 22, 2005 (Asbury Park, NJ)<br>
 **Last performed:** November 22, 2005 (Trenton, NJ)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

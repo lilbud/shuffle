@@ -132,4 +132,4 @@ Chalk up its continuing absence from the E Street stage as just anther of the my
 **Recorded** 1996-2004**Released:** *Devils & Dust* (2005)<br>
 **First performed:** March 10, 2005 (Asbury Park, NJ)**Last performed:** July 20, 2013 (Belfast, Northern Ireland)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

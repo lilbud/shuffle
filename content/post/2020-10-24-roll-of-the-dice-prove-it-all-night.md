@@ -170,4 +170,4 @@ But regardless of whether it takes its '77 form or '78 one, "Prove It All Night"
 **First performed:** May 23, 1978 (Buffalo, NY)<br>
 **Last performed:** September 3, 2023 (East Rutherford, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -140,4 +140,4 @@ The footage hails from (we believe) one of Bruce's solo acoustic shows in Boston
 **First performed:** April 21, 2005 (Asbury Park, NJ)<br>
 **Last performed:** November 22, 2005 (Trenton, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

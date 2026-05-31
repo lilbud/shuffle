@@ -56,4 +56,4 @@ So yeah, I still hate the song on the album. But I'll sneak a listen from time t
 **Released:** *Human Touch* (1992)**First performed:** June 17, 1992 (Stockholm, Sweden)<br>
 **Last performed:** May 6, 2014 (Woodlands, TX)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

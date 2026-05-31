@@ -66,4 +66,4 @@ It's still early, but "Don't Play That Song" shows every sign of becoming an iro
 **First performed:** November 15, 2022 (New York City, NY)<br>
 **Last performed:** February 14, 2023 (Houston, TX)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

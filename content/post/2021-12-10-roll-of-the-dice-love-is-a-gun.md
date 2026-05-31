@@ -44,4 +44,4 @@ But for students of Bruce's songwriting process, it's still interesting to hear 
 **Never released**<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

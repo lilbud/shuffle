@@ -78,4 +78,4 @@ In the mid-song passage below, we can hear early evidence of Bruce's sense of hu
 **First performed:** February 28, 1970 (Richmond, VA)<br>
 **Last performed:** June 14, 1970 (Bricktown, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

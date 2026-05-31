@@ -200,4 +200,4 @@ By now, it should be clear just how central "The Ghost of Tom Joad" has been to 
 **First performed:** October 28, 1995 (Mountain View, CA)<br>
 **Last performed:** May 13, 2021 (Colts Neck, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

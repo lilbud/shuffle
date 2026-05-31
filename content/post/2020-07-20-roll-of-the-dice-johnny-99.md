@@ -206,4 +206,4 @@ But in the back of my mind, I'll be thinking about poor Ralph, locked away and f
 **First performed:** June 29, 1984 (St. Paul, MN)<br>
 **Last performed:** August 30, 2023 (East Rutherford, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

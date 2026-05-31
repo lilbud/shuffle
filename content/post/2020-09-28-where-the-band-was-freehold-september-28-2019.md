@@ -20,7 +20,7 @@ params:
 ---
 > **Editor's Note**
 >
-> *I wrote the article that follows for Backstreets.com ; it was published on September 29, 2019, the day after the events chronicled. I'm reprinting it here as part of my [Where the Band Was series](/categories/where-the-band-was/), in which I recap shows I've attended on their anniversary dates.*<br>
+> *I wrote the article that follows for Backstreets.com ; it was published on September 29, 2019, the day after the events chronicled. I'm reprinting it here as part of my [Where the Band Was series](/shuffle/categories/where-the-band-was/), in which I recap shows I've attended on their anniversary dates.*<br>
 
 I've seen the past of Rock and Roll Future, but for at least a few minutes on Saturday night, it couldn't compete with Rock and Roll Present.
 
@@ -56,7 +56,7 @@ Under the big tent were the silent auction items, including signed, famed photos
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/09/newsSHHscrapbook.jpg.webp)
 > *Photograph by Lisa Iannucci*<br>
 
-The exhibit itself held even greater treasures — whether you're interested in tour and album cover props, song lyrics, old newspaper clippings, or the Springsteen family tree, there's more to learn than one can reasonably take in during a single visit, especially for partygoers who were admitted through the evening in sequential 45-minute windows. I now know about the accomplishments and life events of Springsteens dating back to the American Revolution (which threatens to widen the scope of my ["Kingdom of Days" blog posts](/categories/kingdom-of-days/) to a frightening degree).
+The exhibit itself held even greater treasures — whether you're interested in tour and album cover props, song lyrics, old newspaper clippings, or the Springsteen family tree, there's more to learn than one can reasonably take in during a single visit, especially for partygoers who were admitted through the evening in sequential 45-minute windows. I now know about the accomplishments and life events of Springsteens dating back to the American Revolution (which threatens to widen the scope of my ["Kingdom of Days" blog posts](/shuffle/categories/kingdom-of-days/) to a frightening degree).
 
 Between the auction, the vehicles, the on-stage entertainment, and the museum exhibit itself, it was easy to get overwhelmed at times. If you didn't know where to look next, however, you could always socialize with fellow party-goers. It was the kind of night where fans mixed and mingled with notables like Vini Lopez, Danny Clinch, Kevin Buell, and Tinker West. (However, Brian Williams, who had been announced as the host for the evening, did not appear to be present.)
 

@@ -97,4 +97,4 @@ Bruce dropped it a few months into the tour and never attempted it with the E St
 **First performed:** June 26, 1992 (Frankfurt, Germany)<br>
 **Last performed:** October 22, 1992 (Mountain View, CA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

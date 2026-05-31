@@ -119,4 +119,4 @@ We'll be meeting out in the street for a long time to come.
 **First performed:** October 3, 1980 (Ann Arbor, MI)<br>
 **Last performed:** August 30, 2023 (East Rutherford, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

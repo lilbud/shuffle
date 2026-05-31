@@ -115,4 +115,4 @@ I'll leave you with a terrific video of that performance of "Don't Look Back" â€
 **First performed:** March 10, 1977 (Toledo, OH)<br>
 **Last performed:** May 18, 2014 (Uncasville, CT)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

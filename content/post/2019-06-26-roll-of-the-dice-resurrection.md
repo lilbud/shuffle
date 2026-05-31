@@ -83,4 +83,4 @@ The song opens up here, as Bruce leads us away from the church and toward more p
 **First performed:** September 20, 1969 (Richmond, VA)<br>
 **Last performed:** January 22, 1971 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

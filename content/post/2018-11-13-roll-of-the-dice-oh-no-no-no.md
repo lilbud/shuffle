@@ -64,4 +64,4 @@ Still, given what we have here, even if Bruce had finished and recorded the song
 **Never recorded**
 Never performed**
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

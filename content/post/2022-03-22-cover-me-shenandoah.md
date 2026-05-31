@@ -47,4 +47,4 @@ Bruce's live arrangement starts slowly. Accompanied only by his acoustic guitar 
 **First performed:** November 18, 2006 (Dublin, Ireland)<br>
 **Last performed:** November 18, 2006 (Dublin, Ireland)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

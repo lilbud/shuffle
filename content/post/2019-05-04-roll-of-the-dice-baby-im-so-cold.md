@@ -89,4 +89,4 @@ That recording likely resides in the vault, a strong candidate (we can only hope
 **Never released**<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

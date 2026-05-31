@@ -138,6 +138,6 @@ Is there anybody alive out there?
 **First performed:** September 24, 2007 (Asbury Park, NJ)<br>
 **Last performed:** February 21, 2017 (Christchurch, New Zealand)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!
 
 **Also, as it turns out, blogging. Thanks for sticking around while I was on vacation; it's good to be back.*<br>

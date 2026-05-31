@@ -102,4 +102,4 @@ Bruce hasn't performed it since, and he's never performed its 1983 prequel even 
 **First performed:** December 16, 1995 (Boston, MA)<br>
 **Last performed:** May 1, 2014 (Tampa, FL)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

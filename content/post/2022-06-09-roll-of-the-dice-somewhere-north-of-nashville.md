@@ -77,4 +77,4 @@ During the key bridge, Bruce catches the camera and his gaze meets ours just as 
 **First performed:** April 2019 (Colts Neck, NJ)<br>
 **Last performed:** April 2019 (Colts Neck, NJ)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

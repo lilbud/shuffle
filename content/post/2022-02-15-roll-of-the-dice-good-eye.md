@@ -66,4 +66,4 @@ In the clip below, you'll hear a distorted Bruce reference the love and fear tat
 **First performed:** March 23, 2009 (Asbury Park, NJ)<br>
 **Last performed:** April 1, 2009 (San Jose, CA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

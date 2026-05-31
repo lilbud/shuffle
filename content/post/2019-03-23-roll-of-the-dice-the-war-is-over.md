@@ -78,4 +78,4 @@ Never released**
 **First performed:** September 20, 1969 (Richmond, VA)<br>
 **Last performed:** August 14, 1970 (Richmond, VA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

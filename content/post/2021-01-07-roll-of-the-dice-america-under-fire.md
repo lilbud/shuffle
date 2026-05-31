@@ -84,4 +84,4 @@ I'm tired. But I think I will remain.
 **First performed:** January 13, 1970 (San Francisco, CA)<br>
 **Last performed:** April 18, 1970 (Toms River, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

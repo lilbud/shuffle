@@ -73,4 +73,4 @@ The arrangement is identical, the vocals are clearer, and the song is just as fe
 **First performed:** June 12, 2000 (New York City, NY)<br>
 **Last performed:** July 18, 2015 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

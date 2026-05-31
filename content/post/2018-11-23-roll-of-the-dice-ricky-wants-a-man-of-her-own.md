@@ -104,4 +104,4 @@ I was genuinely surprised that "Ricky" didn't get an encore during the 2016 Rive
 **First performed:** August 24, 2008 (Kansas City, MO)<br>
 **Last performed:** August 24, 2008 (Kansas City, MO)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

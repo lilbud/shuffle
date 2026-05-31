@@ -141,4 +141,4 @@ We may yet hear it again when Bruce steps back out into the real world.
 **First performed:** November 16, 1990 (Los Angeles, CA)<br>
 **Last performed:** July 18, 2013 (Cork, Ireland)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -73,4 +73,4 @@ Where did "Cardi B. backyard" come from?
 **First Performed:** August 14, 1987 (Asbury Park, NJ)<br>
 **Last performed:** January 18, 2020 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

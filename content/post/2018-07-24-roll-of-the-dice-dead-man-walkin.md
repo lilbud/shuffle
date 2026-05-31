@@ -85,4 +85,4 @@ The film debuted in December 1995, and Bruce was already in the middle of his so
 **First performed:** November 21, 1995 (New Brunswick, NJ)<br>
 **Last performed:** June 23, 2000 (New York City, NY)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

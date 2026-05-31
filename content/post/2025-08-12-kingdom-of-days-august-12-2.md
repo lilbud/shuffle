@@ -55,7 +55,7 @@ params:
 
 {{< videopress id=O8YUTq5R >}}
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zA1TFgf6jVO6s3jMFbLoHkt)
+{{< youtube-playlist PLJTyL9twk3zA1TFgf6jVO6s3jMFbLoHkt >}}
 
 **1984:** Southside Johnny guest-stars on "Twist and Shout" at Night Six of a ten-night Meadowlands stand on the Born in the U.S.A. Tour.<br>
 

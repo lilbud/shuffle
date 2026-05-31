@@ -103,4 +103,4 @@ Regardless, "TV Movie" needs at least one more outing to set things right. Let's
 **First performed:** July 23, 2013 (Cardiff, Wales)<br>
 **Last performed:** July 23, 2013 (Cardiff, Wales)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

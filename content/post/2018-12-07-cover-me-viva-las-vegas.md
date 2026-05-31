@@ -56,4 +56,4 @@ The track received one more release in 2008, when it appeared in the soundtrack 
 **First performed:** August 13, 1992 (Worcester, MA)<br>
 **Last performed:** August 18, 2002 (Las Vegas, NV)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

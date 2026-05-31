@@ -53,4 +53,4 @@ Although he gave no specifics, I'm betting we'll hear Butler's "Never Give You U
 Released: *Only the Strong Survive* (2022)
 Never performed**
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

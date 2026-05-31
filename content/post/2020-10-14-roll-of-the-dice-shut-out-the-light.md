@@ -145,4 +145,4 @@ Here's Bruce's last performance of "Shut Out the Light" to date, a somber pump o
 **First performed:** October 22, 1984 (Oakland, CA)<br>
 **Last performed:** August 7, 2005 (Milwaukee, WI)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

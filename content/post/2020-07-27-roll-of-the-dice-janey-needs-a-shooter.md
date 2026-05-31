@@ -177,4 +177,4 @@ Janey has waited in the wings for far too long to be denied some time in the sun
 **Released:** *Letter to You* (2020)<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

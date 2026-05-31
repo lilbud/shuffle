@@ -98,4 +98,4 @@ I suspect Bruce wrote "Happy" more for himself and his family than for his audie
 **Released:** *Tracks* (1998)<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

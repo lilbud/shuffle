@@ -137,4 +137,4 @@ Now I'm going to Tony Roma's.
 **First performed:** April 5, 1995 (New York City, NY)<br>
 **Last performed:** February 14, 2017 (Brisbane, Australia)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

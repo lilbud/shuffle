@@ -83,4 +83,4 @@ As for "Mary Lou," she would see the light of day on *Tracks*, almost two decade
 **Released:** *Tracks* (1998), *The River: Outtakes* (2015)<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

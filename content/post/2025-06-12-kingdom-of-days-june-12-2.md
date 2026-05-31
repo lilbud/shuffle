@@ -59,7 +59,7 @@ params:
 
 **1985:** Bruce and the E Street Band bring the Born in the U.S.A. Tour to The Netherlands for the first of two nights in Rotterdam.<br>
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zD5tRNjiSRzrMpOiML4kWxO)
+{{< youtube-playlist PLJTyL9twk3zD5tRNjiSRzrMpOiML4kWxO >}}
 
 {{< videopress id=xrilOnRb >}}
 

@@ -133,4 +133,4 @@ Bruce brought "Open All Night" (in its new arrangement) back for nineteen outing
 **First performed:** October 3, 1982 (Asbury Park, NJ)<br>
 **Last performed:** February 8, 2014 (Perth, Australia)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

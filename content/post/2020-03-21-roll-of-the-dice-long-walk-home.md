@@ -167,4 +167,4 @@ Unfortunately, by the time Bruce recorded and filmed his Broadway show for offic
 **First performed:** November 11, 2006 (London, England)<br>
 **Last performed:** November 18, 2020 (Colts Neck, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

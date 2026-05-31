@@ -113,4 +113,4 @@ But no matter what the form, "Ramrod" is an opportunity for Bruce to cut loose, 
 **First performed:** December 28, 1978 (Pittsburgh, PA)<br>
 **Last performed:** May 27, 2023 (Amsterdam, The Netherlands)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

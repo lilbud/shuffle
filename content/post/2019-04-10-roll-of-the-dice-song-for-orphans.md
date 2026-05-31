@@ -119,4 +119,4 @@ That's not to say the song doesn't translate well to the stage, though. Besides 
 **First performed:** December 7, 1972 (New York City, NY)<br>
 **Last performed:** November 22, 2005 (Trenton, NJ)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -56,7 +56,9 @@ In concert on the all-too-short Seeger Sessions Tour, "Pay Me My Money Down" was
 
 {{< youtube H9VWxV9YCF4 >}}
 
-{{< youtube 4nlwCvG7c98 >}}
+***Archivists Note: [Original video](https://www.youtube.com/watch?v=4nlwCvG7c98) deleted, replaced with different video***
+
+{{< youtube ObLHqSS_n2I >}}
 
 "Pay Me My Money Down" was also the reliable guest-star slot. If you were friend of Bruce, and you came to the show, odds were good you'd end up on stage during the set-closer. Over the course of the tour, "Pay Me" guest-stars included Roy Bittan, Nils Lofgren, Joan Baez, Southside Johnny, Joe Grushecky, Wolfgang Niedecken, Bruce's nephew, and on TV: Conan O'Brien, Jimmy Fallon, and Thomas Haden Church.
 
@@ -68,4 +70,4 @@ In concert on the all-too-short Seeger Sessions Tour, "Pay Me My Money Down" was
 **Recorded:** March 19, 2005**Released:** *We Shall Overcome: The Seeger Sessions* (2006)*, We Shall Overcome: The Seeger Sessions – American Land Edition* (2006)*, Live in Dublin* (2007)**First performed:** April 20, 2006 (Asbury Park, NJ)<br>
 **Last performed:** May 16, 2015 (New York City, NY)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

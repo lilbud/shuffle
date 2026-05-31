@@ -27,8 +27,8 @@ And as a result, my posting schedule got a bit unpredictable, and occasional ski
 
 So some weeks back, I made the decision to put this site on half-time status... sort of. This means:
 
-- [*Kingdom of Days*](/categories/kingdom-of-days/) still runs daily, without interruption.
-- *[Roll of the Dice,](/categories/roll-of-the-dice/) [Cover Me](/categories/cover-me/), [Meeting Across the River](/categories/meeting-across-the-river/)*, and [*Spare Parts*](/categories/spare-parts/) all share an "every other day" posting schedule–three or four posts a week in total.
+- [*Kingdom of Days*](/shuffle/categories/kingdom-of-days/) still runs daily, without interruption.
+- *[Roll of the Dice,](/shuffle/categories/roll-of-the-dice/) [Cover Me](/shuffle/categories/cover-me/), [Meeting Across the River](/shuffle/categories/meeting-across-the-river/)*, and [*Spare Parts*](/shuffle/categories/spare-parts/) all share an "every other day" posting schedule–three or four posts a week in total.
 
 This schedule change gives me a lot of time back in my week, and (so far, at least) enables me to keep a regular cadence going.
 

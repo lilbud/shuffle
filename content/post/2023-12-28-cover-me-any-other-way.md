@@ -99,4 +99,4 @@ Bruce's edits kept the song truer to Bell's original intent for modern ears than
 **Released:** *Only the Strong Survive* (2022)<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries coming soon!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries coming soon!

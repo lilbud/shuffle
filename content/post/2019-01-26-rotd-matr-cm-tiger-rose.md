@@ -73,4 +73,4 @@ He actually did perform it twice, though–with Burgess himself at the Alliance 
 **First performed:** October 18, 2001 (Red Bank, NJ)<br>
 **Last performed** October 19, 2001 (Red Bank, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

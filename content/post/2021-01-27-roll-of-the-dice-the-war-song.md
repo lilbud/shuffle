@@ -67,4 +67,4 @@ The last verse is a haunting one–Bruce clearly recognizes the need for those a
 **Never released**<br>
 **First performed:** 1968 (unconfirmed)**Last performed:** 1968 (unconfirmed)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

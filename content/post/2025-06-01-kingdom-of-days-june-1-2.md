@@ -90,7 +90,7 @@ params:
 
 {{< youtube HehJDZOwlOs >}}
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zBjjejwxYCnsuOYNJVQL58J)
+{{< youtube-playlist PLJTyL9twk3zBjjejwxYCnsuOYNJVQL58J >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/1985-06-01.jpg.webp)
 
@@ -106,7 +106,7 @@ params:
 
 {{< videopress id=vgR4UE3w >}}
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zA7n6rFtaN9VcU8cUesEnG8)
+{{< youtube-playlist PLJTyL9twk3zA7n6rFtaN9VcU8cUesEnG8 >}}
 
 **2005:** Bruce brings his solo acoustic tour to Spain, starting with a single night in Barcelona.<br>
 

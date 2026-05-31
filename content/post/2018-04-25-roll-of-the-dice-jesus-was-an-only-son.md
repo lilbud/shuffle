@@ -58,4 +58,4 @@ Despite its historical subject matter, "Jesus Was an Only Son" feels like one of
 **First performed:** April 4, 2005 (Red Bank, NJ/VH1 Storytellers)<br>
 **Last performed:** November 19, 2006 (Dublin, Ireland)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

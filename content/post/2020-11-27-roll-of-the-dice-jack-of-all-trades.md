@@ -120,4 +120,4 @@ After all: It's all happened before. It'll happen again.
 **First performed:** March 2, 2012 (New York City, NY)<br>
 **Last performed:** September 7, 2016 (Philadelphia, PA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

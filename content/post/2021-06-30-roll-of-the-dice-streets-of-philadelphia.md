@@ -156,8 +156,8 @@ So if "Streets of Philadelphia" is on your chase list, you've still got a pretty
 **First performed:** January 27, 1994 (Los Angeles, CA)<br>
 **Last performed:** September 9, 2016 (Philadelphia, PA)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries return in August!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries return in August!
 
 > ***Editor's Note:***
 >
-> *Our Roll of the Dice series goes on hiatus after today while I take some time off to relax, recharge, and reload the blog's editorial queue. Roll of the Dice will resume in August–until then, consider checking out our [album index](/roll-of-the-dice-album-by-album/) to explore more of Bruce's catalog, and have a great summer!*<br>
+> *Our Roll of the Dice series goes on hiatus after today while I take some time off to relax, recharge, and reload the blog's editorial queue. Roll of the Dice will resume in August–until then, consider checking out our [album index](/shuffle/roll-of-the-dice-album-by-album/) to explore more of Bruce's catalog, and have a great summer!*<br>

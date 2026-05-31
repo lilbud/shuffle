@@ -60,4 +60,4 @@ As for our heroine, she's certainly a crowd-pleaser, with a reputation ("All the
 **First performed:** November 20, 1969 (Richmond, VA)<br>
 **Last performed:** January 23, 1971 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

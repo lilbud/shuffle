@@ -74,4 +74,4 @@ It would be more than 27 years before Bruce performed it again in concert, but w
 **First performed:** December 31, 1980 (Uniondale, NY)<br>
 **Last performed:** October 25, 2012 (Hartford, CT)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

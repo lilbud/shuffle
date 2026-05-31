@@ -170,4 +170,4 @@ So feel to reach out to me through the blog or wherever else we engage on-line, 
 **First performed:** September 25, 2007 (Asbury Park, NJ)<br>
 **Last performed:** June 23, 2008 (Antwerp, Belgium)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

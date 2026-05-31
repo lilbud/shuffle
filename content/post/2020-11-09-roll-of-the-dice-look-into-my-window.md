@@ -62,4 +62,4 @@ Although Bruce would quickly grow by leaps and bounds in both his lyrical skill 
 **First performed:** September 30, 1967 (Freehold, NJ)<br>
 **Last performed:** September 30, 1967 (Freehold, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

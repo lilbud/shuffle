@@ -106,4 +106,4 @@ On his 2005 solo tour stop in Grand Rapids, Bruce performed "Sherry Darling" by 
 **First performed:** August 4, 1978 (Charleston, WV)<br>
 **Last performed:** August 30, 2023 (East Rutherford, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

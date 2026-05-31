@@ -147,4 +147,4 @@ In the end, through the power of her love and the dreams she instilled in her so
 **First performed:** April 21, 2005 (Asbury Park, NJ)<br>
 **Last performed:** October 30, 2005 (Boston, MA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

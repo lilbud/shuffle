@@ -75,4 +75,4 @@ For the few in attendance, it was a magical throwback to a simpler time–one no
 **First performed:** February 7, 1977 (Albany, NY)<br>
 **Last performed:** July 17, 2011 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

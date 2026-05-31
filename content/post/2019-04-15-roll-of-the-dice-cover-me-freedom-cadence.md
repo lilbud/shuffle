@@ -68,4 +68,4 @@ The reference to a brother who didn't come back, to a father who was killed at K
 **Released:** *Thank You For Your Service* (2017)<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

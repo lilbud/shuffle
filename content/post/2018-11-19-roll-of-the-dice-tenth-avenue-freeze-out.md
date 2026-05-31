@@ -158,4 +158,4 @@ The break in the song eventually healed, just like a broken heart does, but "Ten
 **First performed:** July 20, 1975 (Providence, RI)<br>
 **Last performed:** September 3, 2023 (East Rutherford, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

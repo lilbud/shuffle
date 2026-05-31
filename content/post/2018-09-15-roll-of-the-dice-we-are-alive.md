@@ -110,4 +110,4 @@ Watch this wonderfully filmed performance from London in 2012, pay attention to 
 **First performed:** March 9, 2012 (New York City, NY)<br>
 **Last performed:** May 1, 2014 (Tampa, FL)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

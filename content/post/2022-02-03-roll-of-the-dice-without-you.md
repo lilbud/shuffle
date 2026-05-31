@@ -66,4 +66,4 @@ Perhaps one day we'll get to crash this party, too.
 **Released:** *Blood Brothers* (1996)<br>
 **Never performed live**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

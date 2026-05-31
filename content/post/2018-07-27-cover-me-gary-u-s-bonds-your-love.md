@@ -101,4 +101,4 @@ So "Your Love" remains on my chase list, and it's probably destined to stay ther
 **First performed** (by Bruce): July 2, 1989 (Long Branch, NJ)<br>
 **Last performed** (by Bruce): July 2, 1989 (Long Branch, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

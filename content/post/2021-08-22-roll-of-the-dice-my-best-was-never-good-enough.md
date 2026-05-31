@@ -94,4 +94,4 @@ Still waters run deep.
 **First performed:** November 21, 1995 (New Brunswick, NJ)<br>
 **Last performed:** November 16, 2005 (East Rutherford, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

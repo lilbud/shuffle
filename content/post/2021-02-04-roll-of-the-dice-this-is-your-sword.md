@@ -89,4 +89,4 @@ But context is king, and if we're lucky enough to get at least one more Sessions
 **First performed:** January 29, 2014 (Cape Town, South Africa)<br>
 **Last performed:** May 13, 2014 (Albany, NY)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

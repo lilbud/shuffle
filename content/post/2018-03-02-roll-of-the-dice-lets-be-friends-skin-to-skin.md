@@ -64,4 +64,4 @@ Yeah, maybe this one is better kept to vinyl. But if the E Street Band ever play
 **First performed:** September 16, 2003 (Hartford, CT)<br>
 **Last performed:** September 16, 2003 (Hartford, CT)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

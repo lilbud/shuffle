@@ -105,4 +105,4 @@ We've been living through a blackout in recent years, but the lights are coming 
 **First performed:** November 16, 1990 (Los Angeles, CA)<br>
 **Last performed:** November 17, 1990 (Los Angeles, CA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

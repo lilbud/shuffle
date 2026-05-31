@@ -125,4 +125,4 @@ So even if "Protection" is destined to remain locked away in the vaults, its DNA
 **Never released**<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -100,4 +100,4 @@ Coincidence? Perhaps. But I suspect Bruce was haunted for years by a fear of wea
 **Released:** *The Ties That Bind: The River Collection* (2015)<br>
 **Never performed live**<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

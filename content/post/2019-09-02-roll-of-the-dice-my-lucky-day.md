@@ -104,4 +104,4 @@ Bring this one back on the next tour, Bruce. Please bring it back.
 **First performed:** March 23, 2009 (Asbury Park, NJ)<br>
 **Last performed:** June 25, 2016 (Gothenburg, Sweden)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

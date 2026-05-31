@@ -86,4 +86,4 @@ That's too bad, because "Easy Money" was both a crowd- and artist-pleaser, judgi
 **First performed:** March 18, 2012 (Atlanta, GA)<br>
 **Last performed:** September 19, 2012 (East Rutherford, NJ)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

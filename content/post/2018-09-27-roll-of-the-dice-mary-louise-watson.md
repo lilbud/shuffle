@@ -47,4 +47,4 @@ Never recorded/released**
 **First performed:** January 18, 1971 (South Amboy, NJ)<br>
 **Last performed:** December 17, 1971 (New Brunswick, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

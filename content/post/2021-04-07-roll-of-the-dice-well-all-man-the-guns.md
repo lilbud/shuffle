@@ -103,4 +103,4 @@ Until and unless Bruce decides to talk about this lost early song (an unlikely p
 **First performed:** August 14, 1970 (Richmond, VA)<br>
 **Last performed:** August 14, 1970 (Richmond, VA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

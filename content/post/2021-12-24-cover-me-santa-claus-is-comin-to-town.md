@@ -91,4 +91,4 @@ So on this Christmas Eve, whether you celebrate the holiday or not: here's a wis
 Released (Live):** *In Harmony 2* (1981)
 **First performed:** December 20, 1973 (Brsitol, RI)**Last performed:** December 14, 2016 (New York City, NY)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

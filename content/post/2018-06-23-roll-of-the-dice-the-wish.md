@@ -130,4 +130,4 @@ And that we all find our little rock and roll bar, where we can dance ever after
 **The Wish**<br>
 **Recorded** February 22, 1987**Released:** *Tracks* (1998)**First performed:** November 17, 1990 (Los Angeles, CA)**Last performed:** September 4, 2021 (New York City, NY)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

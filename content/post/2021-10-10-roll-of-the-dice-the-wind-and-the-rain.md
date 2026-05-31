@@ -107,4 +107,4 @@ Imagine if Bruce had dedicated himself to the guitar with the same single-minded
 **First performed:** April 24, 1970 (West Long Branch, NJ)<br>
 **Last performed:** August 14, 1970 (Richmond, VA)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

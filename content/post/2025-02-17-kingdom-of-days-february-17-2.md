@@ -35,7 +35,7 @@ params:
 ---
 **1970:** Bruce meets Nils Lofgren for the first time at The Matrix in San Francisco, where both Steel Mill (Bruce’s band) and Grin (Nils’ band) are playing.<br>
 
-**1972:** Bruce plays a solo acoustic show at Freehold Township High School. The set list includes his never-released “[No Need](/roll-of-the-dice-album-by-album/),” and “[Cowboys of the Sea]({{< relref "2011-01-15-roll-of-the-dice-cowboys-of-the-sea.md" >}}),” and “[She’s a Woman]({{< relref "1972-01-30-roll-of-the-dice-shes-a-woman.md" >}}).”<br>
+**1972:** Bruce plays a solo acoustic show at Freehold Township High School. The set list includes his never-released “[No Need](/shuffle/roll-of-the-dice-album-by-album/),” and “[Cowboys of the Sea]({{< relref "2011-01-15-roll-of-the-dice-cowboys-of-the-sea.md" >}}),” and “[She’s a Woman]({{< relref "1972-01-30-roll-of-the-dice-shes-a-woman.md" >}}).”<br>
 
 **1974:** Bruce cancels a show in Columbus following the firing of original E Street Band drummer Vini Lopez.<br>
 

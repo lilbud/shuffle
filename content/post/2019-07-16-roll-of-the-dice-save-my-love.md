@@ -111,4 +111,4 @@ So while it may never be a staple of any tour's setlist, I doubt it's ever going
 **First performed:** November 4, 2010 (Pittsburgh, PA)<br>
 **Last performed:** September 5, 2016 (Virginia Beach, VA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

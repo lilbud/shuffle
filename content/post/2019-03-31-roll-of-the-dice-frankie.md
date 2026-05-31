@@ -167,4 +167,4 @@ Bonus #2: Here's another "Frankie" studio outtake, this one from the 1982 sessio
 **First performed:** March 26, 1976 (Atlanta, GA)<br>
 **Last performed:** July 20, 2016 (Horsens, Denmark)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

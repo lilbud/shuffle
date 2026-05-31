@@ -96,4 +96,4 @@ What happens next is one of those unpredictable magic Springsteen moments: witho
 **Recorded:** July 1, 2000 (live), unknown (studio)**Released:** *Live in New York City* (2002), *Wrecking Ball* (2011)**First performed:** March 18, 1999 (Asbury Park, NJ)<br>
 **Last performed:** May 24, 2023 (Gothenburg, Sweden)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

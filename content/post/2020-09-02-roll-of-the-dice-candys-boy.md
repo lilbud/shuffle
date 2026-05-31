@@ -104,4 +104,4 @@ So don't ask me which is the stronger song–at least not yet. We'll pick up thi
 **Released:** *The Promise* (2010)<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

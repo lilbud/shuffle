@@ -21,7 +21,7 @@ params:
 ---
 Bruce Springsteen may be a rock icon, but for a brief moment in the early 1970s, he was all about the blues.
 
-Regular readers are well aware by now of my fondness for [the Bruce Springsteen Band era](/tags/the-bruce-springsteen-band/). Lasting just a few days short of a year from the summer of 1971 through the following year's July 4th weekend, the Bruce Springsteen Band featured a stellar core line-up of Bruce, Steve Van Zandt, Garry Tallent, Vini Lopez, and Dave Sancious, as well as an expanded line-up of horns, vocalists and percussion depending on the date (and the budget).
+Regular readers are well aware by now of my fondness for [the Bruce Springsteen Band era](/shuffle/tags/the-bruce-springsteen-band/). Lasting just a few days short of a year from the summer of 1971 through the following year's July 4th weekend, the Bruce Springsteen Band featured a stellar core line-up of Bruce, Steve Van Zandt, Garry Tallent, Vini Lopez, and Dave Sancious, as well as an expanded line-up of horns, vocalists and percussion depending on the date (and the budget).
 
 BSB set lists blended bluesy Springsteen originals with covers both contemporary and standard. For my money, though, the true highlights of their rarely recorded shows were their faithful renditions of blues classics like Jimmy Reed's 1959 recording of "Take Out Some Insurance."
 

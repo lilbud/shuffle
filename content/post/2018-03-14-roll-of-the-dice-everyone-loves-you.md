@@ -38,4 +38,4 @@ If you can make out anything more or different, please let me know.
 **Recorded:** 1979 (demo)<br>
 **Performed:** Never<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

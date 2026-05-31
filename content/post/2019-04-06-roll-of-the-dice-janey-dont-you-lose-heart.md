@@ -136,4 +136,4 @@ Whatever form she takes, a setlist appearance by "Janey, Don't You Lose Heart" i
 **First performed:** September 27, 1985 (Los Angeles, CA)<br>
 **Last performed:** February 14, 2017 (Brisbane, Australia)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -100,4 +100,4 @@ It was a highlight of Steve's Summer of Sorcery tour to hear "Little Girl So Fin
 **Released:** *This Time It's For Real* (1977)<br>
 **Never performed live**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

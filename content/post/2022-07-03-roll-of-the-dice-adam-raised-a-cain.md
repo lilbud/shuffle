@@ -141,4 +141,4 @@ When Bruce and the band hit the road again next year, odds are very, very high t
 **First performed:** May 23, 1978 (Buffalo, NY)<br>
 **Last performed:** February 9, 2017 (Sydney, Australia)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

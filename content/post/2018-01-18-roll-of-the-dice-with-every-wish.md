@@ -83,4 +83,4 @@ But when he tries to skip over the sad parts, his son makes him go back and read
 **First Performed:** June 15, 1992 (Stockholm)<br>
  **Last Performed:** July 23, 1992 (East Rutherford, NJ)
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

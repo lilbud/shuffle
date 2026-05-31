@@ -86,7 +86,9 @@ On the eve of his 30th birthday, Bruce rocked himself to faux exhaustion in one 
 
 That legendary M.U.S.E. performance marked the end of regular "Quarter to Three" appearances in Bruce's set lists, but both it and Bonds himself have made a handful of cameo appearances with Bruce over the years since, including this one from the end of the Rising Tour in 2003.
 
-{{< youtube KI_dO_6cwDc >}}
+***Archivists Note: [Original video](https://www.youtube.com/watch?v=KI_dO_6cwDc) deleted, replaced***
+
+{{< youtube 2N9Vs8FBWc8 >}}
 
 Bonds, of course, plays his greatest hit regularly during his own shows.
 

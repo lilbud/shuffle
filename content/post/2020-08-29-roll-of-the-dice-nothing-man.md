@@ -112,4 +112,4 @@ It's been a long fifteen years since we've heard Bruce play "Nothing Man" in con
 **First performed:** September 30, 2002 (St. Paul, MN)<br>
 **Last performed:** October 28, 2005 (Boston, MA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

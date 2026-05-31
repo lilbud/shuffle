@@ -93,4 +93,4 @@ Please, for the love of Clarence: nobody bring a sign.
 **Released:** *Blinded by the Light (Original Motion Picture Soundtrack)* (2019)<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

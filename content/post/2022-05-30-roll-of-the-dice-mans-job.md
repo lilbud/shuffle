@@ -117,4 +117,4 @@ With the benefit of the E Street Horns (an essential Stax element) and a fully p
 **First performed:** May 6, 1992 (New York City, NY)<br>
 **Last performed:** July 13, 1992 (Werchter, Belgium)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

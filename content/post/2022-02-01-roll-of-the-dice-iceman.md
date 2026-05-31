@@ -108,4 +108,4 @@ With only three performances ever, "Iceman" remains a rarity–too misunderstood
 **First performed:** May 17, 2005 (Philadelphia, PA)<br>
 **Last performed:** July 13, 2016 (Paris, France)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

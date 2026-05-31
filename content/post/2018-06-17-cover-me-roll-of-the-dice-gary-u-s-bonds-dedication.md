@@ -98,4 +98,4 @@ They're not Bruce's deepest lyrics, but they would have been right at home on *T
 **First performed** (by Bruce): July 2, 1989 (Long Branch, NJ)<br>
 **Last performed** (by Bruce): July 2, 1989 (Long Branch, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

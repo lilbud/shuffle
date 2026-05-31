@@ -130,4 +130,4 @@ In a stripped-down arrangement with warm vocals, the full plaintive power of the
 **First performed:** February 10, 2012 (Los Angeles, CA)<br>
 **Last performed:** June 22, 2016 (Copenhagen, Denmark)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

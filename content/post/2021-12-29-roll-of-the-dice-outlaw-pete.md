@@ -165,4 +165,4 @@ Never but once, that is: at the second of a pair of postscript shows to his High
 **Outlaw Pete**<br>
 **Recorded** 2007-2008**Released:** *Working on a Dream (2009)***First performed:** March 23, 2009 (Asbury Park, NJ)**Last performed:** May 23, 2014 (Pittsburgh, PA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

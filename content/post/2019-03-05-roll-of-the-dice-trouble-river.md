@@ -68,4 +68,4 @@ Whatever the reason, the song didn't seem to translate well to the E Street stag
 **First performed:** August 1, 1999 (East Rutherford, NJ)<br>
 **Last performed:** August 1, 1999 (East Rutherford, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

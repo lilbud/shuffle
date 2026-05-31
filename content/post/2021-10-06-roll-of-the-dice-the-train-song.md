@@ -90,4 +90,4 @@ The problem's in the execution.
 **First performed:** January 13, 1970 (San Francisco, CA)<br>
 **Last performed:** January 13, 1970 (San Francisco, CA)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

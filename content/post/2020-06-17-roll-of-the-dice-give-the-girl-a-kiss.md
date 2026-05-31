@@ -133,4 +133,4 @@ Watch this wonderful performance from Charlottesville in 2012, featuring a loose
 **First performed:** March 19, 1999 (Asbury Park, NJ)<br>
 **Last performed:** October 23, 2012 (Charlottesville, VA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

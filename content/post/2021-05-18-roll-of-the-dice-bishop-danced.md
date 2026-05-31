@@ -112,4 +112,4 @@ I'm still listening for that Top 40 hook, though.
 **First performed:** December 7, 1972 (New York City, NY)<br>
 **Last performed:** November 19, 2012 (Denver, CO)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

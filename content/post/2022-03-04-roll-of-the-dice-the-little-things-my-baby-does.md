@@ -78,4 +78,4 @@ Locked in the vault for decades, Bruce finally released "The Little Things (My B
 **Released:** *The Promise* (2010)<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

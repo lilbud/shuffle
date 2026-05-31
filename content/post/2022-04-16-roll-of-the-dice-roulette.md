@@ -157,4 +157,4 @@ Bruce headlined two of those concerts, but despite his continued concern for the
 **First performed:** February 25, 1988 (Worcester, MA)<br>
 **Last performed:** July 5, 2016 (Milan, Italy)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

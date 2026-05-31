@@ -86,4 +86,4 @@ Released (live):** *We Are the World* (1985), *The Essential Bruce Springsteen* 
 **First performed:** [May 29]({{< relref "2025-05-29-kingdom-of-days-may-29-2.md" >}}/), 1981 (London, England)<br>
 **Last performed:** August 24, 2023 (Foxborough, MA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

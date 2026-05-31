@@ -68,4 +68,4 @@ But here's one of my favorites–from one of the very last Steel Mill concerts, 
 **First performed:** February 28, 1970 (Richmond, VA) (and probably earlier, although we lack documentation)<br>
 **Last performed:** October 23, 1971 (Richmond, VA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

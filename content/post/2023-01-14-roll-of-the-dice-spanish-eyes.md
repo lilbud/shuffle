@@ -101,4 +101,4 @@ If we're only ever going to get one performance, at least it was a great one, fe
 **First performed:** June 17, 2012 (Madrid, Spain)<br>
 **Last performed:** June 17, 2012 (Madrid, Spain)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

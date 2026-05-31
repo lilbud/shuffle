@@ -83,4 +83,4 @@ It's hard to blame Bruce, though, because it's a great backing track with terrif
 **Released:** *The Promise* (2010)<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -124,4 +124,4 @@ Oh, and not just Bonnie, but also Bruce Hornsby, Mary Chapin Carpenter, Shawn Co
 **Frist performed:** November 16, 1990 (Los Angeles, CA)<br>
 **Last performed:** March 26, 2013 (Melbourne, Australia)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

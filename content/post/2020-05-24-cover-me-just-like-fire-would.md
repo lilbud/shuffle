@@ -61,4 +61,4 @@ I was lucky enough to catch it twice–in Cape Town and Charlotte, and I count m
 **First performed:** March 14, 2012 (Brisbane, Australia)<br>
 **Last performed:** April 26, 2014 (Atlanta, GA)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -119,4 +119,4 @@ The country blues version of "Countin' on a Miracle" remains the definitive vers
 **First performed:** July 26, 2002 (Asbury Park, NJ)<br>
 **Last performed:** June 19, 2005 (Rotterdam, The Netherlands)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

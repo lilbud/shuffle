@@ -85,4 +85,4 @@ Here's the last appearance of "Dream Baby Dream" to date–the show opener in Ho
 **First performed:** May 11, 2005 (Rosemont, IL)<br>
 **Last performed:** July 20, 2016 (Horsens, Denmark)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

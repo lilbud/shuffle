@@ -133,4 +133,4 @@ It remains on many fans' chase list, but like I said: "Be True" hasn't missed an
 **First performed:** August 26, 1984 (Largo, MD)<br>
 **Last performed:** February 14, 2017 (Brisbane, Australia)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

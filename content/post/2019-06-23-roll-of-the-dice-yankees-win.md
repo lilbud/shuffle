@@ -55,4 +55,4 @@ It was a touching way for Bruce to honor the man who'd brought him (and so many 
 **First performed:** November 7, 2007<br>
 **Last performed:** November 7, 2007<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

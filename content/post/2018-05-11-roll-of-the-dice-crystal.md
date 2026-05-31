@@ -54,4 +54,4 @@ I would have liked to have seen what this would have developed into.
 **Never recorded**<br>
 **Performed:** Possibly May 1968 (Red Bank, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -92,4 +92,4 @@ The sole exception: a dedication from Bruce to his fans during his Wrecking Ball
 **First performed:** April 19, 1999 (Milan, Italy)<br>
 **Last performed:** July 12, 2012 (Gothenburg, Sweden)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

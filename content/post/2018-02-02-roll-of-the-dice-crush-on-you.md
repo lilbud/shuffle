@@ -85,4 +85,4 @@ Still haven't had enough "Crush on You?" Check out these outtakes–nothing reve
 **"Crush on You"**<br>
 **Recorded** 1979-1980**Released:** *The River* (1980)**First performed:** October 3, 1980 (Ann Arbor, MI)**Last performed:** July 28, 2016 (Oslo, Norway)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -55,4 +55,4 @@ Sadly, the song has been relevant since Bruce first recorded it, and it doesn't 
 **First performed:** September 23, 1988 (Oakland, CA)<br>
 **Last performed:** March 15, 2012 (Austin, TX)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

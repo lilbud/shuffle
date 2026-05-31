@@ -88,4 +88,4 @@ More than a decade on, *Wrecking Ball* stands tall as one of Springsteen's fines
 
 If you haven't done so recently, do yourself a favor and give *Wrecking Ball* a fresh listen. You'll enjoy the work of a rock and roll titan at the peak of his powers, captured on an album that's likely to stand the test of time as one of his very best.
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -193,4 +193,4 @@ That version of "Racing in the Street" is likely to stay a curiosity, but the or
 **First performed:** May 23, 1978 (Buffalo, NY)<br>
 **Last performed:** June 26, 2023 (Gothenburg, Sweden)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

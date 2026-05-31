@@ -66,4 +66,4 @@ Neither "Jon's Jam" or "It's a Shame" have ever had a live outing, but the song 
 **Released:** *The Promise* (2010)<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

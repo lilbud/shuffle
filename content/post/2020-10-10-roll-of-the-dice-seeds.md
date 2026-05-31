@@ -133,4 +133,4 @@ Given the state of the economy, however, and its likely prolonged recovery, I su
 **First performed:** July 3, 1985 (London, England)<br>
 **Last performed:** June 5, 2016 (London, England)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

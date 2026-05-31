@@ -121,4 +121,4 @@ It isn't hard to find a great performance of "Good Man"; we just have to look to
 **First performed:** May 10, 2005 (St. Paul, MN)<br>
 **Last performed:** November 4, 2010 (Pittsburgh, PA)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

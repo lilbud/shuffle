@@ -37,4 +37,4 @@ Somehow, I don’t think we’re going to see this one included in a box set any
 **First performed:** October 18, 2012 (Parma, OH)<br>
 **Last performed:** November 5, 2012 (Columbus, OH)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

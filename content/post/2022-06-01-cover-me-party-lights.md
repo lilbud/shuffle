@@ -22,7 +22,9 @@ params:
 
 For one thing, it was a song about a teenage girl, written and recorded by a girl only a few months out of her teens herself. For another… well, listen and hear for yourself.
 
-{{< youtube JhYMyZlC-Hc >}}
+***Archivists Note: [Original video](https://www.youtube.com/watch?v=JhYMyZlC-Hc) deleted, replaced***
+
+{{< youtube NiZDFE_7NkM >}}
 
 See what I mean? "Party Lights" is an uptempo pop song completely devoid of electric guitar, making it an odd choice for a budding rock star's set list.
 
@@ -30,7 +32,10 @@ But if we're willing to overlook the absent guitar, the rest of the arrangement 
 
 Regardless of whatever lodged it in Bruce's brain back in 1975, "Party Lights" was a perfect fit for the romantic, retro stylings of the Born to Run Tour. It made three brief appearances during early December, the first of which remains the best recording.
 
-{{< youtube t1JX8tDe8oY >}}
+***Archivists Note: [Original video](https://www.youtube.com/watch?v=t1JX8tDe8oY) deleted, replaced with archive.org link***
+
+[https://archive.org/details/bs1975-12-02.aud.hopkins.jems.flac24/2-07.+Party+Lights.flac](https://archive.org/details/bs1975-12-02.aud.hopkins.jems.flac24/2-07.+Party+Lights.flac)
+{{< audio url="https://archive.org/details/bs1975-12-02.aud.hopkins.jems.flac24/2-07.+Party+Lights.flac" >}}
 
 Bruce kept the arrangement faithful, right down to the Spectorian "whoa oh oh oh's." But after three performances in ten days, Bruce retired "Party Lights" and hasn't played it since.
 

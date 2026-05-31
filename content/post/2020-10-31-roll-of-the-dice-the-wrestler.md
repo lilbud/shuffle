@@ -115,4 +115,4 @@ It's too great a song to remain missing forever, though. "The Wrestler" fits wit
 **First performed:** March 23, 2009 (Asbury Park, NJ)<br>
 **Last performed:** June 4, 2009 (Stockholm, Sweden)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -138,4 +138,4 @@ I'll share one more unusual performance, this one from 2009. Bruce joined Elvis 
 **First performed:** September 4, 1972 (New York City, NY)<br>
 **Last performed:** February 26, 2014 (Brisbane, Australia)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

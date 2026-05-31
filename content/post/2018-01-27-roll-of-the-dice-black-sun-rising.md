@@ -54,4 +54,4 @@ Just rolled the dice again and got something from the HT/LT era that's much easi
 **First Performed:** April 18, 1970 (Toms River, NJ)<br>
 **Last Performed:** June 13, 1970 (Bricktown, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

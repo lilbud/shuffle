@@ -109,4 +109,4 @@ For now, though, enjoy the one and only time Bruce performed the song live–in 
 **First performed:** October 14, 2009<br>
 **Last performed:** October 14, 2009<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

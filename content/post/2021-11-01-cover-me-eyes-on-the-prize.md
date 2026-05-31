@@ -84,4 +84,4 @@ Other than a Magic Tour cameo, Thompson hasn't performed with Bruce since the en
 **First performed:** April 20, 2006 (Asbury Park, NJ)<br>
 **Last performed:** November 21, 2006 (Belfast, Northern Ireland)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

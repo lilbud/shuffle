@@ -167,4 +167,4 @@ Sometimes it ain't glamorous to be in the pit.
 **First performed:** May 8, 2013 (Turku, Finland)<br>
 **Last performed:** May 8, 2013 (Turku, Finland)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -124,4 +124,4 @@ As I wrote at the top, there's a lot of information conveyed in "Used Cars," and
 **First performed:** June 29, 1984 (St. Paul, MN)<br>
 **Last performed:** October 6, 2008 (Ypsilanti, MI)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

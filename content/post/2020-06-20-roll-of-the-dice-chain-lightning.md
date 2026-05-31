@@ -85,4 +85,4 @@ Still, "Chain Lightning" practically begs for an E Street Band outing. We haven'
 **Recorded:** February 17, 1980<br>
 **Released:** *The River: Outtakes* (2015)**Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

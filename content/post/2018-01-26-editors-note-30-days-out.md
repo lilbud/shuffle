@@ -44,7 +44,7 @@ I'll revisit. Those posts started mostly as a way for me to organize all the ran
 
 Nope. Other than launching a new series tomorrow (concert reviews of shows I attended, called ""), I'm satisfied with the focus of this blog. There are so many great Springsteen-focused blogs out there, each with their own unique lens, so I want to keep this one personal and true to its name: an unpredictable journey through Bruce's catalog, cameos, and influencees, one song at a time.
 
-**Any plans to broaden the scope?**[Where the Band Was](/categories/where-the-band-was/)<br>
+**Any plans to broaden the scope?**[Where the Band Was](/shuffle/categories/where-the-band-was/)<br>
 
 Thanks again for reading, and for all of the retweets, likes, and especially the comments (those are my favorite!). Your feedback is always welcome and appreciated.
 

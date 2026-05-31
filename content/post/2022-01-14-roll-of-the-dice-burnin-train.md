@@ -95,4 +95,4 @@ May you live long and prosper.
 **First performed:** February 1, 2023 (Tampa, FL)<br>
 **Last performed:** March 7, 2023 (Milwaukee, WI)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

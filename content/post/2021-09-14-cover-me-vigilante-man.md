@@ -92,4 +92,4 @@ But other than a one-off in the UK a month later, we haven't heard from "Vigilan
 **First performed:** May 19, 1988 (New York, NY)<br>
 **Last performed:** June 21, 1988 (Birmingham, England)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -57,4 +57,4 @@ From the opening measures of "Secret to the Blues," we can hear Bruce go to town
 **First performed:** January 4, 1973 (Bryn Mawr, PA)<br>
 **Last performed:** June 13, 1973 (Binghamton, NY)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries coming soon!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries coming soon!

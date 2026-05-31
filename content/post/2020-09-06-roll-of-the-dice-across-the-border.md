@@ -132,4 +132,4 @@ For what are we without hope in our hearts?
 **First performed:** November 21, 1995 (New Brunswick, NJ)<br>
 **Last performed:** May 13, 2021 (Colts Neck, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

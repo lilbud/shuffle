@@ -165,4 +165,4 @@ Here's that one-off performance, the last "Shackled and Drawn" to date.
 **First performed:** March 9, 2012 (New York City, NY)<br>
 Last performed: June 25, 2016 (Gothenburg, Sweden)
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

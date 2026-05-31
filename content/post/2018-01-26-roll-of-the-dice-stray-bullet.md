@@ -79,4 +79,4 @@ Bruce has never performed "Stray Bullet" in concert, and it's unclear whether it
 **Released:** *The River: Outtakes* (2015)<br>
 **Never Performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

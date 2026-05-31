@@ -54,4 +54,4 @@ It's one of my favorites, too. If that rumored *Only the Strong Survive* mini-to
 Released: *Only the Strong Survive* (2022)
 Never performed**
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/)!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/)!

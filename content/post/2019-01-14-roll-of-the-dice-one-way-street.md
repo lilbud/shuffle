@@ -143,4 +143,4 @@ But if you're ever in the mood to play it in concert again, maybe give the origi
 **First performed:** December 7, 2010 (Asbury Park, NJ)<br>
 **Last performed:** July 5, 2013 (Monchengladbach, Germany)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

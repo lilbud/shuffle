@@ -57,4 +57,4 @@ It's believed that Bruce and The Castiles likely played "That's What You Get" li
 **First performed:** unconfirmed<br>
 **Last performed:** unconfirmed<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

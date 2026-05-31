@@ -101,4 +101,4 @@ How better to make it easier for your kids to leave the nest while always making
 **First performed:** July 31, 1992 (East Rutherford, NJ)<br>
 **Last performed:** April 27, 1996 (London, England)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

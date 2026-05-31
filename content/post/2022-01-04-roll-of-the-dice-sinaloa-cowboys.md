@@ -116,4 +116,4 @@ The Sinaloa Cartel remains the most dominant drug cartel in Mexico to this day.
 **First performed:** October 28, 1995 (Mountain View, CA)<br>
 **Last performed:** October 20, 2005 (Worcester, MA)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

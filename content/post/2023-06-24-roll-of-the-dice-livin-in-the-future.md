@@ -147,4 +147,4 @@ Looking back from today, we can clearly see the breadcrumbs. But back then…. w
 **First performed:** September 24, 2007 (Asbury Park, NJ)<br>
 **Last performed:** August 30, 2008 (Milwaukee, WI)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every month!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every month!

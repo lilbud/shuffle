@@ -111,4 +111,4 @@ I'll leave you with that masterful and nightmarish Vancouver performance, my all
 **First performed:** September 8, 1984 (Hartford, CT)<br>
 **Last performed:** November 15, 2012 (Omaha, NE)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

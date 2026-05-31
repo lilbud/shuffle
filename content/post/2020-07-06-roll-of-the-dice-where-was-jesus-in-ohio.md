@@ -96,4 +96,4 @@ Exactly fifty years later, though, protests rage across America, and we find our
 **First performed:** June 19, 1970 (Richmond, VA)<br>
 **Last performed:** June 19, 1970 (Richmond, VA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

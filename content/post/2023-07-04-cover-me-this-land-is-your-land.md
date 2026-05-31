@@ -137,4 +137,4 @@ Looking back on that day years later, Bruce marveled:
 **Recorded** December 28, 1980 (live)**Released:** *Live 1975-85* (1986)**First performed:** December 28, 1980 (Uniondale, NY)<br>
 **Last performed:** June 3, 2013 (Milan, Italy)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every month!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every month!

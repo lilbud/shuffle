@@ -173,4 +173,4 @@ May we not fuck it up this time.
 **First performed:** October 16, 1996 (Denver, CO)<br>
 **Last performed:** December 5, 2018 (New York City, NY)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

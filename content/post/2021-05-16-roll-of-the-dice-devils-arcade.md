@@ -134,4 +134,4 @@ Watch this complete performance of "Devil's Arcade" from early in the tour, and 
 **First performed:** September 24, 2007 (Asbury Park, NJ)<br>
 **Last performed:** June 16, 2008 (Dusseldorf, Germany)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

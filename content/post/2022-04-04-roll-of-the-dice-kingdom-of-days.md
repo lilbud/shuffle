@@ -110,4 +110,4 @@ Watch this performance all the way through to hear Bruce channel his inner Orbis
 **First performed:** March 24, 2009 (Asbury Park, NJ)<br>
 **Last performed:** May 22, 2014 (Pittsburgh, PA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

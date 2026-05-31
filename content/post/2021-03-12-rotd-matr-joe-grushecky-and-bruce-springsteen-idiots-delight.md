@@ -59,4 +59,4 @@ Will we hear it performed live again someday? Well, this past year would have be
 **First performed:** March 2, 1998 (Pittsburgh, PA)<br>
 **Last performed:** October 28, 2005 (Boston, MA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

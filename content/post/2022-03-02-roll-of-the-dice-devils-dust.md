@@ -157,4 +157,4 @@ We like to think that faith will be rewarded, but sometimes faith just ain't eno
 **First performed:** April 4, 2005 (Red Bank, NJ)<br>
 **Last performed:** January 12, 2017 (Washington, DC)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

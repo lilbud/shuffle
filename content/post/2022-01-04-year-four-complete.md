@@ -33,15 +33,15 @@ I'm continually amazed and humbled that so many people stop by each day. It took
 
 And that doesn't even account for those of you who subscribe and are reading this in your inbox right now instead of your browser–you account for over 1.25 million e-mails this past year alone!
 
-As always, special thanks to those of you who have written to me with corrections, additional information, absolutely amazing "I was there" stories (especially my "[Where the Band Was](/categories/where-the-band-was/)" guest bloggers who gave me welcome writing reprieves from time to time–please drop me a line if you'd like to share your story), personal anecdotes, and alternative interpretations. That's been my absolute favorite part of these four years, and as a result I feel like I've learned at least as much as I've shared.
+As always, special thanks to those of you who have written to me with corrections, additional information, absolutely amazing "I was there" stories (especially my "[Where the Band Was](/shuffle/categories/where-the-band-was/)" guest bloggers who gave me welcome writing reprieves from time to time–please drop me a line if you'd like to share your story), personal anecdotes, and alternative interpretations. That's been my absolute favorite part of these four years, and as a result I feel like I've learned at least as much as I've shared.
 
 Extra special thanks to recurring guest-blogger Katy Crane, who kicked off a new *Two Faces* series recently and immediately notched two of the site's ten most popular posts of the year. I'm hopeful that we'll continue to enjoy her writing whenever her busy schedule allows.
 
 And my profound thanks to Lori Pierce, who appears in my inbox within minutes of a typo showing up in one of my essays (in other words, pretty much every day). She's my pro bono, ex post facto copy editor, and I am deeply grateful for her eagle eye and writer's voice.
 
-As mentioned above, today marks the end of the year-long [Kingdom of Days](/categories/kingdom-of-days/) series–but if you enjoy those, fear not: the series restarts tomorrow, with new events from 2021, repaired and fresh media, and new information turned up during my research this past year.
+As mentioned above, today marks the end of the year-long [Kingdom of Days](/shuffle/categories/kingdom-of-days/) series–but if you enjoy those, fear not: the series restarts tomorrow, with new events from 2021, repaired and fresh media, and new information turned up during my research this past year.
 
-In addition, I'll continue to spotlight an [original Springsteen song](/roll-of-the-dice-album-by-album/), [cover](/categories/cover-me/), or [team-up](/categories/meeting-across-the-river/) each day, health and work schedule permitting.
+In addition, I'll continue to spotlight an [original Springsteen song](/shuffle/roll-of-the-dice-album-by-album/), [cover](/shuffle/categories/cover-me/), or [team-up](/shuffle/categories/meeting-across-the-river/) each day, health and work schedule permitting.
 
 According to my tracking spreadsheet, I still have about 300 articles left to write before I bring this project to a close, so we've still got a long way to travel together. I hope you stick with me for the rest of the ride.
 

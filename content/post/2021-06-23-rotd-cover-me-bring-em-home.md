@@ -82,4 +82,4 @@ Like all great folk songs, Pete Seeger's patriotic anti-war song will continue t
 **First performed:** May 10, 2006 (Paris, France)<br>
 **Last performed:** November 14, 2006 (Sheffield, England)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

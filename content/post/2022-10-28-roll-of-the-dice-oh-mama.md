@@ -85,4 +85,4 @@ No one's going to put "Oh Mama" on heavy rotation, but it's a peak into the orig
 **First performed:** November 27, 1970 (Asbury Park, NJ)<br>
 **Last performed:** January 23, 1971 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

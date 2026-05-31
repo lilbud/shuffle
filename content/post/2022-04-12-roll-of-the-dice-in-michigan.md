@@ -76,4 +76,4 @@ Despite the roaring approval from the audience, Bruce never again brought out "I
 **First performed:** September 24, 1996 (Kalamazoo, MI)<br>
 **Last performed:** September 26, 1996 (Ann Arbor, MI)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

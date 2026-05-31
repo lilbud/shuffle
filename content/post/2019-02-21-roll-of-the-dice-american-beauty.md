@@ -106,4 +106,4 @@ So come on, Bruce: Bring "American Beauty" to the stage on your next tour. You c
 **First performed:** April 19, 2014 (soundcheck only)<br>
 **Last performed:** April 19, 2014 (soundcheck only)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -105,4 +105,4 @@ By the time Bruce embarked on another acoustic tour almost a decade later, he'd 
 **First performed:** January 10, 1996 (Detroit, MI)<br>
 **Last performed:** December 6, 1996 (Birmingham, AL)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

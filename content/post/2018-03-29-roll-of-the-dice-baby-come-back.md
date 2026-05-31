@@ -28,4 +28,4 @@ Lyrically and musically, however, “Baby Come Back” appears to be a true cast
 **Released:** N/A<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

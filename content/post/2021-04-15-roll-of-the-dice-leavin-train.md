@@ -113,4 +113,4 @@ I suspect not. That particular train has left the station, and with luck there's
 **First performed:** May 22, 2014 (Pittsburgh, PA)<br>
 **Last performed:** May 23, 2014 (Pittsburgh, PA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

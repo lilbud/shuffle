@@ -75,7 +75,7 @@ params:
 
 {{< youtube DsfZpMugrNk >}}
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zDetAqZt3KJhnUUiIdH7T8w)
+{{< youtube-playlist PLJTyL9twk3zDetAqZt3KJhnUUiIdH7T8w >}}
 
 **1999:** Bruce and the E Street Band play a warm-up set for the first U.S. leg of the Reunion Tour at Continental Airlines Arena in East Rutherford.<br>
 

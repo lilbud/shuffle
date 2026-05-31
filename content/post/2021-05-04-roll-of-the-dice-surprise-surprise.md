@@ -85,4 +85,4 @@ So let's hope Bruce can turn his brain off at night and sleep peacefully. He doe
 **First performed:** March 23, 2009 (Asbury Park, NJ)<br>
 **Last performed:** May 14, 2014 (Hershey, PA)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

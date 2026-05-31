@@ -186,4 +186,4 @@ Am I reading too much into the song? Perhaps–I admitted that possibility at th
 **First performed:** December 5, 2003 (Asbury Park, NJ)<br>
 **Last performed:** February 18, 2017 (Hunter Valley, Australia)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

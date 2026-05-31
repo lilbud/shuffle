@@ -167,4 +167,4 @@ As the genesis for *Letter to You*, "Last Man Standing" seems like a pretty good
 **First performed:** October 27, 2020 (Colts Neck, NJ)<br>
 **Last performed:** September 3, 2023 (East Rutherford, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

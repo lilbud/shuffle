@@ -124,6 +124,6 @@ Since then, "Hearts of Stone" has made a few more appearances at benefit perform
 **First performed:** November 26, 1988 (San Francisco, CA)<br>
 **Last performed:** January 17, 2015 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!
 
 (Thanks to friend of the blog Joseph Richardson for the setting me straight on the lead guitarist on the Southside version)

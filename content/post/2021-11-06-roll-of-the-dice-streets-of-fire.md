@@ -100,4 +100,4 @@ Don't listen. Just feel.
 **First performed:** May 23, 1978 (Buffalo, NY)<br>
 **Last performed:** September 11, 2016 (Pittsburgh, PA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

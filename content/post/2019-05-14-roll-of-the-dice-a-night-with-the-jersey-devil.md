@@ -103,4 +103,4 @@ Pretty clever, all in all, but it's hard to imagine an album that it would fit o
 **First performed:** October 31, 2012 (Rochester, NY)<br>
 **Last performed:** October 31, 2012 (Rochester, NY)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

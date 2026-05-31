@@ -122,4 +122,4 @@ Let's just enjoy the song as a light-hearted romp and laugh at the goofy self-mo
 **First performed:** September 26, 1991 (Asbury Park, NJ)<br>
 **Last performed:** November 16, 2019 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

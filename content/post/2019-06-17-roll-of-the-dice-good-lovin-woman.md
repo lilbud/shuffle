@@ -35,4 +35,4 @@ Ah, but that guitar solo just past the three-minute mark… that's another story
 **First performed:** August 14, 1970 (Richmond, VA)<br>
 **Last performed:** August 14, 1970 (Richmond, VA)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -137,4 +137,4 @@ I'm in love with "Queen of the Supermarket."
 **Recorded** 2007-2008**Released:** *Working on a Dream* (2009)<br>
 **First performed:** May 6, 2009 (Stockholm, Sweden)**Last performed:** May 7, 2013 (Turku, Finland)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

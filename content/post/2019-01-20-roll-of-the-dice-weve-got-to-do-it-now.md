@@ -63,4 +63,4 @@ But we'll probably never know, and it would rank pretty close to the bottom of t
 **First performed:** November 27, 1970 (Asbury Park, NJ)<br>
 **Last performed:** November 27, 1970 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

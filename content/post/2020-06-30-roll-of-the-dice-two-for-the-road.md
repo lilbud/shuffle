@@ -84,4 +84,4 @@ I'd consider the odds to be pretty long against us hearing it again. Then again,
 **First performed:** August 1, 2005 (Cincinnati, OH)<br>
 **Last performed:** May 22, 2014 (Pittsburgh, PA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

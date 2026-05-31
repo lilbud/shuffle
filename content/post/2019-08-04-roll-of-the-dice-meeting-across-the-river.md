@@ -149,4 +149,4 @@ In 2008 (and again for an encore a year and a half later), Richard Davis reprise
 **First performed:** September 26, 1975 (Iowa City, IA)<br>
 **Last performed:** March 28, 2016 (New York City, NY)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -101,7 +101,7 @@ Later that night, Bruce drops by The Stone Pony, where he joins Nils Lofgren on 
 
 {{< youtube CTFBqCPufKI >}}
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zCBQ5Ubc2UseuhTWCpTHdra)
+{{< youtube-playlist PLJTyL9twk3zCBQ5Ubc2UseuhTWCpTHdra >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/08/The_Province_2002_08_21_27.jpg.webp)
 
@@ -123,7 +123,7 @@ Later that night, Bruce drops by The Stone Pony, where he joins Nils Lofgren on 
 
 {{< youtube 2n57Eaa7-JA >}}
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zCcvUAzO5HdDsCOKZGQrZ2G)
+{{< youtube-playlist PLJTyL9twk3zCcvUAzO5HdDsCOKZGQrZ2G >}}
 
 **2018:** *Springsteen on Broadway* continues its theatrical run at the Walter Kerr Theater in New York City.<br>
 

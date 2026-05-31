@@ -116,4 +116,4 @@ But he also tried giving "Rendezvous" to The Knack in 1978, offering the band a 
 **First performed:** August 1, 1976 (Red Bank, NJ)<br>
 **Last performed:** November 16, 2019 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

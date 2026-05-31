@@ -99,4 +99,4 @@ Bruce figured that out early on, and that's why we connect to his music on such 
 **First performed:** November 6, 2023(New York City, NY)<br>
 **Last performed:** November 6, 2023 (New York City, NY)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

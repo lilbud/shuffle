@@ -58,4 +58,4 @@ The 2016 River Tour was a missed opportunity to give "The Time That Never Was" t
 **Released:** *The River: Outtakes* (2015)<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

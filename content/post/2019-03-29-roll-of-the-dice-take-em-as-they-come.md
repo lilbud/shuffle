@@ -128,4 +128,4 @@ And that last time, at Hyde Park–they *nailed* it (even if Bruce truncated the
 **First performed:** June 15, 1999 (Offenbach, Germany)<br>
 **Last performed:** July 14, 2012 (London, England)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

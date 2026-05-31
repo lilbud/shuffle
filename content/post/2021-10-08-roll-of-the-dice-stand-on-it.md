@@ -112,4 +112,4 @@ Although it's become pretty rare these days, "Stand On It" still makes appearanc
 **First performed:** August 31, 1985 (East Rutherford, NJ)<br>
 **Last performed:** April 22, 2014 (Pittsburgh, PA)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

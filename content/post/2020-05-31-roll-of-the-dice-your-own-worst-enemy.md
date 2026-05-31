@@ -134,4 +134,4 @@ Bruce performed "Your Own Worst Enemy" twice since, each time acoustic. I suspec
 **First performed:** October 10, 2007 (East Rutherford, NJ)<br>
 **Last performed:** November 4, 2011 (Pittsburgh, PA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

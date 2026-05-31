@@ -172,4 +172,4 @@ Will we hear from "Meet Me in the City" again? That remains to be seen–but if 
 **First performed:** December 19, 2015 (New York City, NY)<br>
 **Last performed:** July 28, 2016 (Oslo, Norway)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -74,4 +74,4 @@ The irony of "You've Got It" is that it ain't got it.
 **First performed:** July 24, 2012 (Bergen, Norway)<br>
 **Last performed:** July 24, 2012 (Bergen, Norway)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

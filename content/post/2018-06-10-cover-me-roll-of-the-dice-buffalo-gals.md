@@ -57,4 +57,4 @@ It's hard to say why "Buffalo Gals" became such an American classic, but with pe
 **First performed:** April 20, 2006 (Asbury Park, NJ)<br>
 **Last performed:** June 29, 2006 (Saratoga Springs, NY)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

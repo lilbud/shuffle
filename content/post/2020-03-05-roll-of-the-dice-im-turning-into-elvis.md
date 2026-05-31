@@ -82,4 +82,4 @@ But "I'm Turning Into Elvis" was where it started. One wonders just how many oth
 **First performed:** April 5, 1995 (New York City, NY)<br>
 **Last performed:** November 19, 1996 (Memphis, TN)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

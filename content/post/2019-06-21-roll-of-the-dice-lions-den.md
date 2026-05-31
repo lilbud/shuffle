@@ -118,4 +118,4 @@ Only once in the post-Reunion era did "Lion's Den" get an outing beyond the Penn
 **First performed:** June 3, 1999 (Paris, France)<br>
 **Last performed:** November 1, 2012 (University Park, PA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

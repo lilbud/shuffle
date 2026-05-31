@@ -96,4 +96,4 @@ On vinyl and on stage, "Highway 29" is always a solo Bruce Springsteen performan
 **First performed:** November 21, 1995 (New Brunswick, NJ)<br>
 **Last performed:** November 8, 2005 (Philadelphia, PA)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

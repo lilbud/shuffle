@@ -166,4 +166,4 @@ In any arrangement, in any setting, "Atlantic City" remains one of Bruce's crown
 **First performed:** June 29, 1984 (St. Louis, MO)<br>
 **Last performed:** September 3, 2023 (East Rutherford, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

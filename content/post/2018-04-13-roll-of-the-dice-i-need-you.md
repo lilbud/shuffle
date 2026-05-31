@@ -41,4 +41,4 @@ It's pretty standard "that's all right with me" romantic territory for Bruce, bu
 **Never released**<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -188,4 +188,4 @@ Bruce's vocals are more gruff in the filmed version as well. Some might like tha
 **First performed:** April 2019<br>
 **Last performed:** April 2019<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

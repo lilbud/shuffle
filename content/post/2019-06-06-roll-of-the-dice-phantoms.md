@@ -88,4 +88,4 @@ Miles to go is miles away.
 **First performed:** June 13, 1973 (Binghamton, NY)<br>
 **Last performed:** June 13, 1973 (Binghamton, NY)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

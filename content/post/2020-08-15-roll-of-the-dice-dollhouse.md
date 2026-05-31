@@ -130,4 +130,4 @@ Not only did that excised verse break the song's spell by abandoning the metapho
 **First performed:** April 24, 1999 (Vienna, Austria)<br>
 **Last performed:** April 25, 1999 (Vienna, Austria)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

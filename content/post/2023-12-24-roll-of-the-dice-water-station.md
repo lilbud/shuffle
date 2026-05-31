@@ -188,4 +188,4 @@ It was the first public performance of the group who would someday be dubbed The
 **First performed:** September 9, 1972 (Highlands, NJ)<br>
 **Last performed:** September 9, 1972 (Highlands, NJ)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries coming soon! (I hope)
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries coming soon! (I hope)

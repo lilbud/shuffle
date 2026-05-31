@@ -138,4 +138,4 @@ Like "[Girls in Their Summer Clothes]({{< relref "2019-02-17-roll-of-the-dice-gi
 **First performed:** August 31, 2003 (East Rutherford, NJ)<br>
 **Last performed:** July 23, 2013 (Cardiff, Wales)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

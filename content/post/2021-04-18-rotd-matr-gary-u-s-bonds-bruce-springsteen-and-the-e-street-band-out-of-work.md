@@ -95,4 +95,4 @@ Fans who caught it no doubt had the same laughing-through-tears reaction as radi
 **Released:** *On the Line* (1982)<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

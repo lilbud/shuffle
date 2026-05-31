@@ -127,4 +127,4 @@ As for our narrator, he rides in red, the color of blood and life, a nightly vis
 **First performed:** April 21, 2005 (Asbury Park, NJ)<br>
 **Last performed:** October 28, 2005 (Boston, MA)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

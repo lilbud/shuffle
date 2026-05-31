@@ -88,4 +88,4 @@ In music, as with all great art, we receive the way need to. So maybe it's Valen
 **First performed:** November 5, 2007 (Auburn Hill, MI)<br>
 **Last performed:** November 7, 2022 (New York, NY)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

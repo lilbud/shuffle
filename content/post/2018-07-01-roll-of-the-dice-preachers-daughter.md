@@ -109,4 +109,4 @@ Actually, we don't have to imagine–while Bruce has never performed "Preacher's
 **Never Released**<br>
 Never** **Performed** (in full, at least)
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

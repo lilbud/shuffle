@@ -120,4 +120,4 @@ Here's that rarely seen performance–to my knowledge, it's the only professiona
 **First performed:** November 21, 1995 (New Brunswick, NJ)<br>
 **Last performed:** September 25, 2009 (New York City, NY)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

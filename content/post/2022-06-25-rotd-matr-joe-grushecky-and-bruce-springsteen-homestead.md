@@ -111,4 +111,4 @@ It's been more than a decade since we've last seen them perform it together on s
 **First performed:** October 17, 1995 (Asbury Park, NJ)<br>
 **Last performed:** November 3, 2011 (Pittsburgh, PA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

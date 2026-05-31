@@ -181,4 +181,4 @@ Will we see "Jackson Cage" again? If history is any indication, probably. Althou
 **First performed:** October 3, 1980 (Ann Arbor, MI)<br>
 **Last performed:** July 28, 1980 (Oslo, Norway)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

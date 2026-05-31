@@ -135,4 +135,4 @@ Perhaps Bruce thought better of it once he heard it in the film, because "The Fu
 **First performed:** July 25, 2002 (Asbury Park, NJ)<br>
 **Last performed:** October 1, 2003 (New York City, NY)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

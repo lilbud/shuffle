@@ -85,4 +85,4 @@ But "Heaven's Wall" is a fascinating song that explores dominant themes in Bruce
 **First performed:** January 14, 2014 (New York City, NY)<br>
 **Last performed:** April 26, 2014 (Atlanta, GA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

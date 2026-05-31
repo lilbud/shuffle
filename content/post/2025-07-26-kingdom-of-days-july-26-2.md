@@ -114,7 +114,7 @@ params:
 
 {{< youtube Um5dq7Dbi2s >}}
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLu8VBPtfGX1B2bsJf7qah0yopao7siyQf)
+{{< youtube-playlist PLu8VBPtfGX1B2bsJf7qah0yopao7siyQf >}}
 
 **2016:** Bruce continues his Scandinavian mini-tour with a show in Trondheim, opening with the tour premiere of "Who'll Stop the Rain" and adding a mid-set tour premiere of "Radio Nowhere."<br>
 

@@ -118,4 +118,4 @@ Because, as he tells us before literally walking off into the sunset, there's al
 **First performed:** February 12, 2014 (Adelaide, Australia)<br>
 **Last performed:** February 12, 2014 (Adelaide, Australia)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

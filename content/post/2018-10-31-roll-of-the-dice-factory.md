@@ -107,4 +107,4 @@ The first is Bruce's opening number from a Labor Day concert in Philadelphia in 
 **First performed:** July 21, 1978 (Nashville, TN)<br>
 **Last performed:** September 5, 2016 (Virginia Beach, VA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

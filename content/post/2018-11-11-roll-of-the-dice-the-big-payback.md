@@ -97,4 +97,4 @@ So maybe Bruce will someday remember about "The Big Payback" and give Bobby a ch
 **Released:** *The Essential Bruce Springsteen* (2003)<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

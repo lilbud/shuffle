@@ -117,4 +117,4 @@ On the River Tour, "The Ties That Bind" was a setlist staple, but it disappeared
 **First Performed:** November 1, 1978 (Princeton, NJ)<br>
 **Last Performed:** June 24, 2023 (Gothenburg, Sweden)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

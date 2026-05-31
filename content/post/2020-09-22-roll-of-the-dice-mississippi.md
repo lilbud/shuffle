@@ -64,11 +64,11 @@ Bruce never recorded his adaptation of *Adventures of Huckleberry Finn*, but he 
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/09/mississippi_lyrics2.jpg.webp)
 
-"Mississippi" is one of the many unrecorded, unreleased songs Bruce transcribed in his 1968 Notebook. Discover others in the series [here](/tags/1968-notebook/).
+"Mississippi" is one of the many unrecorded, unreleased songs Bruce transcribed in his 1968 Notebook. Discover others in the series [here](/shuffle/tags/1968-notebook/).
 
 **Mississippi**<br>
 **Never recorded**<br>
 **Never released**<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -68,4 +68,4 @@ The Honeymooners shares one other trait with "County Fair:" the crickets in "Cou
 **Recorded** February 22, 1987**Released:** *Tracks* (1998)<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

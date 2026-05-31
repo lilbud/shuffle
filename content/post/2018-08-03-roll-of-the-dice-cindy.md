@@ -90,4 +90,4 @@ So yeah, we're in full-on creep mode now.
 **Released:** *The Ties That Bind: The River Collection* (2015)<br>
 **Never performed live**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

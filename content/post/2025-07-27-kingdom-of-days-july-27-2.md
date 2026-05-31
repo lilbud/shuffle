@@ -105,7 +105,7 @@ params:
 
 {{< youtube ausUjJ4S-yU >}}
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zBRPYPYZJamzTxkxn8AOVX8)
+{{< youtube-playlist PLJTyL9twk3zBRPYPYZJamzTxkxn8AOVX8 >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/07/2008-07-27a.png.webp)
 

@@ -64,4 +64,4 @@ The Gotham Playboys (the core and inspiration of the Sessions Band) were the eve
 **First performed:** April 20, 2006 (Asbury Park, NJ)<br>
 **Last performed:** May 16, 2015 (New York City, NY)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

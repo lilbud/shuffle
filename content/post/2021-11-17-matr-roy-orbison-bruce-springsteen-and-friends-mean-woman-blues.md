@@ -38,7 +38,7 @@ Bruce shared vocals and took a prominent role in a few songs during the show, bu
 
 {{< youtube -kWZZ71yzas >}}
 
-That was a one-time-only performance of "Mean Woman Blues," but it was only one of a set list full of classics they played that night. Check out more *Black and White Night* performances [here](/tags/black-and-white-night/).
+That was a one-time-only performance of "Mean Woman Blues," but it was only one of a set list full of classics they played that night. Check out more *Black and White Night* performances [here](/shuffle/tags/black-and-white-night/).
 
 **Mean Woman Blues**<br>
 **First performed:** September 30, 1987 (Los Angeles, CA)<br>

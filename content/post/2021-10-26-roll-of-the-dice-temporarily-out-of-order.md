@@ -65,4 +65,4 @@ So let's keep our fingers crossed for a cleaner, clearer recording someday–it 
 **First performed:** May 23, 1970 (Richmond, VA)<br>
 **Last performed:** May 23, 1970 (Richmond, VA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

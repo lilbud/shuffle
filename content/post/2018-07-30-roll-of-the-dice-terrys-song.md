@@ -99,4 +99,4 @@ In concert, Bruce has played it only three times, and only by dedication or requ
 **First performed:** August 2, 2007 (Red Bank, NJ)<br>
 **Last performed:** February 8, 2014 (Perth, Australia)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

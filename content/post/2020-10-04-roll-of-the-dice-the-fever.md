@@ -163,4 +163,4 @@ I'll leave you with a rare solo electric piano performance of "The Fever" from B
 **First performed:** March 15, 1973 (Boston, MA)<br>
 **Last performed:** July 6, 2019 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

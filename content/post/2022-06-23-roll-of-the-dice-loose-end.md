@@ -92,6 +92,6 @@ Since then, "Loose End" has remained elusive, never missing an E Street Band Tou
 **First performed:** June 3, 1999 (Paris, France)<br>
 **Last performed:** September 9, 2016 (Philadelphia, PA)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!
 
 *I know the song is officially entitled "Loose Ends." I'm convinced it's a typo Bruce has never bothered to correct.

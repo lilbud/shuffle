@@ -120,4 +120,4 @@ With just Roy on keyboards and Bruce on guitar and harmonica (with a solo that B
 **First performed:** July 31, 1992 (East Rutherford, NJ)<br>
 **Last performed:** November 10, 1992 (Uniondale, NY)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

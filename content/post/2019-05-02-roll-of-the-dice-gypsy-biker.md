@@ -99,4 +99,4 @@ In the clip below, only days after Danny's passing, you can see and hear the int
 **First performed:** September 27, 2007 (Asbury Park, NJ)<br>
 **Last performed:** May 5, 2009 (Charlottesville, VA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

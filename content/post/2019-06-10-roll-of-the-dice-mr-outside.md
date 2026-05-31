@@ -72,4 +72,4 @@ So I'll give Mr. Outside a pass. As has Bruce: he's never once performed it or m
 **Released:** *The Ties That Bind: The River Collection*<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

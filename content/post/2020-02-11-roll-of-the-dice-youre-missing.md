@@ -128,4 +128,4 @@ Other than that special one-off, Bruce seems to have retired "You're Missing" fr
 **First performed:** July 25, 2002 (Asbury Park, NJ)<br>
 **Last performed:** September 11, 2016 (Pittsburgh, PA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

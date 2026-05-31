@@ -70,7 +70,7 @@ params:
 
 {{< youtube 2Pi79S-DHxg >}}
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zAR7_v5okUXG4AZFkBe04Nc)
+{{< youtube-playlist PLJTyL9twk3zAR7_v5okUXG4AZFkBe04Nc >}}
 
 **2005:** Bruce plays his final European solo acoustic show at ICC Berlin, where Bruce tour premieres "Sinaloa Cowboys" and Wolfgang Niedecken guest-stars for the tour premiere of "Hungry Heart."<br>
 
@@ -88,7 +88,7 @@ params:
 
 {{< youtube Ul0XCTeJx_o >}}
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJ3gKh8Ty5pZMnACTqJThy_0Ge7B3hKft)
+{{< youtube-playlist PLJ3gKh8Ty5pZMnACTqJThy_0Ge7B3hKft >}}
 
 {{< youtube Xg7tlh-H6_Y >}}
 

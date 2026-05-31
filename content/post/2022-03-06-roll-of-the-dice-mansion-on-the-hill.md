@@ -141,4 +141,4 @@ And as for the original Mansion on the Hill, it still stands in its original loc
 **First performed:** June 29, 1984 (St. Paul, MN)<br>
 **Last performed:** February 7, 2016 (Hollywood, FL)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

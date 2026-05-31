@@ -74,4 +74,4 @@ In the end both Dr. Zoom and the Sonic Boom and "Lady of Boston" are historical 
 **First performed:** May 15, 1971 (Union, NJ)<br>
 **Last performed:** May 15, 1971 (Union, NJ)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

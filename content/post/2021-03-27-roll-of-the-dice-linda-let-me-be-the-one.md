@@ -99,4 +99,4 @@ But while Bruce may have kept "Linda" in the vault until 1998, he liberated her 
 **First performed:** April 29, 2014 (Sunrise, FL)<br>
 **Last performed:** April 29, 2014 (Sunrise, FL)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

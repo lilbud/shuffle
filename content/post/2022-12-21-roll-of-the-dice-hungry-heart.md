@@ -192,4 +192,4 @@ Bruce released that version as an official single that year, too. What made him 
 **First performed:** October 18, 1980 (St. Louis, MO)<br>
 **Last performed:** April 7, 2023 (Baltimore, MD)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -84,4 +84,4 @@ In the years since, "Empty Sky" has been essentially relegated to the history bo
 **First performed:** July 19, 2002 (Colts Neck, NJ)<br>
 **Last performed:** July 14, 2012 (London, England)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -72,4 +72,4 @@ After the Reunion tour, the song pretty much disappeared, appearing only 5 times
 **First Performed:** April 20, 1999 (Milan)<br>
 **Last Performed:** May 14, 2016 (Barcelona)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -78,4 +78,4 @@ Bruce doesn't need to (and almost certainly won't) bring this one back in concer
 **First performed:** May 23, 1978 (Buffalo, NY)<br>
 **Last performed:** August 2, 1988 (Madrid, Spain)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

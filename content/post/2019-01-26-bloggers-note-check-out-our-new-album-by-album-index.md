@@ -20,7 +20,7 @@ params:
 ---
 I'm pleased to announce a new feature of the site–one that several of you have written me to request:
 
-We now have an [Album-by-Album Index](/roll-of-the-dice-album-by-album/) for the *Roll of the Dice* series, added to our top menu.
+We now have an [Album-by-Album Index](/shuffle/roll-of-the-dice-album-by-album/) for the *Roll of the Dice* series, added to our top menu.
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/01/albums.jpg.webp)
 

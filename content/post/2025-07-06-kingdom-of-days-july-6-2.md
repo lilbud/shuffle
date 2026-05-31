@@ -62,15 +62,15 @@ params:
 
 {{< youtube 2Epn-TJSqIM >}}
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zB3A7RZuw2uFaPLaMNz2oOs)
+{{< youtube-playlist PLJTyL9twk3zB3A7RZuw2uFaPLaMNz2oOs >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/06/Sunday_Mirror_1985_07_07_3-scaled.jpg.webp)
 
 **1989:** *Nebraska* is certified platinum and *Darkness on the Edge of Town* is certified double platinum by the Recording Industry Association of America.<br>
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=OLAK5uy_mP8T22kYL-tavvs0Mrd9UeFWZK2kUH1_Y)
+{{< youtube-playlist OLAK5uy_mP8T22kYL-tavvs0Mrd9UeFWZK2kUH1_Y >}}
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=OLAK5uy_lDjjM6fhv8UAF1WLd5MyGr39PsIy3DXjs)
+{{< youtube-playlist OLAK5uy_lDjjM6fhv8UAF1WLd5MyGr39PsIy3DXjs >}}
 
 **1992:** Bruce and his new touring band kick off a five-night stand at Wembley Arena in London, the last stand of the European leg of World Tour 1992. The setlist features a rare "With Every Wish."<br>
 

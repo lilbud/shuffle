@@ -87,11 +87,11 @@ params:
 
 **2003:** Night Two in Gothenburg on the Rising Tour.<br>
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLu8VBPtfGX1CvQqNk_hSrxz1tlmF6MKNa)
+{{< youtube-playlist PLu8VBPtfGX1CvQqNk_hSrxz1tlmF6MKNa >}}
 
 **2005:** The Devils & Dust Tour heads north to Copenhagen, where Bruce tour premieres "Straight Time," "Spirit in the Night," and "Wild Billy's Circus Story."<br>
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLu8VBPtfGX1D-h5b2aQCFM2wJZ8n-7x-2)
+{{< youtube-playlist PLu8VBPtfGX1D-h5b2aQCFM2wJZ8n-7x-2 >}}
 
 **2006:** Bruce opens with the debut of a new song at his Seeger Sessions show in Madison Square Garden: "American Land." This is the performance that is included on the *American Land* edition of *We Shall Overcome: The Seeger Sessions*.<br>
 
@@ -103,7 +103,7 @@ params:
 
 **2010:** Bruce releases *London Calling: Live in Hyde Park*.<br>
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJ3gKh8Ty5pZMnACTqJThy_0Ge7B3hKft)
+{{< youtube-playlist PLJ3gKh8Ty5pZMnACTqJThy_0Ge7B3hKft >}}
 
 **2012:** Bruce and the E Street Band continue the Wrecking Ball Tour's mini-leg through England with a show at Ethiad Stadium in Manchester, where Curt Ramm takes a header to the stage during his solo on "Twist and Shout," to the amazement and amusement of Bruce, who has trouble keeping his composure for the rest of the song.<br>
 

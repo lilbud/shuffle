@@ -46,4 +46,4 @@ But let's not hold that against him. Written and performed at the tender age of 
 **First performed:** July 17, 1970 (Asbury Park, NJ)<br>
 **Last performed:** October 11, 1970 (Richmond, VA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

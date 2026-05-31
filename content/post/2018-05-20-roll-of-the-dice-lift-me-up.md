@@ -76,4 +76,4 @@ But I still maintain that to appreciate the song fully, watch it in context with
 **First performed:** July 31, 2005 (Columbus, OH)<br>
 **Last performed:** July 31, 2005 (Columbus, OH)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

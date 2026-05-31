@@ -82,7 +82,7 @@ params:
 
 **1975:** Bruce's legendary Bottom Line stand continues with a second night of two shows.<br>
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zCbJCnCimF1D6g8Y00aaUtv)
+{{< youtube-playlist PLJTyL9twk3zCbJCnCimF1D6g8Y00aaUtv >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/1975-08-14.png.webp)
 
@@ -112,7 +112,7 @@ The show itself is a scorcher–literally, with the temperature topping 100 degr
 
 {{< videopress id=AgypE4CD >}}
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zByePnIHPj0gzfR8gjaiLYi)
+{{< youtube-playlist PLJTyL9twk3zByePnIHPj0gzfR8gjaiLYi >}}
 
 You'd be forgiven for thinking nothing else happened in the news today–here's almost a half hour of newly uploaded news footage covering the event.
 

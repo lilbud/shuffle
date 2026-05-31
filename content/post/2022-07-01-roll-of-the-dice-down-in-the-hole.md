@@ -87,4 +87,4 @@ Regardless of the reason, it's effective–it keeps us at a distance and then dr
 **Released:** *High Hopes* (2014)<br>
 **Never performed**<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

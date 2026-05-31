@@ -104,4 +104,4 @@ And look how they turned out.
 **First performed:** July 2, 1989 (Long Branch, NJ)<br>
 **Last performed:** July 2, 1989 (Long Branch, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

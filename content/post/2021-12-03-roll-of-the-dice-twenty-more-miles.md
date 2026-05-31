@@ -43,4 +43,4 @@ So apologies for the lack of lyrical analysis today, but even if we could make o
 **First performed:** April 18, 1970 (Toms River, NJ)<br>
 **Last performed:** August 14, 1970 (Richmond, VA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

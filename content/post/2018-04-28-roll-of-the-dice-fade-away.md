@@ -87,4 +87,4 @@ When Bruce dropped the full album concept after the U.S. leg, "Fade Away" lived 
 **First performed:** November 1, 1980 (Los Angeles, CA)<br>
 **Last performed:** July 28, 2016 (Oslo, Norway)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

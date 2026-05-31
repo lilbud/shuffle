@@ -86,4 +86,4 @@ No recording exists of "The Window" (that I know of, at least), but if Bruce tru
 **First performed:** Unknown (but believed to be May 1968, Red Bank, NJ)<br>
 **Last performed:** Unknown (but believed to be May 1968, Red Bank, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

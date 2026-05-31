@@ -61,4 +61,4 @@ But oh, that break–it's one of my favorite Springsteen moments from the Steel 
 **First performed:** January 13, 1970 (San Francisco, CA)<br>
 **Last performed:** June 13, 1970 (Bricktown, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

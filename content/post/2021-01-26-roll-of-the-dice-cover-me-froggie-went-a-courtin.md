@@ -60,4 +60,4 @@ He did play it a half-dozen times in 2006, though, and one of those (in Santande
 **First performed:** May 31, 2006 (Noblesville, IN)<br>
 **Last performed:** November 14, 2006 (Sheffield, England)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

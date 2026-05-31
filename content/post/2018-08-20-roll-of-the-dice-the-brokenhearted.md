@@ -108,4 +108,4 @@ It's hard to know how Bruce ultimately feels about "The Brokenhearted," because 
 **First performed:** December 7, 2010 (Asbury Park, NJ)<br>
 **Last performed:** December 7, 2010 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

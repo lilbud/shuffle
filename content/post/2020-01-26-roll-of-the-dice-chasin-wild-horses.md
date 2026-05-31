@@ -131,4 +131,4 @@ Bruce has been coy when asked whether we'll ever hear any of the *Western Stars*
 **First performed:** April 2019 (exact date unknown) (Colts Neck, NJ)<br>
 **Last performed:** April 2019 (exact date unknown) (Colts Neck, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

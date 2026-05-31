@@ -91,4 +91,4 @@ https://www.youtube.com/watch?v=ElFaxyfclRc
 **First performed:** January 13, 1970 (San Francisco, CA)<br>
 **Last performed:** January 23, 1971 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -78,7 +78,7 @@ params:
 
 {{< videopress id=KajRzjKw >}}
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLJTyL9twk3zDmiDy9PJp1SFjbNX61zqmq)
+{{< youtube-playlist PLJTyL9twk3zDmiDy9PJp1SFjbNX61zqmq >}}
 
 **2000:** The Reunion Tour enters its final month with the first of two nights at Philips Arena in Atlanta, where Clarence ad libs his usual line in "Tenth Avenue Freeze-Out" with a pretty funny replacement.<br>
 

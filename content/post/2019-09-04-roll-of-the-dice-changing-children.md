@@ -111,4 +111,4 @@ That particular super power was still years away.
 **First performed:** October 17, 1970 (West Long Branch, NJ)<br>
 **Last performed:** January 22, 1971 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -111,4 +111,4 @@ But it holds the distinction of kickstarting a new era in Bruce's career and cap
 **First performed:** May 6, 1992 (New York City, NY)<br>
 **Last performed:** February 16, 2017 (Brisbane, Australia)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

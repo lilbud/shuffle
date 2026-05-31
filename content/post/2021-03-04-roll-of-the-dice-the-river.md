@@ -202,4 +202,4 @@ But my favorite arrangement (right up there with the Reunion Tour) is Bruce's Ir
 **First performed:** September 21, 1979 (New York City, NY)<br>
 **Last performed:** July 25, 2021 (Monza, Italy)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

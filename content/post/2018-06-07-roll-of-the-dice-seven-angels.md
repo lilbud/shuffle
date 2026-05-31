@@ -60,4 +60,4 @@ Here's hoping we see an encore performance soon!
 **First performed:** May 18, 2014 (Uncasville, CT)<br>
 **Last performed:** May 18, 2014 (Uncasville, CT)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

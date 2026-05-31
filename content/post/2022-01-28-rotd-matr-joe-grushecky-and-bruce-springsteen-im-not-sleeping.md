@@ -82,4 +82,4 @@ Joe and Bruce's performances of "I'm Not Sleeping" are so great, in fact, that I
 **First performed:** November 4, 2010 (Pittsburgh, PA)<br>
 **Last performed:** May 23, 2014 (Pittsburgh, PA)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

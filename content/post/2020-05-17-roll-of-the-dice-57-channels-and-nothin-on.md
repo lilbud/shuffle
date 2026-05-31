@@ -152,4 +152,4 @@ TV was now a part of life rather than apart from it, and Bruce would shortly hav
 **First performed:** November 16, 1990 (Los Angeles, CA)<br>
 **Last performed:** June 26, 1993 (New York City, NY)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

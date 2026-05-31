@@ -137,4 +137,4 @@ There's something about the darkness, the emptiness, and of course that album-pe
 **First performed:** August 1, 1976 (Red Bank, NJ)<br>
 **Last performed:** September 3, 2023 (East Rutherford, NJ)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

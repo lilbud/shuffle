@@ -47,4 +47,4 @@ Bruce's lyrics are pretty spare–just two verses and a one-line chorus–and co
 **First performed:** November 27, 1970 (Asbury Park, NJ)<br>
 **Last performed:** January 22, 1971 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

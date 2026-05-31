@@ -163,4 +163,4 @@ In any arrangement, "Blood Brothers" continues to be an emotional rarity, long a
 **First performed:** April 4, 1995 (New York City, NY)<br>
 **Last performed:** January 22, 2017 (Perth, Australia)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -220,4 +220,4 @@ There's a reason why "She's the One" is one of Bruce's most performed songs, eve
 **First performed:** October 4, 1974 (New York City, NY)<br>
 **Last performed:** September 3, 2023 (East Rutherford, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

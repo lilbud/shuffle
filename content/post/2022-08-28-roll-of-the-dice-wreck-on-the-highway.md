@@ -113,4 +113,4 @@ Isn't that what Bruce's shows are all about, too?
 **First performed:** October 3, 1980 (Ann Arbor, MI)<br>
 **Last performed:** July 28, 2016 (Oslo, Norway)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

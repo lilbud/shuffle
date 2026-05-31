@@ -119,4 +119,4 @@ At this point in my Bruce concert career, I don't have a lot left on my chase li
 **First performed:** June 15, 1981 (San Francisco, CA)<br>
 **Last performed:** January 17, 2015 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

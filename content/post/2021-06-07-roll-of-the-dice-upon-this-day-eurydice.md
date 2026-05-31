@@ -71,4 +71,4 @@ It's pretty darn clever writing for an 18-year-old who claims to have been a poo
 **Never released**<br>
 **Never performed** (although possible in solo performances in 1968)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -84,4 +84,4 @@ While it's disappointing that our recording of Bruce and Gary's first "Jole Blon
 **First performed:** June 5, 1981 (London, England)<br>
 **Last performed:** February 21, 2017 (Christchurch, New Zealand)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

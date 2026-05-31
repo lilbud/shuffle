@@ -69,4 +69,4 @@ We're still waiting to hear "Life Itself" performed live; Bruce has yet to premi
 **Released:** "Life Itself" (single) (2008); *Working on a Dream* (2009)<br>
 **Never Performed**<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

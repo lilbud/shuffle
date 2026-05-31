@@ -102,4 +102,4 @@ Unfortunately, like most of the *Working on a Dream* album, the title track has 
 **First performed:** November 2, 2008 (Cleveland, OH)<br>
 **Last performed:** June 5, 2022 (East Rutherford, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

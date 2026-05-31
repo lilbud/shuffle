@@ -181,4 +181,4 @@ And we'll love you forever.
 **First performed:** April 23, 1973 (Hartford, CT)<br>
 **Last performed:** November 16, 2019 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

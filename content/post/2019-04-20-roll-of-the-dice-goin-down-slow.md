@@ -75,4 +75,4 @@ So we'll appreciate this recording for what it is: a remarkably clear and very l
 **First performed:** September 20, 1969 (Richmond, VA)<br>
 **Last performed:** April 18, 1970 (Toms River, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -150,4 +150,4 @@ I guess he's worked "All I'm Thinkin' About" out of his system.
 **First performed:** April 30, 2005 (Glendale, AZ)<br>
 **Last performed:** November 19, 2005 (Hollywood, FL)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

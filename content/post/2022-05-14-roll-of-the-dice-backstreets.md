@@ -207,4 +207,4 @@ To date, Bruce has performed "Backstreets" an even 500 times. Let's hope we get 
 **First performed:** August 8, 1975 (Akron, OH)<br>
 **Last performed:** September 3, 2023 (East Rutherford, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

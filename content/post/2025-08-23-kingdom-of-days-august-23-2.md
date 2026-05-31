@@ -62,7 +62,7 @@ params:
 
 {{< videopress id=d0dss9zd >}}
 
-[Watch on Youtube: Watch Video](https://www.youtube.com/embed?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent&listType=playlist&list=PLgBjbWHUxw7O2p30BtjkAesd1VCYcsu5O)
+{{< youtube-playlist PLgBjbWHUxw7O2p30BtjkAesd1VCYcsu5O >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/1978-08-23.png.webp)
 

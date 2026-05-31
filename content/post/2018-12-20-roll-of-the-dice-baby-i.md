@@ -66,4 +66,4 @@ Although it's believed that The Castiles performed the song often over the next 
 **First performed:** November 2019 (Colts Neck, NJ)<br>
 **Last performed:** November 2019 (Colts Neck, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

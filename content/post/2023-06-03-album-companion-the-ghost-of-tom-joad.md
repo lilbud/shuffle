@@ -92,4 +92,4 @@ So if you have the time, turn out the lights, draw the curtains, don your headph
 
 ---
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every month!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every month!

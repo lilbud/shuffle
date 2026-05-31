@@ -153,4 +153,4 @@ In a town where life-altering decisions are made by those far removed from conse
 **First performed:** February 19, 2003 (Somerville, MA)<br>
 **Last performed:** May 22, 2014 (Pittsburgh, PA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries coming soon!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries coming soon!

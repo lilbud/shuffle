@@ -163,4 +163,4 @@ My favorite performances, though, are when Bruce plays it alone at the piano. "I
 **First performed:** July 7, 1978 (Los Angeles, CA)<br>
 **Last performed:** August 23, 2016 (East Rutherford, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

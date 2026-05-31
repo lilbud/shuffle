@@ -116,4 +116,4 @@ But on a summer night at the shore, if you don't let the daylight steal your sou
 **First performed:** June 13, 1973 (Binghamton, NY)<br>
 **Last performed:** May 13, 2014 (Albany, NY)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -91,4 +91,4 @@ Bruce inevitably introduces the song by referencing its underlying arithmetic. A
 **First performed:** January 18, 2014 (Asbury Park, NJ)<br>
 **Last performed:** July 18, 2015 (Asbury Park, NJ)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

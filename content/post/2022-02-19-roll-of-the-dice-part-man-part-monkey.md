@@ -106,4 +106,4 @@ It's still a fun song, though, and one that acknowledges an elemental truth: you
 **First performed:** February 25, 1988 (Worcester, MA)<br>
 **Last performed:** August 19, 2008 (Hershey, PA)<br>
 
-Looking for your favorite Bruce song? Check our [full index](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

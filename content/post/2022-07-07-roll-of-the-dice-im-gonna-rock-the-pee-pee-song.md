@@ -54,4 +54,4 @@ He hasn't performed it since, but I bet he's glad he hasn't had to.
 **First performed:** December 8, 1992 (Philadelphia, PA)<br>
 **Last performed:** December 8, 1992 (Philadelphia, PA)<br>
 
-Looking for your favorite Bruce song? Check our full index [here](/roll-of-the-dice-album-by-album/). New entries every week!
+Looking for your favorite Bruce song? Check our full index [here](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!
