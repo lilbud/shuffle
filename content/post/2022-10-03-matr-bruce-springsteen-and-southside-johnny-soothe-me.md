@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-southside-johnny-soothe-me/
+- /matr-bruce-springsteen-and-southside-johnny-soothe-me/
 - /38355/
 layout: post
 date: 2022-10-03T12:00:00

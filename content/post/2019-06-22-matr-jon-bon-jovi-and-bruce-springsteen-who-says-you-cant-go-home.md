@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-jon-bon-jovi-and-bruce-springsteen-who-says-you-cant-go-home/
+- /matr-jon-bon-jovi-and-bruce-springsteen-who-says-you-cant-go-home/
 - /10640/
 layout: post
 date: 2019-06-22T12:00:00

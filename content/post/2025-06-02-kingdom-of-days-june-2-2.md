@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-june-2-2/
+- /kingdom-of-days-june-2/
 - /56994/
 layout: post
 date: 2025-06-02T11:00:08
-lastmod: 2026-02-15T18:39:36
-title: "June 2"
+lastmod: 2025-05-31T15:18:47
+title: "Kingdom of Days: June 2"
 slug: kingdom-of-days-june-2-2
 author: Ken Rosen
 description: "Darkness on the Edge of Town was released on this date in 1978! Also on this date: a historic radio performance, the only known performance of “A Night Like This,” and more. Great audio and video inside."
@@ -44,6 +45,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/06/darkness.jpg.webp
   post_id: 56994
 ---
+***New for 2025:** New entry for 1977*<br>
+
 **1973:** Bruce and the E Street Band open for Chicago at the Baltimore Civic Center. Prior to the show, Bruce stops by WHFS-FM in Bethesda for an interview and in-station performance.<br>
 
 {{< youtube NPAVhepem1A >}}
@@ -56,9 +59,9 @@ Listen to Bruce recall his memory of this show 36 years later:
 
 {{< youtube iBgH1Irpf2w >}}
 
-**1977:** Recording continues for Bruce's fourth album. Today the band works on "Rendezvous."<br>
+**1977:** Recording continues for Bruce's fourth album. Today the band works on "[Rendezvous]({{< relref "2021-05-08-roll-of-the-dice-rendezvous.md" >}})."<br>
 
-**1978:** A year and a day after recording sessions begin, Bruce releases his fourth studio album, *Darkness on the Edge of Town*. (Thanks to friend of the blog Andy Swanson for the *Billboard* scan!)<br>
+**1978:** A year and a day after recording sessions begin, Bruce releases his fourth studio album, [*Darkness on the Edge of Town*]({{< relref "2022-07-05-album-companion-darkness-on-the-edge-of-town.md" >}}). (Thanks to friend of the blog Andy Swanson for the *Billboard* scan!)<br>
 
 {{< youtube-playlist OLAK5uy_lDjjM6fhv8UAF1WLd5MyGr39PsIy3DXjs >}}
 
@@ -68,11 +71,11 @@ Listen to Bruce recall his memory of this show 36 years later:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/Bruce-Darkness-Review-Billboard-Jun-24-1978_0001-scaled.jpg.webp)
 
-That night, Bruce makes a return visit to the U.S. Naval Academy in Annapolis during the Darkness Tour, and the band tour premieres "Sea Cruise" for the occasion.
+That night, Bruce makes a return visit to the U.S. Naval Academy in Annapolis during the Darkness Tour, and the band tour premieres "[Sea Cruise]({{< relref "2018-04-08-cover-me-sea-cruise.md" >}})" for the occasion.
 
 {{< videopress id=BynSK9FG >}}
 
-**1981:** At Night Four at London's Wembley Arena, Link Wray guest-stars on "I Fought the Law." In attendance at tonight's show: Joe Jackson, Kim Carnes, Elvis Costello, Paul Cook of The Sex Pistols, all of The Pretenders except for Chrissie Hynde, all of the Ants except for Adam, and unnamed members of U2, The Psychedelic Furs, The Fabulous Thunderbirds, and The Members.<br>
+**1981:** At Night Four at London's Wembley Arena, Link Wray guest-stars on "[I Fought the Law]({{< relref "2022-04-01-matr-bruce-springsteen-and-don-henley-i-fought-the-law.md" >}})." In attendance at tonight's show: Joe Jackson, Kim Carnes, Elvis Costello, Paul Cook of The Sex Pistols, all of The Pretenders except for Chrissie Hynde, all of the Ants except for Adam, and unnamed members of U2, The Psychedelic Furs, The Fabulous Thunderbirds, and The Members.<br>
 
 {{< videopress id=ITvqaqNw >}}
 
@@ -88,7 +91,7 @@ That night, Bruce makes a return visit to the U.S. Naval Academy in Annapolis du
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/05/1989-06-02.jpg.webp)
 
-**1999:** Bruce and the E Street Band bring the Reunion Tour to Paris for the first of two nights. Elliott Murphy makes a guest appearance on "Hungry Heart."<br>
+**1999:** Bruce and the E Street Band bring the Reunion Tour to Paris for the first of two nights. Elliott Murphy makes a guest appearance on "[Hungry Heart]({{< relref "2022-12-21-roll-of-the-dice-hungry-heart.md" >}})."<br>
 
 {{< videopress id=uFeEsKEc >}}
 
@@ -102,7 +105,7 @@ That night, Bruce makes a return visit to the U.S. Naval Academy in Annapolis du
 
 {{< videopress id=HAYMQ1R9 >}}
 
-**2009:** The Working on a Dream Tour starts its Scandinavian swing with a show at Ratinan Stadion in Tampere, Finland. It may be June, but that doesn't stop Bruce from playing "Santa Claus is Comin' to Town" as a request, along with a wonderful cover of "The Dark End of the Street."<br>
+**2009:** The Working on a Dream Tour starts its Scandinavian swing with a show at Ratinan Stadion in Tampere, Finland. It may be June, but that doesn't stop Bruce from playing "[Santa Claus is Comin' to Town]({{< relref "2021-12-24-cover-me-santa-claus-is-comin-to-town.md" >}})" as a request, along with a wonderful cover of "[The Dark End of the Street]({{< relref "2019-07-22-cover-me-the-dark-end-of-the-street.md" >}})."<br>
 
 {{< videopress id=76xBJLMt >}}
 
@@ -112,7 +115,7 @@ That night, Bruce makes a return visit to the U.S. Naval Academy in Annapolis du
 
 {{< videopress id=iLz3cZeB >}}
 
-**2012:** The Wrecking Ball Tour makes a brief stop in Spain for a show at San Sebastian, opening with the tour premiere of "Who'll Stop the Rain."<br>
+**2012:** The Wrecking Ball Tour makes a brief stop in Spain for a show at San Sebastian, opening with the tour premiere of "[Who'll Stop the Rain]({{< relref "2023-07-12-cover-me-wholl-stop-the-rain.md" >}})."<br>
 
 {{< youtube oZ8IoszA4Y0 >}}
 

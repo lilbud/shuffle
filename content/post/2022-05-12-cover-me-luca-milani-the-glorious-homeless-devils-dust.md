@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-luca-milani-the-glorious-homeless-devils-dust/
+- /cover-me-luca-milani-the-glorious-homeless-devils-dust/
 - /34622/
 layout: post
 date: 2022-05-12T12:00:00

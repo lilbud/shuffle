@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-reason-brilliant-disguise/
+- /cover-me-the-reason-brilliant-disguise/
 - /2295/
 layout: post
 date: 2018-05-27T12:00:30

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-ramblin-gamblin-man/
+- /cover-me-ramblin-gamblin-man/
 - /17366/
 layout: post
 date: 2020-04-14T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-smith-and-bruce-springsteen-picture-hanging-blues/
+- /matr-patti-smith-and-bruce-springsteen-picture-hanging-blues/
 - /7525/
 layout: post
 date: 2019-02-22T13:00:03

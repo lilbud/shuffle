@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-jesse-malin-and-bruce-springsteen-meet-me-at-the-end-of-the-world/
+- /matr-jesse-malin-and-bruce-springsteen-meet-me-at-the-end-of-the-world/
 - /24351/
 layout: post
 date: 2021-01-14T13:00:00

@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-august-17-2/
+- /kingdom-of-days-august-17/
 - /59369/
 layout: post
 date: 2025-08-17T11:00:33
-lastmod: 2026-05-14T00:03:30
-title: "August 17"
+lastmod: 2025-08-14T16:49:27
+title: "Kingdom of Days: August 17"
 slug: kingdom-of-days-august-17-2
 author: Ken Rosen
 description: "Bruce plays “I’m Goin’ Down” for the first time, wraps up his legendary 1975 stand at the Bottom Line, and more. Plus: a half-hour of 1992 Detroit soundcheck and performance footage!"
@@ -28,9 +29,11 @@ tags:
 categories:
 - "kingdom-of-days"
 params:
-  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/08/admin-ajax-78.jpg.webp
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/19750817_2_front.jpg.webp
   post_id: 59369
 ---
+***New for 2025:** Audio for 1975*<br>
+
 **1969:** Child reluctantly plays a gig at The Student Prince in Asbury Park. Why reluctantly? Because Woodstock was happening at the same time, and that's where the band wants to be–but they honor their commitment.<br>
 
 **1975:** Bruce and the E Street Band wrap up their legendary five-night stand at The Bottom Line in New York City with two final shows. The buzz from these shows will turbocharge Bruce's career and the remainder of the Born to Run Tour.<br>
@@ -41,7 +44,7 @@ params:
 
 {{< youtube-playlist PLsxNBNx2akeU6hH1IQ-_RzSrXz3-Te7tL >}}
 
-**1984:** The Born in the U.S.A. Tour's ten-night stand at the Brendan Byrne Arena in East Rutherford reaches Night Eight, a show notable for the first-ever performance of "I'm Goin' Down" and the tour premiere of "Follow That Dream."<br>
+**1984:** The Born in the U.S.A. Tour's ten-night stand at the Brendan Byrne Arena in East Rutherford reaches Night Eight, a show notable for the first-ever performance of "[I'm Goin' Down]({{< relref "1984-01-11-roll-of-the-dice-im-goin-down.md" >}})" and the tour premiere of "Follow That Dream."<br>
 
 {{< youtube _PJFou1o1JE >}}
 
@@ -56,6 +59,8 @@ params:
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/1992-08-17b.png.webp)
 
 **1999:** Bruce postpones a scheduled Reunion show in Detroit to the following month due to "scheduling conflicts."<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/1999-08-16.png.webp)
 
 **2003:** Bruce and the E Street Band play their second of only two Rising Tour stadium shows on the west coast, this one at Dodger Stadium in Los Angeles.<br>
 

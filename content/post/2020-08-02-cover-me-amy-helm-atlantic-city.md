@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-amy-helm-atlantic-city/
+- /cover-me-amy-helm-atlantic-city/
 - /19923/
 layout: post
 date: 2020-08-02T12:00:00

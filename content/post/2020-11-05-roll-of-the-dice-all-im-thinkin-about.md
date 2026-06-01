@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-all-im-thinkin-about/
+- /roll-of-the-dice-all-im-thinkin-about/
 - /22282/
 layout: post
 date: 2020-11-05T13:00:00

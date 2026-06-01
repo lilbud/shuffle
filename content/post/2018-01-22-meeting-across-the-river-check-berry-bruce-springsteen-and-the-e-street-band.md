@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-check-berry-bruce-springsteen-and-the-e-street-band/
+- /meeting-across-the-river-check-berry-bruce-springsteen-and-the-e-street-band/
 - /341/
 layout: post
 date: 2018-01-22T13:00:27

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-erie-canal/
+- /cover-me-erie-canal/
 - /13792/
 layout: post
 date: 2006-01-07T19:00:00

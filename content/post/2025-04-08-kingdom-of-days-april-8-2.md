@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-april-8-2/
+- /kingdom-of-days-april-8/
 - /56403/
 layout: post
 date: 2025-04-08T11:00:53
-lastmod: 2025-12-11T16:33:28
-title: "April 8"
+lastmod: 2025-03-29T02:11:38
+title: "Kingdom of Days: April 8"
 slug: kingdom-of-days-april-8-2
 author: Ken Rosen
 description: "Out of work during the pandemic, Bruce takes a side gig as a radio DJ. Plus: controversy ensues when Bruce cancels a Greensboro show in protest over discrimination in North Carolina,"
@@ -42,17 +43,19 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/04/myhomeyours.jpg.webp
   post_id: 56403
 ---
-**1976:** The second of two nights in Cleveland on the Chicken Scratch Tour features the last “When You Walk in the Room” for 33 years.<br>
+***New for 2025:** Video for 2014*<br>
+
+**1976:** The second of two nights in Cleveland on the Chicken Scratch Tour features the last "[When You Walk in the Room]({{< relref "2020-10-08-cover-me-when-you-walk-in-the-room.md" >}})" for 33 years.<br>
 
 {{< youtube rij7NJhcmoI >}}
 
-**1984:** Bruce sits in with Cats on a Smooth Surface at The Stone Pony in Asbury Park for four songs: “Proud Mary,” “Dirty Water,” “I’m Bad, I’m Nationwide,” and “Lucille.”<br>
+**1984:** Bruce sits in with Cats on a Smooth Surface at The Stone Pony in Asbury Park for four songs: "Proud Mary," "[Dirty Water,]({{< relref "2022-03-18-cover-me-dirty-water.md" >}})" "[I'm Bad, I'm Nationwide]({{< relref "2020-02-17-cover-me-im-bad-im-nationwide.md" >}})," and "[Lucille]({{< relref "1976-01-07-cover-me-lucille.md" >}}/)."<br>
 
 {{< youtube E0nGuxZTSNo >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/03/1984-04-08.jpg.webp)
 
-**1993:** At the second of two shows in Zurich, Bruce plays “Dancing in the Dark” for the first and only time this year and tour debuts “Rockin’ All Over the World.”<br>
+**1993:** At the second of two shows in Zurich, Bruce plays "[Dancing in the Dark]({{< relref "1984-01-13-roll-of-the-dice-dancing-in-the-dark.md" >}})" for the first and only time this year and tour debuts "Rockin' All Over the World."<br>
 
 {{< videopress id=D126GX2S >}}
 
@@ -60,7 +63,7 @@ params:
 
 {{< youtube I-FAIxCEA98 >}}
 
-**1999**: Bruce and the reunited E Street Band play their final rehearsal in Barcelona before the kick-off of the Reunion Tour the following day.<br>
+**1999:** Bruce and the reunited E Street Band play their final rehearsal in Barcelona before the kick-off of the Reunion Tour the following day.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/04/1999-04-08.jpg.webp)
 
@@ -76,11 +79,11 @@ params:
 
 {{< youtube-playlist PLJ3gKh8Ty5pZ8OwhV6DJIOhWfsxkP5F89 >}}
 
-**2008:** Night Two in Anaheim at the Honda Center for the Magic Tour, with Tom Morello making another guest appearance and “Thunder Road” serving as a rare set opener.<br>
+**2008:** Night Two in Anaheim at the Honda Center for the Magic Tour, with Tom Morello making another guest appearance and "Thunder Road" serving as a rare set opener.<br>
 
 {{< youtube ZNgu0Ai-5CU >}}
 
-**2009:** The Working on a Dream Tour moves on to Houston for a show at the Toyota Center, where Bruce tour premieres “Cadillac Ranch” and “It’s Hard to Be a Saint in the City.”<br>
+**2009:** The Working on a Dream Tour moves on to Houston for a show at the Toyota Center, where Bruce tour premieres "[Cadillac Ranch]({{< relref "2020-07-23-roll-of-the-dice-cadillac-ranch.md" >}})" and "[It's Hard to Be a Saint in the City]({{< relref "2011-01-09-roll-of-the-dice-its-hard-to-be-a-saint-in-the-city.md" >}}/)."<br>
 
 {{< youtube iLs5BY-Ih94 >}}
 
@@ -90,9 +93,9 @@ params:
 
 **2011:** Little Steven's Underground Garage airs Part 2 of The Bruce and Stevie Show. Absolutely essential listening for a fan of Bruce, Stevie, great music, and lifelong friendships.<br>
 
-[Watch Video](https://videopress.com/embed/1lqTkF5o?hd=1&loop=0&autoPlay=0&permalink=1)
+[Watch Video](https://videopress.com/embed/1lqTkF5o)
 
-**2014:** The High Hopes Tour resumes proper (minus Steve Van Zandt, who will miss most of this leg due to *Lilyhammer* filming conflicts) with a show at the USBank Arena in Cincinnati, where “Lost in the Flood” makes a rare appearance. News coverage and highlights below.<br>
+**2014:** The High Hopes Tour resumes proper (minus Steve Van Zandt, who will miss most of this leg due to *Lilyhammer* filming conflicts) with a show at the USBank Arena in Cincinnati, where "[Lost in the Flood]({{< relref "2011-01-05-roll-of-the-dice-lost-in-the-flood.md" >}}/)" makes a rare appearance. News coverage and highlights below.<br>
 
 {{< youtube EQ26Q42ntMw >}}
 
@@ -104,7 +107,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/04/2014-04-08.jpg.webp)
 
-**2016:** With two days’ notice, Bruce cancels his upcoming show in Greensboro in protest of the state’s adoption of a law discriminating against transgender people. Bruce’s decision generates increased news coverage and national discussion around an already controversial law.<br>
+**2016:** With two days' notice, Bruce cancels his upcoming show in Greensboro in protest of the state's adoption of a law discriminating against transgender people. Bruce's decision generates increased news coverage and national discussion around an already controversial law.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/04/2016-0408.jpg.webp)
 

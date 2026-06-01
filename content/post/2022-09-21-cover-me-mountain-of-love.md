@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-mountain-of-love/
+- /cover-me-mountain-of-love/
 - /37842/
 layout: post
 date: 2022-09-21T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-southern-sun/
+- /roll-of-the-dice-southern-sun/
 - /29185/
 layout: post
 date: 2011-01-27T13:00:00

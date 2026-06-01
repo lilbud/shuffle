@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-with-every-wish/
+- /roll-of-the-dice-with-every-wish/
 - /287/
 layout: post
 date: 2018-01-18T20:00:38

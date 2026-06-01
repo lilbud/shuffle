@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-do-you-love-me/
+- /cover-me-do-you-love-me/
 - /27326/
 layout: post
 date: 1976-01-18T19:00:00

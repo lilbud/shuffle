@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-mardi-gras-land-of-hope-and-dreams/
+- /cover-me-mardi-gras-land-of-hope-and-dreams/
 - /11631/
 layout: post
 date: 2020-11-18T13:00:00

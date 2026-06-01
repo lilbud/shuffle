@@ -1,6 +1,7 @@
 ---
 aliases:
 - /rotd-matr-joe-grushecky-and-bruce-springsteen-idiots-delight/
+- /rotd-matr-joe-grushecky-and-bruce-springsteen-idiots-delight/
 - /25187/
 layout: post
 date: 2021-03-12T13:00:00

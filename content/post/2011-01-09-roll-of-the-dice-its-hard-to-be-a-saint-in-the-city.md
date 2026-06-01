@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-its-hard-to-be-a-saint-in-the-city/
+- /roll-of-the-dice-its-hard-to-be-a-saint-in-the-city/
 - /4780/
 layout: post
 date: 2011-01-09T13:00:36

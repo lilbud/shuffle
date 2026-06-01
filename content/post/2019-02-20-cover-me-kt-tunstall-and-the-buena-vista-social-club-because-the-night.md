@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-kt-tunstall-and-the-buena-vista-social-club-because-the-night/
+- /cover-me-kt-tunstall-and-the-buena-vista-social-club-because-the-night/
 - /7768/
 layout: post
 date: 2019-02-20T13:00:12

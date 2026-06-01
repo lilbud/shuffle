@@ -1,6 +1,7 @@
 ---
 aliases:
 - /rotd-cover-me-bring-em-home/
+- /rotd-cover-me-bring-em-home/
 - /27624/
 layout: post
 date: 2006-01-18T19:00:00

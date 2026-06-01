@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-in-kansas/
+- /roll-of-the-dice-in-kansas/
 - /14218/
 layout: post
 date: 2019-12-16T10:30:00

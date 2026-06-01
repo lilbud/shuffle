@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-bruce-hornsby-robbin-thompson-lets-go-lets-go-lets-go/
+- /matr-bruce-springsteen-bruce-hornsby-robbin-thompson-lets-go-lets-go-lets-go/
 - /4626/
 layout: post
 date: 2018-09-26T12:00:10

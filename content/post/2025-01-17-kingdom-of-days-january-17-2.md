@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-17-2/
+- /kingdom-of-days-january-17/
 - /55605/
 layout: post
 date: 2025-01-17T12:00:13
 lastmod: 2025-11-09T04:55:47
-title: "January 17"
+title: "Kingdom of Days: January 17"
 slug: kingdom-of-days-january-17-2
 author: Ken Rosen
 description: "Bruce joins The Who on stage, plays a “surprise” Light of Day set, and more."

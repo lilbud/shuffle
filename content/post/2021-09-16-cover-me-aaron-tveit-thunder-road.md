@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-aaron-tveit-thunder-road/
+- /cover-me-aaron-tveit-thunder-road/
 - /29617/
 layout: post
 date: 2021-09-16T12:00:00

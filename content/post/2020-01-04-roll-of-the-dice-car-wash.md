@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-car-wash/
+- /roll-of-the-dice-car-wash/
 - /15193/
 layout: post
 date: 2020-01-04T13:00:00

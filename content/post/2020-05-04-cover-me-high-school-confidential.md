@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-high-school-confidential/
+- /cover-me-high-school-confidential/
 - /17931/
 layout: post
 date: 2020-05-04T12:00:00

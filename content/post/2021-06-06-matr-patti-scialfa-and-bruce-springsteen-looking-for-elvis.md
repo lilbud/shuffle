@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-scialfa-and-bruce-springsteen-looking-for-elvis/
+- /matr-patti-scialfa-and-bruce-springsteen-looking-for-elvis/
 - /27456/
 layout: post
 date: 2021-06-06T12:00:00

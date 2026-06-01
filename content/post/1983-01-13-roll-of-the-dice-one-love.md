@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-one-love/
+- /roll-of-the-dice-one-love/
 - /8491/
 layout: post
 date: 1983-01-13T19:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-patti-scialfa-and-bruce-springsteen-rose/
+- /meeting-across-the-river-patti-scialfa-and-bruce-springsteen-rose/
 - /1225/
 layout: post
 date: 2018-03-21T12:00:24

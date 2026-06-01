@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-eddie-vedder-one-step-up/
+- /cover-me-eddie-vedder-one-step-up/
 - /242/
 layout: post
 date: 2018-01-16T13:00:13

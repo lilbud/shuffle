@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-ronnie-spector-baby-i-love-you/
+- /meeting-across-the-river-bruce-springsteen-and-ronnie-spector-baby-i-love-you/
 - /4186/
 layout: post
 date: 2018-09-02T12:00:48

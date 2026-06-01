@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-upon-this-day-eurydice/
+- /roll-of-the-dice-upon-this-day-eurydice/
 - /27621/
 layout: post
 date: 2021-06-07T12:00:00

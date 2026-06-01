@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-ben-harper-my-fathers-house/
+- /cover-me-ben-harper-my-fathers-house/
 - /11635/
 layout: post
 date: 2019-08-10T12:00:00

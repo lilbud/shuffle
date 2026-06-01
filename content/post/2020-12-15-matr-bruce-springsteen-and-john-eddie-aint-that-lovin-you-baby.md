@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-john-eddie-aint-that-lovin-you-baby/
+- /matr-bruce-springsteen-and-john-eddie-aint-that-lovin-you-baby/
 - /23738/
 layout: post
 date: 2020-12-15T13:00:00

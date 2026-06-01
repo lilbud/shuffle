@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-darlington-county/
+- /roll-of-the-dice-darlington-county/
 - /20598/
 layout: post
 date: 1984-01-05T19:00:00

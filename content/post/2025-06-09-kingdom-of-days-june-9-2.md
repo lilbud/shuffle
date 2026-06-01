@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-june-9-2/
+- /kingdom-of-days-june-9/
 - /57024/
 layout: post
 date: 2025-06-09T11:00:54
-lastmod: 2026-02-15T19:04:13
-title: "June 9"
+lastmod: 2025-06-01T16:23:10
+title: "Kingdom of Days: June 9"
 slug: kingdom-of-days-june-9-2
 author: Ken Rosen
 description: "On this date: Bruce Springsteen signs his first contract with Columbia Records and begins assembling the E Street Band! More highlights inside."
@@ -39,6 +40,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/05/19890609_front.jpg.webp
   post_id: 57024
 ---
+***New for 2025:** New entry for 1977*<br>
+
 **1967:** The Castiles play the Senior Farewell Dance at Freehold Regional High School.<br>
 
 **1972:** Bruce signs with Columbia Records, receiving an advance of $25,000 for his first album. He immediately begins assembling a band.<br>
@@ -77,7 +80,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/05/1989-06-09.jpg.webp)
 
-**2009:** Norwegian fans enjoy the tour premiere of "Back in Your Arms" at the first of two Working on a Dream shows in Bergen.<br>
+**2009:** Norwegian fans enjoy the tour premiere of "[Back in Your Arms]({{< relref "2019-11-10-roll-of-the-dice-back-in-your-arms.md" >}})" at the first of two Working on a Dream shows in Bergen.<br>
 
 {{< youtube -qv74yl6Ye0 >}}
 

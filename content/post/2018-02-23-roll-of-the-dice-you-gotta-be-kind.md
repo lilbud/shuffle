@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-you-gotta-be-kind/
+- /roll-of-the-dice-you-gotta-be-kind/
 - /819/
 layout: post
 date: 2018-02-23T13:00:41

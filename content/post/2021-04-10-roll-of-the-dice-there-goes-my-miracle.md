@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-there-goes-my-miracle/
+- /roll-of-the-dice-there-goes-my-miracle/
 - /25933/
 layout: post
 date: 2021-04-10T12:00:00

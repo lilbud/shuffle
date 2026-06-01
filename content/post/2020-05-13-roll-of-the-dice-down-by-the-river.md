@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-down-by-the-river/
+- /roll-of-the-dice-down-by-the-river/
 - /17942/
 layout: post
 date: 2020-05-13T12:00:00

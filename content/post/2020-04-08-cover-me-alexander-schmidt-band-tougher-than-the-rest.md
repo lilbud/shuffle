@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-alexander-schmidt-band-tougher-than-the-rest/
+- /cover-me-alexander-schmidt-band-tougher-than-the-rest/
 - /17537/
 layout: post
 date: 2020-04-08T12:00:00

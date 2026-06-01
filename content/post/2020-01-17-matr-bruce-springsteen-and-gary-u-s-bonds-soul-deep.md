@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-gary-u-s-bonds-soul-deep/
+- /matr-bruce-springsteen-and-gary-u-s-bonds-soul-deep/
 - /15412/
 layout: post
 date: 2020-01-17T13:00:00

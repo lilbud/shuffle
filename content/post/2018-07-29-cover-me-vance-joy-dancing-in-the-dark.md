@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-vance-joy-dancing-in-the-dark/
+- /cover-me-vance-joy-dancing-in-the-dark/
 - /3492/
 layout: post
 date: 2018-07-29T12:00:07

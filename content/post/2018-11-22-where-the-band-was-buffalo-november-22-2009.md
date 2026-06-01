@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-buffalo-november-22-2009/
+- /where-the-band-was-buffalo-november-22-2009/
 - /5687/
 layout: post
 date: 2018-11-22T13:30:05

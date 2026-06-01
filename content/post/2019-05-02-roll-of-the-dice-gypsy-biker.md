@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-gypsy-biker/
+- /roll-of-the-dice-gypsy-biker/
 - /9732/
 layout: post
 date: 2019-05-02T12:00:00

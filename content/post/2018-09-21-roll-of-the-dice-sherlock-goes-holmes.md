@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-sherlock-goes-holmes/
+- /roll-of-the-dice-sherlock-goes-holmes/
 - /4448/
 layout: post
 date: 2018-09-21T12:00:19

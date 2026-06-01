@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-solas-the-ghost-of-tom-joad/
+- /cover-me-solas-the-ghost-of-tom-joad/
 - /3026/
 layout: post
 date: 2018-07-08T12:00:44

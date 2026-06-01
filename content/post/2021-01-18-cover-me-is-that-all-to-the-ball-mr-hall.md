@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-is-that-all-to-the-ball-mr-hall/
+- /cover-me-is-that-all-to-the-ball-mr-hall/
 - /24645/
 layout: post
 date: 2021-01-18T13:00:00

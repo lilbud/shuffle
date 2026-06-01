@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-cover-me-bruce-springsteen-and-patti-scialfa-linda-paloma/
+- /matr-cover-me-bruce-springsteen-and-patti-scialfa-linda-paloma/
 - /3661/
 layout: post
 date: 2018-08-02T12:00:08

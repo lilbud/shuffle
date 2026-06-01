@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-run-through-the-jungle/
+- /cover-me-run-through-the-jungle/
 - /1416/
 layout: post
 date: 2018-04-05T12:00:10

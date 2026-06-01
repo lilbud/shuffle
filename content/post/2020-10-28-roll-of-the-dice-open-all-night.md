@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-open-all-night/
+- /roll-of-the-dice-open-all-night/
 - /21784/
 layout: post
 date: 2020-10-28T12:00:00

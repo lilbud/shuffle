@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-birds-of-a-feather-one-step-up/
+- /cover-me-birds-of-a-feather-one-step-up/
 - /26868/
 layout: post
 date: 2021-05-03T12:00:00

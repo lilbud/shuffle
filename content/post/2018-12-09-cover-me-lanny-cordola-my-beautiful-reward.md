@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-lanny-cordola-my-beautiful-reward/
+- /cover-me-lanny-cordola-my-beautiful-reward/
 - /6179/
 layout: post
 date: 2018-12-09T13:00:07

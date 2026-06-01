@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-sting-billy-joel-elton-john-and-friends-jailhouse-rock/
+- /matr-bruce-springsteen-sting-billy-joel-elton-john-and-friends-jailhouse-rock/
 - /13624/
 layout: post
 date: 2019-10-12T12:00:00

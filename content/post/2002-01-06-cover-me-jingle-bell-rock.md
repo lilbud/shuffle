@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jingle-bell-rock/
+- /cover-me-jingle-bell-rock/
 - /23070/
 layout: post
 date: 2002-01-06T19:00:00

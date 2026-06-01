@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-got-my-mojo-working/
+- /cover-me-got-my-mojo-working/
 - /7159/
 layout: post
 date: 2019-01-24T13:00:38

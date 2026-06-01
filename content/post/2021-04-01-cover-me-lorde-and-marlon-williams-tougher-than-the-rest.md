@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-lorde-and-marlon-williams-tougher-than-the-rest/
+- /cover-me-lorde-and-marlon-williams-tougher-than-the-rest/
 - /26375/
 layout: post
 date: 2021-04-01T13:02:00

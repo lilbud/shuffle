@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-confessin-the-blues/
+- /cover-me-confessin-the-blues/
 - /30172/
 layout: post
 date: 2021-10-11T12:00:00

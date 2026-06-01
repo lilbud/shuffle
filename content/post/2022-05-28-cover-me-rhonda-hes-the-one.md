@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-rhonda-hes-the-one/
+- /cover-me-rhonda-hes-the-one/
 - /35034/
 layout: post
 date: 2022-05-28T12:00:00

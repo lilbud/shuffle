@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-emily-barker-and-the-red-clay-halo-tougher-than-the-rest/
+- /cover-me-emily-barker-and-the-red-clay-halo-tougher-than-the-rest/
 - /11228/
 layout: post
 date: 2019-07-29T12:00:00

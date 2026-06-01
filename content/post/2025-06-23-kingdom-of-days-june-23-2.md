@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-june-23-2/
+- /kingdom-of-days-june-23/
 - /57178/
 layout: post
 date: 2025-06-23T11:00:59
-lastmod: 2026-02-15T21:43:05
-title: "June 23"
+lastmod: 2025-06-15T16:42:33
+title: "Kingdom of Days: June 23"
 slug: kingdom-of-days-june-23-2
 author: Ken Rosen
 description: "On this date: Bruce and the Sessions Band stop by Late Night with Conan O’Brien, the first “Fade Away” in almost a quarter-century, and more."
@@ -37,6 +38,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/06/Art-Front.jpg.webp
   post_id: 57178
 ---
+***New for 2025:** New entry for 1977*<br>
+
 **1973:** Bruce and his band play their second of three consecutive nights at Fat City in Seaside Heights, New Jersey.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/06/1973-06-23.jpg.webp)
@@ -45,7 +48,7 @@ params:
 
 **1974:** Bruce and the E Street Band play two shows on their third of three consecutive nights at Le Garage on Long Beach Island.<br>
 
-**1977:** Bruce and the E Street Band work on "Darkness on the Edge of Town" at Atlantic Studios in New York City.<br>
+**1977:** Bruce and the E Street Band work on "[Darkness on the Edge of Town]({{< relref "2016-01-07-roll-of-the-dice-darkness-on-the-edge-of-town.md" >}})" at Atlantic Studios in New York City.<br>
 
 **1978:** In town a day early for his Darkness Tour stop, Bruce drops by the Paramount Theater in Portland, Oregon to catch Warren Zevon's performance. He joins Zevon for "I'll Sleep When I'm Dead," the final encore of the evening.<br>
 
@@ -71,7 +74,7 @@ params:
 
 {{< youtube HmDVXvxXtkA >}}
 
-**2000:** Night Six of Ten at Madison Square Garden features a rare "4th of July, Asbury Park (Sandy)," as the Reunion Tour's last stand continues.<br>
+**2000:** Night Six of Ten at Madison Square Garden features a rare "[4th of July, Asbury Park (Sandy)]({{< relref "2019-04-26-roll-of-the-dice-4th-of-july-asbury-park-sandy.md" >}})," as the Reunion Tour's last stand continues.<br>
 
 {{< videopress id=uLYj1uhJ >}}
 
@@ -79,19 +82,19 @@ params:
 
 {{< youtube D3vUmI_08jo >}}
 
-**2005:** Bruce plays "Fade Away" for the first time in 24 years at his Devils & Dust show in Gothenburg.<br>
+**2005:** Bruce plays "[Fade Away]({{< relref "2018-04-28-roll-of-the-dice-fade-away.md" >}})" for the first time in 24 years at his Devils & Dust show in Gothenburg.<br>
 
 {{< videopress id=9KTxtENW >}}
 
 {{< youtube jolZKmU3SbM >}}
 
-**2006:** Conan O'Brien, Thomas Haden Church, Jimmy Fallon, and the Max Weinberg 7 join the Sessions Band in a rousing rendition of "Pay Me My Money Down" on *Late Night with Conan O'Brien.* Bruce also performs "Bring 'em Home."<br>
+**2006:** Conan O'Brien, Thomas Haden Church, Jimmy Fallon, and the Max Weinberg 7 join the Sessions Band in a rousing rendition of "[Pay Me My Money Down]({{< relref "2006-01-12-roll-of-the-dice-cover-me-pay-me-my-money-down.md" >}})" on *Late Night with Conan O'Brien.* Bruce also performs "[Bring 'em Home]({{< relref "2006-01-18-rotd-cover-me-bring-em-home.md" >}})."<br>
 
 {{< youtube fSt22GEPQGg >}}
 
 {{< youtube wXUiV6SwOBw >}}
 
-**2008:** Bruce tour premieres "I'm a Rocker" as an encore during his Magic Tour stop in Antwerp.<br>
+**2008:** Bruce tour premieres "[I'm a Rocker]({{< relref "2020-09-18-roll-of-the-dice-im-a-rocker.md" >}})" as an encore during his Magic Tour stop in Antwerp.<br>
 
 {{< youtube RuV3LKuwNw8 >}}
 

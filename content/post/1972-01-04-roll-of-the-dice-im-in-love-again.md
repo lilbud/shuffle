@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-im-in-love-again/
+- /roll-of-the-dice-im-in-love-again/
 - /18395/
 layout: post
 date: 1972-01-04T19:00:00

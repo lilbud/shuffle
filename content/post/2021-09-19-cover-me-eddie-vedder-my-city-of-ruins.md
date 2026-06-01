@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-eddie-vedder-my-city-of-ruins/
+- /cover-me-eddie-vedder-my-city-of-ruins/
 - /29664/
 layout: post
 date: 2021-09-19T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-ian-noe-born-in-the-u-s-a/
+- /cover-me-ian-noe-born-in-the-u-s-a/
 - /19664/
 layout: post
 date: 2020-08-14T12:00:00

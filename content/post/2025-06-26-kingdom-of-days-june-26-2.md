@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-june-26-2/
+- /kingdom-of-days-june-26/
 - /57181/
 layout: post
 date: 2025-06-26T11:00:06
-lastmod: 2026-02-15T21:52:22
-title: "June 26"
+lastmod: 2025-06-15T16:47:47
+title: "Kingdom of Days: June 26"
 slug: kingdom-of-days-june-26-2
 author: Ken Rosen
 description: "On this date: Bruce films the video for “American Skin (41 Shots),” plays his last show with the 1992-1993 band, and more."
@@ -39,7 +40,9 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/06/19930626_front.jpg.webp
   post_id: 57181
 ---
-**1972:** At 914 Sound Studios in New York, Bruce records "It's Hard to Be a Saint in the City" and "Mary Queen of Arkansas" (minus the harmonica, which will be overdubbed later).<br>
+***New for 2025:** New entry for 1973; video for 1992, 2013 and 2023; audio for 1993*<br>
+
+**1972:** At 914 Sound Studios in New York, Bruce records "[It's Hard to Be a Saint in the City]({{< relref "2011-01-09-roll-of-the-dice-its-hard-to-be-a-saint-in-the-city.md" >}}/)" and "[Mary Queen of Arkansas]({{< relref "2011-01-03-roll-of-the-dice-mary-queen-of-arkansas.md" >}}/)" (minus the harmonica, which will be overdubbed later).<br>
 
 {{< youtube B2Rju9FVE2M >}}
 
@@ -55,11 +58,11 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/06/1978-0626.jpg.webp)
 
-**1982:** Bruce joins Billy Chinnock on stage at Big Man's West for "Lucille."<br>
+**1982:** Bruce joins Billy Chinnock on stage at Big Man's West for "[Lucille]({{< relref "1976-01-07-cover-me-lucille.md" >}}/)."<br>
 
 {{< videopress id=Y4S1mwaJ >}}
 
-**1992:** "The Long Goodbye" makes its world debut at Night Two in Frankfurt, along with the tour premieres of "Dancing in the Dark" and "Follow That Dream."<br>
+**1992:** "[The Long Goodbye]({{< relref "2021-12-05-roll-of-the-dice-the-long-goodbye.md" >}})" makes its world debut at Night Two in Frankfurt, along with the tour premieres of "[Dancing in the Dark]({{< relref "1984-01-13-roll-of-the-dice-dancing-in-the-dark.md" >}})" and "Follow That Dream."<br>
 
 {{< youtube AuLvzIM27aE >}}
 
@@ -83,7 +86,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/1993-06-26.jpg.webp)
 
-**1999:** "Who'll Stop the Rain" makes its tour debut to open a Reunion show on a rainy night at Copenhagen's outdoor Parken Stadium. "Because the Night" tour debuts later in the set as well.<br>
+**1999:** "[Who'll Stop the Rain]({{< relref "2023-07-12-cover-me-wholl-stop-the-rain.md" >}})" makes its tour debut to open a Reunion show on a rainy night at Copenhagen's outdoor Parken Stadium. "Because the Night" tour debuts later in the set as well.<br>
 
 {{< youtube HCmXBvFmSYs >}}
 
@@ -101,7 +104,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/06/2000-06-26.jpg.webp)
 
-**2013:** Bruce and the E Street Band play a stellar Wrecking Ball show in Gijon, Spain, featuring the tour premiere of "Travelin' Band" and a rare performance of "Ain't Good Enough for You." For more highlights from this show, see my [*Where the Band Was* report]({{< relref "2018-06-26-where-the-band-was-gijon-june-26-2013.md" >}}) for this show.<br>
+**2013:** Bruce and the E Street Band play a stellar Wrecking Ball show in Gijon, Spain, featuring the tour premiere of "Travelin' Band" and a rare performance of "[Ain't Good Enough for You]({{< relref "2019-06-02-roll-of-the-dice-aint-good-enough-for-you.md" >}})." For more highlights from this show, see my [*Where the Band Was* report]({{< relref "2018-06-26-where-the-band-was-gijon-june-26-2013.md" >}}) for this show.<br>
 
 {{< youtube m82qt7tsC_U >}}
 
@@ -111,10 +114,16 @@ params:
 
 {{< youtube WidIrf5zxEs >}}
 
-**2021:** *Springsteen on Broadway* returns for a limited engagement at the St. James Theater in New York, reopening Broadway after more than a year of closure during the Great Pandemic. New stories and songs have been added, including "Fire," "American Skin (41 Shots)," and "I'll See You in My Dreams." In attendance tonight: Steven Van Zandt, Jon Landau, Governor Phil Murphy, Secretary Pete Buttigieg, Ridley Scott, Brian Williams, David Fricke, George Travis, and this blogger. See how many you can spot in this photo I took just before the house lights went down.<br>
+**2021:** *Springsteen on Broadway* returns for a limited engagement at the St. James Theater in New York, reopening Broadway after more than a year of closure during the Great Pandemic. New stories and songs have been added, including "[Fire]({{< relref "2020-08-05-roll-of-the-dice-fire.md" >}})," "American Skin (41 Shots)," and "[I'll See You in My Dreams]({{< relref "2021-11-26-roll-of-the-dice-ill-see-you-in-my-dreams.md" >}})." In attendance tonight: Steven Van Zandt, Jon Landau, Governor Phil Murphy, Secretary Pete Buttigieg, Ridley Scott, Brian Williams, David Fricke, George Travis, and this blogger. See how many you can spot in this photo I took just before the house lights went down.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/06/IMG_1273.jpg.webp)
 
-**2023:** "Racing in the Street" makes its tour premiere at Night Two of three at Ullevi in Gothenburg, Sweden.<br>
+**2023:** "[Racing in the Street]({{< relref "2021-10-03-roll-of-the-dice-racing-in-the-street.md" >}})" makes its tour premiere at Night Two of three at Ullevi in Gothenburg, Sweden.<br>
 
 {{< youtube I1lHcOnAtO0 >}}
+
+{{< youtube zuA8b8e6olM >}}
+
+{{< youtube aMGSvKqfruQ >}}
+
+{{< youtube bM3WlwtwC0A >}}

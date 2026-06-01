@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-highway-29/
+- /roll-of-the-dice-highway-29/
 - /1019/
 layout: post
 date: 2018-03-23T12:00:21

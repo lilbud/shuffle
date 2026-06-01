@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-bj-barham-highway-patrolman/
+- /cover-me-bj-barham-highway-patrolman/
 - /4532/
 layout: post
 date: 2018-09-22T12:00:16

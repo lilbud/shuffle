@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-august-6-2/
+- /kingdom-of-days-august-6/
 - /57911/
 layout: post
 date: 2025-08-06T11:00:02
-lastmod: 2026-05-12T20:48:02
-title: "August 6"
+lastmod: 2025-07-21T22:20:42
+title: "Kingdom of Days: August 6"
 slug: kingdom-of-days-august-6-2
 author: Ken Rosen
 description: "Bruce finishes “Born to Run,” says farewell to Jon Stewart on The Daily Show, shoots the video for “Leap of Faith” and records official live performances of “Nebraska,” “No Surrender,” and “Trapped.” Lots of video and audio today."
@@ -45,9 +46,11 @@ tags:
 categories:
 - "kingdom-of-days"
 params:
-  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/08/admin-ajax-72.jpg.webp
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/1984-08-06-east-rutherford-nj.jpg.webp
   post_id: 57911
 ---
+***New for 2025:** Audio for 1984*<br>
+
 **1966:** The Castiles play a teen dance at the Harris Gardens Firehouse in Union Beach, New Jersey.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/08/1966-0806.jpg.webp)
@@ -62,11 +65,11 @@ params:
 
 {{< videopress id=bk2bc9sJ >}}
 
-**1981:** On their day off during their three-night stand in Washington, DC, Bruce, Garry, and Clarence join former Steel Mill bandmate Robbin Thompson's band on stage at the Bayou Club, where they play "Carol."<br>
+**1981:** On their day off during their three-night stand in Washington, DC, Bruce, Garry, and Clarence join former Steel Mill bandmate Robbin Thompson's band on stage at the Bayou Club, where they play "[Carol]({{< relref "2022-02-17-cover-me-carol.md" >}})."<br>
 
 {{< videopress id=FLDOBpP5 >}}
 
-**1982:** Bruce joins Beaver Brown on stage at Big Man's West in Red Bank for four songs, including "Jersey Girl."<br>
+**1982:** Bruce joins Beaver Brown on stage at Big Man's West in Red Bank for four songs, including "[Jersey Girl.]({{< relref "1976-02-07-cover-me-roll-of-the-dice-jersey-girl.md" >}}/)"<br>
 
 {{< videopress id=xSF5lJF0 >}}
 
@@ -74,7 +77,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/1982-08-06b.png.webp)
 
-**1984:** At Night Two of ten at the Brendan Byrne Arena in East Rutherford on the Born in the U.S.A. Tour, "Spirit in the Night" makes its tour debut, and "No Surrender" is played in its third arrangement of the tour. This one will stick, and this specific performance (along with "Nebraska" from this show) will appear on the *Live 1975-85* box set. Additionally Bruce's performance of "Trapped" from this show will be released the following year on the *We Are the World* album, as well as on *The Essential Bruce Springsteen* in 2003. The entire show is available as part of Bruce's official archive series.<br>
+**1984:** At Night Two of ten at the Brendan Byrne Arena in East Rutherford on the Born in the U.S.A. Tour, "[Spirit in the Night]({{< relref "2011-01-08-roll-of-the-dice-spirit-in-the-night.md" >}}/)" makes its tour debut, and "[No Surrender]({{< relref "1984-01-09-roll-of-the-dice-no-surrender.md" >}})" is played in its third arrangement of the tour. This one will stick, and this specific performance (along with "[Nebraska]({{< relref "2018-04-16-roll-of-the-dice-nebraska.md" >}})" from this show) will appear on the *Live 1975-85* box set. Additionally Bruce's performance of "[Trapped]({{< relref "2018-08-05-roll-of-the-dice-cover-me-trapped.md" >}})" from this show will be released the following year on the *We Are the World* album, as well as on *The Essential Bruce Springsteen* in 2003. The entire show is available as part of Bruce's official archive series–get it here.<br>
 
 {{< youtube QB3KnqP7ee4 >}}
 
@@ -92,13 +95,13 @@ params:
 
 {{< youtube fz3aDOBCpLc >}}
 
-**1992:** It's Night Nine of eleven at the Brendan Byrne Arena in East Rutherford on World Tour 1992. Bruce dedicates "Human Touch" to Jeff Porcaro of Toto, who played drums on most of the *Human Touch* album and who passed away the previous day. The official video for "Leap of Faith" is filmed at this show, and the audio is released on the CD single.<br>
+**1992:** It's Night Nine of eleven at the Brendan Byrne Arena in East Rutherford on World Tour 1992. Bruce dedicates "[Human Touch]({{< relref "2019-08-09-roll-of-the-dice-human-touch.md" >}})" to Jeff Porcaro of Toto, who played drums on most of the *Human Touch* album and who passed away the previous day. The official video for "Leap of Faith" is filmed at this show, and the audio is released on the CD single.<br>
 
 {{< youtube ouWEZPkbznQ >}}
 
 {{< youtube coxsX4WjiNc >}}
 
-Also on this day, Entertainment Tonight airs a segment on Bruce's new *Rolling Stone* cover story, on sale today. (If you have the Album Collection Volume 2, you have that cover story in your bonus book.)
+Also on this day, Entertainment Tonight airs a segment on Bruce's new *Rolling Stone* cover story, on sale today. (If you have the Album Collection Volume 2, you have that cover story in your bonus book.) Watch the newly uploaded segment here:
 
 {{< youtube Z_Yn_n6QRWI >}}
 
@@ -106,7 +109,7 @@ Also on this day, Entertainment Tonight airs a segment on Bruce's new *Rolling S
 
 **1995:** Bruce guest stars with Bobby Bandiera at Cheers in Long Branch, New Jersey.<br>
 
-**1999:** Bruce opens Night Eleven of the fifteen-night opening stand of the U.S. Reunion Tour in East Rutherford with the first full-band "Adam Raised a Cain" in eleven years. Bruce also tour premieres "Be True" and ends the show with "Thunder Road" — the first time Bruce has played an additional song after "Land of Hope and Dreams" on this tour.<br>
+**1999:** Bruce opens Night Eleven of the fifteen-night opening stand of the U.S. Reunion Tour in East Rutherford with the first full-band "[Adam Raised a Cain]({{< relref "2022-07-03-roll-of-the-dice-adam-raised-a-cain.md" >}})" in eleven years. Bruce also tour premieres "[Be True]({{< relref "2020-12-02-roll-of-the-dice-be-true.md" >}})" and ends the show with "Thunder Road" — the first time Bruce has played an additional song after "[Land of Hope and Dreams]({{< relref "2018-01-05-roll-of-the-dice-land-of-hope-and-dreams.md" >}})" on this tour.<br>
 
 {{< videopress id=iaNIgJvr >}}
 
@@ -116,7 +119,7 @@ Also on this day, Entertainment Tonight airs a segment on Bruce's new *Rolling S
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/2003-08-06.png.webp)
 
-**2005:** At his solo acoustic show at the Fox Theater in St. Louis, Bruce plays "County Fair" for only the second (and final) time to date. Another surprise: the very first solo piano version of "Backstreets."<br>
+**2005:** At his solo acoustic show at the Fox Theater in St. Louis, Bruce plays "[County Fair]({{< relref "1983-01-11-roll-of-the-dice-county-fair.md" >}})" for only the second (and final) time to date. Another surprise: the very first solo piano version of "[Backstreets]({{< relref "2022-05-14-roll-of-the-dice-backstreets.md" >}})."<br>
 
 {{< youtube pR8iJlVO-P0 >}}
 

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-stray-bullet/
+- /roll-of-the-dice-stray-bullet/
 - /442/
 layout: post
 date: 2018-01-26T20:00:20

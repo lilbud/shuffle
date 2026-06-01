@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-purple-rain/
+- /cover-me-purple-rain/
 - /25181/
 layout: post
 date: 2021-03-03T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-drive-by-truckers-adam-raised-a-cain/
+- /cover-me-drive-by-truckers-adam-raised-a-cain/
 - /2775/
 layout: post
 date: 2018-06-26T12:00:07

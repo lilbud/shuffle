@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-manfred-mann-dancing-in-the-dark/
+- /cover-me-manfred-mann-dancing-in-the-dark/
 - /8405/
 layout: post
 date: 2019-04-09T12:00:00

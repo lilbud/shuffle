@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-dirty-water/
+- /cover-me-dirty-water/
 - /33338/
 layout: post
 date: 2022-03-18T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-pete-seeger-bruce-springsteen-and-friends-well-may-the-world-go/
+- /matr-pete-seeger-bruce-springsteen-and-friends-well-may-the-world-go/
 - /19924/
 layout: post
 date: 2020-08-03T12:00:00

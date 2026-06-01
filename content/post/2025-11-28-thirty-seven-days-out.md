@@ -1,6 +1,7 @@
 ---
 aliases:
 - /thirty-seven-days-out/
+- /thirty-seven-days-out/
 - /63756/
 layout: post
 date: 2025-11-28T16:30:00

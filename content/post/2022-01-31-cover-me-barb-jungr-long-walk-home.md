@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-barb-jungr-long-walk-home/
+- /cover-me-barb-jungr-long-walk-home/
 - /32674/
 layout: post
 date: 2022-01-31T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-tempe-november-5-1980-barry-rebos-story/
+- /where-the-band-was-tempe-november-5-1980-barry-rebos-story/
 - /30675/
 layout: post
 date: 2021-11-05T11:20:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-scialfa-and-bruce-springsteen-rainy-day-man/
+- /matr-patti-scialfa-and-bruce-springsteen-rainy-day-man/
 - /19060/
 layout: post
 date: 2020-06-18T12:00:00

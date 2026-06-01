@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-bruce-hornsby-you-sexy-thing/
+- /matr-bruce-springsteen-and-bruce-hornsby-you-sexy-thing/
 - /13047/
 layout: post
 date: 2019-09-22T12:00:00

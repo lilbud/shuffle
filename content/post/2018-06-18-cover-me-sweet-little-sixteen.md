@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sweet-little-sixteen/
+- /cover-me-sweet-little-sixteen/
 - /2611/
 layout: post
 date: 2018-06-18T12:00:17

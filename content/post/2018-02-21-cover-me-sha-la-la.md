@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sha-la-la/
+- /cover-me-sha-la-la/
 - /810/
 layout: post
 date: 2018-02-21T13:00:27

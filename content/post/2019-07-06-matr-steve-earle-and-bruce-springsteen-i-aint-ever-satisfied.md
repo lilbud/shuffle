@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-steve-earle-and-bruce-springsteen-i-aint-ever-satisfied/
+- /matr-steve-earle-and-bruce-springsteen-i-aint-ever-satisfied/
 - /10789/
 layout: post
 date: 2019-07-06T12:00:00

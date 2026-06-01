@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-tebo-new-york-city-serenade/
+- /cover-me-tebo-new-york-city-serenade/
 - /23731/
 layout: post
 date: 2020-12-14T13:00:00

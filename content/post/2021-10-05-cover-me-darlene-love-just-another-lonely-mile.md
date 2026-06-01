@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-darlene-love-just-another-lonely-mile/
+- /cover-me-darlene-love-just-another-lonely-mile/
 - /30012/
 layout: post
 date: 2021-10-05T12:00:00

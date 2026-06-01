@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-sam-moore-hold-on-im-comin/
+- /matr-bruce-springsteen-and-sam-moore-hold-on-im-comin/
 - /8767/
 layout: post
 date: 2019-04-24T12:00:00

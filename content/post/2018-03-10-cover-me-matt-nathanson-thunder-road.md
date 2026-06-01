@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-matt-nathanson-thunder-road/
+- /cover-me-matt-nathanson-thunder-road/
 - /1004/
 layout: post
 date: 2018-03-10T13:00:30

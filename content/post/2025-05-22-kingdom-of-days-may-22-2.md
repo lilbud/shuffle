@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-may-22-2/
+- /kingdom-of-days-may-22/
 - /56799/
 layout: post
 date: 2025-05-22T11:00:56
-lastmod: 2026-02-02T22:13:02
-title: "May 22"
+lastmod: 2025-05-05T01:04:03
+title: "Kingdom of Days: May 22"
 slug: kingdom-of-days-may-22-2
 author: Ken Rosen
 description: "Bruce serenades and conducts a sing-along from an Italian balcony, Joe Grushecky joins Bruce for a wildly unpredictable show in Pittsburgh, and more."
@@ -47,19 +48,23 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/05/anaheim2000.webp
   post_id: 56799
 ---
-**1971:** Three–count ’em–*three* Asbury Park shows on this date–first at 1am with the Red Hot Mammas, then an afternoon gig with The Sundance Blues Band at the Student Prince, followed by an evening show with the Red Hot Mammas at The Upstage. (Bruce actually plays a *fourth* show at 1am, but that’s technically the following day.)<br>
+***New for 2025:** New entry for 1979 and 2024; audio for 1988*<br>
 
-**1979:** Bruce and the E Street Band work on “Jackson Cage” at the Power Station in New York City.<br>
+**1971:** Three–count 'em–*three* Asbury Park shows on this date–first at 1am with the Red Hot Mammas, then an afternoon gig with The Sundance Blues Band at the Student Prince, followed by an evening show with the Red Hot Mammas at The Upstage. (Bruce actually plays a *fourth* show at 1am, but that's technically the following day.)<br>
 
-**1984:** Bruce and the E Street Band rehearse for the upcoming Born in the U.S.A. Tour at the former home of Big Man’s West in Red Bank.<br>
+**1979:** Bruce and the E Street Band work on "[Jackson Cage]({{< relref "2018-11-04-roll-of-the-dice-jackson-cage.md" >}})" at the Power Station in New York City.<br>
 
-**1988**: Night Four of five at the final U.S. stand for the Tunnel of Love Express Tour at Madison Square Garden. This show features the tour premiere of “Lonely Teardrops” as the final encore.<br>
+**1984:** Bruce and the E Street Band rehearse for the upcoming Born in the U.S.A. Tour at the former home of Big Man's West in Red Bank.<br>
+
+**1988:** Night Four of five at the final U.S. stand for the Tunnel of Love Express Tour at Madison Square Garden. This show features the tour premiere of "[Lonely Teardrops]({{< relref "2021-01-22-cover-me-lonely-teardrops.md" >}})" as the final encore.<br>
+
+{{< videopress id=NfdXRn6j >}}
 
 {{< youtube Ds9KR6GIIn0 >}}
 
 {{< youtube-playlist PLJTyL9twk3zD_0qbZ6tPm02uPd4dUaeRf >}}
 
-**1993:** Bruce’s World Tour 1993 makes a stop at The National Bowl in Milton Keynes, England.<br>
+**1993:** Bruce's World Tour 1993 makes a stop at The National Bowl in Milton Keynes, England.<br>
 
 {{< youtube rycHB4XH76w >}}
 
@@ -75,13 +80,15 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/05/1993-05-22-scaled.jpg.webp)
 
-**1997:** Bruce performs a solo acoustic show at Teatro Augusteo in Naples, Italy, but the true highlight from this date happens afterward: the crowd sticks around outside the theater and sings “O Sole Mio”(which Bruce performed briefly during the show), prompting Bruce to appear on the theater’s balcony with Kevin Buell to play and lead the crowd in a sing-along of “Thunder Road.” Watch this moment–it’s magical.<br>
+**1997:** Bruce performs a solo acoustic show at Teatro Augusteo in Naples, Italy, but the true highlight from this date happens afterward: the crowd sticks around outside the theater and sings "O Sole Mio"(which Bruce performed briefly during the show), prompting Bruce to appear on the theater's balcony with Kevin Buell to play and lead the crowd in a sing-along of "Thunder Road." Watch this moment–it's magical.<br>
 
 {{< youtube zij-yhyGwO4 >}}
 
 {{< youtube KsQcmfghM70 >}}
 
-**2000:** The E Street Band plays “Roll of the Dice” for the very first time and tour premieres “Gloria” at the second of two Reunion shows in Anaheim. This show is available as part of Bruce’s official archive series–get it here.<br>
+{{< videopress id=kQppxAQT >}}
+
+**2000:** The E Street Band plays "[Roll of the Dice]({{< relref "2020-01-18-roll-of-the-dice-roll-of-the-dice.md" >}})" for the very first time and tour premieres "[Gloria]({{< relref "2018-03-16-cover-me-gloria.md" >}})" at the second of two Reunion shows in Anaheim. This show is available as part of Bruce's official archive series–get it here.<br>
 
 {{< youtube mc6fmduuvNg >}}
 
@@ -95,6 +102,8 @@ params:
 
 {{< youtube 3dchRxgo_aE >}}
 
+{{< videopress id=OVXE0yul >}}
+
 **2008:** The second European leg of the Magic Tour kicks off with the first of three shows at RDS Arena in Dublin.<br>
 
 {{< youtube nmlnbQp2mtk >}}
@@ -103,9 +112,9 @@ params:
 
 {{< youtube EcX1ECHblrU >}}
 
-**2010**: Bruce and Patti perform at a benefit show (along with Jon Stewart) for Gateway Schools at the Nokia Theater in New York City.<br>
+**2010:** Bruce and Patti perform at a benefit show (along with Jon Stewart) for Gateway Schools at the Nokia Theater in New York City.<br>
 
-**2014:** Fresh off the High Hopes Tour, Bruce joins Joe Grushecky and The Houserockers for the first of two shows at Soldiers & Sailors Memorial Hall in Pittsburgh. The show features an eclectic mix of Bruce and Joe songs, featuring surprising acoustic performances of “Mary Queen of Arkansas,” “Two for the Road,” “Kingdom of Days,” “The Wall,” and “Incident on 57th Street,” along with the world premiere of “Leavin’ Train.”<br>
+**2014:** Fresh off the High Hopes Tour, Bruce joins Joe Grushecky and The Houserockers for the first of two shows at Soldiers & Sailors Memorial Hall in Pittsburgh. The show features an eclectic mix of Bruce and Joe songs, featuring surprising acoustic performances of "[Mary Queen of Arkansas]({{< relref "2011-01-03-roll-of-the-dice-mary-queen-of-arkansas.md" >}}/)," "[Two for the Road]({{< relref "2020-06-30-roll-of-the-dice-two-for-the-road.md" >}})," "[Kingdom of Days]({{< relref "2022-04-04-roll-of-the-dice-kingdom-of-days.md" >}})," "[The Wall]({{< relref "2024-09-04-roll-of-the-dice-the-wall.md" >}})," and "[Incident on 57th Street]({{< relref "2018-12-14-roll-of-the-dice-incident-on-57th-street.md" >}})," along with the world premiere of "[Leavin' Train]({{< relref "2021-04-15-roll-of-the-dice-leavin-train.md" >}})."<br>
 
 {{< youtube sOAq73Dv6_I >}}
 
@@ -125,12 +134,8 @@ params:
 
 **2018:** *Springsteen on Broadway* continues its theatrical run at the Walter Kerr Theater in New York City.<br>
 
-**2024:** Bruce opens a rainy show in Sunderland with the tour premiere of “Waitin’ on a Sunny Day.”<br>
+**2024:** Bruce opens a rainy show in Sunderland with the tour premiere of "[Waitin' on a Sunny Day.]({{< relref "2019-09-27-roll-of-the-dice-waitin-on-a-sunny-day.md" >}})" Buy or stream this show [here](https://www.nugs.net/live-download-of-bruce-springsteen-stadium-of-light-sunderland-uk-05-22-2024-mp3-flac-or-online-music-streaming/35844.html).<br>
 
 {{< youtube VMZJMttAMms >}}
 
 {{< youtube W3C_Npr-YGQ >}}
-
-**2025:** At the Ivors Awards in London, Bruce presents the Special International Award to Brandon Flowers.<br>
-
-{{< youtube hDoXY6nput0 >}}

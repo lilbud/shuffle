@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jeffs-boogie/
+- /cover-me-jeffs-boogie/
 - /17364/
 layout: post
 date: 2020-04-21T12:00:00

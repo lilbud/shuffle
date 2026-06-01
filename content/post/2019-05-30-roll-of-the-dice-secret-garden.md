@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-secret-garden/
+- /roll-of-the-dice-secret-garden/
 - /10187/
 layout: post
 date: 2019-05-30T12:00:00

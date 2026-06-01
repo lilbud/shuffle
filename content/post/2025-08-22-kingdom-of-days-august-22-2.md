@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-august-22-2/
+- /kingdom-of-days-august-22/
 - /59400/
 layout: post
 date: 2025-08-22T11:00:34
-lastmod: 2026-05-14T20:12:17
-title: "August 22"
+lastmod: 2025-08-15T22:58:57
+title: "Kingdom of Days: August 22"
 slug: kingdom-of-days-august-22-2
 author: Ken Rosen
 description: "On this date: Bruce makes a guest appearance with Levon Helm, Little Steven reunites with the E Street Band, and the original Miami Horns make their final appearance on an E Street stage."
@@ -44,6 +45,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/aug85.jpg.webp
   post_id: 59400
 ---
+***New for 2025:** Audio for 1985*<br>
+
 **1973:** Bruce and the E Street Band play their third night of a week-long residency at Oliver's in Boston.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/1973-08-22.png.webp)
@@ -58,11 +61,13 @@ params:
 
 {{< videopress id=Byyk5H71 >}}
 
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/1976-08-22.jpg.webp)
+
 **1978:** At Night Two of a three-night Darkness Tour stand at Madison Square Garden, Bruce brings his sixteen-year-old kid sister Pam on stage during the final encore.<br>
 
 {{< youtube-playlist PLu8VBPtfGX1D4drCKmEeRRz7nBqEGW0pV >}}
 
-**1984:** Bruce joins La Bamba and the Hubcaps on stage at The Stone Pony in Asbury Park for "Travelin' Band" and "I'm Bad, I'm Nationwide."<br>
+**1984:** Bruce joins La Bamba and the Hubcaps on stage at The Stone Pony in Asbury Park for "Travelin' Band" and "[I'm Bad, I'm Nationwide]({{< relref "2020-02-17-cover-me-im-bad-im-nationwide.md" >}})."<br>
 
 {{< youtube OvXIhNv4tKE >}}
 
@@ -86,7 +91,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/1985-08-22.png.webp)
 
-**1987:** Bruce makes a surprise appearance at The Stone Pony for a second night in a row–this time joining Levon Helm's All-Stars for "Up on Cripple Creek" and "L[ucille]({{< relref "1976-01-07-cover-me-lucille.md" >}}/)."<br>
+**1987:** Bruce makes a surprise appearance at The Stone Pony for a second night in a row–this time joining Levon Helm's All-Stars for "[Up on Cripple Creek]({{< relref "2018-01-29-meeting-across-the-river-bruce-springsteen-and-levon-helms-all-stars-up-on-cripple-creek.md" >}})" and "[Lucille]({{< relref "1976-01-07-cover-me-lucille.md" >}}/)."<br>
 
 {{< videopress id=gxirqWhO >}}
 

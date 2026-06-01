@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-robert-randolph-the-family-band-aint-got-you/
+- /cover-me-robert-randolph-the-family-band-aint-got-you/
 - /20094/
 layout: post
 date: 2020-07-29T12:00:00

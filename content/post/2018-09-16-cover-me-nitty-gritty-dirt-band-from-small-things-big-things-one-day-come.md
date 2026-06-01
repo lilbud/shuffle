@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-nitty-gritty-dirt-band-from-small-things-big-things-one-day-come/
+- /cover-me-nitty-gritty-dirt-band-from-small-things-big-things-one-day-come/
 - /3989/
 layout: post
 date: 2018-09-16T12:00:01

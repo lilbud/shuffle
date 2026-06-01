@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-friends-blowin-down-this-road/
+- /matr-bruce-springsteen-and-friends-blowin-down-this-road/
 - /18294/
 layout: post
 date: 2020-05-27T12:00:00

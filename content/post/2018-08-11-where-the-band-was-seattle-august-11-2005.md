@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-seattle-august-11-2005/
+- /where-the-band-was-seattle-august-11-2005/
 - /3639/
 layout: post
 date: 2018-08-11T13:00:45

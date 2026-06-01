@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-the-temptations-the-wallflowers-and-bruce-springsteen-my-girl/
+- /matr-the-temptations-the-wallflowers-and-bruce-springsteen-my-girl/
 - /38922/
 layout: post
 date: 2022-10-26T12:30:00

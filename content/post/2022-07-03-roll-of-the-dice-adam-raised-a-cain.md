@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-adam-raised-a-cain/
+- /roll-of-the-dice-adam-raised-a-cain/
 - /32949/
 layout: post
 date: 2022-07-03T12:00:00

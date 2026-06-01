@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-scialfa-and-bruce-springsteen-play-it-as-it-lays/
+- /matr-patti-scialfa-and-bruce-springsteen-play-it-as-it-lays/
 - /21786/
 layout: post
 date: 2020-10-12T12:00:00

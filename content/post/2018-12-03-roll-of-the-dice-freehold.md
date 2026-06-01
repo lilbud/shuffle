@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-freehold/
+- /roll-of-the-dice-freehold/
 - /6248/
 layout: post
 date: 2018-12-03T13:00:21

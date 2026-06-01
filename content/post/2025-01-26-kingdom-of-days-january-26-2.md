@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-26-2/
+- /kingdom-of-days-january-26/
 - /55809/
 layout: post
 date: 2025-01-26T12:00:02
 lastmod: 2025-11-15T20:59:50
-title: "January 26"
+title: "Kingdom of Days: January 26"
 slug: kingdom-of-days-january-26-2
 author: Ken Rosen
 description: "On this date: Tom Morello joins the E Street Band, Bruce plays South Africa for the first time, the United Steelworkers honor Bruce, and much more."

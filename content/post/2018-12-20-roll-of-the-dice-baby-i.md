@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-baby-i/
+- /roll-of-the-dice-baby-i/
 - /6268/
 layout: post
 date: 2018-12-20T07:37:26

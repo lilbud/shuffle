@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-darkness-darkness/
+- /cover-me-darkness-darkness/
 - /14359/
 layout: post
 date: 2019-12-11T12:50:00

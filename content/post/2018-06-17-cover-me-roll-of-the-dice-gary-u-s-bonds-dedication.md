@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-roll-of-the-dice-gary-u-s-bonds-dedication/
+- /cover-me-roll-of-the-dice-gary-u-s-bonds-dedication/
 - /2777/
 layout: post
 date: 2018-06-17T12:00:27

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-leah/
+- /roll-of-the-dice-leah/
 - /14567/
 layout: post
 date: 2019-12-12T13:00:00

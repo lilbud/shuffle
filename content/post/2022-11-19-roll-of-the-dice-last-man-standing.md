@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-last-man-standing/
+- /roll-of-the-dice-last-man-standing/
 - /38925/
 layout: post
 date: 2022-11-19T13:00:00

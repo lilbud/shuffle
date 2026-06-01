@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-train-song/
+- /roll-of-the-dice-the-train-song/
 - /29631/
 layout: post
 date: 2021-10-06T12:00:00

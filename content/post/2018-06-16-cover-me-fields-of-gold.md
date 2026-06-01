@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-fields-of-gold/
+- /cover-me-fields-of-gold/
 - /2599/
 layout: post
 date: 2018-06-16T12:00:34

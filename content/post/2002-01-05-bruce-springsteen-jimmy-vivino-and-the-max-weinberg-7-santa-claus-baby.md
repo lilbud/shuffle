@@ -1,6 +1,7 @@
 ---
 aliases:
 - /bruce-springsteen-jimmy-vivino-and-the-max-weinberg-7-santa-claus-baby/
+- /bruce-springsteen-jimmy-vivino-and-the-max-weinberg-7-santa-claus-baby/
 - /14598/
 layout: post
 date: 2002-01-05T19:00:00

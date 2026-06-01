@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-riding-in-my-car/
+- /cover-me-riding-in-my-car/
 - /15413/
 layout: post
 date: 2020-01-28T13:00:00

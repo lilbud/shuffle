@@ -1,6 +1,7 @@
 ---
 aliases:
 - /rose-tattoo/
+- /rose-tattoo/
 - /68097/
 layout: post
 date: 1988-10-06T18:00:23

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-jimmy-fallon-sexy-and-i-know-it/
+- /matr-bruce-springsteen-and-jimmy-fallon-sexy-and-i-know-it/
 - /1227/
 layout: post
 date: 2018-03-24T12:00:18

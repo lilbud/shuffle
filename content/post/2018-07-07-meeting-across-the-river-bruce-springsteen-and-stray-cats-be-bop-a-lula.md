@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-stray-cats-be-bop-a-lula/
+- /meeting-across-the-river-bruce-springsteen-and-stray-cats-be-bop-a-lula/
 - /2968/
 layout: post
 date: 2018-07-07T12:00:05

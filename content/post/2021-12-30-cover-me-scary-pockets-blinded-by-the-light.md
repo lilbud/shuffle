@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-scary-pockets-blinded-by-the-light/
+- /cover-me-scary-pockets-blinded-by-the-light/
 - /31933/
 layout: post
 date: 2021-12-30T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-little-steven-and-bruce-springsteen-angel-eyes/
+- /matr-little-steven-and-bruce-springsteen-angel-eyes/
 - /11078/
 layout: post
 date: 2019-07-26T12:00:00

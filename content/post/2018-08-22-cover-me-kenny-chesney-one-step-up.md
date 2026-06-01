@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-kenny-chesney-one-step-up/
+- /cover-me-kenny-chesney-one-step-up/
 - /3762/
 layout: post
 date: 2018-08-22T11:45:09

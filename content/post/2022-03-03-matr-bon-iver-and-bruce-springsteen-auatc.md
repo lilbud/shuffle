@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bon-iver-and-bruce-springsteen-auatc/
+- /matr-bon-iver-and-bruce-springsteen-auatc/
 - /33064/
 layout: post
 date: 2022-03-03T13:00:00

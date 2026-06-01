@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-garland-jeffreys-and-bruce-springsteen-wild-in-the-streets/
+- /matr-garland-jeffreys-and-bruce-springsteen-wild-in-the-streets/
 - /1642/
 layout: post
 date: 2018-04-18T12:00:41

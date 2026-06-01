@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-tv-movie/
+- /roll-of-the-dice-tv-movie/
 - /17937/
 layout: post
 date: 2020-05-11T12:00:00

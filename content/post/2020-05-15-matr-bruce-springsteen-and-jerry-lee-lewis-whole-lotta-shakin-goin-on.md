@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-jerry-lee-lewis-whole-lotta-shakin-goin-on/
+- /matr-bruce-springsteen-and-jerry-lee-lewis-whole-lotta-shakin-goin-on/
 - /17542/
 layout: post
 date: 2020-05-15T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-emmylou-harris-bruce-springsteen-patti-scialfa/
+- /meeting-across-the-river-emmylou-harris-bruce-springsteen-patti-scialfa/
 - /262/
 layout: post
 date: 2018-01-17T13:30:44

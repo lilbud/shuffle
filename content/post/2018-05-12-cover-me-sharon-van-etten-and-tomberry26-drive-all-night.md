@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sharon-van-etten-and-tomberry26-drive-all-night/
+- /cover-me-sharon-van-etten-and-tomberry26-drive-all-night/
 - /2172/
 layout: post
 date: 2018-05-12T12:00:10

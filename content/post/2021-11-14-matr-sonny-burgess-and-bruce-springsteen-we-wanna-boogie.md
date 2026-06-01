@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-sonny-burgess-and-bruce-springsteen-we-wanna-boogie/
+- /matr-sonny-burgess-and-bruce-springsteen-we-wanna-boogie/
 - /30903/
 layout: post
 date: 2021-11-14T13:00:00

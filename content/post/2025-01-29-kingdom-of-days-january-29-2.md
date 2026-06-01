@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-29-2/
+- /kingdom-of-days-january-29/
 - /55812/
 layout: post
 date: 2025-01-29T12:00:10
 lastmod: 2025-11-12T19:43:43
-title: "January 29"
+title: "Kingdom of Days: January 29"
 slug: kingdom-of-days-january-29-2
 author: Ken Rosen
 description: "On this date: Listen to a great Springsteen concert recording from 1974, watch Bruce’s first press conference in 20 years, and more."

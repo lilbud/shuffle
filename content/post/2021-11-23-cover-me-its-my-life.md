@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-its-my-life/
+- /cover-me-its-my-life/
 - /29805/
 layout: post
 date: 2021-11-23T12:20:00

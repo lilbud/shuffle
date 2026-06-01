@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-album-show-cover-me/
+- /cover-me-the-album-show-cover-me/
 - /27121/
 layout: post
 date: 2021-05-07T12:00:00

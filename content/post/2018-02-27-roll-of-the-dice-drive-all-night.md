@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-drive-all-night/
+- /roll-of-the-dice-drive-all-night/
 - /827/
 layout: post
 date: 2018-02-27T13:00:36

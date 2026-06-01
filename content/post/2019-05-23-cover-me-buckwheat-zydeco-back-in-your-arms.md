@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-buckwheat-zydeco-back-in-your-arms/
+- /cover-me-buckwheat-zydeco-back-in-your-arms/
 - /9989/
 layout: post
 date: 2019-05-23T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /album-companion-the-ghost-of-tom-joad/
+- /album-companion-the-ghost-of-tom-joad/
 - /43459/
 layout: post
 date: 2023-06-03T12:00:00

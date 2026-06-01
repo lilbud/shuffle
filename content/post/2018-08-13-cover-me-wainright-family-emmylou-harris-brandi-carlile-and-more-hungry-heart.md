@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-wainright-family-emmylou-harris-brandi-carlile-and-more-hungry-heart/
+- /cover-me-wainright-family-emmylou-harris-brandi-carlile-and-more-hungry-heart/
 - /2935/
 layout: post
 date: 2018-08-13T12:00:58

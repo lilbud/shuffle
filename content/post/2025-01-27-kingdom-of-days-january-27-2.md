@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-27-2/
+- /kingdom-of-days-january-27/
 - /55810/
 layout: post
 date: 2025-01-27T12:00:05
 lastmod: 2025-11-19T20:29:58
-title: "January 27"
+title: "Kingdom of Days: January 27"
 slug: kingdom-of-days-january-27-2
 author: Ken Rosen
 description: "A jam-packed day in Springsteen history: watch Bruce’s full Syracuse 1985 show, the live debut of “Streets of Philadelphia,” plus rare footage from the Ghost of Tom Joad Tour in Tokyo, the release of Working on a Dream, and more."

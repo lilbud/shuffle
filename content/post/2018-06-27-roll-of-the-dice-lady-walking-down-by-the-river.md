@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-lady-walking-down-by-the-river/
+- /roll-of-the-dice-lady-walking-down-by-the-river/
 - /2696/
 layout: post
 date: 2018-06-27T12:00:19

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-george-harrison-ringo-starr-mick-jagger-and-billy-joel-i-saw-her-standing-there/
+- /matr-bruce-springsteen-george-harrison-ringo-starr-mick-jagger-and-billy-joel-i-saw-her-standing-there/
 - /4349/
 layout: post
 date: 2018-09-11T11:45:12

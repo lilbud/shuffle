@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-dont-hang-up/
+- /cover-me-dont-hang-up/
 - /27058/
 layout: post
 date: 2021-05-13T12:00:00

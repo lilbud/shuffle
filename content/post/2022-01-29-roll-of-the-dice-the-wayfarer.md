@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-wayfarer/
+- /roll-of-the-dice-the-wayfarer/
 - /32246/
 layout: post
 date: 2022-01-29T13:00:00

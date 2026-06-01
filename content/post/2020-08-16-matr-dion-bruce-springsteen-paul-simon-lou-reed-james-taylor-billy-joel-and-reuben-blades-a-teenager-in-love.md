@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-dion-bruce-springsteen-paul-simon-lou-reed-james-taylor-billy-joel-and-reuben-blades-a-teenager-in-love/
+- /matr-dion-bruce-springsteen-paul-simon-lou-reed-james-taylor-billy-joel-and-reuben-blades-a-teenager-in-love/
 - /20491/
 layout: post
 date: 2020-08-16T12:00:00

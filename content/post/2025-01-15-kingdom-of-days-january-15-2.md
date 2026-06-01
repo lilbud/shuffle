@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-15-2/
+- /kingdom-of-days-january-15/
 - /55589/
 layout: post
 date: 2025-01-15T12:00:08
 lastmod: 2025-11-15T21:52:16
-title: "January 15"
+title: "Kingdom of Days: January 15"
 slug: kingdom-of-days-january-15-2
 author: Ken Rosen
 description: "On this date in Springsteen history: Watch a full Light of Day performance, plus the premiere of the video for “Tunnel of Love.”"

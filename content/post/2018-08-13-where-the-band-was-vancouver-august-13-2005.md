@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-vancouver-august-13-2005/
+- /where-the-band-was-vancouver-august-13-2005/
 - /3640/
 layout: post
 date: 2018-08-13T13:00:50

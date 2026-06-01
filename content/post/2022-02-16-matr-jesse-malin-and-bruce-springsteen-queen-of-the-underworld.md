@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-jesse-malin-and-bruce-springsteen-queen-of-the-underworld/
+- /matr-jesse-malin-and-bruce-springsteen-queen-of-the-underworld/
 - /32830/
 layout: post
 date: 2022-02-16T13:00:00

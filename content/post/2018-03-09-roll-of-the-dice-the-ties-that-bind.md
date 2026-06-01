@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-ties-that-bind/
+- /roll-of-the-dice-the-ties-that-bind/
 - /998/
 layout: post
 date: 2018-03-09T13:00:19

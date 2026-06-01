@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-little-steven-and-bruce-springsteen-can-i-get-a-witness/
+- /matr-little-steven-and-bruce-springsteen-can-i-get-a-witness/
 - /13915/
 layout: post
 date: 2019-11-16T13:00:00

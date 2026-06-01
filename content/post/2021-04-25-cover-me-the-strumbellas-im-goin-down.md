@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-strumbellas-im-goin-down/
+- /cover-me-the-strumbellas-im-goin-down/
 - /26701/
 layout: post
 date: 2021-04-25T12:00:00

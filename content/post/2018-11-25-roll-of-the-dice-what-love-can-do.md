@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-what-love-can-do/
+- /roll-of-the-dice-what-love-can-do/
 - /5749/
 layout: post
 date: 2018-11-25T13:00:56

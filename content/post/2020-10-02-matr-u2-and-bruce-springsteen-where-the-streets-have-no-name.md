@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-u2-and-bruce-springsteen-where-the-streets-have-no-name/
+- /matr-u2-and-bruce-springsteen-where-the-streets-have-no-name/
 - /21636/
 layout: post
 date: 2020-10-02T12:00:00

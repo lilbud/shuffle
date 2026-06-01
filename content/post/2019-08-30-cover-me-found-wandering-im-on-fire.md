@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-found-wandering-im-on-fire/
+- /cover-me-found-wandering-im-on-fire/
 - /11844/
 layout: post
 date: 2019-08-30T12:00:00

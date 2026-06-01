@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-southside-johnny-fade-away/
+- /cover-me-southside-johnny-fade-away/
 - /1997/
 layout: post
 date: 2018-05-03T12:00:11

@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-12/
+- /kingdom-of-days-january-12/
 - /55578/
 layout: post
 date: 2025-01-12T12:00:03
 lastmod: 2025-11-19T20:40:19
-title: "January 12"
+title: "Kingdom of Days: January 12"
 slug: kingdom-of-days-january-12
 author: Ken Rosen
 description: "Youngstown in Youngstown, an all-star HOF jam, and a secret gig at the White House are among this day’s highlights."

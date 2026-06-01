@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-the-gaslight-anthem-and-bruce-springsteen-american-slang/
+- /matr-the-gaslight-anthem-and-bruce-springsteen-american-slang/
 - /27714/
 layout: post
 date: 2021-06-18T12:00:00

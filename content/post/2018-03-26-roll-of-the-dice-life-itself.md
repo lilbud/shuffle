@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-life-itself/
+- /roll-of-the-dice-life-itself/
 - /1278/
 layout: post
 date: 2018-03-26T12:00:56

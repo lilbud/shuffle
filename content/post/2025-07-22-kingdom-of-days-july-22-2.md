@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-july-22-2/
+- /kingdom-of-days-july-22/
 - /57795/
 layout: post
 date: 2025-07-22T11:00:36
-lastmod: 2026-03-12T18:05:23
-title: "July 22"
+lastmod: 2025-07-13T16:05:16
+title: "Kingdom of Days: July 22"
 slug: kingdom-of-days-july-22-2
 author: Ken Rosen
 description: "On this date: Bruce and Steve play an emotional tribute to the victims of the Norway attacks, Bruce makes surprise appearances with Southside Johnny and Joe Grushecky, and the feature documentary Springsteen & I is released to theaters worldwide."
@@ -32,13 +33,17 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/07/bruce-springsteen.jpg.webp
   post_id: 57795
 ---
+***New for 2025:** Audio for 1975*<br>
+
 **1971:** The Bruce Springsteen Band headlines two shows at D'Scene in South Amboy, New Jersey.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/07/1971-0722.jpg.webp)
 
 **1973:** Bruce and his band headline two shows at Max's Kansas City in New York, with The Wailers opening for them.<br>
 
-**1975:** It's Night Two on the Born to Run Tour, and the band continues developing the show at the Geneva Theater in Geneva, New York, where "She's the One" makes its tour debut. At soundcheck, Bruce and the band cover "Needles and Pins" and "You Really Got Me."<br>
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/07/1973-07-22.jpg.webp)
+
+**1975:** It's Night Two on the Born to Run Tour, and the band continues developing the show at the Geneva Theater in Geneva, New York, where "[She's the One]({{< relref "2021-04-04-roll-of-the-dice-shes-the-one.md" >}})" makes its tour debut. At soundcheck, Bruce and the band cover "[Needles and Pins]({{< relref "2019-02-27-cover-me-needles-and-pins.md" >}})" and "[You Really Got Me]({{< relref "2020-12-01-cover-me-you-really-got-me.md" >}})."<br>
 
 {{< youtube zaANhuBBSzc >}}
 
@@ -51,7 +56,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/1975-07-22.png.webp)
 
-**1976:** CBS Records holds their annual sales convention in Los Angeles, where Southside Johnny and the Asbury Jukes open. Bruce guest-stars with Southside on "The Fever" and "I Don't Want to Go Home."<br>
+**1976:** CBS Records holds their annual sales convention in Los Angeles, where Southside Johnny and the Asbury Jukes open. Bruce guest-stars with Southside on "[The Fever]({{< relref "2020-10-04-roll-of-the-dice-the-fever.md" >}})" and "[I Don't Want to Go Home]({{< relref "2018-03-30-meeting-across-the-river-bruce-springsteen-and-steve-van-zandt-i-dont-want-to-go-home.md" >}})."<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/07/1976-0722.jpg.webp)
 
@@ -65,7 +70,7 @@ params:
 
 **1989:** Bruce joins Peter Hartung & The Remakes on stage at McLoone's Rum Runner in Sea Bright, New Jersey.<br>
 
-**1995:** Bruce makes a surprise appearance at Tradewinds in Sea Bright with Joe Grushecky and the Houserockers for an *American Babylon*-heavy set, with a few Springsteen originals added for good measure. Stevie and Max join for four songs as well.<br>
+**1995:** Bruce makes a surprise appearance at Tradewinds in Sea Bright with Joe Grushecky and the Houserockers for an [*American Babylon*]({{< relref "2020-10-17-american-babylon-a-retrospective.md" >}})-heavy set, with a few Springsteen originals added for good measure. Stevie and Max join for four songs as well.<br>
 
 {{< videopress id=0qtUKoWP >}}
 
@@ -83,7 +88,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/07/2011-0722.jpg.webp)
 
-**2012:** On the one year anniversary of the Norway attacks, Bruce and Steve play "We Shall Overcome" at the memorial concert for the victims in Oslo.<br>
+**2012:** On the one year anniversary of the Norway attacks, Bruce and Steve play "[We Shall Overcome]({{< relref "2006-01-13-roll-of-the-dice-cover-me-we-shall-overcome.md" >}})" at the memorial concert for the victims in Oslo.<br>
 
 {{< youtube LTrgNSlCkKY >}}
 

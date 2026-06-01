@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-spanish-eyes/
+- /roll-of-the-dice-spanish-eyes/
 - /40850/
 layout: post
 date: 2023-01-14T13:15:00

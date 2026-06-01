@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-woody-guthries-lonesome-valley/
+- /cover-me-woody-guthries-lonesome-valley/
 - /569/
 layout: post
 date: 2018-02-08T13:00:36

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-something/
+- /cover-me-something/
 - /31939/
 layout: post
 date: 2021-12-28T13:00:00

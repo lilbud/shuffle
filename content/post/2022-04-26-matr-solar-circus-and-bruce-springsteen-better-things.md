@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-solar-circus-and-bruce-springsteen-better-things/
+- /matr-solar-circus-and-bruce-springsteen-better-things/
 - /31938/
 layout: post
 date: 2022-04-26T12:00:00

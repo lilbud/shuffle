@@ -1,6 +1,7 @@
 ---
 aliases:
 - /codeofsilence/
+- /codeofsilence/
 - /3985/
 layout: post
 date: 2018-08-27T12:00:13

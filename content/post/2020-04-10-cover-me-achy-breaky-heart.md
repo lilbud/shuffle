@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-achy-breaky-heart/
+- /cover-me-achy-breaky-heart/
 - /17116/
 layout: post
 date: 2020-04-10T12:00:00

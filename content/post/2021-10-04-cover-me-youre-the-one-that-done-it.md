@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-youre-the-one-that-done-it/
+- /cover-me-youre-the-one-that-done-it/
 - /30013/
 layout: post
 date: 2021-10-04T12:00:00

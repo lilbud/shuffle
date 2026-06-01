@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-aint-got-you/
+- /roll-of-the-dice-aint-got-you/
 - /28858/
 layout: post
 date: 1987-01-01T19:00:00

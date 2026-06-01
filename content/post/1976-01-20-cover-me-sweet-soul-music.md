@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sweet-soul-music/
+- /cover-me-sweet-soul-music/
 - /13916/
 layout: post
 date: 1976-01-20T19:00:00

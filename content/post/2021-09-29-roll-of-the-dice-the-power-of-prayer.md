@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-power-of-prayer/
+- /roll-of-the-dice-the-power-of-prayer/
 - /29628/
 layout: post
 date: 2021-09-29T12:00:00

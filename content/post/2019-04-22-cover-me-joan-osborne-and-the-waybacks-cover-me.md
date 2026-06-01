@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-joan-osborne-and-the-waybacks-cover-me/
+- /cover-me-joan-osborne-and-the-waybacks-cover-me/
 - /8275/
 layout: post
 date: 2019-04-22T18:00:00

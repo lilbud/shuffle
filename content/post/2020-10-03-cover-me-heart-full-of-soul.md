@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-heart-full-of-soul/
+- /cover-me-heart-full-of-soul/
 - /21254/
 layout: post
 date: 2020-10-03T12:00:00

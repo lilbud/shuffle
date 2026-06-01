@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-crystal/
+- /roll-of-the-dice-crystal/
 - /2111/
 layout: post
 date: 2018-05-11T12:00:21

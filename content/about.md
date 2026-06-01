@@ -4,7 +4,7 @@ layout: "post-nosidebar"
 url: "about/"
 ---
 
-> Note: A much longer write-up is in the works over on my blog, and will be linked here. That will cover more of the history and work that went into it.
+> Note: A much longer write-up can be found [here](https://lilbud.github.io/2026/05/30/shuffle-archive/). It covers the history and creation of this site.
 
 If you're here, then I assume you've found this place via my blog posts about ESS. Otherwise, this probably doesn't make a whole ton of sense.
 
@@ -49,9 +49,7 @@ The only major change I've made is that Youtube links have a secondary text link
 
 #### Future and Closing
 
-A longer post on my own blog will go into more detail about the process and the archive. I want to keep this page solely dedicated to the site itself, and not drag on too long as I sometimes tend to do.
-
-This site is being hosted on Github Pages, and the source code will be freely available. That way, anyone can download and build/host their own copy of the site. I figure this is a better type of archive than eBooks, or a folder of markdown files, or a database dump. This way, E Street Shuffle will be preserved long term, and will not fade away.
+This site is being hosted on Github Pages, and the source code will be [freely available](https://github.com/lilbud/shuffle). That way, anyone can download and build/host their own copy of the site. I figure this is a better type of archive than eBooks, or a folder of markdown files, or a database dump. This way, E Street Shuffle will be preserved long term, and will not fade away.
 
 ---
 

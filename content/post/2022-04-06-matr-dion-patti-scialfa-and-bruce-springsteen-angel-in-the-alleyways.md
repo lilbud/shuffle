@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-dion-patti-scialfa-and-bruce-springsteen-angel-in-the-alleyways/
+- /matr-dion-patti-scialfa-and-bruce-springsteen-angel-in-the-alleyways/
 - /33507/
 layout: post
 date: 2022-04-06T12:00:00

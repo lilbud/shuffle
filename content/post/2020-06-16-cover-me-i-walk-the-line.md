@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-i-walk-the-line/
+- /cover-me-i-walk-the-line/
 - /18898/
 layout: post
 date: 2020-06-16T12:00:00

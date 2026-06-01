@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-paradise/
+- /roll-of-the-dice-paradise/
 - /127/
 layout: post
 date: 2018-01-07T23:28:04

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-roger-mcguinn-turn-turn-turn/
+- /matr-bruce-springsteen-and-roger-mcguinn-turn-turn-turn/
 - /27626/
 layout: post
 date: 2021-06-09T12:00:00

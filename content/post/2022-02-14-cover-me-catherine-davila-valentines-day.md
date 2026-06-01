@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-catherine-davila-valentines-day/
+- /cover-me-catherine-davila-valentines-day/
 - /32475/
 layout: post
 date: 2022-02-14T13:00:00

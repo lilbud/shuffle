@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-catie-curtis-if-i-should-fall-behind/
+- /cover-me-catie-curtis-if-i-should-fall-behind/
 - /1033/
 layout: post
 date: 2018-03-28T12:00:01

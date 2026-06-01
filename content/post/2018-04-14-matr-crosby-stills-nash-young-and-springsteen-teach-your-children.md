@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-crosby-stills-nash-young-and-springsteen-teach-your-children/
+- /matr-crosby-stills-nash-young-and-springsteen-teach-your-children/
 - /1566/
 layout: post
 date: 2018-04-14T12:00:09

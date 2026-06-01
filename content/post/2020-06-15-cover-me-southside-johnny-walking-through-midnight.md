@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-southside-johnny-walking-through-midnight/
+- /cover-me-southside-johnny-walking-through-midnight/
 - /18906/
 layout: post
 date: 2020-06-15T12:00:00

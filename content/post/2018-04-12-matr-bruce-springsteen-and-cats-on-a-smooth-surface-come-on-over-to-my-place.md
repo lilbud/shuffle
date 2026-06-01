@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-cats-on-a-smooth-surface-come-on-over-to-my-place/
+- /matr-bruce-springsteen-and-cats-on-a-smooth-surface-come-on-over-to-my-place/
 - /1564/
 layout: post
 date: 2018-04-12T12:00:45

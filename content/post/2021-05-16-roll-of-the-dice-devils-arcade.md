@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-devils-arcade/
+- /roll-of-the-dice-devils-arcade/
 - /26708/
 layout: post
 date: 2021-05-16T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-get-out-of-my-life-woman/
+- /cover-me-get-out-of-my-life-woman/
 - /30466/
 layout: post
 date: 2021-11-09T13:00:00

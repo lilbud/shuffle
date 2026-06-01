@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-john-mellancamp-and-bruce-springsteen-pink-houses/
+- /matr-john-mellancamp-and-bruce-springsteen-pink-houses/
 - /24474/
 layout: post
 date: 2021-03-11T13:00:00

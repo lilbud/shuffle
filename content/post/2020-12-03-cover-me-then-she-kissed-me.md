@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-then-she-kissed-me/
+- /cover-me-then-she-kissed-me/
 - /23377/
 layout: post
 date: 2020-12-03T13:00:00

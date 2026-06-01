@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-john-legend-bruce-springsteen-billy-joel-and-india-arie-signed-sealed-delivered-im-yours/
+- /matr-john-legend-bruce-springsteen-billy-joel-and-india-arie-signed-sealed-delivered-im-yours/
 - /31070/
 layout: post
 date: 2021-11-29T13:00:00

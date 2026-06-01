@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-precious-memories/
+- /cover-me-precious-memories/
 - /4180/
 layout: post
 date: 2018-09-05T12:00:43

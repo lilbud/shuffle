@@ -1,6 +1,7 @@
 ---
 aliases:
 - /spare-parts-michael-petrella-dancing-in-the-dark-i-wanna-dance-with-somebody/
+- /spare-parts-michael-petrella-dancing-in-the-dark-i-wanna-dance-with-somebody/
 - /17119/
 layout: post
 date: 2020-04-16T12:00:00

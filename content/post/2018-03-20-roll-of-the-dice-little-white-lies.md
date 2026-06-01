@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-little-white-lies/
+- /roll-of-the-dice-little-white-lies/
 - /1013/
 layout: post
 date: 2018-03-20T12:00:56

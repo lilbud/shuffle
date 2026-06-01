@@ -1,6 +1,7 @@
 ---
 aliases:
 - /barbara-ann/
+- /barbara-ann/
 - /68006/
 layout: post
 date: 1988-09-04T18:00:35

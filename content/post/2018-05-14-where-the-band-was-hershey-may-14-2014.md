@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-hershey-may-14-2014/
+- /where-the-band-was-hershey-may-14-2014/
 - /2109/
 layout: post
 date: 2018-05-14T13:00:11

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-bettye-lavette-streets-of-philadelphia/
+- /cover-me-bettye-lavette-streets-of-philadelphia/
 - /13703/
 layout: post
 date: 2019-10-10T12:00:00

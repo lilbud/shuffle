@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-honky-tonk/
+- /cover-me-honky-tonk/
 - /12912/
 layout: post
 date: 2019-09-26T12:00:00

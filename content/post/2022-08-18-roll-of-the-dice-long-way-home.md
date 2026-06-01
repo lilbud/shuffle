@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-long-way-home/
+- /roll-of-the-dice-long-way-home/
 - /35372/
 layout: post
 date: 2022-08-18T12:00:00

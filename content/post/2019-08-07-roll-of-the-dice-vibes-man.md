@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-vibes-man/
+- /roll-of-the-dice-vibes-man/
 - /11793/
 layout: post
 date: 2019-08-07T12:00:00

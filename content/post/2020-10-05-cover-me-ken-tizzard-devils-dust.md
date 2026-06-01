@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-ken-tizzard-devils-dust/
+- /cover-me-ken-tizzard-devils-dust/
 - /20930/
 layout: post
 date: 2020-10-05T12:00:00

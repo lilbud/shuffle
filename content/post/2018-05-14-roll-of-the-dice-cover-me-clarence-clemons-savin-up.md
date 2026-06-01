@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-cover-me-clarence-clemons-savin-up/
+- /roll-of-the-dice-cover-me-clarence-clemons-savin-up/
 - /2114/
 layout: post
 date: 2018-05-14T12:00:44

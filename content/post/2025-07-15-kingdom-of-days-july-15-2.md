@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-july-15-2/
+- /kingdom-of-days-july-15/
 - /57723/
 layout: post
 date: 2025-07-15T11:00:12
-lastmod: 2026-03-02T23:46:22
-title: "July 15"
+lastmod: 2025-07-08T22:27:10
+title: "Kingdom of Days: July 15"
 slug: kingdom-of-days-july-15-2
 author: Ken Rosen
 description: "On this date in Springsteen history: Bruce launches the U.S. leg of the Reunion Tour, kicks off a ten-night Rising stand at Giants Stadium, and releases his Magic Tour Highlights EP. Video, audio (including a 1978 radio interview) and more inside."
@@ -37,6 +38,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/07/mbid-c811130f-e85c-4d3d-9381-eeffcf325155-37584434812-min.jpg.webp
   post_id: 57723
 ---
+***New for 2025:** New entry for 1975 and 2024*<br>
+
 **1969:** Child plays several sets at the Pandemonium in Wanamassa, New Jersey.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/07/1969-0715.jpg.webp)
@@ -69,7 +72,7 @@ That evening, Bruce and the E Street Band perform "The Promise" during their sho
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/06/1989-07-15.jpg.webp)
 
-**1999:** Bruce and the E Street Band kick off the U.S. leg of the Reunion Tour with the first of fifteen(!) shows at the Continental Airlines Arena in East Rutherford. The anticipation and build-up to this show is intense, and VH1 broadcasts the first couple of songs. Kicking off the encores, Bruce plays "Freehold" for only the second time in the U.S. This show is available to stream or purchase as part of Bruce's official archive series.<br>
+**1999:** Bruce and the E Street Band kick off the U.S. leg of the Reunion Tour with the first of fifteen(!) shows at the Continental Airlines Arena in East Rutherford. The anticipation and build-up to this show is intense, and VH1 broadcasts the first couple of songs. Kicking off the encores, Bruce plays "[Freehold]({{< relref "2018-12-03-roll-of-the-dice-freehold.md" >}})" for only the second time in the U.S. This show is available to stream or purchase as part of Bruce's official archive series–get it [here](https://live.brucespringsteen.net/live-music/0,35515/Bruce-Springsteen-mp3-flac-download-7-15-1999-Continental-Airlines-Arena-East-Rutherford-NJ.html).<br>
 
 {{< youtube MtoJDzSPpyE >}}
 
@@ -93,7 +96,7 @@ That evening, Bruce and the E Street Band perform "The Promise" during their sho
 
 {{< youtube 9HICkNqhkJ0 >}}
 
-**2008:** The final European leg of the Magic Tour enters the home stretch with a final run of shows in Spain, starting with a night in San Sebastian. Bruce opens with "Tunnel of Love," and the set list features a rare "Incident on 57th Street" as well.<br>
+**2008:** The final European leg of the Magic Tour enters the home stretch with a final run of shows in Spain, starting with a night in San Sebastian. Bruce opens with "[Tunnel of Love]({{< relref "1987-01-07-roll-of-the-dice-tunnel-of-love.md" >}}/)," and the set list features a rare "[Incident on 57th Street]({{< relref "2018-12-14-roll-of-the-dice-incident-on-57th-street.md" >}})" as well.<br>
 
 {{< youtube h6Rfl6Esl1g >}}
 

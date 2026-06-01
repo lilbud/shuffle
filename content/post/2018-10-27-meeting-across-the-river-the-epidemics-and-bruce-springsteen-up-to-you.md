@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-the-epidemics-and-bruce-springsteen-up-to-you/
+- /meeting-across-the-river-the-epidemics-and-bruce-springsteen-up-to-you/
 - /4784/
 layout: post
 date: 2018-10-27T12:00:52

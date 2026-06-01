@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-22-2/
+- /kingdom-of-days-january-22/
 - /55628/
 layout: post
 date: 2025-01-22T12:00:10
 lastmod: 2025-11-15T23:26:39
-title: "January 22"
+title: "Kingdom of Days: January 22"
 slug: kingdom-of-days-january-22-2
 author: Ken Rosen
 description: "A very busy day in Springsteen history: Bruce takes home a Golden Globe, kicks off an Australian tour, performs for benefits and TV specials, and more. Lots of great footage today!"

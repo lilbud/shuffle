@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-john-fogerty-and-bruce-springsteen-when-will-i-be-loved/
+- /matr-john-fogerty-and-bruce-springsteen-when-will-i-be-loved/
 - /23944/
 layout: post
 date: 2020-12-28T13:00:00

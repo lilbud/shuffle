@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-friday-on-my-mind/
+- /cover-me-friday-on-my-mind/
 - /10478/
 layout: post
 date: 2019-06-07T12:00:00

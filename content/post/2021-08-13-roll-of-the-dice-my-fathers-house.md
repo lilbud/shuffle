@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-my-fathers-house/
+- /roll-of-the-dice-my-fathers-house/
 - /28857/
 layout: post
 date: 2021-08-13T12:20:00

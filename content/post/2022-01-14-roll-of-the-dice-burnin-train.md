@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-burnin-train/
+- /roll-of-the-dice-burnin-train/
 - /30561/
 layout: post
 date: 2022-01-14T13:00:00

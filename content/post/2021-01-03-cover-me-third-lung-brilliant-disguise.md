@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-third-lung-brilliant-disguise/
+- /cover-me-third-lung-brilliant-disguise/
 - /23732/
 layout: post
 date: 2021-01-03T13:00:00

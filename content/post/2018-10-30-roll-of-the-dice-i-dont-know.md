@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-i-dont-know/
+- /roll-of-the-dice-i-dont-know/
 - /5305/
 layout: post
 date: 2018-10-30T12:00:31

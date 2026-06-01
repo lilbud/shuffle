@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-night-traveler-tougher-than-the-rest/
+- /cover-me-night-traveler-tougher-than-the-rest/
 - /33309/
 layout: post
 date: 2022-03-16T12:00:00

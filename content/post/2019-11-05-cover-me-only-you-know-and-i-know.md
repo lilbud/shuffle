@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-only-you-know-and-i-know/
+- /cover-me-only-you-know-and-i-know/
 - /13760/
 layout: post
 date: 2019-11-05T11:30:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-soozie-tyrell-and-bruce-springsteen-white-lines/
+- /matr-soozie-tyrell-and-bruce-springsteen-white-lines/
 - /29686/
 layout: post
 date: 2021-09-30T12:00:00

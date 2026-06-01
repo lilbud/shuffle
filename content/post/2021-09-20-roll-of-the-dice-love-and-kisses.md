@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-love-and-kisses/
+- /roll-of-the-dice-love-and-kisses/
 - /29629/
 layout: post
 date: 2021-09-20T11:30:00

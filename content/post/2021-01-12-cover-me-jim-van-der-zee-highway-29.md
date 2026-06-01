@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jim-van-der-zee-highway-29/
+- /cover-me-jim-van-der-zee-highway-29/
 - /24346/
 layout: post
 date: 2021-01-12T13:00:00

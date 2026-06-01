@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-dimples/
+- /cover-me-dimples/
 - /17746/
 layout: post
 date: 2020-05-08T12:00:00

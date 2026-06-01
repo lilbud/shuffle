@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-stand-on-it/
+- /roll-of-the-dice-stand-on-it/
 - /29683/
 layout: post
 date: 2021-10-08T12:00:00

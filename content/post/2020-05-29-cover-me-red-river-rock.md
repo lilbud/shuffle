@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-red-river-rock/
+- /cover-me-red-river-rock/
 - /18299/
 layout: post
 date: 2020-05-29T12:00:00

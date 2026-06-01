@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-rosanne-cash/
+- /meeting-across-the-river-bruce-springsteen-and-rosanne-cash/
 - /194/
 layout: post
 date: 2018-01-12T14:00:33

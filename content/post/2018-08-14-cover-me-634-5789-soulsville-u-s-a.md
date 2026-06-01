@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-634-5789-soulsville-u-s-a/
+- /cover-me-634-5789-soulsville-u-s-a/
 - /3488/
 layout: post
 date: 2018-08-14T12:00:28

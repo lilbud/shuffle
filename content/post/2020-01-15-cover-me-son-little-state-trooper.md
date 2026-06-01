@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-son-little-state-trooper/
+- /cover-me-son-little-state-trooper/
 - /15480/
 layout: post
 date: 2020-01-15T13:00:00

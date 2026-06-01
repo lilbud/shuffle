@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-hearts-of-stone/
+- /roll-of-the-dice-hearts-of-stone/
 - /32951/
 layout: post
 date: 2022-09-07T12:00:00

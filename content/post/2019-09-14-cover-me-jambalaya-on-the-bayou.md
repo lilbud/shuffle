@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jambalaya-on-the-bayou/
+- /cover-me-jambalaya-on-the-bayou/
 - /12484/
 layout: post
 date: 2019-09-14T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-seattle-march-24-2016/
+- /where-the-band-was-seattle-march-24-2016/
 - /1151/
 layout: post
 date: 2018-03-24T13:00:19

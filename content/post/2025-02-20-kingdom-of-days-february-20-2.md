@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-20-2/
+- /kingdom-of-days-february-20/
 - /55971/
 layout: post
 date: 2025-02-20T12:00:35
 lastmod: 2025-11-24T22:08:00
-title: "February 20"
+title: "Kingdom of Days: February 20"
 slug: kingdom-of-days-february-20-2
 author: Ken Rosen
 description: "An appearance on Italian television, a one-off acoustic show with Q&A in Somerville, and a bar gig with Beaver Brown highlight this day in Bruce history."

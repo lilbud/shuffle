@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-nils-lofgren-and-bruce-springsteen-valentine/
+- /matr-nils-lofgren-and-bruce-springsteen-valentine/
 - /7523/
 layout: post
 date: 2019-02-14T13:00:02

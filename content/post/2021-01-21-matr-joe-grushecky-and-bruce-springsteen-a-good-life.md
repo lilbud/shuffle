@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-joe-grushecky-and-bruce-springsteen-a-good-life/
+- /matr-joe-grushecky-and-bruce-springsteen-a-good-life/
 - /23951/
 layout: post
 date: 2021-01-21T13:00:00

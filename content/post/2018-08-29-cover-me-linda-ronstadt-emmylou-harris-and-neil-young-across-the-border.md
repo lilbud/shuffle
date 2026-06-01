@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-linda-ronstadt-emmylou-harris-and-neil-young-across-the-border/
+- /cover-me-linda-ronstadt-emmylou-harris-and-neil-young-across-the-border/
 - /3486/
 layout: post
 date: 2018-08-29T12:00:17

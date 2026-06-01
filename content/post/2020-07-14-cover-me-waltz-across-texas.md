@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-waltz-across-texas/
+- /cover-me-waltz-across-texas/
 - /19491/
 layout: post
 date: 2020-07-14T12:00:00

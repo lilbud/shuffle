@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-kurt-vile-downbound-train/
+- /cover-me-kurt-vile-downbound-train/
 - /5743/
 layout: post
 date: 2018-12-21T08:05:29

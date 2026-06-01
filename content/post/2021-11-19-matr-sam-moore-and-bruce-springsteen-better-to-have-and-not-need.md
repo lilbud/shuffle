@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-sam-moore-and-bruce-springsteen-better-to-have-and-not-need/
+- /matr-sam-moore-and-bruce-springsteen-better-to-have-and-not-need/
 - /30560/
 layout: post
 date: 2021-11-19T13:00:00

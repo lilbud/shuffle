@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jason-flynn-drive-all-night/
+- /cover-me-jason-flynn-drive-all-night/
 - /14221/
 layout: post
 date: 2019-11-19T08:07:00

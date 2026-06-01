@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-real-world/
+- /roll-of-the-dice-real-world/
 - /36533/
 layout: post
 date: 2022-07-25T12:00:00

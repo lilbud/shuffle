@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-spare-parts/
+- /roll-of-the-dice-spare-parts/
 - /6810/
 layout: post
 date: 1987-01-04T19:00:15

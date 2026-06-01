@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-down-to-mexico/
+- /roll-of-the-dice-down-to-mexico/
 - /25806/
 layout: post
 date: 1972-01-15T19:00:00

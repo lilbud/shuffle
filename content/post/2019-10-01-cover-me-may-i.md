@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-may-i/
+- /cover-me-may-i/
 - /13397/
 layout: post
 date: 2019-10-01T12:00:00

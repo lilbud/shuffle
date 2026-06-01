@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-5-2/
+- /kingdom-of-days-february-5/
 - /55858/
 layout: post
 date: 2025-02-05T12:00:56
 lastmod: 2025-11-26T23:37:31
-title: "February 5"
+title: "Kingdom of Days: February 5"
 slug: kingdom-of-days-february-5-2
 author: Ken Rosen
 description: "Check out a rare TV profile from 1985, a pro-shot “Kitty’s Back” from 2014, and highlights from the spectacular 1975 Main Point show featuring work-in-progress versions of songs that would appear on Born to Run."

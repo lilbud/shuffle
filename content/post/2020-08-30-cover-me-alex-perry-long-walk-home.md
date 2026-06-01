@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-alex-perry-long-walk-home/
+- /cover-me-alex-perry-long-walk-home/
 - /20796/
 layout: post
 date: 2020-08-30T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-holmdel-september-21-2016/
+- /where-the-band-was-holmdel-september-21-2016/
 - /4446/
 layout: post
 date: 2018-09-21T13:00:34

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-little-steven-and-bruce-springsteen-native-american/
+- /matr-little-steven-and-bruce-springsteen-native-american/
 - /13194/
 layout: post
 date: 2019-10-25T12:00:00

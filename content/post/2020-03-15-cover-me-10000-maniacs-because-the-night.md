@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-10000-maniacs-because-the-night/
+- /cover-me-10000-maniacs-because-the-night/
 - /16217/
 layout: post
 date: 2020-03-15T12:00:00

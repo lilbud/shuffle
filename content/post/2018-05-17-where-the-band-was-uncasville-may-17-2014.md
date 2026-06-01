@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-uncasville-may-17-2014/
+- /where-the-band-was-uncasville-may-17-2014/
 - /2163/
 layout: post
 date: 2018-05-17T13:00:08

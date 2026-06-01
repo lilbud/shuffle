@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-its-gonna-work-out-fine/
+- /cover-me-its-gonna-work-out-fine/
 - /23734/
 layout: post
 date: 2021-01-02T13:00:00

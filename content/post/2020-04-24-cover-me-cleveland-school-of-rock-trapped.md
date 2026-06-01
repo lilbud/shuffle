@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-cleveland-school-of-rock-trapped/
+- /cover-me-cleveland-school-of-rock-trapped/
 - /17740/
 layout: post
 date: 2020-04-24T12:00:00

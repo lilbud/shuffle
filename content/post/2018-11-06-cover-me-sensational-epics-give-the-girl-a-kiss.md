@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sensational-epics-give-the-girl-a-kiss/
+- /cover-me-sensational-epics-give-the-girl-a-kiss/
 - /5531/
 layout: post
 date: 2018-11-06T13:00:19

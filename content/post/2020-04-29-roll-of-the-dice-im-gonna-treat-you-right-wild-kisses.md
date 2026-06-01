@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-im-gonna-treat-you-right-wild-kisses/
+- /roll-of-the-dice-im-gonna-treat-you-right-wild-kisses/
 - /17743/
 layout: post
 date: 2020-04-29T12:00:00

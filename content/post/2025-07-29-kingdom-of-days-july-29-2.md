@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-july-29-2/
+- /kingdom-of-days-july-29/
 - /57873/
 layout: post
 date: 2025-07-29T11:00:40
-lastmod: 2026-03-12T19:30:25
-title: "July 29"
+lastmod: 2025-07-18T21:07:10
+title: "Kingdom of Days: July 29"
 slug: kingdom-of-days-july-29-2
 author: Ken Rosen
 description: "Happy birthday, Patti Scialfa, born on this date in 1953! Watch Bruce wish his wife a happy birthday by premiering “Give the Girl a Kiss” in her honor. More highlights inside."
@@ -32,10 +33,14 @@ tags:
 categories:
 - "kingdom-of-days"
 params:
-  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/07/admin-ajax-52.jpg.webp
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/07/patti.jpg.webp
   post_id: 57873
 ---
+***New for 2025:** Audio for 1999*<br>
+
 **1953:** Singer/songwriter and First Lady of E Street Vivienne Patricia Scialfa is born on this day in Deal, New Jersey. Happy birthday, Patti!<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/07/patti.jpg.webp)
 
 **1966:** The Castiles headline at the Loew's 35 Shore Drive-in Theater's 10th anniversary party in Hazlet, New Jersey.<br>
 
@@ -45,18 +50,17 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/07/1966-0729.gif)
 
-**1971:** The Bruce Springsteen Band plays two shows at D'Scene in South Amboy, New Jersey. The setlist includes "Natural Magic," "Goin' Back to Georgia," "Dance Dance Dance," and more.<br>
+**1971:** The Bruce Springsteen Band plays two shows at D'Scene in South Amboy, New Jersey. The setlist includes "[Natural Magic,]({{< relref "1972-01-03-roll-of-the-dice-natural-magic.md" >}})" "[Goin' Back to Georgia]({{< relref "2019-03-07-roll-of-the-dice-goin-back-to-georgia.md" >}})," "[Dance Dance Dance]({{< relref "1972-01-05-roll-of-the-dice-dance-dance-dance.md" >}})," and more.<br>
 
 {{< youtube Ok630L5Z9D8 >}}
 
 **1975:** Before their gig that evening at the Carter Barron Amphitheater in Washington, DC's Rock Creek Park, Bruce stops by a local radio station for an on-air interview.<br>
 
-[https://estreetshuffle.com/wp-content/uploads/2025/07/1975-07-29_WHFS_interview_KLICKAUD.mp3](https://estreetshuffle.com/wp-content/uploads/2025/07/1975-07-29_WHFS_interview_KLICKAUD.mp3)
-{{< audio url="https://estreetshuffle.com/wp-content/uploads/2025/07/1975-07-29_WHFS_interview_KLICKAUD.mp3" >}}
+[1975-07-29 WHFS interview by Brucebase Wiki](https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F187050681&show_artwork=true&maxheight=1000&maxwidth=758)
 
 **1976:** Mike Appel countersues Bruce for breach of contract, escalating their legal battle.<br>
 
-**1978:** At the Bayfront Center Arena in St. Petersburg, Bruce opens his Darkness Tour show with his debut of "Oh Boy" and adds a second cover debut later in the show: Chuck Berry's "Around and Around."<br>
+**1978:** At the Bayfront Center Arena in St. Petersburg, Bruce opens his Darkness Tour show with his debut of "[Oh Boy]({{< relref "2018-05-17-cover-me-oh-boy.md" >}})" and adds a second cover debut later in the show: Chuck Berry's "[Around and Around]({{< relref "2020-02-26-cover-me-around-and-around.md" >}})."<br>
 
 {{< youtube LOhgVbjnd84 >}}
 
@@ -68,7 +72,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/07/1978-0729.jpg.webp)
 
-**1981:** Southside Johnny guest-stars on "I Don't Want to Go Home" when Bruce and the E Street Band bring the River Tour to Richfield for the first of two nights.<br>
+**1981:** Southside Johnny guest-stars on "[I Don't Want to Go Home]({{< relref "2018-03-30-meeting-across-the-river-bruce-springsteen-and-steve-van-zandt-i-dont-want-to-go-home.md" >}})" when Bruce and the E Street Band bring the River Tour to Richfield for the first of two nights.<br>
 
 {{< videopress id=NOq3rVa8 >}}
 
@@ -80,7 +84,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/1987-07-29.png.webp)
 
-**1999:** At Night Seven of the opening fifteen-night stand of the U.S. Reunion Tour in the Meadowlands, Bruce opens with the first "The Ties That Bind" in 18 years and tour debuts (officially) a corny and charming "Give the Girl a Kiss" for Patti's birthday. Bobby Bandiera makes an encore guest appearance on "Hungry Heart."<br>
+**1999:** At Night Seven of the opening fifteen-night stand of the U.S. Reunion Tour in the Meadowlands, Bruce opens with the first "[The Ties That Bind]({{< relref "2018-03-09-roll-of-the-dice-the-ties-that-bind.md" >}})" in 18 years and tour debuts (officially) a corny and charming "[Give the Girl a Kiss]({{< relref "2020-06-17-roll-of-the-dice-give-the-girl-a-kiss.md" >}})" for Patti's birthday. Bobby Bandiera makes an encore guest appearance on "[Hungry Heart.]({{< relref "2022-12-21-roll-of-the-dice-hungry-heart.md" >}})"<br>
 
 {{< videopress id=DMYBEQCE >}}
 

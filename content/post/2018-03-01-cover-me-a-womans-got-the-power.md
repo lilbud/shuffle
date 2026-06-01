@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-a-womans-got-the-power/
+- /cover-me-a-womans-got-the-power/
 - /931/
 layout: post
 date: 2018-03-01T13:00:30

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-freehold-september-28-2019/
+- /where-the-band-was-freehold-september-28-2019/
 - /21478/
 layout: post
 date: 2020-09-28T12:00:00

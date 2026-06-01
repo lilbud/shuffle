@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-seeds/
+- /roll-of-the-dice-seeds/
 - /21112/
 layout: post
 date: 2020-10-10T12:00:00

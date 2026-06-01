@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-sting-lady-gaga-elton-john-and-more-dont-stop-believin/
+- /matr-bruce-springsteen-sting-lady-gaga-elton-john-and-more-dont-stop-believin/
 - /23735/
 layout: post
 date: 2020-12-20T13:00:00

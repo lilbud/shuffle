@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-david-gray-mansion-on-the-hill/
+- /cover-me-david-gray-mansion-on-the-hill/
 - /35903/
 layout: post
 date: 2022-06-29T12:00:00

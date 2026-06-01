@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-im-gonna-rock-the-pee-pee-song/
+- /roll-of-the-dice-im-gonna-rock-the-pee-pee-song/
 - /36008/
 layout: post
 date: 2022-07-07T12:00:00

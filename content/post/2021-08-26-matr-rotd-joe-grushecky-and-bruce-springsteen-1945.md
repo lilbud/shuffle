@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-rotd-joe-grushecky-and-bruce-springsteen-1945/
+- /matr-rotd-joe-grushecky-and-bruce-springsteen-1945/
 - /27712/
 layout: post
 date: 2021-08-26T12:00:00

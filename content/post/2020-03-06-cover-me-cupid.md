@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-cupid/
+- /cover-me-cupid/
 - /16555/
 layout: post
 date: 2020-03-06T13:00:00

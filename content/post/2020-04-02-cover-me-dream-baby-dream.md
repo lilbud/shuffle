@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-dream-baby-dream/
+- /cover-me-dream-baby-dream/
 - /16917/
 layout: post
 date: 2020-04-02T12:00:00

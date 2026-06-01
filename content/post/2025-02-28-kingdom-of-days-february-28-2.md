@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-28-2/
+- /kingdom-of-days-february-28/
 - /56015/
 layout: post
 date: 2025-02-28T12:00:33
 lastmod: 2025-11-24T23:08:38
-title: "February 28"
+title: "Kingdom of Days: February 28"
 slug: kingdom-of-days-february-28-2
 author: Ken Rosen
 description: "Rarities abound at gigs played on this day. Listen to live performances of “Lion’s Den,” “So Young and In Love,” “Janey, Don’t You Lose Heart,” and more. Plus: Greatest Hits is released on this date in 1995."

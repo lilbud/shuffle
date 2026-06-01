@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-we-take-care-of-our-own/
+- /roll-of-the-dice-we-take-care-of-our-own/
 - /23379/
 layout: post
 date: 2020-12-25T13:00:00

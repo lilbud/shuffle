@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-pretty-flamingo/
+- /cover-me-pretty-flamingo/
 - /31243/
 layout: post
 date: 2021-12-04T12:46:00

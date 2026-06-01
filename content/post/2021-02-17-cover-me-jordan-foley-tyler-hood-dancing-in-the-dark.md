@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jordan-foley-tyler-hood-dancing-in-the-dark/
+- /cover-me-jordan-foley-tyler-hood-dancing-in-the-dark/
 - /25332/
 layout: post
 date: 2021-02-17T13:00:00

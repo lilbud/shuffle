@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-bob-dylan-and-friends-highway-61-revisited/
+- /meeting-across-the-river-bruce-springsteen-bob-dylan-and-friends-highway-61-revisited/
 - /5524/
 layout: default-post
 date: 2018-11-07T13:00:28

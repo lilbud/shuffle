@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-old-dan-tucker/
+- /cover-me-old-dan-tucker/
 - /23067/
 layout: post
 date: 2020-11-24T13:00:00

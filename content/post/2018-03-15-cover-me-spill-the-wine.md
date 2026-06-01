@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-spill-the-wine/
+- /cover-me-spill-the-wine/
 - /1023/
 layout: post
 date: 2018-03-15T12:00:08

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-alexanders-ragtime-band-zoom-theme/
+- /cover-me-alexanders-ragtime-band-zoom-theme/
 - /22140/
 layout: post
 date: 2020-10-20T12:00:00

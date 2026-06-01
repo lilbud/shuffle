@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-any-other-way/
+- /cover-me-any-other-way/
 - /47227/
 layout: post
 date: 2023-12-28T14:00:00

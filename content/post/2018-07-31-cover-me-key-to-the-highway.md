@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-key-to-the-highway/
+- /cover-me-key-to-the-highway/
 - /3395/
 layout: post
 date: 2018-07-31T12:00:35

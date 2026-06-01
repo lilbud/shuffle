@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-countin-on-a-miracle/
+- /roll-of-the-dice-countin-on-a-miracle/
 - /7395/
 layout: post
 date: 2019-02-05T13:00:42

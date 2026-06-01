@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-bleachers-hungry-heart/
+- /cover-me-bleachers-hungry-heart/
 - /32414/
 layout: post
 date: 2022-01-19T13:02:00

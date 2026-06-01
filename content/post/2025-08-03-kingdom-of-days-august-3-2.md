@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-august-3-2/
+- /kingdom-of-days-august-3/
 - /57896/
 layout: post
 date: 2025-08-03T11:00:55
-lastmod: 2026-05-12T20:14:42
-title: "August 3"
+lastmod: 2025-07-20T21:37:44
+title: "Kingdom of Days: August 3"
 slug: kingdom-of-days-august-3-2
 author: Ken Rosen
 description: "On this date: Bruce opens for another artist for the very last time, debuts a work-in-progress “The Promise,” wraps the Tunnel of Love Tour, and more."
@@ -27,6 +28,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/08/rapids.jpg.webp
   post_id: 57896
 ---
+***New for 2025:** New entry for 1977*<br>
+
 **1974:** Bruce and the E Street Band play their very last opening set ever, at the Wollman Ice Rink in New York City's Central Park. The story will become legend: Bruce is a late substitution for original headliner Boz Scaggs, but managers for opening act Anne Murray successfully argue that she has a greater claim to the headliner slot than Bruce does due to her greater album sales. Murray therefore ends up headlining a show that was originally advertised with Bruce as the headliner, and as a result only a quarter of the crowd stays to the end of Murray's set. Bruce has become an impossible act to follow, and no one will attempt it again.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/08/1974-0803.jpg.webp)
@@ -51,7 +54,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/1988-08-03.jpg.webp)
 
-**2005:** Bruce opens his solo acoustic show in Grand Rapids with the tour premiere of "Tunnel of Love." Later in the show, Bruce also tour premieres "Sherry Darling" and "It's Hard to Be a Saint in the City." It's a fantastic performance, captured in full as part of Bruce's official archive series.<br>
+**2005:** Bruce opens his solo acoustic show in Grand Rapids with the tour premiere of "[Tunnel of Love]({{< relref "1987-01-07-roll-of-the-dice-tunnel-of-love.md" >}}/)." Later in the show, Bruce also tour premieres "[Sherry Darling]({{< relref "2018-07-06-roll-of-the-dice-sherry-darling.md" >}})" and "[It's Hard to Be a Saint in the City.]({{< relref "2011-01-09-roll-of-the-dice-its-hard-to-be-a-saint-in-the-city.md" >}}/)" It's a fantastic performance, captured in full as part of Bruce's official archive series–get it [here](https://live.brucespringsteen.net/live-music/0,18918/Bruce-Springsteen-mp3-flac-download-8-3-2005-Van-Andel-Arena-Grand-Rapids-MI.html).<br>
 
 {{< youtube 6tmhf6NPoe4 >}}
 

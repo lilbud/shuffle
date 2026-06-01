@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-death-of-a-good-man/
+- /roll-of-the-dice-death-of-a-good-man/
 - /10934/
 layout: post
 date: 2019-07-07T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-air-supply-4th-of-july-asbury-park-sandy/
+- /cover-me-air-supply-4th-of-july-asbury-park-sandy/
 - /23065/
 layout: post
 date: 2021-03-17T12:00:00

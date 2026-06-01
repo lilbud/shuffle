@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-you-dont-leave-me-no-choice/
+- /roll-of-the-dice-you-dont-leave-me-no-choice/
 - /22587/
 layout: post
 date: 1972-01-09T19:00:00

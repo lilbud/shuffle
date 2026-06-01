@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-sting-bruce-springsteen-billy-joel-and-more-its-now-or-never/
+- /matr-sting-bruce-springsteen-billy-joel-and-more-its-now-or-never/
 - /32614/
 layout: post
 date: 2022-02-13T13:00:00

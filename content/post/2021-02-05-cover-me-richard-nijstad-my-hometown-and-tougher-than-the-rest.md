@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-richard-nijstad-my-hometown-and-tougher-than-the-rest/
+- /cover-me-richard-nijstad-my-hometown-and-tougher-than-the-rest/
 - /25008/
 layout: post
 date: 2021-02-05T13:00:00

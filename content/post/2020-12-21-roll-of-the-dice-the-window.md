@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-window/
+- /roll-of-the-dice-the-window/
 - /23072/
 layout: post
 date: 2020-12-21T13:00:00

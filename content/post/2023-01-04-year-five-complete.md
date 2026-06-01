@@ -1,6 +1,7 @@
 ---
 aliases:
 - /year-five-complete/
+- /year-five-complete/
 - /40635/
 layout: post
 date: 2023-01-04T15:00:00

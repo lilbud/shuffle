@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-roy-orbison-bruce-springsteen-and-friends-all-i-can-do-is-dream-you/
+- /matr-roy-orbison-bruce-springsteen-and-friends-all-i-can-do-is-dream-you/
 - /25807/
 layout: post
 date: 2021-04-03T12:00:00

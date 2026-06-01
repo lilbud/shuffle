@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-ready-teddy/
+- /cover-me-ready-teddy/
 - /545/
 layout: post
 date: 2018-02-01T13:00:27

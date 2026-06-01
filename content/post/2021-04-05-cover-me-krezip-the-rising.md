@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-krezip-the-rising/
+- /cover-me-krezip-the-rising/
 - /25693/
 layout: post
 date: 2021-04-05T12:00:00

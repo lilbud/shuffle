@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-drift-away/
+- /cover-me-drift-away/
 - /10479/
 layout: post
 date: 1976-01-16T19:00:00

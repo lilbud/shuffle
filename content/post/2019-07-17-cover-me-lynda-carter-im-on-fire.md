@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-lynda-carter-im-on-fire/
+- /cover-me-lynda-carter-im-on-fire/
 - /11080/
 layout: post
 date: 2019-07-17T12:00:00

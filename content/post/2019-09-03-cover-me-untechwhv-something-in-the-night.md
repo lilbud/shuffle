@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-untechwhv-something-in-the-night/
+- /cover-me-untechwhv-something-in-the-night/
 - /12709/
 layout: post
 date: 2019-09-03T12:00:00

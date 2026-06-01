@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-its-time-to-go-home/
+- /roll-of-the-dice-its-time-to-go-home/
 - /2417/
 layout: post
 date: 1972-01-17T19:00:56

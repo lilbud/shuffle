@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-whitetown/
+- /roll-of-the-dice-whitetown/
 - /1648/
 layout: post
 date: 2018-04-19T12:00:44

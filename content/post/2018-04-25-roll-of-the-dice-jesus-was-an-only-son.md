@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-jesus-was-an-only-son/
+- /roll-of-the-dice-jesus-was-an-only-son/
 - /1764/
 layout: post
 date: 2018-04-25T12:00:04

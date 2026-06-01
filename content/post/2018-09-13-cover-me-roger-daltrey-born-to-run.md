@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-roger-daltrey-born-to-run/
+- /cover-me-roger-daltrey-born-to-run/
 - /4538/
 layout: post
 date: 2018-09-13T12:00:29

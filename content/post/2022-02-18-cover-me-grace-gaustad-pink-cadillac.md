@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-grace-gaustad-pink-cadillac/
+- /cover-me-grace-gaustad-pink-cadillac/
 - /32827/
 layout: post
 date: 2022-02-18T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-joe-slomp-tenth-avenue-freeze-out/
+- /cover-me-joe-slomp-tenth-avenue-freeze-out/
 - /10318/
 layout: post
 date: 2019-06-12T12:00:00

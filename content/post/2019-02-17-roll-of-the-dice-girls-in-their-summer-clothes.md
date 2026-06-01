@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-girls-in-their-summer-clothes/
+- /roll-of-the-dice-girls-in-their-summer-clothes/
 - /7412/
 layout: post
 date: 2019-02-17T13:00:47

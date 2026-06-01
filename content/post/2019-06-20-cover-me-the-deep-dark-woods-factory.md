@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-deep-dark-woods-factory/
+- /cover-me-the-deep-dark-woods-factory/
 - /10476/
 layout: post
 date: 2019-06-20T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-last-time/
+- /cover-me-the-last-time/
 - /19665/
 layout: post
 date: 2020-07-24T12:00:00

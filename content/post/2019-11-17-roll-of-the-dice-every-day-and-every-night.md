@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-every-day-and-every-night/
+- /roll-of-the-dice-every-day-and-every-night/
 - /14031/
 layout: post
 date: 2019-11-17T09:03:00

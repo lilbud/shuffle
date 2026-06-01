@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-lizanne-knott-stolen-car/
+- /cover-me-lizanne-knott-stolen-car/
 - /12483/
 layout: post
 date: 2019-09-20T12:00:00

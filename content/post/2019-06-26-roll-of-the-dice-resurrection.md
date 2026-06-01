@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-resurrection/
+- /roll-of-the-dice-resurrection/
 - /10636/
 layout: post
 date: 2019-06-26T12:00:00

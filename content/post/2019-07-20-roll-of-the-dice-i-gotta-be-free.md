@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-i-gotta-be-free/
+- /roll-of-the-dice-i-gotta-be-free/
 - /10928/
 layout: post
 date: 2019-07-20T12:00:00

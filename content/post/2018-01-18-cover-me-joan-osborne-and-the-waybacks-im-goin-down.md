@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-joan-osborne-and-the-waybacks-im-goin-down/
+- /cover-me-joan-osborne-and-the-waybacks-im-goin-down/
 - /2231/
 layout: post
 date: 2018-01-18T13:00:27

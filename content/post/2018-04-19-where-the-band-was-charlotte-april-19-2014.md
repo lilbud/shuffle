@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-charlotte-april-19-2014/
+- /where-the-band-was-charlotte-april-19-2014/
 - /1734/
 layout: post
 date: 2018-04-19T13:00:21

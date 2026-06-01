@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-brent-parlane-walk-like-a-man/
+- /cover-me-brent-parlane-walk-like-a-man/
 - /21414/
 layout: post
 date: 2020-09-23T12:00:00

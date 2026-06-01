@@ -1,6 +1,7 @@
 ---
 aliases:
 - /album-companion-tunnel-of-love/
+- /album-companion-tunnel-of-love/
 - /36849/
 layout: post
 date: 1987-01-01T18:00:00

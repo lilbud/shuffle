@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-roll-of-the-dice/
+- /roll-of-the-dice-roll-of-the-dice/
 - /15483/
 layout: post
 date: 2020-01-18T13:10:00

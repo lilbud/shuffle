@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-war-is-over/
+- /roll-of-the-dice-the-war-is-over/
 - /7886/
 layout: post
 date: 2019-03-23T12:00:00

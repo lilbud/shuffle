@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-seven-nights-to-rock/
+- /cover-me-seven-nights-to-rock/
 - /26456/
 layout: post
 date: 2021-04-22T12:00:00

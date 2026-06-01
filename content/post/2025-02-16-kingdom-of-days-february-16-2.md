@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-16-2/
+- /kingdom-of-days-february-16/
 - /55948/
 layout: post
 date: 2025-02-16T12:00:00
 lastmod: 2025-11-24T22:03:34
-title: "February 16"
+title: "Kingdom of Days: February 16"
 slug: kingdom-of-days-february-16-2
 author: Ken Rosen
 description: "A fascinating 2012 interview and great Australian performances from 2014 and 2017 highlight this day in Springsteen history."

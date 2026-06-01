@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-back-in-the-u-s-a/
+- /cover-me-back-in-the-u-s-a/
 - /7817/
 layout: post
 date: 1976-01-03T19:00:00

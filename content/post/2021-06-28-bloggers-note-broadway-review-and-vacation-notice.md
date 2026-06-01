@@ -1,6 +1,7 @@
 ---
 aliases:
 - /bloggers-note-broadway-review-and-vacation-notice/
+- /bloggers-note-broadway-review-and-vacation-notice/
 - /28296/
 layout: post
 date: 2021-06-28T12:00:00

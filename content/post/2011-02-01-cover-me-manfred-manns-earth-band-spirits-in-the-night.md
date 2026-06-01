@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-manfred-manns-earth-band-spirits-in-the-night/
+- /cover-me-manfred-manns-earth-band-spirits-in-the-night/
 - /25516/
 layout: post
 date: 2011-02-01T14:03:00

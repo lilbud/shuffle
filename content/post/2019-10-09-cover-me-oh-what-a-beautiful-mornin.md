@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-oh-what-a-beautiful-mornin/
+- /cover-me-oh-what-a-beautiful-mornin/
 - /13437/
 layout: post
 date: 2019-10-09T12:00:00

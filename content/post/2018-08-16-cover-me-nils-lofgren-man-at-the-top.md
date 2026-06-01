@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-nils-lofgren-man-at-the-top/
+- /cover-me-nils-lofgren-man-at-the-top/
 - /3756/
 layout: post
 date: 2018-08-16T12:00:27

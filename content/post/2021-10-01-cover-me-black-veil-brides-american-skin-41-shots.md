@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-black-veil-brides-american-skin-41-shots/
+- /cover-me-black-veil-brides-american-skin-41-shots/
 - /29986/
 layout: post
 date: 2021-10-01T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-im-bad-im-nationwide/
+- /cover-me-im-bad-im-nationwide/
 - /15837/
 layout: post
 date: 2020-02-17T13:00:00

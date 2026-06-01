@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-make-up-your-mind/
+- /roll-of-the-dice-make-up-your-mind/
 - /29684/
 layout: post
 date: 1972-01-21T19:00:00

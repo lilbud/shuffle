@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-the-who-and-bruce-springsteen-pinball-wizard/
+- /matr-the-who-and-bruce-springsteen-pinball-wizard/
 - /10320/
 layout: post
 date: 2019-06-11T12:00:00

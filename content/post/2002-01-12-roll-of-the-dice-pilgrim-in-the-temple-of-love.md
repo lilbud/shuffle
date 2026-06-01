@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-pilgrim-in-the-temple-of-love/
+- /roll-of-the-dice-pilgrim-in-the-temple-of-love/
 - /22142/
 layout: post
 date: 2002-01-12T19:00:00

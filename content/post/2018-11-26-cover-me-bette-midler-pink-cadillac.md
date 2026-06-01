@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-bette-midler-pink-cadillac/
+- /cover-me-bette-midler-pink-cadillac/
 - /5897/
 layout: post
 date: 2018-11-26T13:00:36

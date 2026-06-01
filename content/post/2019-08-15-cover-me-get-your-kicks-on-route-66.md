@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-get-your-kicks-on-route-66/
+- /cover-me-get-your-kicks-on-route-66/
 - /11842/
 layout: post
 date: 2019-08-15T12:00:00

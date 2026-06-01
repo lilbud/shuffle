@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-wanderer/
+- /cover-me-the-wanderer/
 - /9730/
 layout: post
 date: 2019-05-08T12:00:00

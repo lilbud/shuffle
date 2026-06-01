@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-rotd-i-aint-got-no-home/
+- /cover-me-rotd-i-aint-got-no-home/
 - /7391/
 layout: post
 date: 2019-02-10T13:00:39

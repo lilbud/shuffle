@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-crazy-rocker/
+- /roll-of-the-dice-crazy-rocker/
 - /7796/
 layout: post
 date: 2019-03-10T12:00:00

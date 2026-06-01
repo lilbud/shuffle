@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-phantom-love-just-16/
+- /roll-of-the-dice-phantom-love-just-16/
 - /19806/
 layout: post
 date: 2020-08-19T12:00:00

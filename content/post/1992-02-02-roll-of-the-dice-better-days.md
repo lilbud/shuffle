@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-better-days/
+- /roll-of-the-dice-better-days/
 - /1015/
 layout: post
 date: 1992-02-02T19:00:19

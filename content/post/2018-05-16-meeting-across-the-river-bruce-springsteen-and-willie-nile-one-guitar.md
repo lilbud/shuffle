@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-willie-nile-one-guitar/
+- /meeting-across-the-river-bruce-springsteen-and-willie-nile-one-guitar/
 - /2176/
 layout: post
 date: 2018-05-16T12:00:40

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-levon-helms-all-stars-up-on-cripple-creek/
+- /meeting-across-the-river-bruce-springsteen-and-levon-helms-all-stars-up-on-cripple-creek/
 - /527/
 layout: post
 date: 2018-01-29T13:00:25

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-gary-u-s-bonds-and-bruce-springsteen-jole-blon/
+- /matr-gary-u-s-bonds-and-bruce-springsteen-jole-blon/
 - /12003/
 layout: post
 date: 2019-08-29T12:00:00

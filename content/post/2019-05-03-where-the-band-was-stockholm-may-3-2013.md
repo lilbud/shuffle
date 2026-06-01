@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-stockholm-may-3-2013/
+- /where-the-band-was-stockholm-may-3-2013/
 - /9779/
 layout: post
 date: 2019-05-03T12:00:00

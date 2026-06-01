@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-patti-scialfa-it-takes-two/
+- /matr-bruce-springsteen-and-patti-scialfa-it-takes-two/
 - /17490/
 layout: post
 date: 2020-04-03T12:00:00

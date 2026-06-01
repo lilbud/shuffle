@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-jimmy-vivino-and-the-max-weinberg-7-christmas-day/
+- /matr-bruce-springsteen-jimmy-vivino-and-the-max-weinberg-7-christmas-day/
 - /14889/
 layout: post
 date: 2002-01-10T19:00:00

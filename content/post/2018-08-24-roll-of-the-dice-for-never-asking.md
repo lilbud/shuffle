@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-for-never-asking/
+- /roll-of-the-dice-for-never-asking/
 - /3909/
 layout: post
 date: 2018-08-24T12:00:25

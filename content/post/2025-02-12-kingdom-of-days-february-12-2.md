@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-12-2/
+- /kingdom-of-days-february-12/
 - /55935/
 layout: post
 date: 2025-02-12T12:00:49
 lastmod: 2025-11-27T01:03:13
-title: "February 12"
+title: "Kingdom of Days: February 12"
 slug: kingdom-of-days-february-12-2
 author: Ken Rosen
 description: "An embarrassment of riches on this date in Bruce history: the one and only performance of “Hunter of Invisible Game,” a Grammy performance with Paul McCartney, a Johnny Cash tribute, and much more–great footage and audio today!"

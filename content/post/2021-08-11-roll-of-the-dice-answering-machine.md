@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-answering-machine/
+- /roll-of-the-dice-answering-machine/
 - /28873/
 layout: post
 date: 2021-08-11T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-until-the-rain-comes/
+- /roll-of-the-dice-until-the-rain-comes/
 - /1762/
 layout: post
 date: 2018-04-22T12:00:17

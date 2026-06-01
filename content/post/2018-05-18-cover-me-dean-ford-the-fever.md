@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-dean-ford-the-fever/
+- /cover-me-dean-ford-the-fever/
 - /1999/
 layout: post
 date: 2018-05-18T12:00:33

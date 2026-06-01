@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-hungry-heart/
+- /roll-of-the-dice-hungry-heart/
 - /39970/
 layout: post
 date: 2022-12-21T13:45:00

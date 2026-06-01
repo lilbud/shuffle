@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sandra-stephens-adam-raised-a-cain/
+- /cover-me-sandra-stephens-adam-raised-a-cain/
 - /7981/
 layout: post
 date: 2019-02-24T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-mary-lou/
+- /roll-of-the-dice-mary-lou/
 - /8276/
 layout: post
 date: 2019-04-03T12:00:00

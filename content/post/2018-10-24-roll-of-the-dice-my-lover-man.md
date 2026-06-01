@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-my-lover-man/
+- /roll-of-the-dice-my-lover-man/
 - /5339/
 layout: post
 date: 2018-10-24T12:00:00

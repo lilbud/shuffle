@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-sam-moore-when-something-is-wrong-with-my-baby/
+- /matr-bruce-springsteen-and-sam-moore-when-something-is-wrong-with-my-baby/
 - /27451/
 layout: post
 date: 2021-05-26T12:00:00

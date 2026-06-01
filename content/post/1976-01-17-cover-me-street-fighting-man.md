@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-street-fighting-man/
+- /cover-me-street-fighting-man/
 - /11841/
 layout: post
 date: 1976-01-17T19:00:00

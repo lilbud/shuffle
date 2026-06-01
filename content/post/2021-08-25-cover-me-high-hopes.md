@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-high-hopes/
+- /cover-me-high-hopes/
 - /29032/
 layout: post
 date: 2021-08-25T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-hudson-falcons-take-em-as-they-come/
+- /cover-me-hudson-falcons-take-em-as-they-come/
 - /15481/
 layout: post
 date: 2020-02-04T13:00:00

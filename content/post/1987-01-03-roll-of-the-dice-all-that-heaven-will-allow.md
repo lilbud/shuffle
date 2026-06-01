@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-all-that-heaven-will-allow/
+- /roll-of-the-dice-all-that-heaven-will-allow/
 - /36657/
 layout: post
 date: 1987-01-03T19:00:00

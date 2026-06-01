@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sanne-salomonsen-the-fever/
+- /cover-me-sanne-salomonsen-the-fever/
 - /31389/
 layout: post
 date: 2021-12-11T13:00:00

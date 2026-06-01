@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-there-will-never-be-any-other-for-me-but-you/
+- /roll-of-the-dice-there-will-never-be-any-other-for-me-but-you/
 - /12108/
 layout: post
 date: 2019-08-23T12:00:00

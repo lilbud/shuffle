@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-its-a-shame/
+- /roll-of-the-dice-its-a-shame/
 - /37140/
 layout: post
 date: 2022-10-15T12:00:00

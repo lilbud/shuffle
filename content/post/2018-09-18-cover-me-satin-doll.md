@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-satin-doll/
+- /cover-me-satin-doll/
 - /4442/
 layout: post
 date: 2018-09-18T12:00:58

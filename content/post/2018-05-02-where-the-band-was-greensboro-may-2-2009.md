@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-greensboro-may-2-2009/
+- /where-the-band-was-greensboro-may-2-2009/
 - /1909/
 layout: post
 date: 2018-05-02T13:00:27

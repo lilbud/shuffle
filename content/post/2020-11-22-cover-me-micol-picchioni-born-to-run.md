@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-micol-picchioni-born-to-run/
+- /cover-me-micol-picchioni-born-to-run/
 - /22421/
 layout: post
 date: 2020-11-22T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-mr-jones/
+- /roll-of-the-dice-mr-jones/
 - /7288/
 layout: post
 date: 2019-02-01T13:00:41

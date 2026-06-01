@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-allan-clarke-born-to-run/
+- /cover-me-allan-clarke-born-to-run/
 - /1776/
 layout: post
 date: 2018-04-30T12:00:20

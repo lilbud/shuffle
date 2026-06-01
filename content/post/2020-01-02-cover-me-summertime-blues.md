@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-summertime-blues/
+- /cover-me-summertime-blues/
 - /15050/
 layout: post
 date: 2020-01-02T13:00:00

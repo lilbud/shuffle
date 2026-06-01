@@ -1,6 +1,7 @@
 ---
 aliases:
 - /album-companion-we-shall-overcome/
+- /album-companion-we-shall-overcome/
 - /36318/
 layout: post
 date: 2006-01-01T19:00:00

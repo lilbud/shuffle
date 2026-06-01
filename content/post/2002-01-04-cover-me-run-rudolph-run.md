@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-run-rudolph-run/
+- /cover-me-run-rudolph-run/
 - /6317/
 layout: post
 date: 2002-01-04T19:00:18

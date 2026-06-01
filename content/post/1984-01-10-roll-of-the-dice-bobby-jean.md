@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-bobby-jean/
+- /roll-of-the-dice-bobby-jean/
 - /2698/
 layout: post
 date: 1984-01-10T19:00:43

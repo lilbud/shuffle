@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-danny-gone-if-i-should-fall-behind/
+- /cover-me-danny-gone-if-i-should-fall-behind/
 - /14456/
 layout: post
 date: 2019-11-23T13:00:00

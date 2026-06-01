@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-boys/
+- /cover-me-boys/
 - /2236/
 layout: post
 date: 2018-05-25T12:00:58

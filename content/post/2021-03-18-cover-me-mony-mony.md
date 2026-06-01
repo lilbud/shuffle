@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-mony-mony/
+- /cover-me-mony-mony/
 - /25976/
 layout: post
 date: 2021-03-18T12:00:00

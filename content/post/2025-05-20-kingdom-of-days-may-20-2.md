@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-may-20-2/
+- /kingdom-of-days-may-20/
 - /56797/
 layout: post
 date: 2025-05-20T11:00:54
-lastmod: 2026-02-02T18:24:28
-title: "May 20"
+lastmod: 2025-05-05T00:58:56
+title: "Kingdom of Days: May 20"
 slug: kingdom-of-days-may-20-2
 author: Ken Rosen
 description: "Watch Bruce and his new band rehearse for their 1992 tour, and then listen to Joe Ely and Jerry Lee Lewis join them on stage a year later. These and more highlights from this date inside."
@@ -31,15 +32,19 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/05/19930520_front.jpg.webp
   post_id: 56797
 ---
+***New for 2025:** No updates*<br>
+
 **1981:** The River Tour continues its almost month-long U.K. leg with a show at waterlogged New Bingley Hall in Stafford.<br>
 
-![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/05/Evening_Sentinel_Thu__May_21__1981_-scaled.jpg) ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/05/Derby_Evening_Telegraph_Fri__May_22__1981_.jpg.webp)
+{{< videopress id=YgclROfQ >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/05/Derby_Evening_Telegraph_Fri__May_22__1981_.jpg.webp)
 
 **1992:** Bruce and his new touring band rehearse for their upcoming tour on a Hollywood soundstage.<br>
 
 {{< youtube V8GA_hlYbzg >}}
 
-**1993:** Not one but two guest-stars when Bruce’s World Tour 1993 stops at the RDS Arena in Dublin: Joe Ely joins Bruce for Joe’s “Settle for Love” (which the two played at Joe’s show the night before), and Jerry Lee Lewis joined Bruce for encores of “Great Balls of Fire” and “Whole Lotta Shakin’ Goin’ On.” Despite the special guests, the show is poorly reviewed by local press.<br>
+**1993:** Not one but two guest-stars when Bruce's World Tour 1993 stops at the RDS Arena in Dublin: Joe Ely joins Bruce for Joe's "[Settle for Love]({{< relref "2020-04-22-matr-bruce-springsteen-and-joe-ely-settle-for-love.md" >}})" (which the two played at Joe's show the night before), and Jerry Lee Lewis joined Bruce for encores of "[Great Balls of Fire]({{< relref "2022-08-10-matr-bruce-springsteen-jerry-lee-lewis-and-joe-ely-great-balls-of-fire.md" >}})" and "[Whole Lotta Shakin' Goin' On]({{< relref "2020-05-15-matr-bruce-springsteen-and-jerry-lee-lewis-whole-lotta-shakin-goin-on.md" >}})." Despite the special guests, the show is poorly reviewed by local press.<br>
 
 {{< youtube JkrlvfNoivc >}}
 
@@ -47,23 +52,23 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/05/The_Star_Tue__May_25__1993_.jpg.webp)
 
-**1995:** Bruce and Patti attend Don Henley’s wedding. Several musicians are in attendance and perform, including Bruce on “634-5789 (Soulsville, U.S.A.)”<br>
+**1995:** Bruce and Patti attend Don Henley's wedding. Several musicians are in attendance and perform, including Bruce on "[634-5789 (Soulsville, U.S.A.)]({{< relref "2018-08-14-cover-me-634-5789-soulsville-u-s-a.md" >}})"<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/05/1995-0520.jpg.webp)
 
 **2005:** The first U.S. leg of the Devils & Dust Tour concludes with a show at the Orpheum Theater in Boston.<br>
 
+{{< videopress id=dnyKmXPH >}}
+
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/05/2005-05-20a.jpg.webp)
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/05/2005-05-20b.jpg.webp)
 
-**2006:** “Devils & Dust” makes its Seeger Sessions Tour debut at the Oslo Spektrum.<br>
+**2006:** "[Devils & Dust]({{< relref "2022-03-02-roll-of-the-dice-devils-dust.md" >}})" makes its Seeger Sessions Tour debut at the Oslo Spektrum.<br>
 
-**2020:** Sirius XM debuts the fourth installment of Bruce’s *From My Home to Yours* series.<br>
+{{< videopress id=zHfMSVF6 >}}
+
+**2020:** Sirius XM debuts the fourth installment of Bruce's *From My Home to Yours* series.<br>
 
 [https://estreetshuffle.com/wp-content/uploads/2021/05/2020-05-20-Bruce-E-Street-Radio-DJ-set-4.mp3](https://estreetshuffle.com/wp-content/uploads/2021/05/2020-05-20-Bruce-E-Street-Radio-DJ-set-4.mp3)
 {{< audio url="https://estreetshuffle.com/wp-content/uploads/2021/05/2020-05-20-Bruce-E-Street-Radio-DJ-set-4.mp3" >}}
-
-**2025:** Bruce and the E Street Band play their last of three nights at Co-op Live in Manchester.<br>
-
-{{< youtube IAVJ1nh2gzg >}}

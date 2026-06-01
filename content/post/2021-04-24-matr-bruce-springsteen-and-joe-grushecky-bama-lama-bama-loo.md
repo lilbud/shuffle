@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-joe-grushecky-bama-lama-bama-loo/
+- /matr-bruce-springsteen-and-joe-grushecky-bama-lama-bama-loo/
 - /26512/
 layout: post
 date: 2021-04-24T12:00:00

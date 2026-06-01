@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-joe-grushecky-and-bruce-springsteen-never-be-enough-time/
+- /meeting-across-the-river-joe-grushecky-and-bruce-springsteen-never-be-enough-time/
 - /1410/
 layout: post
 date: 2018-04-03T12:00:25

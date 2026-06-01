@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-camilla-horn/
+- /roll-of-the-dice-camilla-horn/
 - /35373/
 layout: post
 date: 2011-01-14T13:00:00

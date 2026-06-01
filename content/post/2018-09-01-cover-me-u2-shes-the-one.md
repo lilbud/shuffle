@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-u2-shes-the-one/
+- /cover-me-u2-shes-the-one/
 - /4047/
 layout: post
 date: 2018-09-01T12:00:21

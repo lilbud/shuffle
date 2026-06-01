@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-smithereens-downbound-train/
+- /cover-me-the-smithereens-downbound-train/
 - /672/
 layout: post
 date: 2018-02-13T13:00:58

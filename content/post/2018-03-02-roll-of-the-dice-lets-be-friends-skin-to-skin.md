@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-lets-be-friends-skin-to-skin/
+- /roll-of-the-dice-lets-be-friends-skin-to-skin/
 - /829/
 layout: post
 date: 2018-03-02T13:00:53

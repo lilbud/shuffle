@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-i-wish-i-were-blind/
+- /roll-of-the-dice-i-wish-i-were-blind/
 - /30010/
 layout: post
 date: 2021-10-17T12:00:00

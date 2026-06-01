@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-scialfa-and-bruce-springsteen-spanish-dancer/
+- /matr-patti-scialfa-and-bruce-springsteen-spanish-dancer/
 - /18560/
 layout: post
 date: 2020-05-28T12:00:00

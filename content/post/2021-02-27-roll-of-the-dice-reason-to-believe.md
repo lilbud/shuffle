@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-reason-to-believe/
+- /roll-of-the-dice-reason-to-believe/
 - /25179/
 layout: post
 date: 2021-02-27T13:00:00

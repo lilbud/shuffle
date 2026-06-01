@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-elvis-costello-point-blank/
+- /cover-me-elvis-costello-point-blank/
 - /7080/
 layout: post
 date: 2019-02-16T13:00:27

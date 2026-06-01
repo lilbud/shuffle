@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-born-in-the-u-s-a/
+- /roll-of-the-dice-born-in-the-u-s-a/
 - /11226/
 layout: post
 date: 1984-01-03T19:00:00

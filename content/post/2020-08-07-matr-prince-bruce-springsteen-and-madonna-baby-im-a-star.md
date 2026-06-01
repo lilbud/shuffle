@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-prince-bruce-springsteen-and-madonna-baby-im-a-star/
+- /matr-prince-bruce-springsteen-and-madonna-baby-im-a-star/
 - /20372/
 layout: post
 date: 2020-08-07T12:00:00

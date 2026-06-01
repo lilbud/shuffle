@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-april-9-2/
+- /kingdom-of-days-april-9/
 - /56404/
 layout: post
 date: 2025-04-09T11:00:55
-lastmod: 2025-12-11T16:36:16
-title: "April 9"
+lastmod: 2025-03-29T02:14:10
+title: "Kingdom of Days: April 9"
 slug: kingdom-of-days-april-9-2
 author: Ken Rosen
 description: "On this date: The Reunion Tour finally kicks off, Bruce works out a new song called “Devils & Dust” at a 2003 soundcheck, and the E Street Band plays a surprise concert at Colgate University. More highlights and great video inside."
@@ -39,13 +40,15 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/04/Bruce_Springsteen_joins_Hear-the-world-as-ambassador-1.jpg.webp
   post_id: 56404
 ---
+***New for 2025:** New entry for 1979 and 1980; audio for 1999; video for 2023*<br>
+
 **1969:** Child performs at the Pandemonium in Wanamassa, New Jersey.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/04/19690402_Advert_02.jpg.webp)
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/04/Asbury_Park_Press_Fri__Apr_11__1969_-scaled.jpg.webp)
 
-**1974:** Bruce and most of the E Street Band (Boom Carter is not in attendance) drop by WBCN-FM in Boston before playing two shows at Charlie’s Place in Cambridge. The radio broadcast is well worth a listen–check out the acoustic arrangement of “Rosalita (Come Out Tonight)” and the first documented performance of the alternative third verse for “4th of July, Asbury Park (Sandy).”<br>
+**1974:** Bruce and most of the E Street Band (Boom Carter is not in attendance) drop by WBCN-FM in Boston before playing two shows at Charlie’s Place in Cambridge. The radio broadcast is well worth a listen–check out the acoustic arrangement of “Rosalita (Come Out Tonight)” and the first documented performance of the alternative third verse for “[4th of July, Asbury Park (Sandy)]({{< relref "2019-04-26-roll-of-the-dice-4th-of-july-asbury-park-sandy.md" >}}).”<br>
 
 {{< videopress id=u6HITmag >}}
 
@@ -59,9 +62,9 @@ params:
 
 **1979:** Bruce and the E Street Band record tracks for *The River* at the Power Station in New York City.<br>
 
-**1980:** Exactly a year later, Bruce is back at the Power Station for mixing work on “Ramrod” and “The Price You Pay.”<br>
+**1980:** Exactly a year later, Bruce is back at the Power Station for mixing work on “[Ramrod]({{< relref "2022-09-10-roll-of-the-dice-ramrod.md" >}})” and “[The Price You Pay]({{< relref "2019-09-23-roll-of-the-dice-the-price-you-pay.md" >}}).”<br>
 
-**1981:** As the European leg of The River Tour gains steam, Bruce begins opening the show with “Factory” in West Berlin–the first time Bruce has ever played this song in Europe.<br>
+**1981:** As the European leg of The River Tour gains steam, Bruce begins opening the show with “[Factory]({{< relref "2018-10-31-roll-of-the-dice-factory.md" >}})” in West Berlin–the first time Bruce has ever played this song in Europe.<br>
 
 {{< videopress id=6J9ty986 >}}
 
@@ -72,12 +75,12 @@ params:
 [https://estreetshuffle.com/wp-content/uploads/2022/04/Twist-Shout-1982-04-09.mp3](https://estreetshuffle.com/wp-content/uploads/2022/04/Twist-Shout-1982-04-09.mp3)
 {{< audio url="https://estreetshuffle.com/wp-content/uploads/2022/04/Twist-Shout-1982-04-09.mp3" >}}
 
-**1988:** While introducing Bruce’s current hit on the charts (“One Step Up”), *American Top 40* host Casey Kasem reveals how *Us Magazine’s* derision of Bruce’s physique prompted him to bulk up.<br>
+**1988:** While introducing Bruce’s current hit on the charts (“[One Step Up]({{< relref "1987-01-10-roll-of-the-dice-one-step-up.md" >}}/)“), *American Top 40* host Casey Kasem reveals how *Us Magazine’s* derision of Bruce’s physique prompted him to bulk up.<br>
 
 [https://estreetshuffle.com/wp-content/uploads/2022/04/AT40-1988-04-09.mp3](https://estreetshuffle.com/wp-content/uploads/2022/04/AT40-1988-04-09.mp3)
 {{< audio url="https://estreetshuffle.com/wp-content/uploads/2022/04/AT40-1988-04-09.mp3" >}}
 
-**1992:** *Greetings From Asbury Park, N.J.* is certified is 2x multi-platinum by the Recording Industry Association of America.<br>
+**1992:** *[Greetings From Asbury Park, N.J.]({{< relref "2023-01-05-album-companion-greetings-from-asbury-park-n-j.md" >}})*is certified is 2x multi-platinum by the Recording Industry Association of America.<br>
 
 {{< youtube-playlist OLAK5uy_me8xYcyUK7_zcjX-xFU5znBLMwachuxZ0 >}}
 
@@ -87,7 +90,7 @@ params:
 
 {{< youtube 2mfhT-P4REE >}}
 
-…and my favorite clip from this show, “Out in the Street.” Watch from the 4-minute mark, and see what happens when Clarence can’t quite get to the microphone for his line.
+…and my favorite clip from this show, “[Out in the Street]({{< relref "2021-10-28-roll-of-the-dice-out-in-the-street.md" >}}).” Watch from the 4-minute mark, and see what happens when Clarence can’t quite get to the microphone for his line.
 
 {{< youtube 6YHFg55mLPc >}}
 
@@ -97,13 +100,13 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/03/44767315690_66ce7d7276_o.jpg.webp)
 
-**2000:** Kansas City gets an outstanding set list for their Reunion show: Bruce opens with “Take ‘Em as They Come” and plays “Downbound Train” and “Racing in the Street” later in the set.<br>
+**2000:** Kansas City gets an outstanding set list for their Reunion show: Bruce opens with “[Take ‘Em as They Come]({{< relref "2019-03-29-roll-of-the-dice-take-em-as-they-come.md" >}})” and plays “[Downbound Train]({{< relref "1984-01-07-roll-of-the-dice-downbound-train.md" >}})” and “[Racing in the Street]({{< relref "2021-10-03-roll-of-the-dice-racing-in-the-street.md" >}})” later in the set.<br>
 
 {{< videopress id=TwY6egiH >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/04/2000-04-10-scaled.jpg.webp)
 
-**2003:** The Rising Tour returns to North America as Bruce and the band play Arco Arena in Sacramento. During the soundcheck, Bruce plays a new song for the first time: “Devils & Dust.”<br>
+**2003:** The Rising Tour returns to North America as Bruce and the band play Arco Arena in Sacramento. During the soundcheck, Bruce plays a new song for the first time: “[Devils & Dust]({{< relref "2022-03-02-roll-of-the-dice-devils-dust.md" >}}).”<br>
 
 {{< videopress id=ZiX2cHWZ >}}
 
@@ -111,7 +114,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/03/2003-04-09b.jpg.webp)
 
-**2012:** Night Two at Madison Square Garden for the Wrecking Ball Tour. The set list features the tour premieres of “Spirit in the Night” and “Backstreets,” and the show breaks the three-hour mark.<br>
+**2012:** Night Two at Madison Square Garden for the Wrecking Ball Tour. The set list features the tour premieres of “[Spirit in the Night]({{< relref "2011-01-08-roll-of-the-dice-spirit-in-the-night.md" >}}/)” and “[Backstreets]({{< relref "2022-05-14-roll-of-the-dice-backstreets.md" >}}),” and the show breaks the three-hour mark.<br>
 
 {{< videopress id=OuA08kLJ >}}
 
@@ -121,6 +124,6 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/04/Bruce_Springsteen_joins_Hear-the-world-as-ambassador.jpg.webp)
 
-**2023:** Bruce and the E Street Band play their first of two nights at UBS Arena in Elmont, New York, where “Mary’s Place” makes its tour debut.<br>
+**2023:** Bruce and the E Street Band play their first of two nights at UBS Arena in Elmont, New York, where “[Mary’s Place]({{< relref "2022-03-25-roll-of-the-dice-marys-place.md" >}})” makes its tour debut.<br>
 
 {{< youtube 7BSisqQ-oqY >}}

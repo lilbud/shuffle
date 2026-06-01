@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-down-in-the-hole/
+- /roll-of-the-dice-down-in-the-hole/
 - /35845/
 layout: post
 date: 2022-07-01T12:00:00

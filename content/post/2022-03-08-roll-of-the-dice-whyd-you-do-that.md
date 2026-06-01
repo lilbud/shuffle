@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-whyd-you-do-that/
+- /roll-of-the-dice-whyd-you-do-that/
 - /33061/
 layout: post
 date: 2022-03-08T13:00:00

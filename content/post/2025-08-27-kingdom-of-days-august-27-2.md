@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-august-27-2/
+- /kingdom-of-days-august-27/
 - /59498/
 layout: post
 date: 2025-08-27T11:00:35
-lastmod: 2026-05-14T20:28:23
-title: "August 27"
+lastmod: 2025-08-23T20:47:02
+title: "Kingdom of Days: August 27"
 slug: kingdom-of-days-august-27-2
 author: Ken Rosen
 description: "Bruce and the E Street Band wrap up their Boston Reunion stand with the long-awaited return of encore favorite, “Raise Your Hand.” More highlights inside."
@@ -29,9 +30,11 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/08/19990827_front.jpg.webp
   post_id: 59498
 ---
+***New for 2025:** New entry for 1979*<br>
+
 **1970:** Steel Mill rehearses in Wanamassa, New Jersey for their upcoming appearance in Nashville.<br>
 
-**1979:** Bruce and his studio team work on the mix for "Ramrod" at the Power Station in New York City.<br>
+**1979:** Bruce and his studio team work on the mix for "[Ramrod]({{< relref "2022-09-10-roll-of-the-dice-ramrod.md" >}})" at the Power Station in New York City.<br>
 
 **1981:** Bruce and the E Street Band play their fifth show of a six-night stand at the Los Angeles Memorial Sports Arena.<br>
 
@@ -45,9 +48,9 @@ params:
 
 {{< videopress id=LRMoo2CB >}}
 
-**1987:** Bruce joins Cats on a Smooth Surface at their gig at Tradewinds in Sea Bright, playing "Light of Day" and a selection of covers including "Proud Mary," "Fortunate Son," "If You Need Me," "Around and Around," and "Lucille."<br>
+**1987:** Bruce joins Cats on a Smooth Surface at their gig at Tradewinds in Sea Bright, playing "[Light of Day]({{< relref "2018-12-06-roll-of-the-dice-light-of-day.md" >}})" and a selection of covers including "Proud Mary," "[Fortunate Son]({{< relref "2019-11-09-matr-john-fogerty-and-bruce-springsteen-fortunate-son.md" >}})," "If You Need Me," "[Around and Around]({{< relref "2020-02-26-cover-me-around-and-around.md" >}})," and "[Lucille]({{< relref "1976-01-07-cover-me-lucille.md" >}}/)."<br>
 
-**1999:** Bruce and the reunited E Street Band wrap their five-night stand at Boston's Fleet Center, tour debuting "Raise Your Hand" in the encores with Peter Wolf.<br>
+**1999:** Bruce and the reunited E Street Band wrap their five-night stand at Boston's Fleet Center, tour debuting "[Raise Your Hand]({{< relref "1976-01-13-cover-me-raise-your-hand.md" >}}/)" in the encores with Peter Wolf.<br>
 
 {{< youtube 8D06CtXE5y4 >}}
 

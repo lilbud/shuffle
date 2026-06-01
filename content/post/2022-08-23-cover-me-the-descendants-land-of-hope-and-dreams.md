@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-descendants-land-of-hope-and-dreams/
+- /cover-me-the-descendants-land-of-hope-and-dreams/
 - /37160/
 layout: post
 date: 2022-08-23T12:00:00

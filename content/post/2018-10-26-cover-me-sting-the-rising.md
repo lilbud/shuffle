@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sting-the-rising/
+- /cover-me-sting-the-rising/
 - /5193/
 layout: post
 date: 2018-10-26T12:00:52

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-good-eye/
+- /roll-of-the-dice-good-eye/
 - /32610/
 layout: post
 date: 2022-02-15T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-david-bowie-its-hard-to-be-a-saint-in-the-city/
+- /cover-me-david-bowie-its-hard-to-be-a-saint-in-the-city/
 - /89/
 layout: post
 date: 2018-01-10T13:00:02

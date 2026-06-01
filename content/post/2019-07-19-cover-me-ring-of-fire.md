@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-ring-of-fire/
+- /cover-me-ring-of-fire/
 - /11632/
 layout: post
 date: 2019-07-19T12:00:00

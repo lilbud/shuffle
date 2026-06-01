@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-where-the-bands-are/
+- /roll-of-the-dice-where-the-bands-are/
 - /5529/
 layout: post
 date: 2018-11-08T13:00:27

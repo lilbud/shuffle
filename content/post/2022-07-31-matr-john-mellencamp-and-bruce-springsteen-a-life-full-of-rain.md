@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-john-mellencamp-and-bruce-springsteen-a-life-full-of-rain/
+- /matr-john-mellencamp-and-bruce-springsteen-a-life-full-of-rain/
 - /36658/
 layout: post
 date: 2022-07-31T12:00:00

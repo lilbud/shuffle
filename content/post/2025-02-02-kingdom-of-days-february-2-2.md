@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-2-2/
+- /kingdom-of-days-february-2/
 - /55845/
 layout: post
 date: 2025-02-02T12:00:03
 lastmod: 2025-11-24T22:49:28
-title: "February 2"
+title: "Kingdom of Days: February 2"
 slug: kingdom-of-days-february-2-2
 author: Ken Rosen
 description: "Bruce apologizes to Australia on behalf of America and sends a message back to Washington DC on this date in Springsteen history. More highlights inside."

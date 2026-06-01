@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-surprise-surprise/
+- /roll-of-the-dice-surprise-surprise/
 - /26451/
 layout: post
 date: 2021-05-04T12:00:00

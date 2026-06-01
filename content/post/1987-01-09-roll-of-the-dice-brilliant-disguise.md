@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-brilliant-disguise/
+- /roll-of-the-dice-brilliant-disguise/
 - /583/
 layout: post
 date: 1987-01-09T19:00:33

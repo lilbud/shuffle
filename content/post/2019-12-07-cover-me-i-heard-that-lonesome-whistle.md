@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-i-heard-that-lonesome-whistle/
+- /cover-me-i-heard-that-lonesome-whistle/
 - /14364/
 layout: post
 date: 2019-12-07T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-roger-taylor-racing-in-the-street/
+- /cover-me-roger-taylor-racing-in-the-street/
 - /9985/
 layout: post
 date: 2019-05-31T12:00:00

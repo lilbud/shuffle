@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-portland-november-28-2012/
+- /where-the-band-was-portland-november-28-2012/
 - /5782/
 layout: post
 date: 2018-11-28T14:00:51

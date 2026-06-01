@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-oakland-may-5-2005/
+- /where-the-band-was-oakland-may-5-2005/
 - /1907/
 layout: post
 date: 2018-05-05T13:00:07

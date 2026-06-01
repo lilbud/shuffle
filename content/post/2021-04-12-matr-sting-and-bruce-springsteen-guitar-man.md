@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-sting-and-bruce-springsteen-guitar-man/
+- /matr-sting-and-bruce-springsteen-guitar-man/
 - /26454/
 layout: post
 date: 2021-04-12T12:00:00

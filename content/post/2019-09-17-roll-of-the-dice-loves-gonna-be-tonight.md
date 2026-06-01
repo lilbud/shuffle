@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-loves-gonna-be-tonight/
+- /roll-of-the-dice-loves-gonna-be-tonight/
 - /12714/
 layout: post
 date: 2019-09-17T12:00:00

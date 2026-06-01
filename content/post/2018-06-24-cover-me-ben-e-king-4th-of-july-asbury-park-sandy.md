@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-ben-e-king-4th-of-july-asbury-park-sandy/
+- /cover-me-ben-e-king-4th-of-july-asbury-park-sandy/
 - /2603/
 layout: post
 date: 2018-06-24T12:00:16

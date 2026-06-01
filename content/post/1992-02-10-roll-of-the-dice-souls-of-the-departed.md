@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-souls-of-the-departed/
+- /roll-of-the-dice-souls-of-the-departed/
 - /7820/
 layout: post
 date: 1992-02-10T19:00:00

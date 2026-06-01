@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-seaside-bar-song/
+- /roll-of-the-dice-seaside-bar-song/
 - /38856/
 layout: post
 date: 2022-10-24T12:00:00

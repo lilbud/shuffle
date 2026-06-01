@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-glendale-june-3-2006/
+- /where-the-band-was-glendale-june-3-2006/
 - /2419/
 layout: post
 date: 2018-06-03T13:00:23

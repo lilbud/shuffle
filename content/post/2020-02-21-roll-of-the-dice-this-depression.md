@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-this-depression/
+- /roll-of-the-dice-this-depression/
 - /16059/
 layout: post
 date: 2020-02-21T13:00:00

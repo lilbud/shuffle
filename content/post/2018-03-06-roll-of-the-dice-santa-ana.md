@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-santa-ana/
+- /roll-of-the-dice-santa-ana/
 - /970/
 layout: post
 date: 2018-03-06T13:00:10

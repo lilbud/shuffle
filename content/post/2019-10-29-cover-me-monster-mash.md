@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-monster-mash/
+- /cover-me-monster-mash/
 - /13919/
 layout: post
 date: 2019-10-29T12:00:00

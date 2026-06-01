@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-dont-back-down/
+- /roll-of-the-dice-dont-back-down/
 - /25518/
 layout: post
 date: 1983-01-14T19:00:00

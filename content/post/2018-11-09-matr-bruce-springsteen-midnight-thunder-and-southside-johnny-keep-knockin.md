@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-midnight-thunder-and-southside-johnny-keep-knockin/
+- /matr-bruce-springsteen-midnight-thunder-and-southside-johnny-keep-knockin/
 - /5723/
 layout: post
 date: 2018-11-09T13:00:42

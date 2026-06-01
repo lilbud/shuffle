@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-minnie-driver-hungry-heart/
+- /cover-me-minnie-driver-hungry-heart/
 - /11081/
 layout: post
 date: 2019-07-25T12:00:00

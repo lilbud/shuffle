@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-warren-zevon-and-bruce-springsteen-disorder-in-the-house/
+- /matr-warren-zevon-and-bruce-springsteen-disorder-in-the-house/
 - /18724/
 layout: post
 date: 2020-06-08T12:00:00

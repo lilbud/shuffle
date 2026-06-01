@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-fort-monmouth-july-18-22-2002-marks-story/
+- /where-the-band-was-fort-monmouth-july-18-22-2002-marks-story/
 - /11637/
 layout: post
 date: 2019-07-18T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-blowin-in-the-wind/
+- /cover-me-blowin-in-the-wind/
 - /14886/
 layout: post
 date: 2019-12-19T10:22:00

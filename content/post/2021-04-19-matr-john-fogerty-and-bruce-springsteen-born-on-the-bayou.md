@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-john-fogerty-and-bruce-springsteen-born-on-the-bayou/
+- /matr-john-fogerty-and-bruce-springsteen-born-on-the-bayou/
 - /25938/
 layout: post
 date: 2021-04-19T12:00:00

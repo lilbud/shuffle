@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-lonesome-day/
+- /roll-of-the-dice-lonesome-day/
 - /16918/
 layout: post
 date: 2020-04-11T12:00:00

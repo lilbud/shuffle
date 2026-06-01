@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-richfield-whistle/
+- /roll-of-the-dice-richfield-whistle/
 - /39588/
 layout: post
 date: 1983-01-15T19:00:00

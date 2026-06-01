@@ -1,6 +1,7 @@
 ---
 aliases:
 - /spare-parts-born-to-take/
+- /spare-parts-born-to-take/
 - /34026/
 layout: post
 date: 2022-04-18T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-home-free-born-in-the-u-s-a/
+- /cover-me-home-free-born-in-the-u-s-a/
 - /28469/
 layout: post
 date: 2021-07-17T18:00:00

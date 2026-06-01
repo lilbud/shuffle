@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-25-2/
+- /kingdom-of-days-january-25/
 - /55790/
 layout: post
 date: 2025-01-25T12:00:20
 lastmod: 2025-11-12T17:28:56
-title: "January 25"
+title: "Kingdom of Days: January 25"
 slug: kingdom-of-days-january-25-2
 author: Ken Rosen
 description: "On this day in history: Bruce Springsteen films the video for “The Wrestler,” duets with Joe Ely in Austin, and more."

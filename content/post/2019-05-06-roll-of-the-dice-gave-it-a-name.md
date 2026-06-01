@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-gave-it-a-name/
+- /roll-of-the-dice-gave-it-a-name/
 - /9594/
 layout: post
 date: 2019-05-06T12:00:00

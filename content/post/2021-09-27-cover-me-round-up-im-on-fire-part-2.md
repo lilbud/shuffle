@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-round-up-im-on-fire-part-2/
+- /cover-me-round-up-im-on-fire-part/
 - /29309/
 layout: post
 date: 2021-09-27T12:00:00

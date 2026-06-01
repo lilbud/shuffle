@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-los-angeles-january-28-29-1985-clydes-story/
+- /where-the-band-was-los-angeles-january-28-29-1985-clydes-story/
 - /24943/
 layout: post
 date: 2021-01-29T13:00:00

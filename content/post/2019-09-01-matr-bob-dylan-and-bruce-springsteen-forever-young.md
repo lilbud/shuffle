@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bob-dylan-and-bruce-springsteen-forever-young/
+- /matr-bob-dylan-and-bruce-springsteen-forever-young/
 - /12103/
 layout: post
 date: 2019-09-01T12:00:00

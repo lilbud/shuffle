@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-reflekter-moonlight-motel/
+- /cover-me-reflekter-moonlight-motel/
 - /14140/
 layout: post
 date: 2019-11-07T11:07:00

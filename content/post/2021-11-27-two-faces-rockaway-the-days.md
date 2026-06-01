@@ -1,6 +1,7 @@
 ---
 aliases:
 - /two-faces-rockaway-the-days/
+- /two-faces-rockaway-the-days/
 - /31153/
 layout: post
 date: 2021-11-27T13:00:00

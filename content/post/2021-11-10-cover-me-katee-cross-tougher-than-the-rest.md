@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-katee-cross-tougher-than-the-rest/
+- /cover-me-katee-cross-tougher-than-the-rest/
 - /30790/
 layout: post
 date: 2021-11-10T13:00:00

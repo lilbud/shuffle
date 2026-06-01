@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-los-angeles-april-27-2012/
+- /where-the-band-was-los-angeles-april-27-2012/
 - /1748/
 layout: post
 date: 2018-04-27T13:00:44

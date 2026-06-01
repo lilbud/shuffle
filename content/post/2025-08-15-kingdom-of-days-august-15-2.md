@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-august-15-2/
+- /kingdom-of-days-august-15/
 - /58378/
 layout: post
 date: 2025-08-15T11:00:16
-lastmod: 2026-05-13T23:41:02
-title: "August 15"
+lastmod: 2025-08-09T20:46:12
+title: "Kingdom of Days: August 15"
 slug: kingdom-of-days-august-15-2
 author: Ken Rosen
 description: "It’s a day for legendary shows, from the 1975 Bottom Line radio broadcast to the ’78 Largo video to the stunning, unpredictable second night in Fenway in 2012. Lots of great video and many more highlights inside."
@@ -36,9 +37,11 @@ tags:
 categories:
 - "kingdom-of-days"
 params:
-  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/08/bs120815.jpg.webp
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/springsteen-bruce-the-e-street-band-2015-complete-bottom-line-broadcast-1975-lp-250.jpg.webp
   post_id: 58378
 ---
+***New for 2025:** New entry for 1977 and 2024; audio for 1985; video for 2008*<br>
+
 **1969:** Child plays a gig at the Student Prince in Asbury Park.<br>
 
 **1975:** On Night Three of Bruce's legendary stand at New York City's Bottom Line, the early show is broadcast live on WNEW-FM, resulting in one of Bruce's most widely bootlegged shows ever. Listen to that historic broadcast below.<br>
@@ -55,7 +58,7 @@ There's no audio from the late show, and that's too bad: it features the last kn
 
 {{< videopress id=j6U6TOXs >}}
 
-**1982:** Bruce joins Cats on a Smooth Surface at their fourth anniversary party at The Stone Pony. Amazingly, the set was captured on film–check out "Jersey Girl" and "Sweet Soul Music" below.<br>
+**1982:** Bruce joins Cats on a Smooth Surface at their fourth anniversary party at The Stone Pony. Amazingly, the set was captured on film–check out "[Jersey Girl]({{< relref "1976-02-07-cover-me-roll-of-the-dice-jersey-girl.md" >}}/)" and "[Sweet Soul Music]({{< relref "1976-01-20-cover-me-sweet-soul-music.md" >}}/)" below.<br>
 
 {{< videopress id=5WvffBvQ >}}
 
@@ -73,27 +76,21 @@ There's no audio from the late show, and that's too bad: it features the last kn
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/2002-08-15.png.webp)
 
-**2008:** The Magic Tour enters its final month with a return to indoor arenas, starting with this show in Jacksonville. Bruce tour premieres "You Can't Sit Down," played for the first time in almost a decade, as well as "Back in Your Arms."<br>
+**2008:** The Magic Tour enters its final month with a return to indoor arenas, starting with this show in Jacksonville. Bruce tour premieres "[You Can't Sit Down](../2018-06-21-cover-me-you-cant-sit-down/post.md/)," played for the first time in almost a decade, as well as "[Back in Your Arms]({{< relref "2019-11-10-roll-of-the-dice-back-in-your-arms.md" >}})."<br>
 
 {{< videopress id=oc0WivO0 >}}
 
 {{< youtube c7R8BLSvYEQ >}}
 
-**2012:** Night Two at Boston's Fenway Park brings an embarrassment of riches, from an opening "Thunder Road" with just Bruce and Roy, to an almost completely audibled opening pack, to the first "Knock on Wood" in 36 years, to the first "Prove It '78" in the U.S.A. since '78, a guest-spot by Ken Casey, and so much more. This show is available as part of Bruce's official archive series.<br>
+**2012:** Night Two at Boston's Fenway Park brings an embarrassment of riches, from an opening "Thunder Road" with just Bruce and Roy, to an almost completely audibled opening pack, to the first "[Knock on Wood]({{< relref "2021-04-02-cover-me-knock-on-wood.md" >}})" in 36 years, to the first "[Prove It '78]({{< relref "2020-10-24-roll-of-the-dice-prove-it-all-night.md" >}})" in the U.S.A. since '78, a guest-spot by Ken Casey, and so much more. This show is available as part of Bruce's official archive series–get it [here](https://live.brucespringsteen.net/live-music/0,26943/bruce-springsteen-fenway-park-boston-ma-08-15-2012-mp3-flac-or-online-music-streaming.html). For more highlights from this show, see my [*Where the Band Was*]({{< relref "2018-08-15-where-the-band-was-boston-august-15-2012.md" >}}) report.<br>
 
 {{< videopress id=FaVCWMDK >}}
 
 {{< videopress id=b3Y5W7XT >}}
 
-{{< youtube z3u8-LpUISk >}}
-
-{{< videopress id=zkaKIjie >}}
-
 {{< youtube n8kIjzIZL5g >}}
 
 {{< youtube xkYYNPzRljs >}}
-
-{{< youtube oCixUwho8mw >}}
 
 **2018:** *Springsteen on Broadway* continues its theatrical run at the Walter Kerr Theater in New York City. In attendance tonight: Gloria Steinem.<br>
 

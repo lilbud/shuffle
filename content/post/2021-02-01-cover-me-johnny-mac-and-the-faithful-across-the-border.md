@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-johnny-mac-and-the-faithful-across-the-border/
+- /cover-me-johnny-mac-and-the-faithful-across-the-border/
 - /24821/
 layout: post
 date: 2021-02-01T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-last-night-in-tulsa/
+- /roll-of-the-dice-last-night-in-tulsa/
 - /23376/
 layout: post
 date: 1972-01-16T19:00:00

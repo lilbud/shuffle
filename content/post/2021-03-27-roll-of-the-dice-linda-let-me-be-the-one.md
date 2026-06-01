@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-linda-let-me-be-the-one/
+- /roll-of-the-dice-linda-let-me-be-the-one/
 - /26080/
 layout: post
 date: 2021-03-27T12:00:00

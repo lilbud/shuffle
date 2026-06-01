@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-silent-bear-tenth-avenue-freeze-out/
+- /cover-me-silent-bear-tenth-avenue-freeze-out/
 - /24580/
 layout: post
 date: 2021-01-24T13:00:00

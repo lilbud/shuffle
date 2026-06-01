@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-tenth-avenue-freeze-out/
+- /roll-of-the-dice-tenth-avenue-freeze-out/
 - /5731/
 layout: post
 date: 2018-11-19T12:30:17

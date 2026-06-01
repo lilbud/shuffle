@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-seven-angels/
+- /roll-of-the-dice-seven-angels/
 - /2465/
 layout: post
 date: 2018-06-07T12:00:33

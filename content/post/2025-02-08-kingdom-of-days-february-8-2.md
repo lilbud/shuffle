@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-8-2/
+- /kingdom-of-days-february-8/
 - /55883/
 layout: post
 date: 2025-02-08T12:00:12
 lastmod: 2025-11-27T00:30:28
-title: "February 8"
+title: "Kingdom of Days: February 8"
 slug: kingdom-of-days-february-8-2
 author: Ken Rosen
 description: "Bruce wins many Grammys, is saluted by MusiCares, breaks out an awesome “Highway to Hell” cover and more on this very busy day in Springsteen history."

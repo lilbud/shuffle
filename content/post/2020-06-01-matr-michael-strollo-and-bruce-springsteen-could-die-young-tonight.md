@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-michael-strollo-and-bruce-springsteen-could-die-young-tonight/
+- /matr-michael-strollo-and-bruce-springsteen-could-die-young-tonight/
 - /18393/
 layout: post
 date: 2020-06-01T12:00:00

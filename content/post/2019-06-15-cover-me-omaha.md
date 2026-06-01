@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-omaha/
+- /cover-me-omaha/
 - /10474/
 layout: post
 date: 2019-06-15T12:00:00

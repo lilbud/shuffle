@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-wrestler/
+- /roll-of-the-dice-the-wrestler/
 - /22143/
 layout: post
 date: 2020-10-31T12:00:00

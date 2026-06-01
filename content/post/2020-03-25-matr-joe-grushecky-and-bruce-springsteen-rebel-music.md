@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-joe-grushecky-and-bruce-springsteen-rebel-music/
+- /matr-joe-grushecky-and-bruce-springsteen-rebel-music/
 - /16172/
 layout: post
 date: 2020-03-25T12:00:00

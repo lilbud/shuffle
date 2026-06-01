@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-cash-cows-dancing-in-the-dark/
+- /cover-me-the-cash-cows-dancing-in-the-dark/
 - /13189/
 layout: post
 date: 2019-09-28T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-john-fogerty-centerfield/
+- /matr-bruce-springsteen-and-john-fogerty-centerfield/
 - /27625/
 layout: post
 date: 2021-06-22T12:00:00

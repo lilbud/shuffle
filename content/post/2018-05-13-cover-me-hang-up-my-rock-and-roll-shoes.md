@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-hang-up-my-rock-and-roll-shoes/
+- /cover-me-hang-up-my-rock-and-roll-shoes/
 - /2116/
 layout: post
 date: 2018-05-13T12:00:49

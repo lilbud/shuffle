@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-lumineers-my-city-of-ruins/
+- /cover-me-the-lumineers-my-city-of-ruins/
 - /10784/
 layout: post
 date: 2019-07-13T11:53:00

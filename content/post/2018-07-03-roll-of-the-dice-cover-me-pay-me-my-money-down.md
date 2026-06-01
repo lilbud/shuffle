@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-cover-me-pay-me-my-money-down/
+- /roll-of-the-dice-cover-me-pay-me-my-money-down/
 - /2605/
 layout: post
 date: 2018-07-03T12:00:21

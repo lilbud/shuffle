@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-chicken-lips-and-lizard-hips/
+- /cover-me-chicken-lips-and-lizard-hips/
 - /14032/
 layout: post
 date: 2019-11-13T13:00:00

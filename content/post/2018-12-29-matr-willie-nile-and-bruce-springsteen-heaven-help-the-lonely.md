@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-willie-nile-and-bruce-springsteen-heaven-help-the-lonely/
+- /matr-willie-nile-and-bruce-springsteen-heaven-help-the-lonely/
 - /6323/
 layout: post
 date: 2018-12-29T08:10:01

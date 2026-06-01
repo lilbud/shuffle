@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-baby-come-back/
+- /roll-of-the-dice-baby-come-back/
 - /1282/
 layout: post
 date: 2018-03-29T12:00:39

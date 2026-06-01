@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-alejandro-escovedo-beast-of-burden/
+- /matr-bruce-springsteen-and-alejandro-escovedo-beast-of-burden/
 - /1021/
 layout: post
 date: 2018-03-19T12:00:21

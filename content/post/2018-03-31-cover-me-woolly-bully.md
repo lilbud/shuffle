@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-woolly-bully/
+- /cover-me-woolly-bully/
 - /1284/
 layout: post
 date: 2018-03-31T12:00:06

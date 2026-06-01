@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-fade-away/
+- /roll-of-the-dice-fade-away/
 - /1770/
 layout: post
 date: 2018-04-28T12:00:39

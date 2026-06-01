@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-barley-mob-featuring-zak-moran-dancing-in-the-dark/
+- /cover-me-the-barley-mob-featuring-zak-moran-dancing-in-the-dark/
 - /16089/
 layout: post
 date: 2020-03-19T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-vatican-cellars-darkness-on-the-edge-of-town/
+- /cover-me-vatican-cellars-darkness-on-the-edge-of-town/
 - /20103/
 layout: post
 date: 2020-08-06T12:00:00

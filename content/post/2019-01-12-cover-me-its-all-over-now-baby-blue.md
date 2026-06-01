@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-its-all-over-now-baby-blue/
+- /cover-me-its-all-over-now-baby-blue/
 - /6923/
 layout: post
 date: 2019-01-12T13:00:49

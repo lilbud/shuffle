@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-cats-on-a-smooth-surface-rock-baby-rock-it/
+- /matr-bruce-springsteen-and-cats-on-a-smooth-surface-rock-baby-rock-it/
 - /13920/
 layout: post
 date: 2019-11-12T13:00:00

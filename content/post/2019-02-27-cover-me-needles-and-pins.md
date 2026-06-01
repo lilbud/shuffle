@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-needles-and-pins/
+- /cover-me-needles-and-pins/
 - /7290/
 layout: post
 date: 2019-02-27T13:00:21

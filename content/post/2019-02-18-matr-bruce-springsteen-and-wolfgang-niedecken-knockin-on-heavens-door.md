@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-wolfgang-niedecken-knockin-on-heavens-door/
+- /matr-bruce-springsteen-and-wolfgang-niedecken-knockin-on-heavens-door/
 - /7408/
 layout: post
 date: 2019-02-18T13:00:33

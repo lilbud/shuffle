@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-13th-alibi-and-dilia-cover-me/
+- /cover-me-13th-alibi-and-dilia-cover-me/
 - /24579/
 layout: post
 date: 2021-01-16T13:00:00

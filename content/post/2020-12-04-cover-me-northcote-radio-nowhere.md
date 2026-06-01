@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-northcote-radio-nowhere/
+- /cover-me-northcote-radio-nowhere/
 - /22909/
 layout: post
 date: 2020-12-04T13:00:00

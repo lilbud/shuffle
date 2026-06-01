@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-you-gotta-fight-for-what-you-want/
+- /roll-of-the-dice-you-gotta-fight-for-what-you-want/
 - /13192/
 layout: post
 date: 2019-09-25T12:00:00

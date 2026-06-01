@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-goin-back-to-georgia/
+- /roll-of-the-dice-goin-back-to-georgia/
 - /7786/
 layout: post
 date: 2019-03-07T13:00:00

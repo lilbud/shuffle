@@ -1,6 +1,7 @@
 ---
 aliases:
 - /spare-parts-joe-grushecky-and-the-houserockers-cheap-motel/
+- /spare-parts-joe-grushecky-and-the-houserockers-cheap-motel/
 - /15195/
 layout: post
 date: 2020-01-11T13:00:00

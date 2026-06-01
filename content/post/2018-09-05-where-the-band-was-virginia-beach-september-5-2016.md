@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-virginia-beach-september-5-2016/
+- /where-the-band-was-virginia-beach-september-5-2016/
 - /4188/
 layout: post
 date: 2018-09-05T12:45:50

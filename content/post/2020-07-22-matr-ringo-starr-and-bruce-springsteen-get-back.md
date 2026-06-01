@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-ringo-starr-and-bruce-springsteen-get-back/
+- /matr-ringo-starr-and-bruce-springsteen-get-back/
 - /19925/
 layout: post
 date: 2020-07-22T12:00:00

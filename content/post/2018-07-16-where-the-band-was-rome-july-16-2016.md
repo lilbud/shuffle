@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-rome-july-16-2016/
+- /where-the-band-was-rome-july-16-2016/
 - /3190/
 layout: post
 date: 2018-07-16T13:00:29

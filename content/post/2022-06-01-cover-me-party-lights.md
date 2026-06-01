@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-party-lights/
+- /cover-me-party-lights/
 - /35076/
 layout: post
 date: 2022-06-01T12:00:00

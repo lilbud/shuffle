@@ -1,6 +1,7 @@
 ---
 aliases:
 - /spare-parts-lorenzo-bertocchini-hey-bruce/
+- /spare-parts-lorenzo-bertocchini-hey-bruce/
 - /26738/
 layout: post
 date: 2021-04-21T12:00:00

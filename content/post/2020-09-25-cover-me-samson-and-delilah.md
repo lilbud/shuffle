@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-samson-and-delilah/
+- /cover-me-samson-and-delilah/
 - /21389/
 layout: post
 date: 2020-09-25T12:00:00

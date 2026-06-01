@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-joe-ely-settle-for-love/
+- /matr-bruce-springsteen-and-joe-ely-settle-for-love/
 - /17360/
 layout: post
 date: 2020-04-22T12:00:00

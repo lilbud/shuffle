@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-philadelphia-september-9-2016/
+- /where-the-band-was-philadelphia-september-9-2016/
 - /4262/
 layout: post
 date: 2018-09-09T13:00:18

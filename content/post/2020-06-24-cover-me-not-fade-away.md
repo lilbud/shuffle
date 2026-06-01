@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-not-fade-away/
+- /cover-me-not-fade-away/
 - /15844/
 layout: post
 date: 2020-06-24T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-arabian-nights/
+- /roll-of-the-dice-arabian-nights/
 - /11225/
 layout: post
 date: 2011-01-11T13:00:00

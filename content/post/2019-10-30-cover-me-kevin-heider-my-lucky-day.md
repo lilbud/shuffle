@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-kevin-heider-my-lucky-day/
+- /cover-me-kevin-heider-my-lucky-day/
 - /13918/
 layout: post
 date: 2019-10-30T12:00:00

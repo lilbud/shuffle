@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-patty-griffin-jungleland/
+- /cover-me-patty-griffin-jungleland/
 - /11791/
 layout: post
 date: 2019-08-18T12:00:00

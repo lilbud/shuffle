@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-i-hung-my-head/
+- /cover-me-i-hung-my-head/
 - /16060/
 layout: post
 date: 2020-03-02T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-kaiak-hungry-heart/
+- /cover-me-kaiak-hungry-heart/
 - /19322/
 layout: post
 date: 2020-07-05T12:00:00

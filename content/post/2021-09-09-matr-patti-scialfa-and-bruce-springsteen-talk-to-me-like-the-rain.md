@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-scialfa-and-bruce-springsteen-talk-to-me-like-the-rain/
+- /matr-patti-scialfa-and-bruce-springsteen-talk-to-me-like-the-rain/
 - /29314/
 layout: post
 date: 2021-09-09T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-tougher-than-the-rest/
+- /roll-of-the-dice-tougher-than-the-rest/
 - /19667/
 layout: post
 date: 1987-01-02T19:00:00

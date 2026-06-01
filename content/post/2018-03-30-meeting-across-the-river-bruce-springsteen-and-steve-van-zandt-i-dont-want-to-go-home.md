@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-steve-van-zandt-i-dont-want-to-go-home/
+- /meeting-across-the-river-bruce-springsteen-and-steve-van-zandt-i-dont-want-to-go-home/
 - /1280/
 layout: post
 date: 2018-03-30T12:00:08

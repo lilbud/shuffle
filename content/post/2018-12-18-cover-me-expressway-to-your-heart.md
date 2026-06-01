@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-expressway-to-your-heart/
+- /cover-me-expressway-to-your-heart/
 - /6683/
 layout: post
 date: 2018-12-18T13:00:31

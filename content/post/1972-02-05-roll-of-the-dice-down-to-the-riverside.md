@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-down-to-the-riverside/
+- /roll-of-the-dice-down-to-the-riverside/
 - /30275/
 layout: post
 date: 1972-02-05T19:00:00

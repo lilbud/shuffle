@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-sure-can-feel-the-pain/
+- /roll-of-the-dice-sure-can-feel-the-pain/
 - /3034/
 layout: post
 date: 1972-01-27T19:00:22

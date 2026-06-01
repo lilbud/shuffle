@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-astronettes-spirit-in-the-night/
+- /cover-me-the-astronettes-spirit-in-the-night/
 - /12001/
 layout: post
 date: 2011-02-01T14:02:00

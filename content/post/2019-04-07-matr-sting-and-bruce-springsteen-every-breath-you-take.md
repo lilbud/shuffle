@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-sting-and-bruce-springsteen-every-breath-you-take/
+- /matr-sting-and-bruce-springsteen-every-breath-you-take/
 - /8407/
 layout: post
 date: 2019-04-07T12:00:00

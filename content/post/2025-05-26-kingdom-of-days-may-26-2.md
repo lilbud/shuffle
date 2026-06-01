@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-may-26-2/
+- /kingdom-of-days-may-26/
 - /56837/
 layout: post
 date: 2025-05-26T11:00:30
-lastmod: 2026-02-03T00:10:13
-title: "May 26"
+lastmod: 2025-05-10T20:51:29
+title: "Kingdom of Days: May 26"
 slug: kingdom-of-days-may-26-2
 author: Ken Rosen
 description: "On this date: the strange circumstances behind the first ever performance of “Dancing in the Dark,” the wrap-up of the Ghost of Tom Joad Tour, and more."
@@ -35,11 +36,15 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/05/20130526_2_booklet2.jpg.webp
   post_id: 56837
 ---
+***New for 2025:** Review for 1978*<br>
+
 **1957:** Seven-year-old Bruce Springsteen receives his first Communion at St. Rose of Lima Church.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/05/1957-05-26.jpg.webp)
 
 **1973:** Bruce and the E Street Band headline the third of three shows at Childe Harold in Washington, DC.<br>
 
-**1978:** The Darkness Tour picks up steam as it rolls into Philadelphia for the first of two nights at The Spectrum. “Growin’ Up” and “It’s Hard to Be a Saint in the City” make their tour premieres. About six minutes of the show is captured on 8mm film–watch the earliest known footage from the Darkness Tour below.<br>
+**1978:** The Darkness Tour picks up steam as it rolls into Philadelphia for the first of two nights at The Spectrum. "[Growin' Up]({{< relref "2011-01-03-roll-of-the-dice-growin-up.md" >}}/)" and "[It's Hard to Be a Saint in the City]({{< relref "2011-01-09-roll-of-the-dice-its-hard-to-be-a-saint-in-the-city.md" >}}/)" make their tour premieres. About six minutes of the show is captured on 8mm film–watch the earliest known footage from the Darkness Tour below.<br>
 
 {{< youtube gTWkVHl3Bw8 >}}
 
@@ -52,13 +57,15 @@ params:
 [https://estreetshuffle.com/wp-content/uploads/2022/05/1981-05-26-Brighton__Merged.mp3](https://estreetshuffle.com/wp-content/uploads/2022/05/1981-05-26-Brighton__Merged.mp3)
 {{< audio url="https://estreetshuffle.com/wp-content/uploads/2022/05/1981-05-26-Brighton__Merged.mp3" >}}
 
-**1984:** Bruce’s world premiere performance of “Dancing in the Dark” occurs under very strange circumstances: Bruce happens to be at Xanadu in Asbury Park where the band Bystander is playing. The band had managed to obtain a promo copy of Bruce’s new single, learned the song, and planned to debut it on this night. When they learn that Bruce is in the house, they invite him to join them, but Bruce declines. The band extends the intro, hoping Bruce will relent–and he does, grabbing the mic at the last second and performing the live debut of his greatest hit.<br>
+**1984:** Bruce's world premiere performance of "[Dancing in the Dark]({{< relref "1984-01-13-roll-of-the-dice-dancing-in-the-dark.md" >}})" occurs under very strange circumstances: Bruce happens to be at Xanadu in Asbury Park where the band Bystander is playing. The band had managed to obtain a promo copy of Bruce's new single, learned the song, and planned to debut it on this night. When they learn that Bruce is in the house, they invite him to join them, but Bruce declines. The band extends the intro, hoping Bruce will relent–and he does, grabbing the mic at the last second and performing the live debut of his greatest hit.<br>
 
-**1988:** Bruce joins John Mellencamp on stage for “Like a Rolling Stone” at the Irvine Meadows Amphitheater in Irvine, California.<br>
+{{< videopress id=0BTfSZSi >}}
+
+**1988:** Bruce joins John Mellencamp on stage for "[Like a Rolling Stone]({{< relref "2019-06-09-cover-me-like-a-rolling-stone.md" >}})" at the Irvine Meadows Amphitheater in Irvine, California.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/05/1988-05-26.jpg.webp)
 
-**1997:** Bruce wraps up the Ghost of Tom Joad Tour with the second of two nights in Paris. Elliot Murphy makes a guest appearance, joining Bruce for “Blowin’ Down This Road,” and “Diamonds by the Yard” (the only known performance of this song).<br>
+**1997:** Bruce wraps up the Ghost of Tom Joad Tour with the second of two nights in Paris. Elliot Murphy makes a guest appearance, joining Bruce for "[Blowin' Down This Road]({{< relref "2020-05-27-matr-bruce-springsteen-and-friends-blowin-down-this-road.md" >}})," and "[Diamonds by the Yard]({{< relref "2022-03-29-matr-elliott-murphy-and-bruce-springsteen-diamonds-by-the-yard.md" >}})" (the only known performance of this song).<br>
 
 {{< youtube eIVqrJvUvx4 >}}
 
@@ -72,13 +79,15 @@ params:
 
 {{< youtube fFlzC3YXddA >}}
 
-**2003:** At the first of two Rising shows at the Crystal Palace in London, Bruce tour premieres “Meeting Across the River” (into “Jungleland,” of course).<br>
+**2003:** At the first of two Rising shows at the Crystal Palace in London, Bruce tour premieres "[Meeting Across the River]({{< relref "2019-08-04-roll-of-the-dice-meeting-across-the-river.md" >}})" (into "Jungleland," of course).<br>
+
+{{< videopress id=I7tpxG4Z >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/05/The_Independent_Tue__May_27__2003_.jpg.webp)
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/05/2003-0526.jpg.webp)
 
-**2013:** At the first of three shows in Germany–this one in Munich–Bruce opens with a solo acoustic “Who’ll Stop the Rain” and plays a rare “Seaside Bar Song” along with *Born in the U.S.A.* in full.<br>
+**2013:** At the first of three shows in Germany–this one in Munich–Bruce opens with a solo acoustic "[Who'll Stop the Rain]({{< relref "2023-07-12-cover-me-wholl-stop-the-rain.md" >}})" and plays a rare "[Seaside Bar Song]({{< relref "2022-10-24-roll-of-the-dice-seaside-bar-song.md" >}})" along with *Born in the U.S.A.* in full.<br>
 
 {{< youtube llBeo074_bA >}}
 
@@ -88,9 +97,7 @@ params:
 
 **2018:** *Springsteen on Broadway* continues its theatrical run at the Walter Kerr Theater in New York City.<br>
 
-**2021:** Bruce’s *From My Home to Yours* radio show continues on E Street Radio with Episode 22, “Radio Radio.”<br>
+**2021:** Bruce's *From My Home to Yours* radio show continues on E Street Radio with Episode 22, "Radio Radio."<br>
 
 [https://estreetshuffle.com/wp-content/uploads/2022/05/2021-05-26-Bruce-E-Street-Radio-DJ-set-22.mp3](https://estreetshuffle.com/wp-content/uploads/2022/05/2021-05-26-Bruce-E-Street-Radio-DJ-set-22.mp3)
 {{< audio url="https://estreetshuffle.com/wp-content/uploads/2022/05/2021-05-26-Bruce-E-Street-Radio-DJ-set-22.mp3" >}}
-
-![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/05/The_Freehold_Transcript_and_The_Monmouth_Inquirer_1957_05_30_4-scaled.jpg.webp)

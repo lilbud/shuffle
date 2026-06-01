@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-everybody-wants-my-baby/
+- /roll-of-the-dice-everybody-wants-my-baby/
 - /5741/
 layout: post
 date: 2018-11-15T13:00:26

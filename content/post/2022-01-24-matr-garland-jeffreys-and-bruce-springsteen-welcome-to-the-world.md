@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-garland-jeffreys-and-bruce-springsteen-welcome-to-the-world/
+- /matr-garland-jeffreys-and-bruce-springsteen-welcome-to-the-world/
 - /32479/
 layout: post
 date: 2022-01-24T13:00:00

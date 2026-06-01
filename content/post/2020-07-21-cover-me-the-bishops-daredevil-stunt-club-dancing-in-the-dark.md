@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-bishops-daredevil-stunt-club-dancing-in-the-dark/
+- /cover-me-the-bishops-daredevil-stunt-club-dancing-in-the-dark/
 - /19320/
 layout: post
 date: 2020-07-21T12:00:00

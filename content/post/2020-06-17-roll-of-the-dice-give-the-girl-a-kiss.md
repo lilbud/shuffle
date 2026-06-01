@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-give-the-girl-a-kiss/
+- /roll-of-the-dice-give-the-girl-a-kiss/
 - /18721/
 layout: post
 date: 2020-06-17T12:00:00

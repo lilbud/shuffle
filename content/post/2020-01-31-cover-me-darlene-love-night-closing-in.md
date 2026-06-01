@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-darlene-love-night-closing-in/
+- /cover-me-darlene-love-night-closing-in/
 - /15845/
 layout: post
 date: 2020-01-31T13:00:00

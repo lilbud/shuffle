@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-long-black-veil/
+- /cover-me-long-black-veil/
 - /15956/
 layout: post
 date: 2020-02-05T13:00:00

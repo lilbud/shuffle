@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-candys-boy/
+- /roll-of-the-dice-candys-boy/
 - /20595/
 layout: post
 date: 2020-09-02T12:00:00

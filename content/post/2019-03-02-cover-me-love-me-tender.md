@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-love-me-tender/
+- /cover-me-love-me-tender/
 - /7794/
 layout: post
 date: 2019-03-02T13:00:00

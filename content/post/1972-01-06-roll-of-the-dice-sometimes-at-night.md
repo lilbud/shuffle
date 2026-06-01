@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-sometimes-at-night/
+- /roll-of-the-dice-sometimes-at-night/
 - /8490/
 layout: post
 date: 1972-01-06T19:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /year-two-complete/
+- /year-two-complete/
 - /15454/
 layout: default-post
 date: 2020-01-04T19:00:00

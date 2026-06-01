@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-lowlands-soul-driver/
+- /cover-me-lowlands-soul-driver/
 - /33666/
 layout: post
 date: 2022-04-02T12:00:00

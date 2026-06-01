@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-14-2/
+- /kingdom-of-days-january-14/
 - /55588/
 layout: post
 date: 2025-01-14T12:00:07
 lastmod: 2025-11-08T17:46:07
-title: "January 14"
+title: "Kingdom of Days: January 14"
 slug: kingdom-of-days-january-14-2
 author: Ken Rosen
 description: "On this day: the release of High Hopes, the one and only performance of “Gov. Christie’s Traffic Jam,” and more."

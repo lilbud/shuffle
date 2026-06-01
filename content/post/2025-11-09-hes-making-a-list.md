@@ -1,6 +1,7 @@
 ---
 aliases:
 - /hes-making-a-list/
+- /hes-making-a-list/
 - /62933/
 layout: post
 date: 2025-11-09T16:17:58

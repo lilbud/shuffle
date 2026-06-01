@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-angels-blues/
+- /roll-of-the-dice-angels-blues/
 - /13399/
 layout: post
 date: 2019-10-05T12:00:00

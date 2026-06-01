@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-scialfa-and-bruce-springsteen-childrens-song/
+- /matr-patti-scialfa-and-bruce-springsteen-childrens-song/
 - /21390/
 layout: post
 date: 2020-09-20T12:00:00

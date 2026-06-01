@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jason-heath-and-the-greedy-souls-4th-of-july-asbury-park-sandy/
+- /cover-me-jason-heath-and-the-greedy-souls-4th-of-july-asbury-park-sandy/
 - /14029/
 layout: post
 date: 2019-11-11T13:00:00

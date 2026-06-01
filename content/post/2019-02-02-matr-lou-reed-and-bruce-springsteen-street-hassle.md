@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-lou-reed-and-bruce-springsteen-street-hassle/
+- /matr-lou-reed-and-bruce-springsteen-street-hassle/
 - /7437/
 layout: post
 date: 2019-02-02T13:00:00

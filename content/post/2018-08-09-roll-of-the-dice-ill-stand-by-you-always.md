@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-ill-stand-by-you-always/
+- /roll-of-the-dice-ill-stand-by-you-always/
 - /3657/
 layout: post
 date: 2018-08-09T12:00:11

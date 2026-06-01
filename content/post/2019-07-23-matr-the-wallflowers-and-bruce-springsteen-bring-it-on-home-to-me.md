@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-the-wallflowers-and-bruce-springsteen-bring-it-on-home-to-me/
+- /matr-the-wallflowers-and-bruce-springsteen-bring-it-on-home-to-me/
 - /11447/
 layout: post
 date: 2019-07-23T12:00:00

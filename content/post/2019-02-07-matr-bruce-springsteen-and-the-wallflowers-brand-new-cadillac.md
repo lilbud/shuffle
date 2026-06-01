@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-the-wallflowers-brand-new-cadillac/
+- /matr-bruce-springsteen-and-the-wallflowers-brand-new-cadillac/
 - /7393/
 layout: post
 date: 2019-02-07T13:00:04

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-roy-orbison-bruce-springsteen-and-friends-leah/
+- /matr-roy-orbison-bruce-springsteen-and-friends-leah/
 - /7888/
 layout: post
 date: 2019-04-08T12:00:00

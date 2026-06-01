@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-give-my-love-to-rose/
+- /cover-me-give-my-love-to-rose/
 - /21787/
 layout: post
 date: 2020-10-29T12:00:00

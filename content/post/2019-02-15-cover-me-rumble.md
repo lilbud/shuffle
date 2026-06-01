@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-rumble/
+- /cover-me-rumble/
 - /7433/
 layout: post
 date: 2019-02-15T13:00:36

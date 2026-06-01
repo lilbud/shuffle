@@ -1,6 +1,7 @@
 ---
 aliases:
 - /album-companion-darkness-on-the-edge-of-town/
+- /album-companion-darkness-on-the-edge-of-town/
 - /36003/
 layout: post
 date: 2022-07-05T12:00:00

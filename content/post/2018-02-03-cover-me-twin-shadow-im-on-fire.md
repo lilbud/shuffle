@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-twin-shadow-im-on-fire/
+- /cover-me-twin-shadow-im-on-fire/
 - /550/
 layout: post
 date: 2018-02-03T13:00:46

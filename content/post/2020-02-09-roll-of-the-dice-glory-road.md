@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-glory-road/
+- /roll-of-the-dice-glory-road/
 - /15954/
 layout: post
 date: 2020-02-09T13:00:00

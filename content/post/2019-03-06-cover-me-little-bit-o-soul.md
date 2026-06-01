@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-little-bit-o-soul/
+- /cover-me-little-bit-o-soul/
 - /7798/
 layout: post
 date: 2019-03-06T12:50:00

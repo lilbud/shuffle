@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-way/
+- /roll-of-the-dice-the-way/
 - /28460/
 layout: post
 date: 2021-08-06T12:00:00

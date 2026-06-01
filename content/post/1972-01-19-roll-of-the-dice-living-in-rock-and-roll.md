@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-living-in-rock-and-roll/
+- /roll-of-the-dice-living-in-rock-and-roll/
 - /33511/
 layout: post
 date: 1972-01-19T19:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-ricky-wants-a-man-of-her-own/
+- /roll-of-the-dice-ricky-wants-a-man-of-her-own/
 - /5739/
 layout: post
 date: 2018-11-23T13:00:45

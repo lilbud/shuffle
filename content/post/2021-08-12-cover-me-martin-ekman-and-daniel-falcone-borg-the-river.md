@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-martin-ekman-and-daniel-falcone-borg-the-river/
+- /cover-me-martin-ekman-and-daniel-falcone-borg-the-river/
 - /28864/
 layout: post
 date: 2021-08-12T11:07:00

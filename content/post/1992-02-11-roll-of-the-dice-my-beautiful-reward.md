@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-my-beautiful-reward/
+- /roll-of-the-dice-my-beautiful-reward/
 - /41682/
 layout: post
 date: 1992-02-11T19:00:00

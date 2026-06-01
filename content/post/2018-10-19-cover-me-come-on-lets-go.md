@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-come-on-lets-go/
+- /cover-me-come-on-lets-go/
 - /5124/
 layout: post
 date: 2018-10-19T12:00:23

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-one-by-one/
+- /cover-me-one-by-one/
 - /19666/
 layout: post
 date: 2020-07-28T12:00:00

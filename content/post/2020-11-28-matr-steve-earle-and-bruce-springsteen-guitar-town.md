@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-steve-earle-and-bruce-springsteen-guitar-town/
+- /matr-steve-earle-and-bruce-springsteen-guitar-town/
 - /22584/
 layout: post
 date: 2020-11-28T13:00:00

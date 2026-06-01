@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-c-c-rider/
+- /cover-me-c-c-rider/
 - /29029/
 layout: post
 date: 2021-08-29T12:00:00

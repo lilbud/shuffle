@@ -1,6 +1,7 @@
 ---
 aliases:
 - /album-companion-greetings-from-asbury-park-n-j/
+- /album-companion-greetings-from-asbury-park-n-j/
 - /40499/
 layout: post
 date: 2023-01-05T13:14:00

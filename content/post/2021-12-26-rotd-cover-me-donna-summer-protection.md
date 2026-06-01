@@ -1,6 +1,7 @@
 ---
 aliases:
 - /rotd-cover-me-donna-summer-protection/
+- /rotd-cover-me-donna-summer-protection/
 - /18172/
 layout: post
 date: 2021-12-26T13:00:00

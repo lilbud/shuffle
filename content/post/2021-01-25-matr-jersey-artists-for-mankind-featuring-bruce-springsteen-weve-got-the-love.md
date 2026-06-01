@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-jersey-artists-for-mankind-featuring-bruce-springsteen-weve-got-the-love/
+- /matr-jersey-artists-for-mankind-featuring-bruce-springsteen-weve-got-the-love/
 - /24152/
 layout: post
 date: 2021-01-25T13:00:00

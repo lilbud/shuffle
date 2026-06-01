@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-tori-amos-im-on-fire/
+- /cover-me-tori-amos-im-on-fire/
 - /12166/
 layout: post
 date: 2019-08-14T12:00:04

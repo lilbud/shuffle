@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-i-am-the-doctor/
+- /roll-of-the-dice-i-am-the-doctor/
 - /26078/
 layout: post
 date: 2021-03-31T12:00:00

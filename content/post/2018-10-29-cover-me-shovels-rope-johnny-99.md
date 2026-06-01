@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-shovels-rope-johnny-99/
+- /cover-me-shovels-rope-johnny-99/
 - /5303/
 layout: post
 date: 2018-10-29T12:00:14

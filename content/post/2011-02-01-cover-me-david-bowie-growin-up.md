@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-david-bowie-growin-up/
+- /cover-me-david-bowie-growin-up/
 - /6861/
 layout: post
 date: 2011-02-01T14:01:38

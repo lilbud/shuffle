@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-frank-black-and-the-catholics-im-goin-down/
+- /cover-me-frank-black-and-the-catholics-im-goin-down/
 - /27775/
 layout: post
 date: 2021-06-12T12:00:00

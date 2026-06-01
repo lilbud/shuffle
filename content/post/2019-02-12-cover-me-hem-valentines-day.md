@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-hem-valentines-day/
+- /cover-me-hem-valentines-day/
 - /7470/
 layout: post
 date: 2019-02-12T13:00:25

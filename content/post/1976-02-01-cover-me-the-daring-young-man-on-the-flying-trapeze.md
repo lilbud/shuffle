@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-daring-young-man-on-the-flying-trapeze/
+- /cover-me-the-daring-young-man-on-the-flying-trapeze/
 - /19926/
 layout: post
 date: 1976-02-01T19:00:00

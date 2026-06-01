@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-gary-u-s-bonds-and-the-e-street-band-club-soul-city/
+- /cover-me-gary-u-s-bonds-and-the-e-street-band-club-soul-city/
 - /8404/
 layout: post
 date: 2019-05-07T12:00:00

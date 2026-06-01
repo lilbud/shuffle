@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-new-orleans/
+- /cover-me-new-orleans/
 - /11634/
 layout: post
 date: 2019-07-31T12:00:00

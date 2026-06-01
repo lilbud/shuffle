@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-on-top-of-old-smoky/
+- /cover-me-on-top-of-old-smoky/
 - /12294/
 layout: post
 date: 2019-08-24T12:00:00

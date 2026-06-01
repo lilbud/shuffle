@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-im-turning-into-elvis/
+- /roll-of-the-dice-im-turning-into-elvis/
 - /16360/
 layout: post
 date: 2020-03-05T13:00:00

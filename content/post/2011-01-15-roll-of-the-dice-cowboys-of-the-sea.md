@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-cowboys-of-the-sea/
+- /roll-of-the-dice-cowboys-of-the-sea/
 - /29030/
 layout: post
 date: 2011-01-15T13:00:00

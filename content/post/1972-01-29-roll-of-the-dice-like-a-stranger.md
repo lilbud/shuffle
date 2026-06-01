@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-like-a-stranger/
+- /roll-of-the-dice-like-a-stranger/
 - /5196/
 layout: post
 date: 1972-01-29T19:00:24

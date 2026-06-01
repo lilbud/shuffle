@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-august-21-2/
+- /kingdom-of-days-august-21/
 - /59399/
 layout: post
 date: 2025-08-21T11:00:31
-lastmod: 2026-05-14T20:10:21
-title: "August 21"
+lastmod: 2025-08-15T23:02:47
+title: "Kingdom of Days: August 21"
 slug: kingdom-of-days-august-21-2
 author: Ken Rosen
 description: "Guest appearances galore on this date in history: Flo and Eddie, Little Steven and the Disciples of Soul, Marah’s Dave Bielanko, and more. Plus: the premiere of the modern arrangement of “Dancing in the Dark” and more."
@@ -49,7 +50,9 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/08/BRUCE_NASHVILLE_08.21.08-1160x1160-1.jpg.webp
   post_id: 59399
 ---
-**1966:** The Castiles co-headline with The Rogues at the Surf ‘n' See Club in Sea Bright, New Jersey.<br>
+***New for 2025:** New entry for 1979 and 2024*<br>
+
+**1966:** The Castiles co-headline with The Rogues at the Surf 'n' See Club in Sea Bright, New Jersey.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/08/1966-0821.jpg.webp)
 
@@ -77,25 +80,25 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/1978-08-21.jpg.webp)
 
-**1979:** Bruce records "Dollhouse" with the E Street Band at The Power Station in New York City. It will remain in the vault for almost two decades.<br>
+**1979:** Bruce records "[Dollhouse]({{< relref "2020-08-15-roll-of-the-dice-dollhouse.md" >}})" with the E Street Band at The Power Station in New York City. It will remain in the vault for almost two decades.<br>
 
 {{< youtube HpF_i71cqVQ >}}
 
-**1981:** At the second of six nights at the Los Angeles Memorial Sports Arena on the River Tour, Flo and Eddie guest-star on "Hungry Heart." (They also provided backing vocals on the original album track.)<br>
+**1981:** At the second of six nights at the Los Angeles Memorial Sports Arena on the River Tour, Flo and Eddie guest-star on "[Hungry Heart]({{< relref "2022-12-21-roll-of-the-dice-hungry-heart.md" >}})." (They also provided backing vocals on the original album track.)<br>
 
 {{< youtube-playlist PLJTyL9twk3zBsoSImHtGzvLwx-Z_eDw-P >}}
 
 {{< youtube xwVaag7j2KI >}}
 
-**1985:** At the third of a four-night Giants Stadium stand (there will be two more later in the summer), "Bobby Jean" is recorded and eventually released on *Live 1975-85*.<br>
+**1985:** At the third of a four-night Giants Stadium stand (there will be two more later in the summer), "[Bobby Jean]({{< relref "1984-01-10-roll-of-the-dice-bobby-jean.md" >}})" is recorded and eventually released on *Live 1975-85*.<br>
 
 {{< youtube HsgPJoBLbFU >}}
 
-**1987:** Bruce and Stevie share a stage again, when Bruce joins Steve and The Disciples of Soul at their Stone Pony gig for "Native American" and "Sun City."<br>
+**1987:** Bruce and Stevie share a stage again, when Bruce joins Steve and The Disciples of Soul at their Stone Pony gig for "[Native American]({{< relref "2019-10-25-matr-little-steven-and-bruce-springsteen-native-american.md" >}})" and "Sun City."<br>
 
 {{< youtube 63bxYb-NsOw >}}
 
-**1988:** Bruce joins Cats on a Smooth Surface on stage at The Stone Pony for "Stand By Me" and "Around and Around." (Photo credit: Debra Rothenberg)<br>
+**1988:** Bruce joins Cats on a Smooth Surface on stage at The Stone Pony for "[Stand By Me]({{< relref "2021-12-12-matr-u2-and-bruce-springsteen-stand-by-me.md" >}})" and "[Around and Around.]({{< relref "2020-02-26-cover-me-around-and-around.md" >}})" (Photo credit: Debra Rothenberg)<br>
 
 {{< videopress id=38uvJMi5 >}}
 
@@ -125,7 +128,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/1999-08-21.png.webp)
 
-**2002:** Bruce debuts the modern-day rock arrangement of "Dancing in the Dark" at his Rising Tour show in Tacoma. It will be an E Street Band tour staple ever after. Also tour premiering at this show: "Ramrod."<br>
+**2002:** Bruce debuts the modern-day rock arrangement of "[Dancing in the Dark]({{< relref "1984-01-13-roll-of-the-dice-dancing-in-the-dark.md" >}})" at his Rising Tour show in Tacoma. It will be an E Street Band tour staple ever after. Also tour premiering at this show: "[Ramrod]({{< relref "2022-09-10-roll-of-the-dice-ramrod.md" >}})." For more highlights from this show, see my [*Where the Band Was*]({{< relref "2018-08-21-where-the-band-was-tacoma-august-21-2002.md" >}})[report.]({{< relref "2018-08-21-where-the-band-was-tacoma-august-21-2002.md" >}})<br>
 
 {{< youtube EtJH29n-76Y >}}
 
@@ -137,7 +140,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/2002-08-21b.jpg.webp)
 
-**2008:** Bruce takes a Magic Tour victory lap this week, with each show bringing its own share of surprises and rarities. Tonight's show in Nashville features the first "Good Rockin' Tonight" in 28 years, a rare "Held Up Without a Gun" and "Loose Ends," and a tour premiere cover of "I Fought the Law." Marah's Dave Bielanko joins the band when Rosie comes out in the encores. This show is available as part of Bruce's official archive series.<br>
+**2008:** Bruce takes a Magic Tour victory lap this week, with each show bringing its own share of surprises and rarities. Tonight's show in Nashville features the first "[Good Rockin' Tonight]({{< relref "2020-09-17-cover-me-good-rockin-tonight.md" >}})" in 28 years, a rare "[Held Up Without a Gun]({{< relref "2021-10-12-roll-of-the-dice-held-up-without-a-gun.md" >}})" and "[Loose Ends]({{< relref "2022-06-23-roll-of-the-dice-loose-end.md" >}})," and a tour premiere cover of "[I Fought the Law.]({{< relref "2022-04-01-matr-bruce-springsteen-and-don-henley-i-fought-the-law.md" >}})" Marah's Dave Bielanko joins the band when Rosie comes out in the encores. This show is available as part of Bruce's official archive series–buy or stream it [here](https://www.youtube.com/playlist?list=PLJTyL9twk3zCglog4rO23DhkYFmSYQjxS).<br>
 
 {{< youtube UGXQoUmXRWo >}}
 
@@ -156,10 +159,13 @@ params:
 {{< youtube PvOFyHs_P3k >}}
 
 **2021:** Bruce is scheduled to perform "Because the Night" with Patti Smith at Clive Davis' *We Love NYC: The Homecoming Concert*, a post-COVID (we thought) celebration of the return of "normal." A storm builds, however, and the event is cancelled before Bruce and Patti are able to take the stage.<br>
+> Join CNN Saturday August 21st for a once in a lifetime concert event!
+>
+> WE LOVE NYC – The Homecoming Concert starts at 5 p.m. ET. Presented by [@Expedia](https://twitter.com/Expedia?ref_src=twsrc%5Etfw) [pic.twitter.com/A5RXHG3fHs](https://t.co/A5RXHG3fHs)
+>
+> — CNN (@CNN) [August 14, 2021](https://twitter.com/CNN/status/1426355433028136960?ref_src=twsrc%5Etfw)
 
-{{< youtube FM8W2MBN2oY >}}
-
-**2024:** More than a year after its originally scheduled date, Bruce and the E Street Band take the stage at Citizens Bank Park in Philadelphia, where "Streets of Philadelphia" makes its unsurprising tour debut.<br>
+**2024:** More than a year after its originally scheduled date, Bruce and the E Street Band take the stage at Citizens Bank Park in Philadelphia, where "[Streets of Philadelphia]({{< relref "2021-06-30-roll-of-the-dice-streets-of-philadelphia.md" >}})" makes its unsurprising tour debut.<br>
 
 {{< youtube XgzhV-a0Yiw >}}
 

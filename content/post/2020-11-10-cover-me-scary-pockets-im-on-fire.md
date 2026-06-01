@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-scary-pockets-im-on-fire/
+- /cover-me-scary-pockets-im-on-fire/
 - /22769/
 layout: post
 date: 2020-11-10T13:00:00

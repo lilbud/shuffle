@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-stand-and-deliver-slow-down/
+- /matr-bruce-springsteen-stand-and-deliver-slow-down/
 - /6891/
 layout: post
 date: 2019-01-13T13:00:12

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-up-on-the-roof/
+- /cover-me-up-on-the-roof/
 - /6256/
 layout: post
 date: 2018-12-15T13:00:55

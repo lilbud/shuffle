@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-david-cook-secret-garden/
+- /cover-me-david-cook-secret-garden/
 - /33564/
 layout: post
 date: 2022-03-28T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-forward/
+- /roll-of-the-dice-forward/
 - /596/
 layout: post
 date: 2018-02-09T13:00:47

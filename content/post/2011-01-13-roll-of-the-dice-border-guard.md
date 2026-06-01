@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-border-guard/
+- /roll-of-the-dice-border-guard/
 - /31751/
 layout: post
 date: 2011-01-13T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /rotd-matr-joe-grushecky-and-bruce-springsteen-homestead/
+- /rotd-matr-joe-grushecky-and-bruce-springsteen-homestead/
 - /33514/
 layout: post
 date: 2022-06-25T12:00:00

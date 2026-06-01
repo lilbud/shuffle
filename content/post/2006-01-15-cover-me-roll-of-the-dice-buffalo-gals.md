@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-roll-of-the-dice-buffalo-gals/
+- /cover-me-roll-of-the-dice-buffalo-gals/
 - /2463/
 layout: post
 date: 2006-01-15T19:00:38

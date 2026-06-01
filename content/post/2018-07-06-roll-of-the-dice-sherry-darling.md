@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-sherry-darling/
+- /roll-of-the-dice-sherry-darling/
 - /2966/
 layout: post
 date: 2018-07-06T12:00:30

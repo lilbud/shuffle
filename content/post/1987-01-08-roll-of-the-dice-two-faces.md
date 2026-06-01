@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-two-faces/
+- /roll-of-the-dice-two-faces/
 - /34887/
 layout: post
 date: 1987-01-08T19:00:00

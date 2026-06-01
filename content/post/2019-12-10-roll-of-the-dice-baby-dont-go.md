@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-baby-dont-go/
+- /roll-of-the-dice-baby-dont-go/
 - /14437/
 layout: post
 date: 2019-12-10T11:00:00

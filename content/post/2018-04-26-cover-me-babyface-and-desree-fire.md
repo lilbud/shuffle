@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-babyface-and-desree-fire/
+- /cover-me-babyface-and-desree-fire/
 - /1766/
 layout: post
 date: 2018-04-26T12:00:39

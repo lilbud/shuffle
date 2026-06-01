@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-aint-too-proud-to-beg/
+- /cover-me-aint-too-proud-to-beg/
 - /4894/
 layout: post
 date: 2018-10-07T05:30:28

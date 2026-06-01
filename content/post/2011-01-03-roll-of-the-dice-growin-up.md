@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-growin-up/
+- /roll-of-the-dice-growin-up/
 - /38034/
 layout: post
 date: 2011-01-03T09:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-joe-grushecky-and-bruce-springsteen-american-babylon/
+- /matr-joe-grushecky-and-bruce-springsteen-american-babylon/
 - /19801/
 layout: post
 date: 2020-12-11T13:00:00

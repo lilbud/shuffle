@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-carson-mckee-and-skylar-mckee-nebraska/
+- /cover-me-carson-mckee-and-skylar-mckee-nebraska/
 - /29739/
 layout: post
 date: 2021-09-23T12:00:00

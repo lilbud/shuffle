@@ -1,6 +1,7 @@
 ---
 aliases:
 - /editors-note-30-days-out/
+- /editors-note-30-days-out/
 - /408/
 layout: post
 date: 2018-01-26T00:28:50

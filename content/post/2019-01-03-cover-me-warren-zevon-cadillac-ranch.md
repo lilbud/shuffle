@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-warren-zevon-cadillac-ranch/
+- /cover-me-warren-zevon-cadillac-ranch/
 - /6569/
 layout: post
 date: 2019-01-03T12:20:48

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-raise-your-hand/
+- /cover-me-raise-your-hand/
 - /25696/
 layout: post
 date: 1976-01-13T19:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-phil-beer-band-no-surrender/
+- /cover-me-the-phil-beer-band-no-surrender/
 - /28240/
 layout: post
 date: 2021-06-24T12:00:00

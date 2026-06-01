@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-times-they-are-a-changin/
+- /cover-me-the-times-they-are-a-changin/
 - /28465/
 layout: post
 date: 2021-08-02T12:00:00

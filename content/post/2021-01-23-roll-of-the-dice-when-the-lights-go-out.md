@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-when-the-lights-go-out/
+- /roll-of-the-dice-when-the-lights-go-out/
 - /24155/
 layout: post
 date: 2021-01-23T13:00:00

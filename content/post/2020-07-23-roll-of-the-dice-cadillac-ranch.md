@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-cadillac-ranch/
+- /roll-of-the-dice-cadillac-ranch/
 - /19802/
 layout: post
 date: 2020-07-23T12:00:00

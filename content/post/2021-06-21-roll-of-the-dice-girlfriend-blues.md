@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-girlfriend-blues/
+- /roll-of-the-dice-girlfriend-blues/
 - /28158/
 layout: post
 date: 2021-06-21T12:00:00

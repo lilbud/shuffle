@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-dance-dance-dance/
+- /roll-of-the-dice-dance-dance-dance/
 - /2779/
 layout: post
 date: 1972-01-05T19:00:11

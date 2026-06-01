@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-rainmaker/
+- /roll-of-the-dice-rainmaker/
 - /25221/
 layout: post
 date: 2021-02-12T13:00:00

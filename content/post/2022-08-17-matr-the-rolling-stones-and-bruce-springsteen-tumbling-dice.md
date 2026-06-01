@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-the-rolling-stones-and-bruce-springsteen-tumbling-dice/
+- /matr-the-rolling-stones-and-bruce-springsteen-tumbling-dice/
 - /37037/
 layout: post
 date: 2022-08-17T12:00:00

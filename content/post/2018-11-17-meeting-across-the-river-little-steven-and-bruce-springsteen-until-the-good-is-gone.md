@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-little-steven-and-bruce-springsteen-until-the-good-is-gone/
+- /meeting-across-the-river-little-steven-and-bruce-springsteen-until-the-good-is-gone/
 - /5729/
 layout: post
 date: 2018-11-17T13:00:47

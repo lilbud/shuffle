@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-soozie-tyrell-bruce-springsteen-and-patti-scialfa-ste-genevieve/
+- /meeting-across-the-river-soozie-tyrell-bruce-springsteen-and-patti-scialfa-ste-genevieve/
 - /3904/
 layout: post
 date: 2018-08-21T12:00:41

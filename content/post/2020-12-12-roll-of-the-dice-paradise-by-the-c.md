@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-paradise-by-the-c/
+- /roll-of-the-dice-paradise-by-the-c/
 - /23580/
 layout: post
 date: 2020-12-12T13:00:00

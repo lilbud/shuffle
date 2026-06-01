@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-kingdom-of-days/
+- /roll-of-the-dice-kingdom-of-days/
 - /33407/
 layout: post
 date: 2022-04-04T12:00:00

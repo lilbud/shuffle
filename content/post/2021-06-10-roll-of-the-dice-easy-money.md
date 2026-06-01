@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-easy-money/
+- /roll-of-the-dice-easy-money/
 - /27330/
 layout: post
 date: 2021-06-10T12:00:00

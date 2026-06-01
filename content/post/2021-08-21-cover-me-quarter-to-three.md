@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-quarter-to-three/
+- /cover-me-quarter-to-three/
 - /28468/
 layout: post
 date: 2021-08-21T12:00:00

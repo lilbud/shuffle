@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jackson-browne-and-shawn-colvin-american-skin-41-shots/
+- /cover-me-jackson-browne-and-shawn-colvin-american-skin-41-shots/
 - /1572/
 layout: post
 date: 2018-04-11T12:00:15

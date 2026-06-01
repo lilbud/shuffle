@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-jackson-cage/
+- /roll-of-the-dice-jackson-cage/
 - /5407/
 layout: post
 date: 2018-11-04T13:00:06

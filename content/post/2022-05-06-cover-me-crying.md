@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-crying/
+- /cover-me-crying/
 - /34460/
 layout: post
 date: 2022-05-06T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-ghosts/
+- /roll-of-the-dice-ghosts/
 - /41196/
 layout: post
 date: 2017-01-11T19:00:00

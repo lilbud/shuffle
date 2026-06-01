@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bryan-adams-and-bruce-springsteen-cuts-like-a-knife/
+- /meeting-across-the-river-bryan-adams-and-bruce-springsteen-cuts-like-a-knife/
 - /4355/
 layout: post
 date: 2018-09-14T12:00:31

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-i-need-you/
+- /roll-of-the-dice-i-need-you/
 - /1570/
 layout: post
 date: 2018-04-13T12:00:14

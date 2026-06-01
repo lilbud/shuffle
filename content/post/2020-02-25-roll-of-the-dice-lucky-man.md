@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-lucky-man/
+- /roll-of-the-dice-lucky-man/
 - /16171/
 layout: post
 date: 2020-02-25T13:00:00

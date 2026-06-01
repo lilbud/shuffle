@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-rod-melancon-57-channels-and-nothin-on/
+- /cover-me-rod-melancon-57-channels-and-nothin-on/
 - /21385/
 layout: post
 date: 2020-10-01T12:00:00

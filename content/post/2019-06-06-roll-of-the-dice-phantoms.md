@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-phantoms/
+- /roll-of-the-dice-phantoms/
 - /8268/
 layout: post
 date: 2019-06-06T12:00:00

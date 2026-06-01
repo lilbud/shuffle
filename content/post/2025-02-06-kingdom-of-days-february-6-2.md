@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-6-2/
+- /kingdom-of-days-february-6/
 - /55859/
 layout: post
 date: 2025-02-06T12:00:58
 lastmod: 2025-11-23T01:15:26
-title: "February 6"
+title: "Kingdom of Days: February 6"
 slug: kingdom-of-days-february-6-2
 author: Ken Rosen
 description: "Great E Street Band footage from 1975, a guest appearance with Steve Earle from 1998, a James Taylor cover from 2006, and a tribute to Bob Dylan in 2015–all from this date in Bruce Springsteen history."

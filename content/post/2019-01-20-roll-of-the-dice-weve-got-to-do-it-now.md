@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-weve-got-to-do-it-now/
+- /roll-of-the-dice-weve-got-to-do-it-now/
 - /6937/
 layout: post
 date: 2019-01-20T13:00:48

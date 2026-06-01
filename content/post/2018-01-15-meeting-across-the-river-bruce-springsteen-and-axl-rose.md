@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-axl-rose/
+- /meeting-across-the-river-bruce-springsteen-and-axl-rose/
 - /235/
 layout: post
 date: 2018-01-15T17:00:29

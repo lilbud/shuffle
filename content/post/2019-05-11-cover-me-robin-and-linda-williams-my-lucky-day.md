@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-robin-and-linda-williams-my-lucky-day/
+- /cover-me-robin-and-linda-williams-my-lucky-day/
 - /9624/
 layout: post
 date: 2019-05-11T12:00:00

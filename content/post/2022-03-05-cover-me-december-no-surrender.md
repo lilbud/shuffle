@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-december-no-surrender/
+- /cover-me-december-no-surrender/
 - /33101/
 layout: post
 date: 2022-03-05T13:00:00

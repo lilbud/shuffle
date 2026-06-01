@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-mojo-nixon-and-skid-roper-the-big-payback/
+- /cover-me-mojo-nixon-and-skid-roper-the-big-payback/
 - /6264/
 layout: post
 date: 2019-04-25T13:32:29

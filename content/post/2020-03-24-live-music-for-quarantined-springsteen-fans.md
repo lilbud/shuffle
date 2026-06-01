@@ -1,6 +1,7 @@
 ---
 aliases:
 - /live-music-for-quarantined-springsteen-fans/
+- /live-music-for-quarantined-springsteen-fans/
 - /17218/
 layout: post
 date: 2020-03-24T16:50:16

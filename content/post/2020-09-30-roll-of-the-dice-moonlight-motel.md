@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-moonlight-motel/
+- /roll-of-the-dice-moonlight-motel/
 - /21118/
 layout: post
 date: 2020-09-30T12:00:00

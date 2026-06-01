@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-evacuation-of-the-west/
+- /roll-of-the-dice-evacuation-of-the-west/
 - /21256/
 layout: post
 date: 2020-09-16T12:00:00

@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-21-2/
+- /kingdom-of-days-february-21/
 - /55972/
 layout: post
 date: 2025-02-21T12:00:44
 lastmod: 2025-11-24T22:08:52
-title: "February 21"
+title: "Kingdom of Days: February 21"
 slug: kingdom-of-days-february-21-2
 author: Ken Rosen
 description: "On this day in history: Bruce reassembles the E Street Band for the first time in over five years. See their rehearsal and performance footage here."

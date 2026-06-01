@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-billy-joel-new-york-state-of-mind/
+- /meeting-across-the-river-bruce-springsteen-and-billy-joel-new-york-state-of-mind/
 - /2931/
 layout: post
 date: 2018-06-30T12:00:40

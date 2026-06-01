@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-mary-wilson-the-drifters-billy-joel-bruce-springsteen-and-more-stop-in-the-name-of-love/
+- /matr-mary-wilson-the-drifters-billy-joel-bruce-springsteen-and-more-stop-in-the-name-of-love/
 - /39131/
 layout: post
 date: 2022-11-03T12:00:00

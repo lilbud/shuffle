@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-elvis-costello-and-bruce-springsteen-alison/
+- /matr-elvis-costello-and-bruce-springsteen-alison/
 - /22589/
 layout: post
 date: 2020-11-08T13:00:00

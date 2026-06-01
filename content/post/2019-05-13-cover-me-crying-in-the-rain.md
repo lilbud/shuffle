@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-crying-in-the-rain/
+- /cover-me-crying-in-the-rain/
 - /9597/
 layout: post
 date: 2019-05-13T12:00:00

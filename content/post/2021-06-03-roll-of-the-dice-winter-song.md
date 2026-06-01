@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-winter-song/
+- /roll-of-the-dice-winter-song/
 - /27149/
 layout: post
 date: 2021-06-03T12:00:00

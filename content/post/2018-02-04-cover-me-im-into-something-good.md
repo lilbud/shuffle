@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-im-into-something-good/
+- /cover-me-im-into-something-good/
 - /432/
 layout: post
 date: 2018-02-04T13:00:44

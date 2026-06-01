@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-i-cant-help-it-if-im-still-in-love-with-you/
+- /cover-me-i-cant-help-it-if-im-still-in-love-with-you/
 - /26520/
 layout: post
 date: 2021-05-02T12:00:00

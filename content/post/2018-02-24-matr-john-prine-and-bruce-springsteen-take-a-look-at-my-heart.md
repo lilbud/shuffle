@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-john-prine-and-bruce-springsteen-take-a-look-at-my-heart/
+- /matr-john-prine-and-bruce-springsteen-take-a-look-at-my-heart/
 - /806/
 layout: post
 date: 2018-02-24T13:00:09

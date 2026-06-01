@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sitting-on-top-of-the-world/
+- /cover-me-sitting-on-top-of-the-world/
 - /5131/
 layout: post
 date: 2018-10-25T12:00:39

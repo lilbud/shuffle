@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-rotd-clarence-clemons-and-the-red-bank-rockers-summer-on-signal-hill/
+- /cover-me-rotd-clarence-clemons-and-the-red-bank-rockers-summer-on-signal-hill/
 - /25699/
 layout: post
 date: 2021-03-01T13:00:00

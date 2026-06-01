@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-good-rockin-tonight/
+- /cover-me-good-rockin-tonight/
 - /20116/
 layout: post
 date: 2020-09-17T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-wild-billys-circus-story/
+- /roll-of-the-dice-wild-billys-circus-story/
 - /7877/
 layout: post
 date: 2019-03-14T12:00:00

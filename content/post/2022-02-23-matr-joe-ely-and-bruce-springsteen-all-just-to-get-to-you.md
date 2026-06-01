@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-joe-ely-and-bruce-springsteen-all-just-to-get-to-you/
+- /matr-joe-ely-and-bruce-springsteen-all-just-to-get-to-you/
 - /32878/
 layout: post
 date: 2022-02-23T12:05:00

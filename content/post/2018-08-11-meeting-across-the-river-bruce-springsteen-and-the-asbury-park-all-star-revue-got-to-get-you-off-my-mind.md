@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-the-asbury-park-all-star-revue-got-to-get-you-off-my-mind/
+- /meeting-across-the-river-bruce-springsteen-and-the-asbury-park-all-star-revue-got-to-get-you-off-my-mind/
 - /3490/
 layout: post
 date: 2018-08-11T12:00:03

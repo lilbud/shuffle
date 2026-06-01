@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-ronnie-spector-be-my-baby/
+- /matr-bruce-springsteen-and-ronnie-spector-be-my-baby/
 - /10190/
 layout: post
 date: 2019-06-01T12:00:00

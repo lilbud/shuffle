@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-natural-magic/
+- /roll-of-the-dice-natural-magic/
 - /18297/
 layout: post
 date: 1972-01-03T19:00:00

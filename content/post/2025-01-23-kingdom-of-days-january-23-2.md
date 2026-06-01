@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-23-2/
+- /kingdom-of-days-january-23/
 - /55788/
 layout: post
 date: 2025-01-23T12:00:17
 lastmod: 2025-11-19T20:33:10
-title: "January 23"
+title: "Kingdom of Days: January 23"
 slug: kingdom-of-days-january-23-2
 author: Ken Rosen
 description: "Happy birthday to Danny Federici, born on this date in 1950. Also on this date: Steel Mill plays their last gig, an original River Tour show is captured on video, and more."

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-bands-just-boppin-the-blues/
+- /roll-of-the-dice-the-bands-just-boppin-the-blues/
 - /23949/
 layout: post
 date: 1972-01-20T19:00:00

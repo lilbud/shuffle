@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-galveston-bay/
+- /roll-of-the-dice-galveston-bay/
 - /18897/
 layout: post
 date: 2020-06-22T12:00:00

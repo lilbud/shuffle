@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-cautious-man/
+- /roll-of-the-dice-cautious-man/
 - /18563/
 layout: post
 date: 1987-01-05T19:00:00

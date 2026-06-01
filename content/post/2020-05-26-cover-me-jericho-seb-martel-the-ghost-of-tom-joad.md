@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jericho-seb-martel-the-ghost-of-tom-joad/
+- /cover-me-jericho-seb-martel-the-ghost-of-tom-joad/
 - /18298/
 layout: post
 date: 2020-05-26T12:00:00

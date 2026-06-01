@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-garden-state-parkway-blues/
+- /roll-of-the-dice-garden-state-parkway-blues/
 - /6175/
 layout: post
 date: 2018-11-30T13:00:16

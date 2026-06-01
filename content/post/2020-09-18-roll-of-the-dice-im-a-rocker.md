@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-im-a-rocker/
+- /roll-of-the-dice-im-a-rocker/
 - /20935/
 layout: post
 date: 2020-09-18T12:00:00

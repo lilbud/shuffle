@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-purple-haze/
+- /cover-me-purple-haze/
 - /7533/
 layout: post
 date: 2019-02-19T13:00:51

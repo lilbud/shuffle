@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-new-timer/
+- /roll-of-the-dice-the-new-timer/
 - /3124/
 layout: post
 date: 2018-07-13T12:00:11

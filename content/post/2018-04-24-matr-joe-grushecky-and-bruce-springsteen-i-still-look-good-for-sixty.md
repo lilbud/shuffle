@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-joe-grushecky-and-bruce-springsteen-i-still-look-good-for-sixty/
+- /matr-joe-grushecky-and-bruce-springsteen-i-still-look-good-for-sixty/
 - /1759/
 layout: post
 date: 2018-04-24T12:00:30

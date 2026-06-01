@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sonny-day-and-the-all-stars-savin-up/
+- /cover-me-sonny-day-and-the-all-stars-savin-up/
 - /13441/
 layout: post
 date: 2019-10-18T12:00:00

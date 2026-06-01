@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-san-francisco-august-16-2003/
+- /where-the-band-was-san-francisco-august-16-2003/
 - /3752/
 layout: post
 date: 2018-08-16T13:00:11

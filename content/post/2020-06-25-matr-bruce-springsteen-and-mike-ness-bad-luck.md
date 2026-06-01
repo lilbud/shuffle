@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-mike-ness-bad-luck/
+- /matr-bruce-springsteen-and-mike-ness-bad-luck/
 - /19061/
 layout: post
 date: 2020-06-25T12:00:00

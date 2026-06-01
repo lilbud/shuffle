@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-boston-august-14-2012/
+- /where-the-band-was-boston-august-14-2012/
 - /3643/
 layout: post
 date: 2018-08-14T13:00:25

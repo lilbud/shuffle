@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-basia-bulat-glory-days/
+- /cover-me-basia-bulat-glory-days/
 - /26702/
 layout: post
 date: 2021-05-23T12:00:00

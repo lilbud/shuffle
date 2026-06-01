@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-atlantic-city/
+- /roll-of-the-dice-atlantic-city/
 - /2421/
 layout: post
 date: 2018-06-04T12:00:47

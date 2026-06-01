@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-i-cant-take-it-no-more/
+- /roll-of-the-dice-i-cant-take-it-no-more/
 - /14215/
 layout: post
 date: 2019-11-20T13:00:00

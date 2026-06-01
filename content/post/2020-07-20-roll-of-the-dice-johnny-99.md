@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-johnny-99/
+- /roll-of-the-dice-johnny-99/
 - /19057/
 layout: post
 date: 2020-07-20T12:00:00

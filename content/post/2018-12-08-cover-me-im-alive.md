@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-im-alive/
+- /cover-me-im-alive/
 - /6185/
 layout: post
 date: 2018-12-08T13:00:53

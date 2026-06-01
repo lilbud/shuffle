@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-cover-me-froggie-went-a-courtin/
+- /roll-of-the-dice-cover-me-froggie-went-a-courtin/
 - /24640/
 layout: post
 date: 2006-01-14T19:00:00

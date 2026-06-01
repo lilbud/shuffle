@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-be-true/
+- /roll-of-the-dice-be-true/
 - /22913/
 layout: post
 date: 2020-12-02T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-rhinestone-cowboy/
+- /cover-me-rhinestone-cowboy/
 - /27899/
 layout: post
 date: 2021-06-17T12:00:00

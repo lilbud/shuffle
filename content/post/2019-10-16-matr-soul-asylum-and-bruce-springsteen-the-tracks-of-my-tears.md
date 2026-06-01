@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-soul-asylum-and-bruce-springsteen-the-tracks-of-my-tears/
+- /matr-soul-asylum-and-bruce-springsteen-the-tracks-of-my-tears/
 - /13791/
 layout: post
 date: 2019-10-16T12:00:00

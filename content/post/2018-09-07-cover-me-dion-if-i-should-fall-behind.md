@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-dion-if-i-should-fall-behind/
+- /cover-me-dion-if-i-should-fall-behind/
 - /4272/
 layout: post
 date: 2018-09-07T12:00:30

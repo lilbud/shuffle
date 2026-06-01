@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-coalesce-choir-american-skin-41-shots/
+- /cover-me-the-coalesce-choir-american-skin-41-shots/
 - /27147/
 layout: post
 date: 2021-05-11T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-clampdown/
+- /cover-me-clampdown/
 - /29313/
 layout: post
 date: 2016-01-05T19:00:00

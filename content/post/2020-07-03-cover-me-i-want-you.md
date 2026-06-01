@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-i-want-you/
+- /cover-me-i-want-you/
 - /18900/
 layout: post
 date: 2020-07-03T12:00:00

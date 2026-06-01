@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sara-mcleod-dancing-in-the-dark/
+- /cover-me-sara-mcleod-dancing-in-the-dark/
 - /10185/
 layout: post
 date: 2019-06-05T12:00:00

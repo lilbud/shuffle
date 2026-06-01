@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-love-is-a-dangerous-thing/
+- /roll-of-the-dice-love-is-a-dangerous-thing/
 - /25184/
 layout: post
 date: 2021-02-10T13:00:00

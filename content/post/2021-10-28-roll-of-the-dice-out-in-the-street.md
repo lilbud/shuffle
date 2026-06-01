@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-out-in-the-street/
+- /roll-of-the-dice-out-in-the-street/
 - /30008/
 layout: post
 date: 2021-10-28T12:00:00

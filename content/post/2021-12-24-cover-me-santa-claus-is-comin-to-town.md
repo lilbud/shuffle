@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-santa-claus-is-comin-to-town/
+- /cover-me-santa-claus-is-comin-to-town/
 - /31072/
 layout: post
 date: 2021-12-24T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-all-the-way-home/
+- /roll-of-the-dice-all-the-way-home/
 - /12292/
 layout: post
 date: 2019-09-08T12:00:00

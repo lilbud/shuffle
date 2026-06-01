@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-night-they-drove-old-dixie-down/
+- /cover-me-the-night-they-drove-old-dixie-down/
 - /19064/
 layout: post
 date: 2020-06-13T12:00:00

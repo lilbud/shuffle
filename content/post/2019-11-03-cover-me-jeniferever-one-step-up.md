@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jeniferever-one-step-up/
+- /cover-me-jeniferever-one-step-up/
 - /13966/
 layout: post
 date: 2019-11-03T13:00:00

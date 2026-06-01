@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-down-the-road-apiece/
+- /cover-me-down-the-road-apiece/
 - /22285/
 layout: post
 date: 2020-11-25T13:00:00

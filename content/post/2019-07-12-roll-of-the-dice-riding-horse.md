@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-riding-horse/
+- /roll-of-the-dice-riding-horse/
 - /10926/
 layout: post
 date: 2019-07-12T12:00:00

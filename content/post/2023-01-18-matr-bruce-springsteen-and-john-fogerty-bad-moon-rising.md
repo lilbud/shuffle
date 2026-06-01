@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-john-fogerty-bad-moon-rising/
+- /matr-bruce-springsteen-and-john-fogerty-bad-moon-rising/
 - /40929/
 layout: post
 date: 2023-01-18T13:30:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-betty-jean/
+- /roll-of-the-dice-betty-jean/
 - /7410/
 layout: default-post
 date: 1983-01-19T20:00:48

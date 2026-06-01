@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-stick-to-the-plan-rosalita-come-out-tonight/
+- /cover-me-stick-to-the-plan-rosalita-come-out-tonight/
 - /35520/
 layout: post
 date: 2022-06-13T12:00:00

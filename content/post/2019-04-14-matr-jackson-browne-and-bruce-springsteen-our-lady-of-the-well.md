@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-jackson-browne-and-bruce-springsteen-our-lady-of-the-well/
+- /matr-jackson-browne-and-bruce-springsteen-our-lady-of-the-well/
 - /8272/
 layout: post
 date: 2019-04-14T12:00:00

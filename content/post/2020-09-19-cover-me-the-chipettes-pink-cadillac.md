@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-chipettes-pink-cadillac/
+- /cover-me-the-chipettes-pink-cadillac/
 - /21251/
 layout: post
 date: 2020-09-19T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-everything-but-the-girl-tougher-than-the-rest/
+- /cover-me-everything-but-the-girl-tougher-than-the-rest/
 - /4437/
 layout: post
 date: 2018-09-19T12:00:20

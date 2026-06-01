@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-sam-moore-i-thank-you/
+- /matr-bruce-springsteen-and-sam-moore-i-thank-you/
 - /20593/
 layout: post
 date: 2020-08-20T12:00:00

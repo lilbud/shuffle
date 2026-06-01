@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-softband-tunnel-of-love/
+- /cover-me-softband-tunnel-of-love/
 - /1223/
 layout: post
 date: 2018-03-22T12:00:19

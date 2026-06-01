@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-line/
+- /roll-of-the-dice-the-line/
 - /3571/
 layout: post
 date: 2018-08-08T11:46:49

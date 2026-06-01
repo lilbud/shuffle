@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-ryan-adams-streets-of-philadelphia/
+- /cover-me-ryan-adams-streets-of-philadelphia/
 - /4892/
 layout: post
 date: 2018-10-11T12:00:44

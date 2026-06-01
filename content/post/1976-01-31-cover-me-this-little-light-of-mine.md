@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-this-little-light-of-mine/
+- /cover-me-this-little-light-of-mine/
 - /19058/
 layout: post
 date: 1976-01-31T19:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-dion-dimucci-book-of-dreams/
+- /cover-me-dion-dimucci-book-of-dreams/
 - /10632/
 layout: post
 date: 2019-07-21T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-arlo-guthrie-joe-ely-and-jimmy-lafave-oklahoma-hills/
+- /matr-bruce-springsteen-arlo-guthrie-joe-ely-and-jimmy-lafave-oklahoma-hills/
 - /26871/
 layout: post
 date: 2021-05-17T12:00:00

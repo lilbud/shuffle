@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-wheels-make-the-world-go-round/
+- /roll-of-the-dice-wheels-make-the-world-go-round/
 - /22431/
 layout: post
 date: 2020-11-01T13:00:00

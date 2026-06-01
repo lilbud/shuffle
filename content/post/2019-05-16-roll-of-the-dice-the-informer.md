@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-informer/
+- /roll-of-the-dice-the-informer/
 - /8426/
 layout: post
 date: 2019-05-16T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-heavens-wall/
+- /roll-of-the-dice-heavens-wall/
 - /15842/
 layout: post
 date: 2020-02-02T13:00:00

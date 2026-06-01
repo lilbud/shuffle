@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-fast-song/
+- /roll-of-the-dice-the-fast-song/
 - /23581/
 layout: post
 date: 2021-01-30T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-mary-g-further-on-up-the-road/
+- /cover-me-mary-g-further-on-up-the-road/
 - /23577/
 layout: post
 date: 2020-12-18T13:00:00

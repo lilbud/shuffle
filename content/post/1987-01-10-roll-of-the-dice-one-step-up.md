@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-one-step-up/
+- /roll-of-the-dice-one-step-up/
 - /3758/
 layout: post
 date: 1987-01-10T19:00:52

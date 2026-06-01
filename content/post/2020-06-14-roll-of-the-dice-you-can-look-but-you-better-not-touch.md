@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-you-can-look-but-you-better-not-touch/
+- /roll-of-the-dice-you-can-look-but-you-better-not-touch/
 - /18562/
 layout: post
 date: 2020-06-14T12:00:00

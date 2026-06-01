@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-29-2/
+- /kingdom-of-days-february-29/
 - /48941/
 layout: post
 date: 2025-02-28T22:00:19
 lastmod: 2025-11-24T23:11:38
-title: "February 29"
+title: "Kingdom of Days: February 29"
 slug: kingdom-of-days-february-29-2
 author: Ken Rosen
 description: "Happy Leap Day! Check out highlights from leap years past, including Bruce’s first-ever performance of “Love Me Tender.”"

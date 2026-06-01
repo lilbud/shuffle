@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-cindy/
+- /roll-of-the-dice-cindy/
 - /3250/
 layout: post
 date: 2018-08-03T12:00:24

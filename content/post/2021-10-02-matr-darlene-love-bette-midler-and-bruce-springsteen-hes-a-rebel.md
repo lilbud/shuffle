@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-darlene-love-bette-midler-and-bruce-springsteen-hes-a-rebel/
+- /matr-darlene-love-bette-midler-and-bruce-springsteen-hes-a-rebel/
 - /29804/
 layout: post
 date: 2021-10-02T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-joe-grushecky-and-bruce-springsteen-thats-what-makes-us-great/
+- /meeting-across-the-river-joe-grushecky-and-bruce-springsteen-thats-what-makes-us-great/
 - /2781/
 layout: post
 date: 2018-06-25T12:00:20

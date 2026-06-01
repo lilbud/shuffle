@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-southside-johnny-bruce-springsteen-and-graham-parker-chain-of-fools/
+- /matr-southside-johnny-bruce-springsteen-and-graham-parker-chain-of-fools/
 - /27457/
 layout: post
 date: 2021-06-14T12:00:00

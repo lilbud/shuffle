@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-gypsy-woman/
+- /cover-me-gypsy-woman/
 - /15416/
 layout: post
 date: 2020-01-21T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-east-rutherford-august-23-2016/
+- /where-the-band-was-east-rutherford-august-23-2016/
 - /3913/
 layout: post
 date: 2018-08-23T12:33:42

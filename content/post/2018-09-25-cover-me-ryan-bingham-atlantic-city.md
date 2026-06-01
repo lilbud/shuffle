@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-ryan-bingham-atlantic-city/
+- /cover-me-ryan-bingham-atlantic-city/
 - /4444/
 layout: post
 date: 2018-09-25T12:00:00

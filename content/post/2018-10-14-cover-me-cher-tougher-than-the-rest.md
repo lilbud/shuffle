@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-cher-tougher-than-the-rest/
+- /cover-me-cher-tougher-than-the-rest/
 - /4886/
 layout: post
 date: 2018-10-14T12:00:56

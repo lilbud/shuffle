@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-darkness-on-the-edge-of-town/
+- /roll-of-the-dice-darkness-on-the-edge-of-town/
 - /1469/
 layout: post
 date: 2016-01-07T19:00:13

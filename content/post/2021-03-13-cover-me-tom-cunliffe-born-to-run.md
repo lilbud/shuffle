@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-tom-cunliffe-born-to-run/
+- /cover-me-tom-cunliffe-born-to-run/
 - /25925/
 layout: post
 date: 2021-03-13T13:00:00

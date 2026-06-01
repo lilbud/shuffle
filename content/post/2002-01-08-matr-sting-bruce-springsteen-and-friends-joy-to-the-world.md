@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-sting-bruce-springsteen-and-friends-joy-to-the-world/
+- /matr-sting-bruce-springsteen-and-friends-joy-to-the-world/
 - /14890/
 layout: post
 date: 2002-01-08T19:00:00

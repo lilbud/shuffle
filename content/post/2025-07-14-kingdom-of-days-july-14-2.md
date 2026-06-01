@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-july-14-2/
+- /kingdom-of-days-july-14/
 - /57722/
 layout: post
 date: 2025-07-14T11:00:11
-lastmod: 2026-03-12T17:56:05
-title: "July 14"
+lastmod: 2025-07-07T22:07:56
+title: "Kingdom of Days: July 14"
 slug: kingdom-of-days-july-14-2
 author: Ken Rosen
 description: "On this date: Bruce and Paul McCartney learn what happens when you break curfew at Hyde Park."
@@ -45,13 +46,15 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/06/brucepaul-1.jpg.webp
   post_id: 57722
 ---
+***New for 2025:** New entry for 1975 and 1985; video for 2012*<br>
+
 **1974:** Bruce and the E Street Band play their third of three nights at The Bottom Line in New York City.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/07/1974-0714.jpg.webp)
 
 **1975:** Bruce records vocal overdubs for "Jungleland" at the Record Plant in New York City.<br>
 
-**1978:** Bruce and the E Street Band continue their Texas swing, as the Darkness Tour arrives for a night in San Antonio (Bruce's one and only performance in that city). By request, Bruce tour premieres "The Fever."<br>
+**1978:** Bruce and the E Street Band continue their Texas swing, as the Darkness Tour arrives for a night in San Antonio (Bruce's one and only performance in that city). By request, Bruce tour premieres "[The Fever]({{< relref "2020-10-04-roll-of-the-dice-the-fever.md" >}})."<br>
 
 {{< videopress id=lOl367T5 >}}
 
@@ -59,7 +62,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/07/1978-0714.jpg.webp)
 
-**1985:** Nils Lofgren records his vocal and guitar overdubs for "Janey, Don't You Lose Heart." It will become his first appearance on an official Springsteen studio release.<br>
+**1985:** Nils Lofgren records his vocal and guitar overdubs for "[Janey, Don't You Lose Heart.]({{< relref "2019-04-06-roll-of-the-dice-janey-dont-you-lose-heart.md" >}})" It will become his first appearance on an official Springsteen studio release.<br>
 
 {{< youtube kKIPdOVWTjU >}}
 
@@ -79,17 +82,17 @@ params:
 
 **1999:** Bruce and the E Street Band play a warm-up set for the first U.S. leg of the Reunion Tour at Continental Airlines Arena in East Rutherford.<br>
 
-**2002:** The *New York Times* publishes an article on Bruce's upcoming album, *The Rising*, In his article, Jon Pareles quotes frequently from the interview he conducted with Bruce to inform it, but you can hear the interview itself below.<br>
+**2002:** The *New York Times* publishes [an article on Bruce's upcoming album](https://www.nytimes.com/2002/07/14/arts/music-his-kind-of-heroes-his-kind-of-songs.html?searchResultPosition=15), *The Rising*, In his article, Jon Pareles quotes frequently from the interview he conducted with Bruce to inform it, but you can hear the interview itself below.<br>
 
 {{< videopress id=yHujCIf5 >}}
 
-**2005:** Bruce kicks off the encores at his solo acoustic show in Toronto with the tour premiere of "Darlington County."<br>
+**2005:** Bruce kicks off the encores at his solo acoustic show in Toronto with the tour premiere of "[Darlington County.]({{< relref "1984-01-05-roll-of-the-dice-darlington-county.md" >}})"<br>
 
 {{< youtube Tq-Zp9idlVE >}}
 
-![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/07/Screenshot-2026-03-12-105532.jpg.webp)
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/07/2005-07-14-scaled.jpg.webp)
 
-**2009:** "Pink Cadillac" makes a welcome return after a six-year absence at Bruce's Working on a Dream show in Glasgow's Hampden Park.<br>
+**2009:** "[Pink Cadillac]({{< relref "2019-08-21-roll-of-the-dice-pink-cadillac.md" >}})" makes a welcome return after a six-year absence at Bruce's Working on a Dream show in Glasgow's Hampden Park.<br>
 
 {{< youtube Hf0lDibY8I8 >}}
 
@@ -101,19 +104,19 @@ It starts with a surprise guest appearance by Bruce during John Fogerty's set:
 
 {{< youtube DyQ6mN2EhWY >}}
 
-…and things pick up during Bruce's set: Bruce and Roy open by themselves, playing "Thunder Road" like they did at Bruce's legendary Hammersmith Odeon show in 1975.
+...and things pick up during Bruce's set: Bruce and Roy open by themselves, playing "Thunder Road" like they did at Bruce's legendary Hammersmith Odeon show in 1975.
 
 {{< youtube pvfFuASYgfM >}}
 
-Guest appearances by Tom Morello and John Fogerty quickly follow, along with the tour premiere of the very rare "Take ‘Em as They Come."
+Guest appearances by Tom Morello and John Fogerty quickly follow, along with the tour premiere of the very rare "[Take 'Em as They Come]({{< relref "2019-03-29-roll-of-the-dice-take-em-as-they-come.md" >}})."
 
 {{< youtube KQLmV1fCxt8 >}}
 
-But it's the encore surprise that garners worldwide headlines, when Bruce invites Sir Paul McCartney to join him on stage for "I Saw Her Standing There" and "Twist and Shout."
+But it's the encore surprise that garners worldwide headlines, when Bruce invites Sir Paul McCartney to join him on stage for "[I Saw Her Standing There]({{< relref "2018-09-11-matr-bruce-springsteen-george-harrison-ringo-starr-mick-jagger-and-billy-joel-i-saw-her-standing-there.md" >}})" and "Twist and Shout."
 
 {{< youtube SzhXSSRPvxQ >}}
 
-Unfortunately, and mystifyingly, the festival staff pull the plug on Bruce, Paul, and the band when they sail past their 10:30pm curfew. Unable to close the show in his customary fashion, Bruce merely sings a brief "Goodnight Irene" and exits. (The broadcast clip above ends before the power cut, but you can watch the unedited footage below to see how it played out.)
+Unfortunately, and mystifyingly, the festival staff pull the plug on Bruce, Paul, and the band when they sail past their 10:30pm curfew. Unable to close the show in his customary fashion, Bruce merely sings a brief "[Goodnight Irene]({{< relref "2019-08-01-matr-pete-seeger-and-bruce-springsteen-goodnight-irene.md" >}})" and exits. (The broadcast clip above ends before the power cut, but you can watch the unedited footage below to see how it played out.)
 
 {{< youtube dJ0SQ6NX13U >}}
 

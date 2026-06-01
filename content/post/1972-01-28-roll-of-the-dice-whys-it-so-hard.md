@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-whys-it-so-hard/
+- /roll-of-the-dice-whys-it-so-hard/
 - /7404/
 layout: post
 date: 1972-01-28T19:00:33

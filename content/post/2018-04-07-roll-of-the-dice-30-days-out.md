@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-30-days-out/
+- /roll-of-the-dice-30-days-out/
 - /1462/
 layout: post
 date: 2018-04-07T12:00:00

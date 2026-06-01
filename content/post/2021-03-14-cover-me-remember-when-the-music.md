@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-remember-when-the-music/
+- /cover-me-remember-when-the-music/
 - /25804/
 layout: post
 date: 2021-03-14T12:00:00

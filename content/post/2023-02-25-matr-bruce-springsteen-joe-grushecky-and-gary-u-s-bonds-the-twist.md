@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-joe-grushecky-and-gary-u-s-bonds-the-twist/
+- /matr-bruce-springsteen-joe-grushecky-and-gary-u-s-bonds-the-twist/
 - /41893/
 layout: post
 date: 2023-02-25T13:00:00

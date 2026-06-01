@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-the-temptations-and-bruce-springsteen-get-ready/
+- /matr-the-temptations-and-bruce-springsteen-get-ready/
 - /28464/
 layout: post
 date: 2021-08-09T12:00:00

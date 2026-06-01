@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-twenty-more-miles/
+- /roll-of-the-dice-twenty-more-miles/
 - /30866/
 layout: post
 date: 2021-12-03T13:00:00

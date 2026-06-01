@@ -1,6 +1,7 @@
 ---
 aliases:
 - /hearts-of-stone-meet-the-flintstones/
+- /hearts-of-stone-meet-the-flintstones/
 - /8622/
 layout: post
 date: 2019-04-01T12:00:00

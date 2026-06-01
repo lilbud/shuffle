@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-county-fair/
+- /roll-of-the-dice-county-fair/
 - /678/
 layout: post
 date: 1983-01-11T19:00:13

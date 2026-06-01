@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-neil-young-and-exit-105-all-along-the-watchtower/
+- /matr-bruce-springsteen-neil-young-and-exit-105-all-along-the-watchtower/
 - /19804/
 layout: post
 date: 2020-08-13T12:00:00

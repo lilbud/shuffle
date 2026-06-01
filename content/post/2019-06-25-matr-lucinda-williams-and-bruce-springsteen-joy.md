@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-lucinda-williams-and-bruce-springsteen-joy/
+- /matr-lucinda-williams-and-bruce-springsteen-joy/
 - /10634/
 layout: post
 date: 2019-06-25T12:00:00

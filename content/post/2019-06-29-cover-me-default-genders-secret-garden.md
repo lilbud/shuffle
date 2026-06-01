@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-default-genders-secret-garden/
+- /cover-me-default-genders-secret-garden/
 - /10787/
 layout: post
 date: 2019-06-29T12:00:00

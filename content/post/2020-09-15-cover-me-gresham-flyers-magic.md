@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-gresham-flyers-magic/
+- /cover-me-gresham-flyers-magic/
 - /20795/
 layout: post
 date: 2020-09-15T12:00:00

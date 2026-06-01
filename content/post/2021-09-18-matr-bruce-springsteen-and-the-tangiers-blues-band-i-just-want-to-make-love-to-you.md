@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-the-tangiers-blues-band-i-just-want-to-make-love-to-you/
+- /matr-bruce-springsteen-and-the-tangiers-blues-band-i-just-want-to-make-love-to-you/
 - /29626/
 layout: post
 date: 2021-09-18T12:00:00

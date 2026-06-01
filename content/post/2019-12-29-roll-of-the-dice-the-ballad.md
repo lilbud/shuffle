@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-ballad/
+- /roll-of-the-dice-the-ballad/
 - /15190/
 layout: post
 date: 2019-12-29T13:00:00

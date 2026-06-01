@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jimmy-lafave-valentines-day/
+- /cover-me-jimmy-lafave-valentines-day/
 - /924/
 layout: post
 date: 2018-03-03T13:00:01

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-hes-guilty-the-judge-song/
+- /roll-of-the-dice-hes-guilty-the-judge-song/
 - /19185/
 layout: post
 date: 2020-07-10T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-john-eddie-and-bruce-springsteen-bang-a-gong-get-it-on/
+- /matr-john-eddie-and-bruce-springsteen-bang-a-gong-get-it-on/
 - /8423/
 layout: post
 date: 2019-04-11T12:00:00

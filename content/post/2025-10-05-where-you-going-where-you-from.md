@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-you-going-where-you-from/
+- /where-you-going-where-you-from/
 - /61083/
 layout: post
 date: 2025-10-05T12:11:00

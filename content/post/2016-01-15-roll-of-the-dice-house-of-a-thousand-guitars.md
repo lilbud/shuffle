@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-house-of-a-thousand-guitars/
+- /roll-of-the-dice-house-of-a-thousand-guitars/
 - /24642/
 layout: post
 date: 2016-01-15T19:00:00

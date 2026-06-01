@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-bette-midler-the-e-street-shuffle/
+- /cover-me-bette-midler-the-e-street-shuffle/
 - /464/
 layout: post
 date: 2018-01-28T13:00:34

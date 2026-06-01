@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-the-shots-funky-broadway/
+- /matr-bruce-springsteen-and-the-shots-funky-broadway/
 - /13620/
 layout: post
 date: 2019-10-28T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-helen-watson-aint-got-you/
+- /cover-me-helen-watson-aint-got-you/
 - /21384/
 layout: post
 date: 2020-11-06T13:25:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-verona-october-5-2006/
+- /where-the-band-was-verona-october-5-2006/
 - /4782/
 layout: post
 date: 2018-10-05T13:00:55

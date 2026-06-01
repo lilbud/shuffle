@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-song/
+- /roll-of-the-dice-the-song/
 - /2459/
 layout: post
 date: 2011-01-30T13:00:37

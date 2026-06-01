@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-over-the-rise/
+- /roll-of-the-dice-over-the-rise/
 - /19327/
 layout: post
 date: 2020-07-12T12:00:00

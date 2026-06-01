@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-badlands/
+- /roll-of-the-dice-badlands/
 - /9626/
 layout: post
 date: 2016-01-20T19:00:00

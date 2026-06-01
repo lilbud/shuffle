@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-u2-bruce-springsteen-and-patti-scialfa-people-get-ready/
+- /matr-u2-bruce-springsteen-and-patti-scialfa-people-get-ready/
 - /6812/
 layout: post
 date: 2019-01-06T13:00:22

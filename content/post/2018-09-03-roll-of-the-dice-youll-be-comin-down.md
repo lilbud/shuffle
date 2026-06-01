@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-youll-be-comin-down/
+- /roll-of-the-dice-youll-be-comin-down/
 - /4353/
 layout: post
 date: 2018-09-03T12:00:31

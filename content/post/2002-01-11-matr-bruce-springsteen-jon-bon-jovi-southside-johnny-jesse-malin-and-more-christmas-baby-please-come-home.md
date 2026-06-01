@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-jon-bon-jovi-southside-johnny-jesse-malin-and-more-christmas-baby-please-come-home/
+- /matr-bruce-springsteen-jon-bon-jovi-southside-johnny-jesse-malin-and-more-christmas-baby-please-come-home/
 - /30868/
 layout: post
 date: 2002-01-11T19:00:00

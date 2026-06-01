@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jane-willow-dancing-in-the-dark/
+- /cover-me-jane-willow-dancing-in-the-dark/
 - /27322/
 layout: post
 date: 2021-05-19T12:00:00

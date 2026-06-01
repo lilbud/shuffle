@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-fire-engines-are-returning-home/
+- /roll-of-the-dice-the-fire-engines-are-returning-home/
 - /19175/
 layout: post
 date: 2020-07-31T11:10:00

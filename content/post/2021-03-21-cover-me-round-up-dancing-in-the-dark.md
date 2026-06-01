@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-round-up-dancing-in-the-dark/
+- /cover-me-round-up-dancing-in-the-dark/
 - /26103/
 layout: post
 date: 2021-03-21T12:00:00

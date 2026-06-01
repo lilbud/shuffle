@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-steve-earle-state-trooper/
+- /cover-me-steve-earle-state-trooper/
 - /32105/
 layout: post
 date: 2022-01-03T13:00:00

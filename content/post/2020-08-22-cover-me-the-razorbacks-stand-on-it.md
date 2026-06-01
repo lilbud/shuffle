@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-razorbacks-stand-on-it/
+- /cover-me-the-razorbacks-stand-on-it/
 - /20370/
 layout: post
 date: 2020-08-22T12:00:00

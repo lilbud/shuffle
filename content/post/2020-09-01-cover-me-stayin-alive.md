@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-stayin-alive/
+- /cover-me-stayin-alive/
 - /20800/
 layout: post
 date: 2020-09-01T12:00:00

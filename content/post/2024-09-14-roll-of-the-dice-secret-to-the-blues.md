@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-secret-to-the-blues/
+- /roll-of-the-dice-secret-to-the-blues/
 - /54391/
 layout: post
 date: 2024-09-14T22:15:00

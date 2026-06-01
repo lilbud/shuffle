@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-tom-joad/
+- /cover-me-tom-joad/
 - /27056/
 layout: post
 date: 2021-05-24T12:00:00

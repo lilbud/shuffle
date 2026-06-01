@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-5-2/
+- /kingdom-of-days-january-5/
 - /55544/
 layout: post
 date: 2025-01-05T12:00:40
 lastmod: 2025-11-12T20:34:00
-title: "January 5"
+title: "Kingdom of Days: January 5"
 slug: kingdom-of-days-january-5-2
 author: Ken Rosen
 description: "Today in Springsteen history: two notable births (one human, one vinyl) and one rebirth."

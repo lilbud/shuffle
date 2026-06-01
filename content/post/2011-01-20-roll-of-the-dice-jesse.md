@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-jesse/
+- /roll-of-the-dice-jesse/
 - /4182/
 layout: post
 date: 2011-01-20T13:00:07

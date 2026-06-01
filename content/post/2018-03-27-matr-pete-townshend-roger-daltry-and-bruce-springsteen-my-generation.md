@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-pete-townshend-roger-daltry-and-bruce-springsteen-my-generation/
+- /matr-pete-townshend-roger-daltry-and-bruce-springsteen-my-generation/
 - /1229/
 layout: post
 date: 2018-03-27T12:00:39

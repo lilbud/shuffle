@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-true-love-is-hard-to-come-by/
+- /roll-of-the-dice-true-love-is-hard-to-come-by/
 - /2179/
 layout: post
 date: 2018-05-19T12:00:49

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bleachers-and-bruce-springsteen-chinatown/
+- /matr-bleachers-and-bruce-springsteen-chinatown/
 - /34692/
 layout: post
 date: 2022-05-24T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-mystery-train/
+- /cover-me-mystery-train/
 - /9736/
 layout: post
 date: 2019-05-21T12:00:00

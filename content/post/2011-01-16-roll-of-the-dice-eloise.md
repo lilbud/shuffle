@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-eloise/
+- /roll-of-the-dice-eloise/
 - /4440/
 layout: post
 date: 2011-01-16T13:00:37

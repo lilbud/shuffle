@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-dont-say-no/
+- /roll-of-the-dice-dont-say-no/
 - /13046/
 layout: post
 date: 2019-10-15T12:00:00

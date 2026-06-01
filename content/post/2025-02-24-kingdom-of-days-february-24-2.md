@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-24-2/
+- /kingdom-of-days-february-24/
 - /56000/
 layout: post
 date: 2025-02-24T12:00:06
 lastmod: 2025-11-24T23:45:14
-title: "February 24"
+title: "Kingdom of Days: February 24"
 slug: kingdom-of-days-february-24-2
 author: Ken Rosen
 description: "A relatively quiet day in Bruce history, with no gigs on this date after 1974–just a few Grammy losses."

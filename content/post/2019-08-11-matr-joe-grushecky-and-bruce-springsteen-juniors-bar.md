@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-joe-grushecky-and-bruce-springsteen-juniors-bar/
+- /matr-joe-grushecky-and-bruce-springsteen-juniors-bar/
 - /11845/
 layout: post
 date: 2019-08-11T12:00:00

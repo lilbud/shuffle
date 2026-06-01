@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-state-trooper/
+- /roll-of-the-dice-state-trooper/
 - /15047/
 layout: post
 date: 2019-12-22T13:00:00

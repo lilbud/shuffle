@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-17-2/
+- /kingdom-of-days-february-17/
 - /55960/
 layout: post
 date: 2025-02-17T12:00:50
 lastmod: 2025-11-24T22:04:29
-title: "February 17"
+title: "Kingdom of Days: February 17"
 slug: kingdom-of-days-february-17-2
 author: Ken Rosen
 description: "On this date: Bruce meets Nils for the first time and plays with Ronnie Spector and Flo and Eddie."

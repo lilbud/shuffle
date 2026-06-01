@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-roy-orbison-and-bruce-springsteen-oh-pretty-woman/
+- /matr-roy-orbison-and-bruce-springsteen-oh-pretty-woman/
 - /11847/
 layout: post
 date: 2019-08-25T12:00:00

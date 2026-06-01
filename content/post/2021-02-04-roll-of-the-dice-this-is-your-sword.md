@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-this-is-your-sword/
+- /roll-of-the-dice-this-is-your-sword/
 - /24478/
 layout: post
 date: 2021-02-04T13:00:00

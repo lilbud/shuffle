@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-bells-of-san-salvador/
+- /roll-of-the-dice-bells-of-san-salvador/
 - /24475/
 layout: post
 date: 2021-02-02T13:00:00

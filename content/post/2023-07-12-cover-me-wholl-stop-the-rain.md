@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-wholl-stop-the-rain/
+- /cover-me-wholl-stop-the-rain/
 - /32362/
 layout: post
 date: 2023-07-12T12:00:00

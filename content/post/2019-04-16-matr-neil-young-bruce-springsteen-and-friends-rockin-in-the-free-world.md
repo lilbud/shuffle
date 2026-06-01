@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-neil-young-bruce-springsteen-and-friends-rockin-in-the-free-world/
+- /matr-neil-young-bruce-springsteen-and-friends-rockin-in-the-free-world/
 - /8422/
 layout: post
 date: 2019-04-16T12:00:00

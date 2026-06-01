@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-king-tut/
+- /cover-me-king-tut/
 - /7168/
 layout: post
 date: 2019-01-30T13:00:30

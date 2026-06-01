@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-around-and-around/
+- /cover-me-around-and-around/
 - /15486/
 layout: post
 date: 2020-02-26T13:00:00

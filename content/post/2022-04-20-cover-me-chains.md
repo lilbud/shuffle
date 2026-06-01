@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-chains/
+- /cover-me-chains/
 - /34072/
 layout: post
 date: 2022-04-20T12:00:00

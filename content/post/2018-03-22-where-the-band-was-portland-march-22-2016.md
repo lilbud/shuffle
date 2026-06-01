@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-portland-march-22-2016/
+- /where-the-band-was-portland-march-22-2016/
 - /1149/
 layout: post
 date: 2018-03-22T13:00:39

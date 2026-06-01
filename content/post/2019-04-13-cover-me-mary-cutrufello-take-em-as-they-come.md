@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-mary-cutrufello-take-em-as-they-come/
+- /cover-me-mary-cutrufello-take-em-as-they-come/
 - /8400/
 layout: post
 date: 2019-04-13T12:00:00

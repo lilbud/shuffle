@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-14-2/
+- /kingdom-of-days-february-14/
 - /55946/
 layout: post
 date: 2025-02-14T12:00:57
 lastmod: 2025-11-24T21:25:40
-title: "February 14"
+title: "Kingdom of Days: February 14"
 slug: kingdom-of-days-february-14-2
 author: Ken Rosen
 description: "It’s a monumental date in Springsteen history: Bruce auditions for Mike Appel and records his greatest hit, Rosie comes out for the first time (listen inside), and much more. Plus: the secret origin of the E Street Band."

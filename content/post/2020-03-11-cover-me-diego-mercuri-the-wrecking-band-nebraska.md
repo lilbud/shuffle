@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-diego-mercuri-the-wrecking-band-nebraska/
+- /cover-me-diego-mercuri-the-wrecking-band-nebraska/
 - /16833/
 layout: post
 date: 2020-03-11T12:00:00

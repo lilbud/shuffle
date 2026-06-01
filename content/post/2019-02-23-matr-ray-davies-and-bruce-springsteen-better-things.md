@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-ray-davies-and-bruce-springsteen-better-things/
+- /matr-ray-davies-and-bruce-springsteen-better-things/
 - /7527/
 layout: post
 date: 2019-02-23T13:00:08

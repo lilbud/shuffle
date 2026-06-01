@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-joe-ely-and-bruce-springsteen-im-a-thousand-miles-from-home/
+- /matr-joe-ely-and-bruce-springsteen-im-a-thousand-miles-from-home/
 - /30559/
 layout: post
 date: 2021-11-03T12:00:00

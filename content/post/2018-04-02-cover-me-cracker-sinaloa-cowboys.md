@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-cracker-sinaloa-cowboys/
+- /cover-me-cracker-sinaloa-cowboys/
 - /1414/
 layout: post
 date: 2018-04-02T12:00:32

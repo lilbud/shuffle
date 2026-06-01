@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-mary-louise-watson/
+- /roll-of-the-dice-mary-louise-watson/
 - /4530/
 layout: post
 date: 2018-09-27T12:00:03

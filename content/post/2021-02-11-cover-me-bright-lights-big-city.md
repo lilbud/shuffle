@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-bright-lights-big-city/
+- /cover-me-bright-lights-big-city/
 - /25003/
 layout: post
 date: 2021-02-11T13:00:00

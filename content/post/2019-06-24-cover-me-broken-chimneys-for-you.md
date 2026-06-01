@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-broken-chimneys-for-you/
+- /cover-me-broken-chimneys-for-you/
 - /10933/
 layout: post
 date: 2019-06-24T12:00:00

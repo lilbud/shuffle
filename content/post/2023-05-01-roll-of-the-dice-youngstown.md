@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-youngstown/
+- /roll-of-the-dice-youngstown/
 - /42777/
 layout: post
 date: 2023-05-01T12:05:00

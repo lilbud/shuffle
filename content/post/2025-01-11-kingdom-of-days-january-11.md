@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-11/
+- /kingdom-of-days-january-11/
 - /55577/
 layout: post
 date: 2025-01-11T12:00:01
 lastmod: 2025-11-12T17:37:40
-title: "January 11"
+title: "Kingdom of Days: January 11"
 slug: kingdom-of-days-january-11
 author: Ken Rosen
 description: "On this date: The Big Man is born, and Bruce wins a Golden Globe. Plus: video highlights from Springsteen on Broadway."

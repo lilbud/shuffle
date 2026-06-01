@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-detroit-medley/
+- /cover-me-detroit-medley/
 - /12293/
 layout: post
 date: 1976-01-02T19:00:00

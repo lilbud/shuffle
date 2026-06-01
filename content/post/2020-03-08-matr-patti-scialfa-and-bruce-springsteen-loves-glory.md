@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-scialfa-and-bruce-springsteen-loves-glory/
+- /matr-patti-scialfa-and-bruce-springsteen-loves-glory/
 - /16170/
 layout: post
 date: 2020-03-08T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /rotd-matr-cm-tiger-rose/
+- /rotd-matr-cm-tiger-rose/
 - /7160/
 layout: post
 date: 2019-01-26T13:00:39

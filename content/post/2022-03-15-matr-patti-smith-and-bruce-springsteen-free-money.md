@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-smith-and-bruce-springsteen-free-money/
+- /matr-patti-smith-and-bruce-springsteen-free-money/
 - /32611/
 layout: post
 date: 2022-03-15T12:00:00

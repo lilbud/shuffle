@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-real-man/
+- /roll-of-the-dice-real-man/
 - /17359/
 layout: post
 date: 2020-04-15T12:00:00

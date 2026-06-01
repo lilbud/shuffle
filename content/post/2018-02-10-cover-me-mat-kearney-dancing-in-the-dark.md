@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-mat-kearney-dancing-in-the-dark/
+- /cover-me-mat-kearney-dancing-in-the-dark/
 - /682/
 layout: post
 date: 2018-02-10T13:00:36

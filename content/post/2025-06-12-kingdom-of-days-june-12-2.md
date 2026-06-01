@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-june-12-2/
+- /kingdom-of-days-june-12/
 - /57049/
 layout: post
 date: 2025-06-12T11:00:54
-lastmod: 2026-02-15T20:47:37
-title: "June 12"
+lastmod: 2025-06-04T00:11:09
+title: "Kingdom of Days: June 12"
 slug: kingdom-of-days-june-12-2
 author: Ken Rosen
 description: "The legendary final stand of the Reunion Tour kicks off at Madison Square Garden, and Bruce joins Jackson Browne at the Rally for Disarmament. More highlights from this date in Springsteen history inside."
@@ -32,6 +33,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/06/bs240612_01.jpg.webp
   post_id: 57049
 ---
+***New for 2025:** New entry for 1979 and 2024; audio for 2000; video for 2003*<br>
+
 **1973:** Chicago cancels their concert in Buffalo at the last minute, scuttling Bruce's opening act performance along with it.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/06/Buffalo_Evening_News_Tue__Jun_12__1973_-scaled.jpg.webp)
@@ -44,7 +47,7 @@ params:
 
 {{< youtube XwJp0FaZNG4 >}}
 
-**1982:** Bruce joins Jackson Browne on stage for "The Promised Land" and "Running on Empty" in New York's Central Park at the Rally for Disarmament. Later that night, Bruce plays three songs with Sonny Kenn at Big Man's West in Red Bank.<br>
+**1982:** Bruce joins Jackson Browne on stage for "[The Promised Land]({{< relref "2016-01-09-roll-of-the-dice-the-promised-land.md" >}})" and "[Running on Empty]({{< relref "2021-03-24-matr-jackson-browne-and-bruce-springsteen-running-on-empty.md" >}})" in New York's Central Park at the Rally for Disarmament. Later that night, Bruce plays three songs with Sonny Kenn at Big Man's West in Red Bank.<br>
 
 {{< youtube ONG5UOwbpu4 >}}
 
@@ -65,7 +68,7 @@ params:
 
 **1988:** Night Two in Turin on the Tunnel of Love Tour is cancelled due to low ticket sales(!)<br>
 
-**2000:** The Reunion Tour's legendary ten-night final stand kicks off at Madison Square Garden with the world premiere of "Code of Silence." Despite the controversy that preceded the show and the mixed audience reaction tonight, Bruce plays "American Skin (41 Shots)" at this and each remaining show. You can hear just how strong the audience reaction was below.<br>
+**2000:** The Reunion Tour's legendary ten-night final stand kicks off at Madison Square Garden with the world premiere of "[Code of Silence]({{< relref "2018-08-27-codeofsilence.md" >}})." Despite the controversy that preceded the show and the mixed audience reaction tonight, Bruce plays "American Skin (41 Shots)" at this and each remaining show. You can hear just how strong the audience reaction was below.<br>
 
 {{< videopress id=1stOL4ZJ >}}
 
@@ -95,7 +98,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/06/2011-06-12.jpg.webp)
 
-**2024:** World Tour 2024 resumes in Madrid with a recovered Bruce Springsteen tour premiering "Frankie Fell in Love" and "Rockin' All Over the World."<br>
+**2024:** World Tour 2024 resumes in Madrid with a recovered Bruce Springsteen tour premiering "[Frankie Fell in Love]({{< relref "2018-02-12-roll-of-the-dice-frankie-fell-in-love.md" >}})" and "Rockin' All Over the World."<br>
 
 {{< youtube o6m7GqNENNU >}}
 

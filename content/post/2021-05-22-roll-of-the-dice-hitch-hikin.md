@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-hitch-hikin/
+- /roll-of-the-dice-hitch-hikin/
 - /25808/
 layout: post
 date: 2021-05-22T12:00:00

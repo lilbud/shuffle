@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-the-who-wont-get-fooled-again/
+- /meeting-across-the-river-bruce-springsteen-and-the-who-wont-get-fooled-again/
 - /4043/
 layout: post
 date: 2018-08-30T12:00:00

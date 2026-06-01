@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-loose-change/
+- /roll-of-the-dice-loose-change/
 - /14360/
 layout: post
 date: 2019-11-24T13:00:00

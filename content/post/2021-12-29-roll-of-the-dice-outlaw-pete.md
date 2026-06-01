@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-outlaw-pete/
+- /roll-of-the-dice-outlaw-pete/
 - /31274/
 layout: post
 date: 2021-12-29T13:05:00

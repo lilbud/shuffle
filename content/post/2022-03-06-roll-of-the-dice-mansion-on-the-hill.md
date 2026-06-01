@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-mansion-on-the-hill/
+- /roll-of-the-dice-mansion-on-the-hill/
 - /32613/
 layout: post
 date: 2022-03-06T13:15:00

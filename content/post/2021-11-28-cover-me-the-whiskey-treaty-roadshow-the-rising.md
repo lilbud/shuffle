@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-whiskey-treaty-roadshow-the-rising/
+- /cover-me-the-whiskey-treaty-roadshow-the-rising/
 - /31161/
 layout: post
 date: 2021-11-28T13:00:00

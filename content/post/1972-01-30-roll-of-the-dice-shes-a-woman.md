@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-shes-a-woman/
+- /roll-of-the-dice-shes-a-woman/
 - /15117/
 layout: post
 date: 1972-01-30T19:00:00

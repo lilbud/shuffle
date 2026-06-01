@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-red-headed-woman/
+- /roll-of-the-dice-red-headed-woman/
 - /29186/
 layout: post
 date: 2021-09-15T12:00:00

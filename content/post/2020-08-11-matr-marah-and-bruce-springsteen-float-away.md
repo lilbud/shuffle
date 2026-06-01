@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-marah-and-bruce-springsteen-float-away/
+- /matr-marah-and-bruce-springsteen-float-away/
 - /20376/
 layout: post
 date: 2020-08-11T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-wilson-pickett-and-bruce-springsteen-in-the-midnight-hour/
+- /matr-wilson-pickett-and-bruce-springsteen-in-the-midnight-hour/
 - /20933/
 layout: post
 date: 2020-12-31T13:00:00

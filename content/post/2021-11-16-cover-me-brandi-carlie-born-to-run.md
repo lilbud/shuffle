@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-brandi-carlie-born-to-run/
+- /cover-me-brandi-carlie-born-to-run/
 - /30949/
 layout: post
 date: 2021-11-16T13:00:00

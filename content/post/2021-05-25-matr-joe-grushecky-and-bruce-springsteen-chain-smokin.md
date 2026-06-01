@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-joe-grushecky-and-bruce-springsteen-chain-smokin/
+- /matr-joe-grushecky-and-bruce-springsteen-chain-smokin/
 - /27045/
 layout: post
 date: 2021-05-25T12:00:00

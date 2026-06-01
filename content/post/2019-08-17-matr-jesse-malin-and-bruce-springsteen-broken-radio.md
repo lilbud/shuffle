@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-jesse-malin-and-bruce-springsteen-broken-radio/
+- /matr-jesse-malin-and-bruce-springsteen-broken-radio/
 - /12012/
 layout: post
 date: 2019-08-17T12:00:00

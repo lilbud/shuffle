@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-garland-jeffreys-and-bruce-springsteen-hail-hail-rock-n-roll/
+- /matr-garland-jeffreys-and-bruce-springsteen-hail-hail-rock-n-roll/
 - /16724/
 layout: post
 date: 2020-03-13T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-shake-rattle-and-roll/
+- /cover-me-shake-rattle-and-roll/
 - /17124/
 layout: post
 date: 2020-04-18T12:00:00

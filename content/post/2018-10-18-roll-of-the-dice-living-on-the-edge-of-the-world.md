@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-living-on-the-edge-of-the-world/
+- /roll-of-the-dice-living-on-the-edge-of-the-world/
 - /4788/
 layout: post
 date: 2018-10-18T12:00:02

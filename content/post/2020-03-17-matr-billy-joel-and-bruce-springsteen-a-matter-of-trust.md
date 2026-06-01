@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-billy-joel-and-bruce-springsteen-a-matter-of-trust/
+- /matr-billy-joel-and-bruce-springsteen-a-matter-of-trust/
 - /16357/
 layout: post
 date: 2020-03-17T12:00:00

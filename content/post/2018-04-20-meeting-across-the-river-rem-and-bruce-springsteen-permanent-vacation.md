@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-rem-and-bruce-springsteen-permanent-vacation/
+- /meeting-across-the-river-rem-and-bruce-springsteen-permanent-vacation/
 - /1644/
 layout: post
 date: 2018-04-20T12:00:52

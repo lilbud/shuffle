@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jump/
+- /cover-me-jump/
 - /8280/
 layout: post
 date: 2019-04-02T12:00:00

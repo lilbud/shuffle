@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-joe-cocker-human-touch/
+- /cover-me-joe-cocker-human-touch/
 - /572/
 layout: post
 date: 2018-02-07T13:00:47

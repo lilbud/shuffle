@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-get-out-of-denver/
+- /cover-me-get-out-of-denver/
 - /11082/
 layout: post
 date: 2019-07-11T12:00:00

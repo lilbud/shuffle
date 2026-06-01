@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-august-14-2/
+- /kingdom-of-days-august-14/
 - /58377/
 layout: post
 date: 2025-08-14T11:00:14
-lastmod: 2026-05-12T22:28:07
-title: "August 14"
+lastmod: 2025-08-09T20:42:09
+title: "Kingdom of Days: August 14"
 slug: kingdom-of-days-august-14-2
 author: Ken Rosen
 description: "Steel Mill plays under the stars, Boom Carter and Dave Sancious play their final E Street gig, Philly and Boston duel each other across the years for most fervent news coverage, and more–all from this date."
@@ -47,16 +48,18 @@ tags:
 categories:
 - "kingdom-of-days"
 params:
-  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/08/admin-ajax-75.jpg.webp
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/19850814_4_front.jpg.webp
   post_id: 58377
 ---
-**1966:** The Castiles (along with Steve Van Zandt's band, The Shadows) play the Surf ‘n' See Club in Sea Bright, New Jersey.<br>
+***New for 2025:** Audio for 1985; new entry for 2004*<br>
+
+**1966:** The Castiles (along with Steve Van Zandt's band, The Shadows) play the Surf 'n' See Club in Sea Bright, New Jersey.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/08/1966-0814.jpg.webp)
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/08/1966-08-14.jpg.webp)
 
-**1970:** Steel Mill plays an outdoor show under the stars, on the parking deck at 7th and Marshall Streets in Richmond. Mercy Flight, a local band that includes future Steel Mill bandmate Robbin Thompson, plays just before Steel Mill, impressing Bruce enough that he will shortly extend Robbin an offer to join Steel Mill. Audio circulates of this show, including "The War is Over" and rare instrumental performances of "Sherlock Goes Home" and "KT-88."<br>
+**1970:** Steel Mill plays an outdoor show under the stars, on the parking deck at 7th and Marshall Streets in Richmond. Mercy Flight, a local band that includes future Steel Mill bandmate Robbin Thompson, plays just before Steel Mill, impressing Bruce enough that he will shortly extend Robbin an offer to join Steel Mill. Audio circulates of this show, including "[The War is Over]({{< relref "2019-03-23-roll-of-the-dice-the-war-is-over.md" >}})" and rare instrumental performances of "[Sherlock Goes Home]({{< relref "2018-09-21-roll-of-the-dice-sherlock-goes-holmes.md" >}})" and "[KT-88]({{< relref "2018-03-12-roll-of-the-dice-kt-88.md" >}})." Check out a great retrospective of this show [here](https://richmond.com/entertainment/music/lohmann-50-years-ago-springsteens-band-steel-mill-headlined-a-concert-atop-a-richmond-parking/article_0c3ad978-a46b-5910-93d4-b22dd8b6dcb6.html),<br>
 
 {{< youtube 7-AMJV5EDRI >}}
 
@@ -65,6 +68,8 @@ params:
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/08/1970-08-14.jpg.webp)
 
 **1972:** Bruce plays his third of six two-shows-a-night solo gigs at Max's Kansas City that week.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/08/1972-08-11.jpg.webp)
 
 **1973:** Bruce and the E Street Band play Uncle Al's Erlton Theater Lounge in Cherry Hill, New Jersey. Why was Bruce's name so hard to spell correctly during these years?<br>
 
@@ -86,7 +91,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/1975-08-14.png.webp)
 
-**1978:** The Darkness Tour descends on the Hampton Roads Coliseum in Hampton, Virginia, where Bruce opens with his live debut cover of "High School Confidential."<br>
+**1978:** The Darkness Tour descends on the Hampton Roads Coliseum in Hampton, Virginia, where Bruce opens with his live debut cover of "[High School Confidential]({{< relref "2020-05-04-cover-me-high-school-confidential.md" >}})."<br>
 
 {{< videopress id=yodpb4X6 >}}
 
@@ -128,7 +133,7 @@ You'd be forgiven for thinking nothing else happened in the news today–here's 
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/08/The_Philadelphia_Inquirer_1985_08_16_Page_56.jpg.webp)
 
-**1987:** Bruce joins The Fairlanes on-stage for four songs (including "Savin' Up") at The Deck House in Asbury Park.<br>
+**1987:** Bruce joins The Fairlanes on-stage for four songs (including "[Savin' Up]({{< relref "2018-05-14-roll-of-the-dice-cover-me-clarence-clemons-savin-up.md" >}})") at The Deck House in Asbury Park.<br>
 
 **1992:** Bruce and his new touring band play their second of two World Tour 1992 shows at the Centrum in Worcester. Watch the extensive news coverage below.<br>
 
@@ -137,6 +142,8 @@ You'd be forgiven for thinking nothing else happened in the news today–here's 
 {{< videopress id=1XXRtozr >}}
 
 **1995:** Bruce joins Ronnie Mack and the Barndance Band on stage at Jack's Sugar Shack in Hollywood.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/1995-08-14.jpg.webp)
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/08/1995-0814.jpg.webp)
 
@@ -152,15 +159,11 @@ You'd be forgiven for thinking nothing else happened in the news today–here's 
 
 {{< youtube tTu4jTzl_pI >}}
 
-**2012:** Bruce and the E Street Band return to Boston's Fenway Park to kick off the final American leg of the Wrecking Ball Tour. While Bruce tour premieres "Boom Boom" mid-set and "Dirty Water" in the encores, the set is otherwise fairly standard. The following night would more than make up for it.<br>
+**2012:** Bruce and the E Street Band return to Boston's Fenway Park to kick off the final American leg of the Wrecking Ball Tour. While Bruce tour premieres "[Boom Boom]({{< relref "2020-03-26-cover-me-boom-boom.md" >}})" mid-set and "[Dirty Water]({{< relref "2022-03-18-cover-me-dirty-water.md" >}})" in the encores, the set is otherwise fairly standard. The following night would more than make up for it. For more highlights from this show, see my [*Where the Band Was* report.]({{< relref "2018-08-14-where-the-band-was-boston-august-14-2012.md" >}})<br>
 
 {{< youtube -PW-ajAH9Ik >}}
 
 {{< youtube Jgs3AJF9c34 >}}
-
-{{< youtube pgM-bobESpU >}}
-
-{{< youtube R9HzQNV_Cz8 >}}
 
 {{< youtube YGyGU8Hc9Cw >}}
 

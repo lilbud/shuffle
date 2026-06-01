@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-bodo-rocker-im-goin-back/
+- /roll-of-the-dice-bodo-rocker-im-goin-back/
 - /36515/
 layout: post
 date: 2022-07-23T11:34:00

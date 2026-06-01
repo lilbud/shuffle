@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-marc-anthony-thompson-johnny-99/
+- /cover-me-marc-anthony-thompson-johnny-99/
 - /30564/
 layout: post
 date: 2021-10-31T12:00:00

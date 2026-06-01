@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-song-for-orphans/
+- /roll-of-the-dice-song-for-orphans/
 - /8279/
 layout: post
 date: 2019-04-10T12:00:00

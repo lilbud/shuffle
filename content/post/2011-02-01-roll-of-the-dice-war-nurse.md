@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-war-nurse/
+- /roll-of-the-dice-war-nurse/
 - /14433/
 layout: post
 date: 2011-02-01T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jesse-malin-janey-dont-you-lose-heart/
+- /cover-me-jesse-malin-janey-dont-you-lose-heart/
 - /6258/
 layout: post
 date: 2018-12-17T13:57:53

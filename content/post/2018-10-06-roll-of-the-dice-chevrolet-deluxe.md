@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-chevrolet-deluxe/
+- /roll-of-the-dice-chevrolet-deluxe/
 - /5059/
 layout: post
 date: 2018-10-06T12:00:26

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-hang-on-sloopy/
+- /cover-me-hang-on-sloopy/
 - /17118/
 layout: post
 date: 2020-04-07T12:00:00

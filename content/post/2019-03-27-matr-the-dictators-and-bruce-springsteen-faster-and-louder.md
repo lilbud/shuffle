@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-the-dictators-and-bruce-springsteen-faster-and-louder/
+- /matr-the-dictators-and-bruce-springsteen-faster-and-louder/
 - /8417/
 layout: post
 date: 2019-03-27T12:00:00

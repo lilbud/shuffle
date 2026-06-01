@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-barry-gibb-im-on-fire/
+- /cover-me-barry-gibb-im-on-fire/
 - /10633/
 layout: post
 date: 2019-07-05T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-tacoma-august-21-2002/
+- /where-the-band-was-tacoma-august-21-2002/
 - /3902/
 layout: post
 date: 2018-08-21T13:00:59

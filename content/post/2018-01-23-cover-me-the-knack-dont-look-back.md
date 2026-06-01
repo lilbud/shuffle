@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-knack-dont-look-back/
+- /cover-me-the-knack-dont-look-back/
 - /392/
 layout: post
 date: 2018-01-23T02:00:09

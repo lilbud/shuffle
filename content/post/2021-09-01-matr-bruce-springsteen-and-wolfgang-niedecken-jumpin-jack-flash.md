@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-wolfgang-niedecken-jumpin-jack-flash/
+- /matr-bruce-springsteen-and-wolfgang-niedecken-jumpin-jack-flash/
 - /29187/
 layout: post
 date: 2021-09-01T12:00:00

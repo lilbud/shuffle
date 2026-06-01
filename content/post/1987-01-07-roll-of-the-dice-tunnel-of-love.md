@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-tunnel-of-love/
+- /roll-of-the-dice-tunnel-of-love/
 - /27454/
 layout: post
 date: 1987-01-07T19:00:00

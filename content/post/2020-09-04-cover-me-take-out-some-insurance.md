@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-take-out-some-insurance/
+- /cover-me-take-out-some-insurance/
 - /20594/
 layout: post
 date: 2020-09-04T12:00:00

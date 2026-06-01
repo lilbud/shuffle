@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-amy-ray-racing-in-the-street/
+- /cover-me-amy-ray-racing-in-the-street/
 - /15414/
 layout: post
 date: 2020-01-07T13:00:00

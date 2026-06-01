@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-water-station/
+- /roll-of-the-dice-water-station/
 - /47086/
 layout: post
 date: 2023-12-24T13:30:00

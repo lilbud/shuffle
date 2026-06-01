@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-beat-farmers-reason-to-believe/
+- /cover-me-beat-farmers-reason-to-believe/
 - /4351/
 layout: post
 date: 2018-09-10T12:00:52

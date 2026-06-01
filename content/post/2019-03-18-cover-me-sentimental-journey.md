@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sentimental-journey/
+- /cover-me-sentimental-journey/
 - /7878/
 layout: post
 date: 2019-03-18T12:00:00

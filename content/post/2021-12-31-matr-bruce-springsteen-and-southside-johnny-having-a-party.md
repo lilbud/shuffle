@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-southside-johnny-having-a-party/
+- /matr-bruce-springsteen-and-southside-johnny-having-a-party/
 - /31026/
 layout: post
 date: 2021-12-31T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /closed-for-business/
+- /closed-for-business/
 - /65610/
 layout: post
 date: 2026-01-05T23:43:29

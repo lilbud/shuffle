@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-huey-lewis-and-the-news-bruce-springsteen-and-bob-geldof-barefootin/
+- /matr-huey-lewis-and-the-news-bruce-springsteen-and-bob-geldof-barefootin/
 - /29685/
 layout: post
 date: 2021-09-22T12:00:00

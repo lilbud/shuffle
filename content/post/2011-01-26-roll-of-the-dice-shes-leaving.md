@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-shes-leaving/
+- /roll-of-the-dice-shes-leaving/
 - /7315/
 layout: post
 date: 2011-01-26T13:00:42

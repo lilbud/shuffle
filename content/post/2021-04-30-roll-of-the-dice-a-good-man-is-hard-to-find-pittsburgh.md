@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-a-good-man-is-hard-to-find-pittsburgh/
+- /roll-of-the-dice-a-good-man-is-hard-to-find-pittsburgh/
 - /26705/
 layout: post
 date: 2021-04-30T12:00:00

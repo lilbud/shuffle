@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-august-30-2/
+- /kingdom-of-days-august-30/
 - /59507/
 layout: post
 date: 2025-08-30T11:00:03
-lastmod: 2026-05-14T20:43:00
-title: "August 30"
+lastmod: 2025-08-23T21:01:13
+title: "Kingdom of Days: August 30"
 slug: kingdom-of-days-august-30-2
 author: Ken Rosen
 description: "Bruce headlines the Harley Davidson Festival in Milwaukee and blows minds with a setlist for the ages in New Jersey, but it’s his surprise appearance with Southside Johnny at The Agora in Cleveland that wins the date."
@@ -46,6 +47,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/08/20230830-east-rutherford-nj-bruce-springsteen-and-the-e-street-band-review.webp
   post_id: 59507
 ---
+***New for 2025:** New entry for 1977; video for 2023*<br>
+
 **1972:** Bruce plays an unadvertised acoustic set at Max's Kansas City in New York.<br>
 
 **1977:** Bruce and the E Street Band are in the studio, recording material for what will become *Darkness on the Edge of Town*.<br>
@@ -56,7 +59,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/1978-08-30.png.webp)
 
-Later that night–so late that it's technically the following day, August 31–Bruce makes a surprise appearance at The Agora in Cleveland. Even though they've already turned in a full show, Bruce, Steve, Clarence, Roy, and Garry join Southside Johnny and the Asbury Jukes on-stage for absolutely fantastic performances of "The Fever," "I Don't Want to Go Home," "Having a Party," and "Stagger Lee." Must-watch pro-shot video below, featuring the definitive version of "The Fever" — it may never be topped.
+Later that night–so late that it's technically the following day, August 31–Bruce makes a surprise appearance at The Agora in Cleveland. Even though they've already turned in a full show, Bruce, Steve, Clarence, Roy, and Garry join Southside Johnny and the Asbury Jukes on-stage for absolutely fantastic performances of "[The Fever]({{< relref "2020-10-04-roll-of-the-dice-the-fever.md" >}})," "[I Don't Want to Go Home,]({{< relref "2018-03-30-meeting-across-the-river-bruce-springsteen-and-steve-van-zandt-i-dont-want-to-go-home.md" >}})" "[Having a Party]({{< relref "2021-12-31-matr-bruce-springsteen-and-southside-johnny-having-a-party.md" >}})," and "Stagger Lee." Must-watch pro-shot video below, featuring the definitive version of "The Fever" — it may never be topped.
 
 {{< youtube eBhlLGi3lRI >}}
 
@@ -74,13 +77,13 @@ Later that night–so late that it's technically the following day, August 31–
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/1988-08-30.png.webp)
 
-**2002:** The Rising Tour moves on to the Savvis Center in St. Louis. The set list is slowly opening up as "Downbound Train" makes its tour premiere early in the show.<br>
+**2002:** The Rising Tour moves on to the Savvis Center in St. Louis. The set list is slowly opening up as "[Downbound Train]({{< relref "1984-01-07-roll-of-the-dice-downbound-train.md" >}})" makes its tour premiere early in the show.<br>
 
 {{< videopress id=sA1EzJjX >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/2002-08-30.png.webp)
 
-**2003:** An outstanding Night Nine (of ten) at Giants Stadium on the Rising Tour opens with the tour premiere of "Janey, Don't You Lose Heart." Later in the show, Emmylou Harris makes a guest appearance on "Across the Border," Dave and Serge Bielanko of Marah guest-star on the tour premiere of "Raise Your Hand," and "Pretty Flamingo" makes a rare appearance in the encore. Enjoy highlights from the show below.<br>
+**2003:** An outstanding Night Nine (of ten) at Giants Stadium on the Rising Tour opens with the tour premiere of "[Janey, Don't You Lose Heart]({{< relref "2019-04-06-roll-of-the-dice-janey-dont-you-lose-heart.md" >}})." Later in the show, Emmylou Harris makes a guest appearance on "[Across the Border,]({{< relref "2020-09-06-roll-of-the-dice-across-the-border.md" >}})" Dave and Serge Bielanko of Marah guest-star on the tour premiere of "[Raise Your Hand,]({{< relref "1976-01-13-cover-me-raise-your-hand.md" >}}/)" and "[Pretty Flamingo]({{< relref "2021-12-04-cover-me-pretty-flamingo.md" >}})" makes a rare appearance in the encore. Enjoy highlights from the show below.<br>
 
 {{< youtube JWgi0SwOr0I >}}
 
@@ -95,7 +98,7 @@ Later that night–so late that it's technically the following day, August 31–
 
 {{< youtube jGOuUpIBAwk >}}
 
-**2008:** An epilogue for the Magic Tour: Bruce and the E Street Band headline the Harley Davidson 105th Anniversary Festival at The Roadhouse at The Lakefront in Milwaukee. "Gypsy Biker" is a fitting opener, and "Born to Be Wild" bookends it as the final encore. "Wooly Bully" is a mid-set tour premiere (its first appearance in 23 years), and Danny Federici's son Jason plays his dad's part on "4th of July, Asbury Park (Sandy)."<br>
+**2008:** An epilogue for the Magic Tour: Bruce and the E Street Band headline the Harley Davidson 105th Anniversary Festival at The Roadhouse at The Lakefront in Milwaukee. "[Gypsy Biker]({{< relref "2019-05-02-roll-of-the-dice-gypsy-biker.md" >}})" is a fitting opener, and "[Born to Be Wild]({{< relref "2020-05-20-cover-me-born-to-be-wild.md" >}})" bookends it as the final encore. "[Wooly Bully]({{< relref "2018-03-31-cover-me-woolly-bully.md" >}})" is a mid-set tour premiere (its first appearance in 23 years), and Danny Federici's son Jason plays his dad's part on "[4th of July, Asbury Park (Sandy)]({{< relref "2019-04-26-roll-of-the-dice-4th-of-july-asbury-park-sandy.md" >}})."<br>
 
 {{< youtube WdPr0MDd9kE >}}
 
@@ -109,7 +112,7 @@ Later that night–so late that it's technically the following day, August 31–
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/2009-08-30.png.webp)
 
-**2016:** Jaws drop and the Internet breaks: Bruce and the E Street Band break their U.S. record–again–for the longest show ever (this time breaking the four-hour mark), but it's the set list at this final East Rutherford show that blows minds: the show starts with the by now (amazingly) standard opener, "New York City Serenade" complete with strings, but what follows is a largely chronological trip through Bruce's catalog. Rickie Lee Jones guest stars on three songs, and Bruce plays the entire second side of *The Wild, The Innocent, and The E Street Shuffle* (including the tour premiere of "Kitty's Back"). Also making their tour premiere: "Pretty Flamingo," "Living Proof," and "Secret Garden." A fireworks-accompanied "Jersey Girl" closes a remarkable show.<br>
+**2016:** Jaws drop and the Internet breaks: Bruce and the E Street Band break their U.S. record–again–for the longest show ever (this time breaking the four-hour mark), but it's the set list at this final East Rutherford show that blows minds: the show starts with the by now (amazingly) standard opener, "New York City Serenade" complete with strings, but what follows is a largely chronological trip through Bruce's catalog. Rickie Lee Jones guest stars on three songs, and Bruce plays the entire second side of *The Wild, The Innocent, and The E Street Shuffle* (including the tour premiere of "[Kitty's Back]({{< relref "2022-01-22-roll-of-the-dice-kittys-back.md" >}})"). Also making their tour premiere: "[Pretty Flamingo,]({{< relref "2021-12-04-cover-me-pretty-flamingo.md" >}})" "[Living Proof]({{< relref "1992-02-08-roll-of-the-dice-living-proof.md" >}})," and "[Secret Garden]({{< relref "2019-05-30-roll-of-the-dice-secret-garden.md" >}})." A fireworks-accompanied "[Jersey Girl]({{< relref "1976-02-07-cover-me-roll-of-the-dice-jersey-girl.md" >}}/)" closes a remarkable show.<br>
 
 {{< youtube-playlist PLrNIMOwexdz95YpVOZNuDZ_qAqPt2D4Vj >}}
 
@@ -133,13 +136,13 @@ Later that night–so late that it's technically the following day, August 31–
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/08/vitale.jpg.webp)
 
-**2023:** "Sherry Darling" makes its tour premiere when Bruce and the E Street Band open their three-night stand at MetLife Stadium in East Rutherford.<br>
+**2023:** "[Sherry Darling]({{< relref "2018-07-06-roll-of-the-dice-sherry-darling.md" >}})" makes its tour premiere when Bruce and the E Street Band open their three-night stand at MetLife Stadium in East Rutherford.<br>
 
 {{< youtube Bz-h5JY74j0 >}}
 
 {{< youtube PYWjyw-gAxE >}}
 
-{{< youtube 3mOJNndwYRg >}}
+{{< youtube zCMgZwR3Y2E >}}
 
 {{< youtube FxPO8u0C39I >}}
 

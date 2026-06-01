@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-caryl-mack-two-hearts/
+- /cover-me-caryl-mack-two-hearts/
 - /35354/
 layout: post
 date: 2022-06-05T12:00:00

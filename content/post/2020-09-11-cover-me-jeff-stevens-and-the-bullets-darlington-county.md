@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jeff-stevens-and-the-bullets-darlington-county/
+- /cover-me-jeff-stevens-and-the-bullets-darlington-county/
 - /21176/
 layout: post
 date: 2020-09-11T12:00:00

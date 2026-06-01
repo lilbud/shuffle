@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-summer-night/
+- /roll-of-the-dice-summer-night/
 - /19178/
 layout: post
 date: 2020-07-08T12:00:00

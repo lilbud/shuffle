@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-tupelo-honey/
+- /cover-me-tupelo-honey/
 - /38924/
 layout: post
 date: 2022-10-30T12:00:00

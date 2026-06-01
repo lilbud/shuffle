@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-living-colour-american-skin-41-shots/
+- /cover-me-living-colour-american-skin-41-shots/
 - /12710/
 layout: post
 date: 2019-10-02T12:00:00

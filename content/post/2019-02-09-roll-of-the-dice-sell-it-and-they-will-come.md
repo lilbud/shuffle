@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-sell-it-and-they-will-come/
+- /roll-of-the-dice-sell-it-and-they-will-come/
 - /7402/
 layout: post
 date: 2019-02-09T13:00:13

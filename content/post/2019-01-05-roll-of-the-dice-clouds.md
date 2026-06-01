@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-clouds/
+- /roll-of-the-dice-clouds/
 - /6806/
 layout: post
 date: 2019-01-05T13:00:53

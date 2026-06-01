@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-travel-bag-tougher-than-the-rest/
+- /cover-me-the-travel-bag-tougher-than-the-rest/
 - /22537/
 layout: post
 date: 2020-10-30T12:00:00

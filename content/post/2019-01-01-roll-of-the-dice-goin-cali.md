@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-goin-cali/
+- /roll-of-the-dice-goin-cali/
 - /6679/
 layout: post
 date: 2019-01-01T13:00:58

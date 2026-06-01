@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-dont-play-that-song-you-lied/
+- /cover-me-dont-play-that-song-you-lied/
 - /41557/
 layout: post
 date: 2023-02-12T13:00:00

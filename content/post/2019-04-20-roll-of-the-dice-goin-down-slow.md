@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-goin-down-slow/
+- /roll-of-the-dice-goin-down-slow/
 - /9382/
 layout: post
 date: 2019-04-20T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-love-is-a-gun/
+- /roll-of-the-dice-love-is-a-gun/
 - /31068/
 layout: post
 date: 2021-12-10T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-new-york-city-november-8-2009/
+- /where-the-band-was-new-york-city-november-8-2009/
 - /13976/
 layout: post
 date: 2019-11-08T12:15:00

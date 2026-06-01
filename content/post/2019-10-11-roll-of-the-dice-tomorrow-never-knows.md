@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-tomorrow-never-knows/
+- /roll-of-the-dice-tomorrow-never-knows/
 - /13398/
 layout: post
 date: 2019-10-11T12:00:00

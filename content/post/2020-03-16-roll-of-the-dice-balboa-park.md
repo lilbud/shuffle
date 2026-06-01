@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-balboa-park/
+- /roll-of-the-dice-balboa-park/
 - /16915/
 layout: post
 date: 2020-03-16T12:00:00

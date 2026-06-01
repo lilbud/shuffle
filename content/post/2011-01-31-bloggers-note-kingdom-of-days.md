@@ -1,6 +1,7 @@
 ---
 aliases:
 - /bloggers-note-kingdom-of-days/
+- /bloggers-note-kingdom-of-days/
 - /7109/
 layout: post
 date: 2011-01-31T23:00:25

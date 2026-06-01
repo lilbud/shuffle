@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-lucinda-williams-factory/
+- /cover-me-lucinda-williams-factory/
 - /6274/
 layout: post
 date: 2018-12-26T08:10:24

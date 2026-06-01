@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-may-1-2/
+- /kingdom-of-days-may-1/
 - /56667/
 layout: post
 date: 2025-05-01T11:00:06
-lastmod: 2026-01-31T18:58:44
-title: "May 1"
+lastmod: 2025-04-26T20:47:53
+title: "Kingdom of Days: May 1"
 slug: kingdom-of-days-may-1-2
 author: Ken Rosen
 description: "Great highlights on this day in Springsteen history, including Bruce’s first guest appearance in Europe, promotional performance footage from 1973, local Spanish TV news footage from 1993, and more."
@@ -49,6 +50,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/04/officiallivedownloads_2014-05-01.jpg.webp
   post_id: 56667
 ---
+***New for 2025:** Video for 2014*<br>
+
 **1970:** Steel Mill returns to the Hullabaloo in Richmond, Virginia.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/04/1970-0501.jpg.webp)
@@ -67,7 +70,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/04/1973-05-01.jpg.webp)
 
-**1981:** Bruce plays in Denmark for the first time–as a guest (his first time guesting in Europe) with local band Malurt on “Hungry Heart.”<br>
+**1981:** Bruce plays in Denmark for the first time–as a guest (his first time guesting in Europe) with local band Malurt on "[Hungry Heart]({{< relref "2022-12-21-roll-of-the-dice-hungry-heart.md" >}})."<br>
 
 {{< youtube YSkr1fneJkc >}}
 
@@ -91,13 +94,13 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/04/46586788561_fd35492733_o.jpg.webp)
 
-**2005:** Bruce’s newly released *Devils & Dust* album debuts in the top spot on both the U.S. and U.K. charts.<br>
+**2005:** Bruce's newly released *Devils & Dust* album debuts in the top spot on both the U.S. and U.K. charts.<br>
 
 **2010:** Bruce joins Tim McCloone on stage for two songs at the annual Ranney School Ball in Addison Park in Aberdeen, New Jersey. His autographed guitar is auctioned later to benefit the school.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/05/medium.jpg.webp)
 
-**2014:** On International Workers’ Day, Bruce opens his Tampa High Hopes show with “Joe Hill” and continues a streak of unpredictable tour premieres with “Brothers Under the Bridge,” “Gloria,” and warm-up performances of “Jesse James” and “O Mary Don’t You Weep” for the band’s upcoming Jazz Fest gig. During the encores, Bruce forgets that his microphone stand isn’t bolted down, leading to an embarrassingly awkward backbend attempt on “Tenth Avenue Freeze-Out.” This show is available as part of Bruce’s official archive series.<br>
+**2014:** On International Workers' Day, Bruce opens his Tampa High Hopes show with "[Joe Hill]({{< relref "2019-05-01-cover-me-joe-hill.md" >}})" and continues a streak of unpredictable tour premieres with "[Brothers Under the Bridge](https://www.youtube.com/watch?v=QjudCSZ7TC4)," "[Gloria]({{< relref "2018-03-16-cover-me-gloria.md" >}})," and warm-up performances of "[Jesse James]({{< relref "2006-01-03-roll-of-the-dice-cover-me-jesse-james.md" >}})" and "[O Mary Don't You Weep]({{< relref "2006-01-05-cover-me-o-mary-dont-you-weep.md" >}})" for the band's upcoming Jazz Fest gig. During the encores, Bruce forgets that his microphone stand isn't bolted down, leading to an embarrassingly awkward backbend attempt on "[Tenth Avenue Freeze-Out]({{< relref "2018-11-19-roll-of-the-dice-tenth-avenue-freeze-out.md" >}})." This show is available as part of Bruce's official archive series. Buy or stream it [here](https://live.brucespringsteen.net/live-music/0,11387/Bruce-Springsteen-mp3-flac-download-5-1-2014-MidFlorida-Credit-Union-Amphitheatre-Tampa-FL.html).<br>
 
 {{< youtube T2UF8yw89yE >}}
 
@@ -115,16 +118,17 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/04/2014-05-01.jpg.webp)
 
-**2018:** The Tony Awards announce that Bruce will be awarded a special Tony for *Springsteen on Broadway,* “a once in a lifetime theater going experience of extraordinary dimensions.” Watch the announcement at the 12:40 mark below.<br>
+**2018:** The Tony Awards announce that Bruce will be awarded a special Tony for *Springsteen on Broadway*, "a once in a lifetime theater going experience of extraordinary dimensions." Watch the announcement at the 12:40 mark below.<br>
 
 {{< youtube Ol_H1beGUV4 >}}
+> [View this post on Instagram](https://www.instagram.com/p/BiPvyFEnTwm/?utm_source=ig_embed&utm_campaign=loading)
+>
+> ![SVG Image](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA2MCA2MCIgaGVpZ2h0PSI1MHB4IiB3aWR0aD0iNTBweCIgeG1sbnM9Imh0dHBzOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHBzOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBmaWxsPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZT0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48ZyBmaWxsPSIjMDAwMDAwIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNTExLjAwMDAwMCwgLTIwLjAwMDAwMCkiPjxnPjxwYXRoIGQ9Ik01NTYuODY5LDMwLjQxIEM1NTQuODE0LDMwLjQxIDU1My4xNDgsMzIuMDc2IDU1My4xNDgsMzQuMTMxIEM1NTMuMTQ4LDM2LjE4NiA1NTQuODE0LDM3Ljg1MiA1NTYuODY5LDM3Ljg1MiBDNTU4LjkyNCwzNy44NTIgNTYwLjU5LDM2LjE4NiA1NjAuNTksMzQuMTMxIEM1NjAuNTksMzIuMDc2IDU1OC45MjQsMzAuNDEgNTU2Ljg2OSwzMC40MSBNNTQxLDYwLjY1NyBDNTM1LjExNCw2MC42NTcgNTMwLjM0Miw1NS44ODcgNTMwLjM0Miw1MCBDNTMwLjM0Miw0NC4xMTQgNTM1LjExNCwzOS4zNDIgNTQxLDM5LjM0MiBDNTQ2Ljg4NywzOS4zNDIgNTUxLjY1OCw0NC4xMTQgNTUxLjY1OCw1MCBDNTUxLjY1OCw1NS44ODcgNTQ2Ljg4Nyw2MC42NTcgNTQxLDYwLjY1NyBNNTQxLDMzLjg4NiBDNTMyLjEsMzMuODg2IDUyNC44ODYsNDEuMSA1MjQuODg2LDUwIEM1MjQuODg2LDU4Ljg5OSA1MzIuMSw2Ni4xMTMgNTQxLDY2LjExMyBDNTQ5LjksNjYuMTEzIDU1Ny4xMTUsNTguODk5IDU1Ny4xMTUsNTAgQzU1Ny4xMTUsNDEuMSA1NDkuOSwzMy44ODYgNTQxLDMzLjg4NiBNNTY1LjM3OCw2Mi4xMDEgQzU2NS4yNDQsNjUuMDIyIDU2NC43NTYsNjYuNjA2IDU2NC4zNDYsNjcuNjYzIEM1NjMuODAzLDY5LjA2IDU2My4xNTQsNzAuMDU3IDU2Mi4xMDYsNzEuMTA2IEM1NjEuMDU4LDcyLjE1NSA1NjAuMDYsNzIuODAzIDU1OC42NjIsNzMuMzQ3IEM1NTcuNjA3LDczLjc1NyA1NTYuMDIxLDc0LjI0NCA1NTMuMTAyLDc0LjM3OCBDNTQ5Ljk0NCw3NC41MjEgNTQ4Ljk5Nyw3NC41NTIgNTQxLDc0LjU1MiBDNTMzLjAwMyw3NC41NTIgNTMyLjA1Niw3NC41MjEgNTI4Ljg5OCw3NC4zNzggQzUyNS45NzksNzQuMjQ0IDUyNC4zOTMsNzMuNzU3IDUyMy4zMzgsNzMuMzQ3IEM1MjEuOTQsNzIuODAzIDUyMC45NDIsNzIuMTU1IDUxOS44OTQsNzEuMTA2IEM1MTguODQ2LDcwLjA1NyA1MTguMTk3LDY5LjA2IDUxNy42NTQsNjcuNjYzIEM1MTcuMjQ0LDY2LjYwNiA1MTYuNzU1LDY1LjAyMiA1MTYuNjIzLDYyLjEwMSBDNTE2LjQ3OSw1OC45NDMgNTE2LjQ0OCw1Ny45OTYgNTE2LjQ0OCw1MCBDNTE2LjQ0OCw0Mi4wMDMgNTE2LjQ3OSw0MS4wNTYgNTE2LjYyMywzNy44OTkgQzUxNi43NTUsMzQuOTc4IDUxNy4yNDQsMzMuMzkxIDUxNy42NTQsMzIuMzM4IEM1MTguMTk3LDMwLjkzOCA1MTguODQ2LDI5Ljk0MiA1MTkuODk0LDI4Ljg5NCBDNTIwLjk0MiwyNy44NDYgNTIxLjk0LDI3LjE5NiA1MjMuMzM4LDI2LjY1NCBDNTI0LjM5MywyNi4yNDQgNTI1Ljk3OSwyNS43NTYgNTI4Ljg5OCwyNS42MjMgQzUzMi4wNTcsMjUuNDc5IDUzMy4wMDQsMjUuNDQ4IDU0MSwyNS40NDggQzU0OC45OTcsMjUuNDQ4IDU0OS45NDMsMjUuNDc5IDU1My4xMDIsMjUuNjIzIEM1NTYuMDIxLDI1Ljc1NiA1NTcuNjA3LDI2LjI0NCA1NTguNjYyLDI2LjY1NCBDNTYwLjA2LDI3LjE5NiA1NjEuMDU4LDI3Ljg0NiA1NjIuMTA2LDI4Ljg5NCBDNTYzLjE1NCwyOS45NDIgNTYzLjgwMywzMC45MzggNTY0LjM0NiwzMi4zMzggQzU2NC43NTYsMzMuMzkxIDU2NS4yNDQsMzQuOTc4IDU2NS4zNzgsMzcuODk5IEM1NjUuNTIyLDQxLjA1NiA1NjUuNTUyLDQyLjAwMyA1NjUuNTUyLDUwIEM1NjUuNTUyLDU3Ljk5NiA1NjUuNTIyLDU4Ljk0MyA1NjUuMzc4LDYyLjEwMSBNNTcwLjgyLDM3LjYzMSBDNTcwLjY3NCwzNC40MzggNTcwLjE2NywzMi4yNTggNTY5LjQyNSwzMC4zNDkgQzU2OC42NTksMjguMzc3IDU2Ny42MzMsMjYuNzAyIDU2NS45NjUsMjUuMDM1IEM1NjQuMjk3LDIzLjM2OCA1NjIuNjIzLDIyLjM0MiA1NjAuNjUyLDIxLjU3NSBDNTU4Ljc0MywyMC44MzQgNTU2LjU2MiwyMC4zMjYgNTUzLjM2OSwyMC4xOCBDNTUwLjE2OSwyMC4wMzMgNTQ5LjE0OCwyMCA1NDEsMjAgQzUzMi44NTMsMjAgNTMxLjgzMSwyMC4wMzMgNTI4LjYzMSwyMC4xOCBDNTI1LjQzOCwyMC4zMjYgNTIzLjI1NywyMC44MzQgNTIxLjM0OSwyMS41NzUgQzUxOS4zNzYsMjIuMzQyIDUxNy43MDMsMjMuMzY4IDUxNi4wMzUsMjUuMDM1IEM1MTQuMzY4LDI2LjcwMiA1MTMuMzQyLDI4LjM3NyA1MTIuNTc0LDMwLjM0OSBDNTExLjgzNCwzMi4yNTggNTExLjMyNiwzNC40MzggNTExLjE4MSwzNy42MzEgQzUxMS4wMzUsNDAuODMxIDUxMSw0MS44NTEgNTExLDUwIEM1MTEsNTguMTQ3IDUxMS4wMzUsNTkuMTcgNTExLjE4MSw2Mi4zNjkgQzUxMS4zMjYsNjUuNTYyIDUxMS44MzQsNjcuNzQzIDUxMi41NzQsNjkuNjUxIEM1MTMuMzQyLDcxLjYyNSA1MTQuMzY4LDczLjI5NiA1MTYuMDM1LDc0Ljk2NSBDNTE3LjcwMyw3Ni42MzQgNTE5LjM3Niw3Ny42NTggNTIxLjM0OSw3OC40MjUgQzUyMy4yNTcsNzkuMTY3IDUyNS40MzgsNzkuNjczIDUyOC42MzEsNzkuODIgQzUzMS44MzEsNzkuOTY1IDUzMi44NTMsODAuMDAxIDU0MSw4MC4wMDEgQzU0OS4xNDgsODAuMDAxIDU1MC4xNjksNzkuOTY1IDU1My4zNjksNzkuODIgQzU1Ni41NjIsNzkuNjczIDU1OC43NDMsNzkuMTY3IDU2MC42NTIsNzguNDI1IEM1NjIuNjIzLDc3LjY1OCA1NjQuMjk3LDc2LjYzNCA1NjUuOTY1LDc0Ljk2NSBDNTY3LjYzMyw3My4yOTYgNTY4LjY1OSw3MS42MjUgNTY5LjQyNSw2OS42NTEgQzU3MC4xNjcsNjcuNzQzIDU3MC42NzQsNjUuNTYyIDU3MC44Miw2Mi4zNjkgQzU3MC45NjYsNTkuMTcgNTcxLDU4LjE0NyA1NzEsNTAgQzU3MSw0MS44NTEgNTcwLjk2Niw0MC44MzEgNTcwLjgyLDM3LjYzMSIgLz48L2c+PC9nPjwvZz48L3N2Zz4=)
+>
+> View this post on Instagram
+>
+> [A post shared by Bruce Springsteen (@springsteen)](https://www.instagram.com/p/BiPvyFEnTwm/?utm_source=ig_embed&utm_campaign=loading)
 
-{{< videopress id=LdION72y >}}
-
-**2020:** Dion releases a video single for his remake of “Hymn to Him,” featuring backing vocals by Patti Scialfa and Bruce on guitar.<br>
+**2020:** Dion releases a video single for his remake of "[Hymn to Him]({{< relref "2021-04-26-matr-dion-bruce-springsteen-and-patti-scialfa-hymn-to-him.md" >}})," featuring backing vocals by Patti Scialfa and Bruce on guitar.<br>
 
 {{< youtube 7BJ4Kg3Dl_4 >}}
-
-**2025:** Bruce and Patti attend *Good Night, and Good Luck* starring George Clooney on Broadway.<br>
-
-![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/05/medium-11.jpg.webp)

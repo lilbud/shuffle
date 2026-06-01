@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-my-lucky-day/
+- /roll-of-the-dice-my-lucky-day/
 - /12291/
 layout: post
 date: 2019-09-02T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /stop-the-war/
+- /stop-the-war/
 - /68572/
 layout: post
 date: 1984-01-18T03:00:09

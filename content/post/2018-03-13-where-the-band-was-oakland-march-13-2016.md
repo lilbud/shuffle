@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-oakland-march-13-2016/
+- /where-the-band-was-oakland-march-13-2016/
 - /1141/
 layout: post
 date: 2018-03-13T13:00:38

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-changing-children/
+- /roll-of-the-dice-changing-children/
 - /12476/
 layout: post
 date: 2019-09-04T12:00:00

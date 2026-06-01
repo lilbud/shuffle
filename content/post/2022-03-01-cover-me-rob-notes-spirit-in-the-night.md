@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-rob-notes-spirit-in-the-night/
+- /cover-me-rob-notes-spirit-in-the-night/
 - /33030/
 layout: post
 date: 2022-03-01T13:00:00

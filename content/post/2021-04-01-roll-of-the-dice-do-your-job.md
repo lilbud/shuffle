@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-do-your-job/
+- /roll-of-the-dice-do-your-job/
 - /16723/
 layout: post
 date: 2021-04-01T12:00:00

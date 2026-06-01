@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-alejandro-escovedo-and-bruce-springsteen-always-a-friend/
+- /matr-alejandro-escovedo-and-bruce-springsteen-always-a-friend/
 - /20799/
 layout: post
 date: 2020-08-31T12:00:00

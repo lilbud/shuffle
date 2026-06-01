@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-point-blank/
+- /roll-of-the-dice-point-blank/
 - /14213/
 layout: post
 date: 2020-12-19T13:00:00

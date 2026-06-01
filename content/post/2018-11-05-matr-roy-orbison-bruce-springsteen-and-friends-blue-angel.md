@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-roy-orbison-bruce-springsteen-and-friends-blue-angel/
+- /matr-roy-orbison-bruce-springsteen-and-friends-blue-angel/
 - /5415/
 layout: post
 date: 2018-11-05T12:36:38

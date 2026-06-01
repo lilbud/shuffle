@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-all-or-nothing-at-all/
+- /roll-of-the-dice-all-or-nothing-at-all/
 - /523/
 layout: post
 date: 2018-01-30T13:00:20

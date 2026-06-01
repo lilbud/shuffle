@@ -1,6 +1,7 @@
 ---
 aliases:
 - /american-skin-41-shots/
+- /american-skin-41-shots/
 - /68737/
 layout: post
 date: 2016-01-13T19:00:05

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-honeymooners/
+- /roll-of-the-dice-the-honeymooners/
 - /1412/
 layout: post
 date: 2018-04-04T12:00:54

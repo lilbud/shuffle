@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-portland-august-10-2005/
+- /where-the-band-was-portland-august-10-2005/
 - /3599/
 layout: post
 date: 2018-08-10T13:00:20

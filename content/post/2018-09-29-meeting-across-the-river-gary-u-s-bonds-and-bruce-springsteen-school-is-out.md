@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-gary-u-s-bonds-and-bruce-springsteen-school-is-out/
+- /meeting-across-the-river-gary-u-s-bonds-and-bruce-springsteen-school-is-out/
 - /4622/
 layout: post
 date: 2018-09-29T12:00:18

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-shenandoah/
+- /cover-me-shenandoah/
 - /33405/
 layout: post
 date: 2022-03-22T12:00:00

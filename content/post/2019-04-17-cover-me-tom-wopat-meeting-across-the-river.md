@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-tom-wopat-meeting-across-the-river/
+- /cover-me-tom-wopat-meeting-across-the-river/
 - /9381/
 layout: post
 date: 2019-04-17T12:00:00

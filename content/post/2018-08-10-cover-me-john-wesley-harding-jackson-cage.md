@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-john-wesley-harding-jackson-cage/
+- /cover-me-john-wesley-harding-jackson-cage/
 - /3754/
 layout: post
 date: 2018-08-10T12:00:24

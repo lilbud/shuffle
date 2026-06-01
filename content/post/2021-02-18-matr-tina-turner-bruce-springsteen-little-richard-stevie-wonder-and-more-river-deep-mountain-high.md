@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-tina-turner-bruce-springsteen-little-richard-stevie-wonder-and-more-river-deep-mountain-high/
+- /matr-tina-turner-bruce-springsteen-little-richard-stevie-wonder-and-more-river-deep-mountain-high/
 - /23068/
 layout: post
 date: 2021-02-18T13:00:00

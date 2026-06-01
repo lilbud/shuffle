@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-southside-johnny-little-steven-and-bruce-springsteen-all-i-needed-was-you/
+- /matr-southside-johnny-little-steven-and-bruce-springsteen-all-i-needed-was-you/
 - /20802/
 layout: post
 date: 2020-08-28T12:00:00

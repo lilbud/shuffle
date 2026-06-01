@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-hey-western-union-man/
+- /cover-me-hey-western-union-man/
 - /44059/
 layout: post
 date: 2023-07-08T12:00:00

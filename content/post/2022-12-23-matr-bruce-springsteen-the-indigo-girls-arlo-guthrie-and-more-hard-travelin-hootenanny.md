@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-the-indigo-girls-arlo-guthrie-and-more-hard-travelin-hootenanny/
+- /matr-bruce-springsteen-the-indigo-girls-arlo-guthrie-and-more-hard-travelin-hootenanny/
 - /40051/
 layout: post
 date: 2022-12-23T13:00:00

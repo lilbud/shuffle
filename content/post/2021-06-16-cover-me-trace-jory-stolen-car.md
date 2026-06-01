@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-trace-jory-stolen-car/
+- /cover-me-trace-jory-stolen-car/
 - /27453/
 layout: post
 date: 2021-06-16T12:00:00

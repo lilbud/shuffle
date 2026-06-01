@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-nebraska/
+- /roll-of-the-dice-nebraska/
 - /1646/
 layout: post
 date: 2018-04-16T12:00:48

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-western-stars/
+- /roll-of-the-dice-western-stars/
 - /16557/
 layout: post
 date: 2020-03-28T12:00:00

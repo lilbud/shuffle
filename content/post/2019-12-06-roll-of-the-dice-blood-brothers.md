@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-blood-brothers/
+- /roll-of-the-dice-blood-brothers/
 - /13917/
 layout: post
 date: 2019-12-06T13:00:00

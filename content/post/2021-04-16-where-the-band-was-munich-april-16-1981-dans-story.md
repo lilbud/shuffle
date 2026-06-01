@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-munich-april-16-1981-dans-story/
+- /where-the-band-was-munich-april-16-1981-dans-story/
 - /26562/
 layout: post
 date: 2021-04-16T11:01:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-kevin-rowland-thunder-road/
+- /cover-me-kevin-rowland-thunder-road/
 - /7442/
 layout: post
 date: 2019-02-08T13:00:33

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-the-rolling-stones-and-bruce-springsteen-start-me-up/
+- /matr-the-rolling-stones-and-bruce-springsteen-start-me-up/
 - /18391/
 layout: post
 date: 2020-05-12T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-treat-her-right/
+- /cover-me-treat-her-right/
 - /13045/
 layout: post
 date: 2019-10-04T12:00:00

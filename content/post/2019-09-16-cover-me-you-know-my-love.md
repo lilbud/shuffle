@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-you-know-my-love/
+- /cover-me-you-know-my-love/
 - /12917/
 layout: post
 date: 2019-09-16T12:00:00

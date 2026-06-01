@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-frankie-fell-in-love/
+- /roll-of-the-dice-frankie-fell-in-love/
 - /675/
 layout: post
 date: 2018-02-12T13:00:27

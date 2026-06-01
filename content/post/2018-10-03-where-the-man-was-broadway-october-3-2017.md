@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-man-was-broadway-october-3-2017/
+- /where-the-man-was-broadway-october-3-2017/
 - /4719/
 layout: post
 date: 2018-10-03T12:24:16

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-oh-boy/
+- /cover-me-oh-boy/
 - /2174/
 layout: post
 date: 2018-05-17T12:00:47

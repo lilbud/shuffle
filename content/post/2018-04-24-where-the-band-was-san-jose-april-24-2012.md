@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-san-jose-april-24-2012/
+- /where-the-band-was-san-jose-april-24-2012/
 - /1745/
 layout: post
 date: 2018-04-24T13:00:53

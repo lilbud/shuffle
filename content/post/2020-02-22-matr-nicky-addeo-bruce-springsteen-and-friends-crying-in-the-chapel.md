@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-nicky-addeo-bruce-springsteen-and-friends-crying-in-the-chapel/
+- /matr-nicky-addeo-bruce-springsteen-and-friends-crying-in-the-chapel/
 - /15846/
 layout: post
 date: 2020-02-22T13:00:00

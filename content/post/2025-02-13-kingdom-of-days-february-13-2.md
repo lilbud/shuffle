@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-13-2/
+- /kingdom-of-days-february-13/
 - /55945/
 layout: post
 date: 2025-02-13T12:00:55
 lastmod: 2025-11-24T22:00:45
-title: "February 13"
+title: "Kingdom of Days: February 13"
 slug: kingdom-of-days-february-13-2
 author: Ken Rosen
 description: "Listen to highlights from Toronto ’77 and Starkville ’81."

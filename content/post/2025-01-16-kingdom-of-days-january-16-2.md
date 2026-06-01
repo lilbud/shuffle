@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-16-2/
+- /kingdom-of-days-january-16/
 - /55590/
 layout: post
 date: 2025-01-16T12:00:11
 lastmod: 2025-11-09T04:52:36
-title: "January 16"
+title: "Kingdom of Days: January 16"
 slug: kingdom-of-days-january-16-2
 author: Ken Rosen
 description: "On this date: the E Street Band plays to one of their smallest audiences ever, the revived River tour kicks off, plus news footage from ’96."

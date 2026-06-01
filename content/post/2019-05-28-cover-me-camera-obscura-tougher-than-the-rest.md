@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-camera-obscura-tougher-than-the-rest/
+- /cover-me-camera-obscura-tougher-than-the-rest/
 - /10189/
 layout: post
 date: 2019-05-28T12:00:00

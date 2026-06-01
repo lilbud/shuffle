@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-errol-beutell-born-to-run/
+- /cover-me-errol-beutell-born-to-run/
 - /12913/
 layout: post
 date: 2019-09-15T12:00:00

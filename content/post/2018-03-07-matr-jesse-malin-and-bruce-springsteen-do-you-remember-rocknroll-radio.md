@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-jesse-malin-and-bruce-springsteen-do-you-remember-rocknroll-radio/
+- /matr-jesse-malin-and-bruce-springsteen-do-you-remember-rocknroll-radio/
 - /929/
 layout: post
 date: 2018-03-07T13:00:45

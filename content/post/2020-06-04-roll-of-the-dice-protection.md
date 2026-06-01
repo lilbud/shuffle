@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-protection/
+- /roll-of-the-dice-protection/
 - /18570/
 layout: post
 date: 2020-06-04T12:00:00

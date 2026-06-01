@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-walking-in-the-street/
+- /roll-of-the-dice-walking-in-the-street/
 - /338/
 layout: post
 date: 2018-01-21T13:30:27

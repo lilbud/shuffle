@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-joe-ely-and-bruce-springsteen-fingernails/
+- /meeting-across-the-river-joe-ely-and-bruce-springsteen-fingernails/
 - /4790/
 layout: post
 date: 2018-10-10T11:40:50

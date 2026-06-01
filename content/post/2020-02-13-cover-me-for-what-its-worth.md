@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-for-what-its-worth/
+- /cover-me-for-what-its-worth/
 - /15623/
 layout: post
 date: 2020-02-13T13:00:00

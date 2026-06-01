@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-i-want-to-be-wild/
+- /roll-of-the-dice-i-want-to-be-wild/
 - /24826/
 layout: post
 date: 2021-03-07T13:00:00

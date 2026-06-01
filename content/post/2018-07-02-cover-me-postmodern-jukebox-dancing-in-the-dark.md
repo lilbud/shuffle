@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-postmodern-jukebox-dancing-in-the-dark/
+- /cover-me-postmodern-jukebox-dancing-in-the-dark/
 - /3032/
 layout: post
 date: 2018-07-02T12:00:42

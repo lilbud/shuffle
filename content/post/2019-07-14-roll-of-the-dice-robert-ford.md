@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-robert-ford/
+- /roll-of-the-dice-robert-ford/
 - /10783/
 layout: post
 date: 2019-07-14T12:00:00

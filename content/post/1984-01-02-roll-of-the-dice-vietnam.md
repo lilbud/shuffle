@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-vietnam/
+- /roll-of-the-dice-vietnam/
 - /12572/
 layout: post
 date: 1984-01-02T19:00:00

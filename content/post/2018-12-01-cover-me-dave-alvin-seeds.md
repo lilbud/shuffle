@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-dave-alvin-seeds/
+- /cover-me-dave-alvin-seeds/
 - /6250/
 layout: post
 date: 2018-12-01T13:00:23

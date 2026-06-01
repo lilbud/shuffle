@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-tracy-chapman-sting-peter-gabriel-and-youssou-ndour-get-up-stand-up/
+- /matr-bruce-springsteen-tracy-chapman-sting-peter-gabriel-and-youssou-ndour-get-up-stand-up/
 - /22287/
 layout: default-post
 date: 2020-11-13T13:00:00

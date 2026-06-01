@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-star-spangled-banner/
+- /cover-me-the-star-spangled-banner/
 - /24153/
 layout: post
 date: 2021-01-20T13:00:00

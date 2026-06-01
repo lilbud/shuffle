@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-june-22-2/
+- /kingdom-of-days-june-22/
 - /57122/
 layout: post
 date: 2025-06-22T11:00:12
-lastmod: 2026-02-15T21:42:01
-title: "June 22"
+lastmod: 2025-06-07T22:40:24
+title: "Kingdom of Days: June 22"
 slug: kingdom-of-days-june-22-2
 author: Ken Rosen
 description: "The E Street Band welcomes David Sancious, Bruce says goodbye to his beard, and Bruce and the boys play Max Weinberg’s wedding. More highlights inside."
@@ -49,6 +50,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/06/june-22nd-2024-barcelona-es-bruce-springsteen-and-the-e-street-band-review.jpg.webp
   post_id: 57122
 ---
+***New for 2025:** New entry for 1969 and 2024; expanded entry for 1973*<br>
+
 **1968:** The Castiles headline two shows at the Off Broad Street Coffee House in Red Bank, New Jersey.<br>
 
 **1969:** Child plays an under-the-radar show at Monmouth College in West Long Branch, New Jersey.<br>
@@ -71,7 +74,7 @@ params:
 
 {{< youtube BYSy8wMTC34 >}}
 
-**1988:** At Night Two at Villa Park in Birmingham, England, on the Tunnel of Love Tour, Edwin Starr drops by to perform "War" with the band.<br>
+**1988:** At Night Two at Villa Park in Birmingham, England, on the Tunnel of Love Tour, Edwin Starr drops by to perform "[War]({{< relref "2016-01-02-cover-me-war.md" >}})" with the band.<br>
 
 {{< videopress id=BFpYsmqK >}}
 
@@ -79,7 +82,7 @@ params:
 
 {{< youtube w7GBMX0rTEc >}}
 
-**2000:** The Reunion Tour's last stand reaches its halfway point on Night Five at Madison Square Garden. Surprises continue starting with the opener: the premiere of "Another Thin Line." Late in the set, lucky fans get the tour premiere of "Secret Garden" as well, plus a guest appearance by Soozie Tyrell on a beautiful arrangement of "The Ghost of Tom Joad."<br>
+**2000:** The Reunion Tour's last stand reaches its halfway point on Night Five at Madison Square Garden. Surprises continue starting with the opener: the premiere of "Another Thin Line." Late in the set, lucky fans get the tour premiere of "[Secret Garden]({{< relref "2019-05-30-roll-of-the-dice-secret-garden.md" >}})" as well, plus a guest appearance by Soozie Tyrell on a beautiful arrangement of "[The Ghost of Tom Joad]({{< relref "2019-10-17-roll-of-the-dice-the-ghost-of-tom-joad.md" >}})."<br>
 
 {{< videopress id=qRFjgNwt >}}
 
@@ -89,11 +92,11 @@ params:
 
 {{< youtube-playlist PLu8VBPtfGX1CvQqNk_hSrxz1tlmF6MKNa >}}
 
-**2005:** The Devils & Dust Tour heads north to Copenhagen, where Bruce tour premieres "Straight Time," "Spirit in the Night," and "Wild Billy's Circus Story."<br>
+**2005:** The Devils & Dust Tour heads north to Copenhagen, where Bruce tour premieres "[Straight Time]({{< relref "2022-12-05-roll-of-the-dice-straight-time.md" >}})," "[Spirit in the Night]({{< relref "2011-01-08-roll-of-the-dice-spirit-in-the-night.md" >}}/)," and "[Wild Billy's Circus Story]({{< relref "2019-03-14-roll-of-the-dice-wild-billys-circus-story.md" >}})."<br>
 
 {{< youtube-playlist PLu8VBPtfGX1D-h5b2aQCFM2wJZ8n-7x-2 >}}
 
-**2006:** Bruce opens with the debut of a new song at his Seeger Sessions show in Madison Square Garden: "American Land." This is the performance that is included on the *American Land* edition of *We Shall Overcome: The Seeger Sessions*.<br>
+**2006:** Bruce opens with the debut of a new song at his Seeger Sessions show in Madison Square Garden: "[American Land]({{< relref "2016-01-22-roll-of-the-dice-american-land.md" >}})." This is the performance that is included on the *American Land* edition of [*We Shall Overcome: The Seeger Sessions*]({{< relref "2006-01-01-album-companion-we-shall-overcome.md" >}}).<br>
 
 {{< youtube tpeisHYbKdE >}}
 
@@ -115,7 +118,7 @@ params:
 
 {{< youtube gU-b24q4zmw >}}
 
-**2013:** A rarity: Bruce and the E Street Band have an opening act when they play at Nijmegen in The Netherlands: Jamie N Commons and The Black Crowes kick off the night. Bruce opens his set with an acoustic "The Ghost of Tom Joad" and performs the entire *Darkness on the Edge of Town* album.<br>
+**2013:** A rarity: Bruce and the E Street Band have an opening act when they play at Nijmegen in The Netherlands: Jamie N Commons and The Black Crowes kick off the night. Bruce opens his set with an acoustic "[The Ghost of Tom Joad]({{< relref "2019-10-17-roll-of-the-dice-the-ghost-of-tom-joad.md" >}})" and performs the entire [*Darkness on the Edge of Town*]({{< relref "2022-07-05-album-companion-darkness-on-the-edge-of-town.md" >}})album.<br>
 
 {{< youtube Ln8CSmYIgJI >}}
 
@@ -123,7 +126,7 @@ params:
 
 {{< youtube Y97eccXdw6c >}}
 
-**2016:** The River Tour starts a northern European swing with a show at Telia Parken in Copenhagen, where Bruce tour premieres "Rendezvous," "Blinded by the Light," [We Take Care]({{< relref "2020-12-25-roll-of-the-dice-we-take-care-of-our-own.md" >}}) [of Our Own]({{< relref "2020-12-25-roll-of-the-dice-we-take-care-of-our-own.md" >}})," and "Pink Cadillac."<br>
+**2016:** The River Tour starts a northern European swing with a show at Telia Parken in Copenhagen, where Bruce tour premieres "[Rendezvous]({{< relref "2021-05-08-roll-of-the-dice-rendezvous.md" >}})," "[Blinded by the Light]({{< relref "2011-01-02-roll-of-the-dice-blinded-by-the-light.md" >}})," [We Take Care of Our Own]({{< relref "2020-12-25-roll-of-the-dice-we-take-care-of-our-own.md" >}})," and "[Pink Cadillac]({{< relref "2019-08-21-roll-of-the-dice-pink-cadillac.md" >}})." This show is available to stream or purchase [here](https://live.brucespringsteen.net/live-music/0,14117/Bruce-Springsteen-mp3-flac-download-6-22-2016-Telia-Parken-Copenhagen-DK.html).<br>
 
 {{< youtube mwlCGEQVK5w >}}
 
@@ -135,7 +138,7 @@ params:
 
 **2018:** *Springsteen on Broadway* continues its theatrical run at the Walter Kerr Theater in New York City.<br>
 
-**2024:** "Radio Nowhere" makes another appearance on Night Two in Barcelona, this time with Jay Weinberg sitting in on drums.<br>
+**2024:** "[Radio Nowhere]({{< relref "2021-08-01-roll-of-the-dice-radio-nowhere.md" >}})" makes another appearance on Night Two in Barcelona, this time with Jay Weinberg sitting in on drums. Purchase or stream this show [here](https://www.nugs.net/live-download-of-bruce-springsteen-estadi-ol%C3%ADmpic-barcelona-spain-06-22-2024-mp3-flac-or-online-music-streaming/35853.html),<br>
 
 {{< youtube wN86Ftuj2Lc >}}
 

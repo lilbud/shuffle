@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-rising/
+- /roll-of-the-dice-the-rising/
 - /22424/
 layout: post
 date: 2016-01-18T19:00:00

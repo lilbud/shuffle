@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-lake-malawi-girls-in-their-summer-clothes/
+- /cover-me-lake-malawi-girls-in-their-summer-clothes/
 - /24150/
 layout: post
 date: 2021-02-13T13:00:00

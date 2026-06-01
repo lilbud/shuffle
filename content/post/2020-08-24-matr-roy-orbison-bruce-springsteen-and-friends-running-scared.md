@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-roy-orbison-bruce-springsteen-and-friends-running-scared/
+- /matr-roy-orbison-bruce-springsteen-and-friends-running-scared/
 - /20596/
 layout: post
 date: 2020-08-24T12:00:00

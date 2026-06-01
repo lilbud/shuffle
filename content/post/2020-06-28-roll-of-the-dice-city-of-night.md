@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-city-of-night/
+- /roll-of-the-dice-city-of-night/
 - /19494/
 layout: post
 date: 2020-06-28T12:00:00

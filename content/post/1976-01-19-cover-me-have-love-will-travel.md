@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-have-love-will-travel/
+- /cover-me-have-love-will-travel/
 - /14887/
 layout: post
 date: 1976-01-19T19:00:00

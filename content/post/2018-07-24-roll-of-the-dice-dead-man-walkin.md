@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-dead-man-walkin/
+- /roll-of-the-dice-dead-man-walkin/
 - /3214/
 layout: post
 date: 2018-07-24T12:00:30

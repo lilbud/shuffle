@@ -1,6 +1,7 @@
 ---
 aliases:
 - /year-one-complete/
+- /year-one-complete/
 - /6898/
 layout: post
 date: 2019-01-04T22:49:57

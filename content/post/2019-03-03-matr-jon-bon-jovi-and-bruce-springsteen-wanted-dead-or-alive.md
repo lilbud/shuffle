@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-jon-bon-jovi-and-bruce-springsteen-wanted-dead-or-alive/
+- /matr-jon-bon-jovi-and-bruce-springsteen-wanted-dead-or-alive/
 - /7790/
 layout: post
 date: 2019-03-03T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-sinaloa-cowboys/
+- /roll-of-the-dice-sinaloa-cowboys/
 - /29797/
 layout: post
 date: 2022-01-04T13:00:00

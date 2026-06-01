@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-roy-orbison-and-bruce-springsteen-dream-baby-how-long-must-i-dream/
+- /matr-roy-orbison-and-bruce-springsteen-dream-baby-how-long-must-i-dream/
 - /10785/
 layout: post
 date: 2019-07-03T12:00:00

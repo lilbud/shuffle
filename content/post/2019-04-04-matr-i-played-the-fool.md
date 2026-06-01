@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-i-played-the-fool/
+- /matr-i-played-the-fool/
 - /7702/
 layout: post
 date: 2019-04-04T12:00:00

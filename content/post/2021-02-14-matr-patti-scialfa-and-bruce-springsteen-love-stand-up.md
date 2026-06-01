@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-scialfa-and-bruce-springsteen-love-stand-up/
+- /matr-patti-scialfa-and-bruce-springsteen-love-stand-up/
 - /25188/
 layout: post
 date: 2021-02-14T13:00:00

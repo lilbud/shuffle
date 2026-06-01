@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-the-matt-oree-band-and-bruce-springsteen-black-boots/
+- /matr-the-matt-oree-band-and-bruce-springsteen-black-boots/
 - /30735/
 layout: post
 date: 2021-11-08T13:00:00

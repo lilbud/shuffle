@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-the-swingin-medallions-double-shot-of-my-babys-love/
+- /matr-bruce-springsteen-and-the-swingin-medallions-double-shot-of-my-babys-love/
 - /33904/
 layout: post
 date: 2022-04-14T12:00:00

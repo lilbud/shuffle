@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-two-for-the-road/
+- /roll-of-the-dice-two-for-the-road/
 - /19495/
 layout: post
 date: 2020-06-30T12:00:00

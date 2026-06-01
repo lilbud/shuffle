@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-no-need/
+- /roll-of-the-dice-no-need/
 - /4268/
 layout: post
 date: 2011-01-23T13:00:32

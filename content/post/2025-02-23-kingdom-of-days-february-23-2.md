@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-23-2/
+- /kingdom-of-days-february-23/
 - /56010/
 layout: post
 date: 2025-02-23T12:00:04
 lastmod: 2025-11-24T22:59:02
-title: "February 23"
+title: "Kingdom of Days: February 23"
 slug: kingdom-of-days-february-23-2
 author: Ken Rosen
 description: "Can a day in Bruce history get any more packed? Hear the backstory from Ernest “Boom” Carter’s first show; listen to Bruce, Madonna, and Prince play together in 1985; watch a classic Grammy Awards performance with Elvis Costello and Dave Grohl, and much more!"

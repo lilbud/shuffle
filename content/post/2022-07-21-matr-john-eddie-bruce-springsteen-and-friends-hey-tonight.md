@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-john-eddie-bruce-springsteen-and-friends-hey-tonight/
+- /matr-john-eddie-bruce-springsteen-and-friends-hey-tonight/
 - /36370/
 layout: post
 date: 2022-07-21T12:00:00

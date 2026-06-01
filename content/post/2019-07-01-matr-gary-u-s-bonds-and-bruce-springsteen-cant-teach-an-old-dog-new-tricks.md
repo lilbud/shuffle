@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-gary-u-s-bonds-and-bruce-springsteen-cant-teach-an-old-dog-new-tricks/
+- /matr-gary-u-s-bonds-and-bruce-springsteen-cant-teach-an-old-dog-new-tricks/
 - /11079/
 layout: post
 date: 2019-07-01T12:00:00

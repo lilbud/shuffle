@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-last-internationale-land-of-hope-and-dreams/
+- /cover-me-the-last-internationale-land-of-hope-and-dreams/
 - /24822/
 layout: post
 date: 2021-02-09T13:00:00

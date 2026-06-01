@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-nitty-gritty-dirt-band-cadillac-ranch/
+- /cover-me-nitty-gritty-dirt-band-cadillac-ranch/
 - /813/
 layout: post
 date: 2018-02-26T13:00:54

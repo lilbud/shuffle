@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-aoife-odonovan-nebraska/
+- /cover-me-aoife-odonovan-nebraska/
 - /4621/
 layout: post
 date: 2018-09-28T12:00:55

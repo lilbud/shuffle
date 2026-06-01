@@ -1,6 +1,7 @@
 ---
 aliases:
 - /year-three-complete/
+- /year-three-complete/
 - /24284/
 layout: post
 date: 2021-01-04T14:00:00

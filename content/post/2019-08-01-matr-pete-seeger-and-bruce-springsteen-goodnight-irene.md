@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-pete-seeger-and-bruce-springsteen-goodnight-irene/
+- /matr-pete-seeger-and-bruce-springsteen-goodnight-irene/
 - /11630/
 layout: post
 date: 2019-08-01T12:00:00

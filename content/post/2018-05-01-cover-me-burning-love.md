@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-burning-love/
+- /cover-me-burning-love/
 - /1911/
 layout: post
 date: 2018-05-01T12:00:47

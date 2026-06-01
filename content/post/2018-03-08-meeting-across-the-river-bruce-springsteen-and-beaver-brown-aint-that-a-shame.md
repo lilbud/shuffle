@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-beaver-brown-aint-that-a-shame/
+- /meeting-across-the-river-bruce-springsteen-and-beaver-brown-aint-that-a-shame/
 - /994/
 layout: post
 date: 2018-03-08T13:00:36

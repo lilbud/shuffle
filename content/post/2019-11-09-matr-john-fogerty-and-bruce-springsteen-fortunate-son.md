@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-john-fogerty-and-bruce-springsteen-fortunate-son/
+- /matr-john-fogerty-and-bruce-springsteen-fortunate-son/
 - /13795/
 layout: post
 date: 2019-11-09T13:00:00

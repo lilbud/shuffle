@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-across-the-border/
+- /roll-of-the-dice-across-the-border/
 - /20492/
 layout: post
 date: 2020-09-06T12:00:00

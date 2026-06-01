@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-27-2/
+- /kingdom-of-days-february-27/
 - /56014/
 layout: post
 date: 2025-02-27T12:00:33
 lastmod: 2025-11-24T23:07:16
-title: "February 27"
+title: "Kingdom of Days: February 27"
 slug: kingdom-of-days-february-27-2
 author: Ken Rosen
 description: "Happy birthday, Jake Clemons! A 20/20 segment from 1986 and a Late Night with Jimmy Fallon performance from 2012 lead the other highlights from this date in Springsteen history."

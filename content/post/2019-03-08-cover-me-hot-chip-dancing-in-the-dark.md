@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-hot-chip-dancing-in-the-dark/
+- /cover-me-hot-chip-dancing-in-the-dark/
 - /7792/
 layout: post
 date: 2019-03-08T13:00:00

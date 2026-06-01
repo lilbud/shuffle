@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-pittsburgh-september-11-2016/
+- /where-the-band-was-pittsburgh-september-11-2016/
 - /4357/
 layout: post
 date: 2018-09-11T11:55:30

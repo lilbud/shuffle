@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-57-channels-and-nothin-on/
+- /roll-of-the-dice-57-channels-and-nothin-on/
 - /18167/
 layout: post
 date: 2020-05-17T12:00:00

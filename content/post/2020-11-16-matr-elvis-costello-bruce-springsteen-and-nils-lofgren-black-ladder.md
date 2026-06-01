@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-elvis-costello-bruce-springsteen-and-nils-lofgren-black-ladder/
+- /matr-elvis-costello-bruce-springsteen-and-nils-lofgren-black-ladder/
 - /22422/
 layout: post
 date: 2020-11-16T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-you-cant-judge-a-book-by-the-cover/
+- /cover-me-you-cant-judge-a-book-by-the-cover/
 - /5737/
 layout: post
 date: 2018-12-02T13:00:33

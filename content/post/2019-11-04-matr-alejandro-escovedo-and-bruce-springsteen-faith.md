@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-alejandro-escovedo-and-bruce-springsteen-faith/
+- /matr-alejandro-escovedo-and-bruce-springsteen-faith/
 - /14033/
 layout: post
 date: 2019-11-04T11:54:00

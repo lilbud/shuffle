@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-dessa-im-goin-down/
+- /cover-me-dessa-im-goin-down/
 - /29229/
 layout: post
 date: 2021-08-31T12:00:00

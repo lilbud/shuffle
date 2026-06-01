@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-bonnie-raitt-and-jackson-browne-across-the-borderline/
+- /matr-bruce-springsteen-bonnie-raitt-and-jackson-browne-across-the-borderline/
 - /31943/
 layout: post
 date: 2022-03-26T12:00:00

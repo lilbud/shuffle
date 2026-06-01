@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-3-2/
+- /kingdom-of-days-february-3/
 - /55846/
 layout: post
 date: 2025-02-03T12:00:04
 lastmod: 2025-11-27T00:39:19
-title: "February 3"
+title: "Kingdom of Days: February 3"
 slug: kingdom-of-days-february-3-2
 author: Ken Rosen
 description: "On this date: Springsteen on Broadway wraps up its winter run, and Max’s Kansas City makes the opening act the closers, too."

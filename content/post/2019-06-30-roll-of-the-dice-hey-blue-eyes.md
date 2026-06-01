@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-hey-blue-eyes/
+- /roll-of-the-dice-hey-blue-eyes/
 - /10927/
 layout: post
 date: 2019-06-30T12:00:00

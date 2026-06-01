@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-tom-jones-the-hitter/
+- /cover-me-tom-jones-the-hitter/
 - /1027/
 layout: post
 date: 2018-03-05T13:00:58

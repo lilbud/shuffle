@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-r-e-m-and-bruce-springsteen-bad-day/
+- /meeting-across-the-river-r-e-m-and-bruce-springsteen-bad-day/
 - /26704/
 layout: post
 date: 2021-05-05T12:00:00

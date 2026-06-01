@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-my-morning-jacket-hungry-heart/
+- /cover-me-my-morning-jacket-hungry-heart/
 - /4786/
 layout: post
 date: 2018-10-08T12:00:43

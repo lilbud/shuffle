@@ -1,6 +1,7 @@
 ---
 aliases:
 - /album-companion-wrecking-ball/
+- /album-companion-wrecking-ball/
 - /42585/
 layout: post
 date: 2023-03-28T12:00:00

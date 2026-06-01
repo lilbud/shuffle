@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-eddie-vedder-and-bruce-springsteen-better-man/
+- /matr-eddie-vedder-and-bruce-springsteen-better-man/
 - /39221/
 layout: post
 date: 2022-11-10T13:00:00

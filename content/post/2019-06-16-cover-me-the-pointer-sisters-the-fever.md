@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-pointer-sisters-the-fever/
+- /cover-me-the-pointer-sisters-the-fever/
 - /10473/
 layout: post
 date: 2019-06-16T12:00:00

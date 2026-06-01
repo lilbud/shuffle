@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-gijon-june-26-2013/
+- /where-the-band-was-gijon-june-26-2013/
 - /2806/
 layout: post
 date: 2018-06-26T13:00:16

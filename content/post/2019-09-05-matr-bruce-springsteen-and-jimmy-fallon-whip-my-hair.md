@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-jimmy-fallon-whip-my-hair/
+- /matr-bruce-springsteen-and-jimmy-fallon-whip-my-hair/
 - /12480/
 layout: post
 date: 2019-09-05T12:00:00

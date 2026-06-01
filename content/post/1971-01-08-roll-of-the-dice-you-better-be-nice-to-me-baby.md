@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-you-better-be-nice-to-me-baby/
+- /roll-of-the-dice-you-better-be-nice-to-me-baby/
 - /27894/
 layout: post
 date: 1971-01-08T19:00:00

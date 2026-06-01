@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-allan-clarke-if-i-were-the-priest/
+- /cover-me-allan-clarke-if-i-were-the-priest/
 - /24345/
 layout: post
 date: 2021-01-08T13:00:00

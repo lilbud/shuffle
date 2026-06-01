@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-rendezvous/
+- /roll-of-the-dice-rendezvous/
 - /26870/
 layout: post
 date: 2021-05-08T12:00:00

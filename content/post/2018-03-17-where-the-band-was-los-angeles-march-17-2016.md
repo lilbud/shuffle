@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-los-angeles-march-17-2016/
+- /where-the-band-was-los-angeles-march-17-2016/
 - /1145/
 layout: post
 date: 2018-03-17T13:00:22

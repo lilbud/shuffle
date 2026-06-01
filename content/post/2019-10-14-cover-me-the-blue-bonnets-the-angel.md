@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-blue-bonnets-the-angel/
+- /cover-me-the-blue-bonnets-the-angel/
 - /13190/
 layout: post
 date: 2019-10-14T12:00:00

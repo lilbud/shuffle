@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-weight/
+- /cover-me-the-weight/
 - /8267/
 layout: post
 date: 2019-03-26T12:00:00

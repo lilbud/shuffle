@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-august-28-2/
+- /kingdom-of-days-august-28/
 - /59499/
 layout: post
 date: 2025-08-28T11:00:37
-lastmod: 2026-05-14T20:30:40
-title: "August 28"
+lastmod: 2025-08-23T20:47:35
+title: "Kingdom of Days: August 28"
 slug: kingdom-of-days-august-28-2
 author: Ken Rosen
 description: "The full-band debut of “Soul Driver,” an “Independence Day” train wreck, the premiere of “Proud Mary” and “Plane Wreck at Los Gatos (Deportee),” and more."
@@ -45,11 +46,13 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/2016-08-28-chicago-il-bruce-springsteen-the-e-street-band-68.jpg.webp
   post_id: 59499
 ---
+***New for 2025:** Audio for 1981*<br>
+
 **1970:** Robbin Thompson makes his Steel Mill debut at the band's University of Richmond gig.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/08/1970-08-28.jpg.webp)
 
-**1978:** Bruce tour premieres "Lost in the Flood" by request at his Darkness show in Pittsburgh. Elsewhere, Columbia Records produces new commercials to promote *Darkness on the Edge of Town*, and *Rolling Stone* publishes their first of what will prove to be many cover features of Bruce.<br>
+**1978:** Bruce tour premieres "[Lost in the Flood]({{< relref "2011-01-05-roll-of-the-dice-lost-in-the-flood.md" >}}/)" by request at his Darkness show in Pittsburgh. Elsewhere, Columbia Records produces new commercials to promote *[Darkness on the Edge of Town]({{< relref "2022-07-05-album-companion-darkness-on-the-edge-of-town.md" >}})*, and *Rolling Stone* publishes their first of what will prove to be many cover features of Bruce.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/rs272.jpg.webp)
 
@@ -63,7 +66,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/1978-0828.jpg.webp)
 
-**1981:** At the final show of a six-night River Tour stand at the Los Angeles Sports Arena, Bruce and the E Street Band cover "Proud Mary" and "Deportee (Plane Wreck at Los Gatos)" for the first time, and Flo and Eddie make a guest appearance on "Hungry Heart" reprising their studio backing vocals.<br>
+**1981:** At the final show of a six-night River Tour stand at the Los Angeles Sports Arena, Bruce and the E Street Band cover "Proud Mary" and "[Deportee (Plane Wreck at Los Gatos)]({{< relref "2020-01-05-cover-me-deportee-plane-wreck-at-los-gatos.md" >}})" for the first time, and Flo and Eddie make a guest appearance on "[Hungry Heart]({{< relref "2022-12-21-roll-of-the-dice-hungry-heart.md" >}})" reprising their studio backing vocals.<br>
 
 {{< youtube WnXIhhkINpM >}}
 
@@ -71,7 +74,7 @@ params:
 
 {{< youtube PTekyM4SET8 >}}
 
-**1984:** At Night Three (of four) at Washington DC's Capital Center in the pre-teleprompter days of the Born in the U.S.A. Tour, Bruce tour premieres "Wooly Bully" and forgets the lyrics to "Independence Day," leading to a comically and painfully awkward pause in the proceedings.<br>
+**1984:** At Night Three (of four) at Washington DC's Capital Center in the pre-teleprompter days of the Born in the U.S.A. Tour, Bruce tour premieres "[Wooly Bully]({{< relref "2018-03-31-cover-me-woolly-bully.md" >}})" and forgets the lyrics to "[Independence Day]({{< relref "2022-03-14-roll-of-the-dice-independence-day.md" >}})," leading to a comically and painfully awkward pause in the proceedings.<br>
 
 {{< youtube 9Dt1W6kxZlo >}}
 
@@ -91,17 +94,17 @@ params:
 
 **1997:** Bruce makes a guest appearance with Jimmy & the Gigolos at The Derby in Hollywood.<br>
 
-**2003:** The Rising Tour stadium leg returns to Giants Stadium, where Bruce and the E Street Band tour premiere "Independence Day" and Bobby Bandiera makes a guest appearance on "From Small Things (Big Things One Day Come)."<br>
+**2003:** The Rising Tour stadium leg returns to Giants Stadium, where Bruce and the E Street Band tour premiere "[Independence Day]({{< relref "2022-03-14-roll-of-the-dice-independence-day.md" >}})" and Bobby Bandiera makes a guest appearance on "From Small Things (Big Things One Day Come)."<br>
 
 {{< videopress id=dY427w6M >}}
 
-**2007:** Bruce releases the lead single for his upcoming *Magic* album, "Radio Nowhere," and announces a tour in support of the album.<br>
+**2007:** Bruce releases the lead single for his upcoming *Magic* album, "[Radio Nowhere,]({{< relref "2021-08-01-roll-of-the-dice-radio-nowhere.md" >}})" and announces a tour in support of the album.<br>
 
 {{< youtube 2f3XaoHqQuQ >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/2007-08-28.png.webp)
 
-**2016:** Bruce's ten-show River Tour victory lap continues with a stop at the United Center in Chicago, where "New York City Serenade" and "Jack of All Trades" continue to get the string treatment (this time with local musicians), and "None But the Brave" gets a rare outing.<br>
+**2016:** Bruce's ten-show River Tour victory lap continues with a stop at the United Center in Chicago, where "New York City Serenade" and "[Jack of All Trades]({{< relref "2020-11-27-roll-of-the-dice-jack-of-all-trades.md" >}})" continue to get the string treatment (this time with local musicians), and "[None But the Brave]({{< relref "2018-09-24-roll-of-the-dice-none-but-the-brave.md" >}})" gets a rare outing.<br>
 
 {{< youtube Ninx4g1oiLI >}}
 

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-do-it-with-a-feeling/
+- /roll-of-the-dice-do-it-with-a-feeling/
 - /28463/
 layout: post
 date: 1972-02-03T19:00:00

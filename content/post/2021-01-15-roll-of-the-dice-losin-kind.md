@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-losin-kind/
+- /roll-of-the-dice-losin-kind/
 - /24354/
 layout: post
 date: 2021-01-15T13:00:00

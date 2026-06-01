@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-st-louis-august-23-2008/
+- /where-the-band-was-st-louis-august-23-2008/
 - /3907/
 layout: post
 date: 2018-08-23T12:09:14

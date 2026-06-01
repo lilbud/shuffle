@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-lucky-town/
+- /roll-of-the-dice-lucky-town/
 - /9378/
 layout: post
 date: 1992-02-03T19:00:00

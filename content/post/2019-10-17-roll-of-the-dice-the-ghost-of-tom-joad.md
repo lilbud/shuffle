@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-ghost-of-tom-joad/
+- /roll-of-the-dice-the-ghost-of-tom-joad/
 - /12909/
 layout: post
 date: 2019-10-17T12:00:00

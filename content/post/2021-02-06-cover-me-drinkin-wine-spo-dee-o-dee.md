@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-drinkin-wine-spo-dee-o-dee/
+- /cover-me-drinkin-wine-spo-dee-o-dee/
 - /24823/
 layout: post
 date: 2021-02-06T13:00:00

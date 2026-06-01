@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-half-japanese-tenth-avenue-freeze-out/
+- /cover-me-half-japanese-tenth-avenue-freeze-out/
 - /9704/
 layout: post
 date: 2019-04-29T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /rotd-matr-gary-u-s-bonds-bruce-springsteen-and-the-e-street-band-out-of-work/
+- /rotd-matr-gary-u-s-bonds-bruce-springsteen-and-the-e-street-band-out-of-work/
 - /26452/
 layout: post
 date: 2021-04-18T12:00:00

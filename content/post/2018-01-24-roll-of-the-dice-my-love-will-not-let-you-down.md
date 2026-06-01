@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-my-love-will-not-let-you-down/
+- /roll-of-the-dice-my-love-will-not-let-you-down/
 - /397/
 layout: post
 date: 2018-01-24T15:00:23

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-leavin-train/
+- /roll-of-the-dice-leavin-train/
 - /26516/
 layout: post
 date: 2021-04-15T12:00:00

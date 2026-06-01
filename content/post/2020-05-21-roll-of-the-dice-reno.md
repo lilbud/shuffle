@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-reno/
+- /roll-of-the-dice-reno/
 - /18174/
 layout: post
 date: 2020-05-21T12:00:00

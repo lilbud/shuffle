@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-steve-earle-and-bruce-springsteen-johnny-come-lately/
+- /matr-steve-earle-and-bruce-springsteen-johnny-come-lately/
 - /6260/
 layout: post
 date: 2019-01-04T12:42:12

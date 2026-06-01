@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-walking-the-dog/
+- /cover-me-walking-the-dog/
 - /22427/
 layout: post
 date: 2020-11-17T13:00:00

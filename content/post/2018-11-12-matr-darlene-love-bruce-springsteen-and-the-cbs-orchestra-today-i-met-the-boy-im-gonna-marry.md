@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-darlene-love-bruce-springsteen-and-the-cbs-orchestra-today-i-met-the-boy-im-gonna-marry/
+- /matr-darlene-love-bruce-springsteen-and-the-cbs-orchestra-today-i-met-the-boy-im-gonna-marry/
 - /5725/
 layout: post
 date: 2018-11-12T13:00:38

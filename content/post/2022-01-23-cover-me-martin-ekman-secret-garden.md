@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-martin-ekman-secret-garden/
+- /cover-me-martin-ekman-secret-garden/
 - /32474/
 layout: post
 date: 2022-01-23T13:00:00

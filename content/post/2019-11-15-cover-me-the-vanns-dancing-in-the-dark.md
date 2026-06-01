@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-vanns-dancing-in-the-dark/
+- /cover-me-the-vanns-dancing-in-the-dark/
 - /14028/
 layout: post
 date: 2019-11-15T13:00:00

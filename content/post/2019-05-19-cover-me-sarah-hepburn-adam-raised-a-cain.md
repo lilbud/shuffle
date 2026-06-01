@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sarah-hepburn-adam-raised-a-cain/
+- /cover-me-sarah-hepburn-adam-raised-a-cain/
 - /9625/
 layout: post
 date: 2019-05-19T12:00:00

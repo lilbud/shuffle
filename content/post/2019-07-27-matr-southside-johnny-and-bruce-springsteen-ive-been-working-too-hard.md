@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-southside-johnny-and-bruce-springsteen-ive-been-working-too-hard/
+- /matr-southside-johnny-and-bruce-springsteen-ive-been-working-too-hard/
 - /11077/
 layout: post
 date: 2019-07-27T12:00:00

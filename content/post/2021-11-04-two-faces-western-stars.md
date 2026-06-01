@@ -1,6 +1,7 @@
 ---
 aliases:
 - /two-faces-western-stars/
+- /two-faces-western-stars/
 - /30616/
 layout: post
 date: 2021-11-04T12:00:00

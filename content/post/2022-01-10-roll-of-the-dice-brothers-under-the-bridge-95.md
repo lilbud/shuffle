@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-brothers-under-the-bridge-95/
+- /roll-of-the-dice-brothers-under-the-bridge-95/
 - /31074/
 layout: post
 date: 2022-01-10T13:00:00

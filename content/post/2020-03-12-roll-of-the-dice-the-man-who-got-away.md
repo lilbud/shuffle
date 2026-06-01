@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-man-who-got-away/
+- /roll-of-the-dice-the-man-who-got-away/
 - /16719/
 layout: post
 date: 2020-03-12T12:00:00

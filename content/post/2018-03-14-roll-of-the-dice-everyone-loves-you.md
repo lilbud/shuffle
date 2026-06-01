@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-everyone-loves-you/
+- /roll-of-the-dice-everyone-loves-you/
 - /1011/
 layout: post
 date: 2018-03-14T12:00:36

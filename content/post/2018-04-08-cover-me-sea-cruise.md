@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sea-cruise/
+- /cover-me-sea-cruise/
 - /1465/
 layout: post
 date: 2018-04-08T12:00:41

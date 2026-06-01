@@ -1,6 +1,7 @@
 ---
 aliases:
 - /spare-parts-what-i-did-on-my-autumn-vacation/
+- /spare-parts-what-i-did-on-my-autumn-vacation/
 - /30419/
 layout: post
 date: 2021-10-24T12:00:00

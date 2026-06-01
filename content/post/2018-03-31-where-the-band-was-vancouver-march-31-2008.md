@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-vancouver-march-31-2008/
+- /where-the-band-was-vancouver-march-31-2008/
 - /1331/
 layout: post
 date: 2018-03-31T13:00:48

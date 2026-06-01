@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-leann-rimes-secret-garden/
+- /cover-me-leann-rimes-secret-garden/
 - /9733/
 layout: post
 date: 2019-06-08T12:00:00

@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-7/
+- /kingdom-of-days-january-7/
 - /55554/
 layout: post
 date: 2025-01-07T12:00:35
 lastmod: 2025-11-08T17:48:57
-title: "January 7"
+title: "Kingdom of Days: January 7"
 slug: kingdom-of-days-january-7
 author: Ken Rosen
 description: "On this date: Bruce premieres a new song written for Jann Wenner’s birthday. It hasn’t surfaced to this day."

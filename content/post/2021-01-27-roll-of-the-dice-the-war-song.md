@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-war-song/
+- /roll-of-the-dice-the-war-song/
 - /24471/
 layout: post
 date: 2021-01-27T13:00:00

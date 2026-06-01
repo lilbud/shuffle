@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bob-seger-and-bruce-springsteen-old-time-rock-and-roll/
+- /matr-bob-seger-and-bruce-springsteen-old-time-rock-and-roll/
 - /15415/
 layout: post
 date: 2020-02-01T13:00:00

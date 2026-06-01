@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-you-never-can-tell/
+- /cover-me-you-never-can-tell/
 - /16169/
 layout: post
 date: 2020-03-14T12:00:00

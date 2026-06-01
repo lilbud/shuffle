@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-damien-jurado-and-rosie-thomas-wages-of-sin/
+- /cover-me-damien-jurado-and-rosie-thomas-wages-of-sin/
 - /30170/
 layout: post
 date: 2021-10-13T12:00:00

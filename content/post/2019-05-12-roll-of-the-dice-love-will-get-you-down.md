@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-love-will-get-you-down/
+- /roll-of-the-dice-love-will-get-you-down/
 - /9593/
 layout: post
 date: 2019-05-12T12:00:00

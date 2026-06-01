@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-helen-schneider-hearts-of-stone/
+- /cover-me-helen-schneider-hearts-of-stone/
 - /3917/
 layout: post
 date: 2018-08-19T12:00:06

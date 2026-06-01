@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-ringo-starrs-all-starr-band-bruce-springsteen-and-john-candy-with-a-little-help-from-my-friends/
+- /matr-ringo-starrs-all-starr-band-bruce-springsteen-and-john-candy-with-a-little-help-from-my-friends/
 - /2350/
 layout: post
 date: 2018-06-03T12:00:54

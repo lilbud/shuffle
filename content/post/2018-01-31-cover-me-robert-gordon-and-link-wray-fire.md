@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-robert-gordon-and-link-wray-fire/
+- /cover-me-robert-gordon-and-link-wray-fire/
 - /530/
 layout: post
 date: 2018-01-31T13:00:03

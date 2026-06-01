@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-doc-walker-girls-in-their-summer-clothes/
+- /cover-me-doc-walker-girls-in-their-summer-clothes/
 - /7884/
 layout: post
 date: 2019-03-12T12:00:00

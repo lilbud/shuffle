@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-neil-young-bruce-springsteen-and-nils-lofgren-helpless/
+- /matr-neil-young-bruce-springsteen-and-nils-lofgren-helpless/
 - /22144/
 layout: post
 date: 2020-11-11T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-river-city-extension-hungry-heart/
+- /cover-me-river-city-extension-hungry-heart/
 - /7889/
 layout: post
 date: 2019-03-24T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-philadelphia-february-12-2016/
+- /where-the-band-was-philadelphia-february-12-2016/
 - /689/
 layout: post
 date: 2018-02-12T15:00:15

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-born-to-be-wild/
+- /cover-me-born-to-be-wild/
 - /18397/
 layout: post
 date: 2020-05-20T12:00:00

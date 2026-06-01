@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-cleveland-october-2-2004/
+- /where-the-band-was-cleveland-october-2-2004/
 - /4715/
 layout: post
 date: 2018-10-02T12:47:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-joe-ely-arlo-guthrie-indigo-girls-and-more-ive-got-to-know/
+- /matr-bruce-springsteen-joe-ely-arlo-guthrie-indigo-girls-and-more-ive-got-to-know/
 - /1984/
 layout: post
 date: 2018-05-07T12:00:38

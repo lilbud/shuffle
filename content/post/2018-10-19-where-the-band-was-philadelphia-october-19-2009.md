@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-philadelphia-october-19-2009/
+- /where-the-band-was-philadelphia-october-19-2009/
 - /5135/
 layout: post
 date: 2018-10-19T13:00:44

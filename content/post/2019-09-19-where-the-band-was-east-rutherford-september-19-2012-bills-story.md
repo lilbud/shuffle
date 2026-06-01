@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-east-rutherford-september-19-2012-bills-story/
+- /where-the-band-was-east-rutherford-september-19-2012-bills-story/
 - /12573/
 layout: post
 date: 2019-09-19T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-steve-van-zandt-bye-bye-johnny/
+- /meeting-across-the-river-bruce-springsteen-and-steve-van-zandt-bye-bye-johnny/
 - /3764/
 layout: post
 date: 2018-08-18T12:00:29

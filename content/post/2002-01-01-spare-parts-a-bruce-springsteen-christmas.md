@@ -1,6 +1,7 @@
 ---
 aliases:
 - /spare-parts-a-bruce-springsteen-christmas/
+- /spare-parts-a-bruce-springsteen-christmas/
 - /39854/
 layout: post
 date: 2002-01-01T19:00:00

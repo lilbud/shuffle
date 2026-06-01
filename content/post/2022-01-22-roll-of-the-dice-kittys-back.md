@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-kittys-back/
+- /roll-of-the-dice-kittys-back/
 - /31937/
 layout: post
 date: 2022-01-22T13:00:00

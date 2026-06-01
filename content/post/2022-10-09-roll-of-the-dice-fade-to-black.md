@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-fade-to-black/
+- /roll-of-the-dice-fade-to-black/
 - /38577/
 layout: post
 date: 2022-10-09T12:00:00

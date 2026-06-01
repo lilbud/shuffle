@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-pearl-jam-open-all-night/
+- /cover-me-pearl-jam-open-all-night/
 - /3702/
 layout: post
 date: 2018-08-07T12:00:09

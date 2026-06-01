@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-john-fogerty-and-bruce-springsteen-deja-vu-all-over-again/
+- /matr-john-fogerty-and-bruce-springsteen-deja-vu-all-over-again/
 - /19493/
 layout: post
 date: 2020-07-11T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-life-size-models-im-on-fire/
+- /cover-me-life-size-models-im-on-fire/
 - /17742/
 layout: post
 date: 2020-04-28T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-henry-girls-reason-to-believe/
+- /cover-me-the-henry-girls-reason-to-believe/
 - /31329/
 layout: post
 date: 2021-12-07T13:00:00

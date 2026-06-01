@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-april-7-2/
+- /kingdom-of-days-april-7/
 - /56402/
 layout: post
 date: 2025-04-07T11:00:51
-lastmod: 2025-12-11T16:20:02
-title: "April 7"
+lastmod: 2025-03-29T02:25:58
+title: "Kingdom of Days: April 7"
 slug: kingdom-of-days-april-7-2
 author: Ken Rosen
 description: "Bruce meets Max for the first time, debuts a new arrangement for “The Ghost of Tom Joad” with Tom Morello, kicks off the European leg of the first River Tour, and subjects himself to a deeply insightful 90-minute interview."
@@ -46,11 +47,13 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/04/april-7th-2024-inglewood-ca-bruce-springsteen-and-the-e-street-band-review.jpg.webp
   post_id: 56402
 ---
+***New for 2025:** Expanded entry and review for 1976; video for 2023; new entry for 2024*<br>
+
 **1973:** Bruce and the E Street Band open for The Beach Boys in Norfolk.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/03/1973-0407.jpg.webp)
 
-**1974:** Bruce Springsteen meets Max Weinberg for the first time when Max’s band opens for Bruce and the original (but still unnamed) E Street Band at Seton Hall University.<br>
+**1974:** Bruce Springsteen meets Max Weinberg for the first time when Max's band opens for Bruce and the original (but still unnamed) E Street Band at Seton Hall University.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/03/1974-0407.jpg.webp)
 
@@ -69,13 +72,11 @@ Earlier that same day, Bruce and Dave Sancious drop by WMMR-FM in Philadelphia t
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/04/The_Plain_Dealer_1976_04_09_77-scaled.jpg.webp)
 
-![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/04/2009-04-07.jpg.webp)
-
-**1981:** The European leg of The River Tour finally kicks off with Bruce’s first-ever show in Germany–at Congress Centrum in Hamburg, where Bruce covers “Rockin’ All Over the World” for the first time.<br>
+**1981:** The European leg of The River Tour finally kicks off with Bruce's first-ever show in Germany–at Congress Centrum in Hamburg, where Bruce covers "Rockin' All Over the World" for the first time.<br>
 
 {{< videopress id=0J18Oql6 >}}
 
-**1993:** Bruce’s World Tour 1993 stops in Zurich for the first of two shows.<br>
+**1993:** Bruce's World Tour 1993 stops in Zurich for the first of two shows.<br>
 
 {{< videopress id=US34fizl >}}
 
@@ -85,7 +86,7 @@ Earlier that same day, Bruce and Dave Sancious drop by WMMR-FM in Philadelphia t
 
 {{< videopress id=IBm32YRu >}}
 
-…and that interview isn’t the only one Bruce does today. I don’t know if it’s before or after, but Bruce also sits down with MTV’s Kurt Loder for an interview that will air the following month on MTV’s Week in Rock. (You can tell from the same shirt he’s wearing in the video below.)
+...and that interview isn't the only one Bruce does today. I don't know if it's before or after, but Bruce also sits down with MTV's Kurt Loder for an interview that will air the following month on MTV's Week in Rock. (You can tell from the same shirt he's wearing in the video below.)
 
 {{< videopress id=ibrpkquF >}}
 
@@ -97,23 +98,25 @@ Earlier that same day, Bruce and Dave Sancious drop by WMMR-FM in Philadelphia t
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/04/2001-04-07b.jpg.webp)
 
-**2006:** Bruce rehearses with the Sessions Band at Asbury Park’s Paramount Theater, preparing for their upcoming tour.<br>
+**2006:** Bruce rehearses with the Sessions Band at Asbury Park's Paramount Theater, preparing for their upcoming tour.<br>
 
-**2008:** Tom Morello makes a guest appearance at the Magic Tour stop in Anaheim. The new arrangement of “The Ghost of Tom Joad” that Bruce and Tom work up will become a fan favorite and eventually become an officially released track in both studio and live form (on *High Hopes* and *Magic Tour Highlights*, respectively). Tom isn’t the only guest-star, though: Bobby Bandiera joins for “Ramrod,” and Marty Rifkin and Marc Anthony Thompson join for a mini-Sessions Band reunion on “American Land.”<br>
+**2008:** Tom Morello makes a guest appearance at the Magic Tour stop in Anaheim. The new arrangement of "[The Ghost of Tom Joad]({{< relref "2019-10-17-roll-of-the-dice-the-ghost-of-tom-joad.md" >}})" that Bruce and Tom work up will become a fan favorite and eventually become an officially released track in both studio and live form (on *High Hopes* and *Magic Tour Highlights*, respectively). Tom isn't the only guest-star, though: Bobby Bandiera joins for "[Ramrod]({{< relref "2022-09-10-roll-of-the-dice-ramrod.md" >}})," and Marty Rifkin and Marc Anthony Thompson join for a mini-Sessions Band reunion on "[American Land]({{< relref "2016-01-22-roll-of-the-dice-american-land.md" >}})."<br>
 
 {{< youtube B-c6GphpAeY >}}
 
-**2009:** Bruce and the E Street Band return to Oklahoma after an absence of more than three decades. Their Working on a Dream show at the Bok Center in Tulsa features the tour premieres of “I’m Goin’ Down” and “I’m on Fire.”<br>
+**2009:** Bruce and the E Street Band return to Oklahoma after an absence of more than three decades. Their Working on a Dream show at the Bok Center in Tulsa features the tour premieres of "[I'm Goin' Down]({{< relref "1984-01-11-roll-of-the-dice-im-goin-down.md" >}})" and "[I'm on Fire]({{< relref "1984-01-08-roll-of-the-dice-im-on-fire.md" >}})."<br>
 
 {{< youtube vCw2vOUKZzY >}}
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/04/2009-04-07.jpg.webp)
 
 **2016:** The River Tour (2016 edition) moves on to the Sprint Center in Kansas City.<br>
 
 {{< youtube uQRzIrBXKdU >}}
 
-![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/04/2016-04-07-2.jpg)![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/04/2016-04-07-1.jpg.webp)**2018:** *Springsteen on Broadway* continues its theatrical run at the Walter Kerr Theater in New York City. Patti isn't present tonight, so theatergoers get the "B" setlist featuring "Long Time Comin'" and "The Ghost of Tom Joad" in place of "Brilliant Disguise" and "Tougher Than the Rest."
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/08/roll-of-the-dice-tougher-than-the-rest/)"
 
-**2023:** “Lucky Town” makes its tour premiere when Bruce and the E Street Band bring their World Tour to CFG Bank Arena in Baltimore.<br>
+**2023:** "[Lucky Town]({{< relref "1992-02-03-roll-of-the-dice-lucky-town.md" >}})" makes its tour premiere when Bruce and the E Street Band bring their World Tour to CFG Bank Arena in Baltimore.<br>
 
 {{< youtube Hrp4t0v7TqI >}}
 
@@ -125,7 +128,7 @@ Earlier that same day, Bruce and Dave Sancious drop by WMMR-FM in Philadelphia t
 
 {{< youtube qAttAmaM3rs >}}
 
-Thankfully, real-life Bruce Springsteen is hale and healthy tonight, performing his second show at Kia Forum in Inglewood, California. He opens with the tour premiere of “Open All Night,” and Tom Morello makes a guest appearance for the tour premieres of “American Skin (41 Shots)” and “The Ghost of Tom Joad.”
+Thankfully, real-life Bruce Springsteen is hale and healthy tonight, performing his second show at Kia Forum in Inglewood, California. He opens with the tour premiere of "[Open All Nigh]({{< relref "2020-10-28-roll-of-the-dice-open-all-night.md" >}})t," and Tom Morello makes a guest appearance for the tour premieres of "American Skin (41 Shots)" and "The Ghost of Tom Joad."
 
 {{< youtube SY0wogqnMQk >}}
 

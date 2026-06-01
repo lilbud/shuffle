@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-lovematches-hungry-heart/
+- /cover-me-the-lovematches-hungry-heart/
 - /12106/
 layout: post
 date: 2019-10-26T12:00:00

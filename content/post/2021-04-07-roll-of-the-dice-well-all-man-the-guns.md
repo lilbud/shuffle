@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-well-all-man-the-guns/
+- /roll-of-the-dice-well-all-man-the-guns/
 - /25935/
 layout: post
 date: 2021-04-07T12:00:00

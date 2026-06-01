@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-nils-lofgren-and-soozie-tyrell-its-all-over-now/
+- /matr-bruce-springsteen-nils-lofgren-and-soozie-tyrell-its-all-over-now/
 - /29190/
 layout: post
 date: 2021-09-02T12:00:00

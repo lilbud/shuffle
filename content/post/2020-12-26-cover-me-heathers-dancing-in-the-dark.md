@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-heathers-dancing-in-the-dark/
+- /cover-me-heathers-dancing-in-the-dark/
 - /23803/
 layout: post
 date: 2020-12-26T13:00:00

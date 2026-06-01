@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-little-queenie/
+- /cover-me-little-queenie/
 - /6213/
 layout: post
 date: 1976-01-04T19:00:28

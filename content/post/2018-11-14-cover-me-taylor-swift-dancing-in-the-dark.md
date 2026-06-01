@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-taylor-swift-dancing-in-the-dark/
+- /cover-me-taylor-swift-dancing-in-the-dark/
 - /5727/
 layout: post
 date: 2018-11-14T13:00:58

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /my-city-of-ruins/
+- /my-city-of-ruins/
 - /68797/
 layout: post
 date: 2016-01-16T19:00:36

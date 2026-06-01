@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-marshall-crenshaw-all-or-nothin-at-all/
+- /cover-me-marshall-crenshaw-all-or-nothin-at-all/
 - /6933/
 layout: post
 date: 2019-01-23T13:00:39

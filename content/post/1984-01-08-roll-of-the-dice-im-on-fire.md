@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-im-on-fire/
+- /roll-of-the-dice-im-on-fire/
 - /29026/
 layout: post
 date: 1984-01-08T19:00:00

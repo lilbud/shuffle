@@ -1,6 +1,7 @@
 ---
 aliases:
 - /spare-parts-warren-zevon-jeannie-needs-a-shooter/
+- /spare-parts-warren-zevon-jeannie-needs-a-shooter/
 - /18390/
 layout: post
 date: 2020-10-23T12:00:00

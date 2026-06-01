@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-little-latin-lupe-lu/
+- /cover-me-little-latin-lupe-lu/
 - /8406/
 layout: post
 date: 1976-01-14T19:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-dion-bruce-springsteen-and-patti-scialfa-hymn-to-him/
+- /matr-dion-bruce-springsteen-and-patti-scialfa-hymn-to-him/
 - /26872/
 layout: post
 date: 2021-04-26T12:00:00

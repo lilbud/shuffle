@@ -1,6 +1,7 @@
 ---
 aliases:
 - /editors-note-avoiding-springsteen-on-broadway-spoilers/
+- /editors-note-avoiding-springsteen-on-broadway-spoilers/
 - /580/
 layout: post
 date: 2018-02-05T18:53:10

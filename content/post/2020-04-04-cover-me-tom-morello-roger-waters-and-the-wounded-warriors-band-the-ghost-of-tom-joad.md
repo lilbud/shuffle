@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-tom-morello-roger-waters-and-the-wounded-warriors-band-the-ghost-of-tom-joad/
+- /cover-me-tom-morello-roger-waters-and-the-wounded-warriors-band-the-ghost-of-tom-joad/
 - /16772/
 layout: post
 date: 2020-04-04T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-used-cars/
+- /roll-of-the-dice-used-cars/
 - /10316/
 layout: post
 date: 2019-06-13T12:00:00

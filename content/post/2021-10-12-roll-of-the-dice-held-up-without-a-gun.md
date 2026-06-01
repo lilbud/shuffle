@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-held-up-without-a-gun/
+- /roll-of-the-dice-held-up-without-a-gun/
 - /29687/
 layout: post
 date: 2021-10-12T12:00:00

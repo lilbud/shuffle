@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-greensboro-march-19-2012/
+- /where-the-band-was-greensboro-march-19-2012/
 - /1139/
 layout: post
 date: 2018-03-19T17:00:55

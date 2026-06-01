@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-robert-gordon-heartbreak-hotel/
+- /matr-bruce-springsteen-and-robert-gordon-heartbreak-hotel/
 - /26453/
 layout: post
 date: 2021-04-11T12:00:00

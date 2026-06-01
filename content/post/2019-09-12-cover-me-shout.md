@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-shout/
+- /cover-me-shout/
 - /11633/
 layout: post
 date: 2019-09-12T12:00:00

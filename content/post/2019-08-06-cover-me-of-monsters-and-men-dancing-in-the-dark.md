@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-of-monsters-and-men-dancing-in-the-dark/
+- /cover-me-of-monsters-and-men-dancing-in-the-dark/
 - /12008/
 layout: post
 date: 2019-08-06T12:00:00

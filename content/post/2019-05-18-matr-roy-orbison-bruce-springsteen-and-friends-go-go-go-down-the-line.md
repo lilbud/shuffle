@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-roy-orbison-bruce-springsteen-and-friends-go-go-go-down-the-line/
+- /matr-roy-orbison-bruce-springsteen-and-friends-go-go-go-down-the-line/
 - /10186/
 layout: post
 date: 2019-05-18T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-kansas-city/
+- /cover-me-kansas-city/
 - /24352/
 layout: default-post
 date: 2021-01-11T13:00:00

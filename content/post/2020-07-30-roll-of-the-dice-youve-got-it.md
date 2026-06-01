@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-youve-got-it/
+- /roll-of-the-dice-youve-got-it/
 - /20114/
 layout: post
 date: 2020-07-30T12:00:00

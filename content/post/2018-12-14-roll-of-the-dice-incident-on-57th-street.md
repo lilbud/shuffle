@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-incident-on-57th-street/
+- /roll-of-the-dice-incident-on-57th-street/
 - /5817/
 layout: post
 date: 2018-12-14T13:00:36

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-stevie-rees-and-wyatt-edmonson-badlands/
+- /cover-me-stevie-rees-and-wyatt-edmonson-badlands/
 - /19600/
 layout: post
 date: 2020-07-01T12:00:00

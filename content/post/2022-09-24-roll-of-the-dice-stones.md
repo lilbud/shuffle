@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-stones/
+- /roll-of-the-dice-stones/
 - /37943/
 layout: post
 date: 2022-09-24T12:30:00

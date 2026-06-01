@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-undertakers-office-the-wrestler/
+- /cover-me-the-undertakers-office-the-wrestler/
 - /33409/
 layout: post
 date: 2022-03-23T12:00:00

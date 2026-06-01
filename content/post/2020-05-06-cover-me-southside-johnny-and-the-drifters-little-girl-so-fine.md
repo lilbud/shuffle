@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-southside-johnny-and-the-drifters-little-girl-so-fine/
+- /cover-me-southside-johnny-and-the-drifters-little-girl-so-fine/
 - /17358/
 layout: post
 date: 2020-05-06T12:00:00

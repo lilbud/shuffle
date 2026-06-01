@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-tex-mex-no-surrender/
+- /cover-me-tex-mex-no-surrender/
 - /31021/
 layout: post
 date: 2021-11-20T13:00:00

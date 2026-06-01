@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-big-payback/
+- /roll-of-the-dice-the-big-payback/
 - /5534/
 layout: post
 date: 2018-11-11T13:00:20

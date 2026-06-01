@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-eddie-vedder-dave-matthews-and-more-whats-so-funny-bout-peace-love-and-understanding/
+- /matr-bruce-springsteen-eddie-vedder-dave-matthews-and-more-whats-so-funny-bout-peace-love-and-understanding/
 - /39880/
 layout: post
 date: 2022-12-15T13:00:00

@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-april-6-2/
+- /kingdom-of-days-april-6/
 - /56370/
 layout: post
 date: 2025-04-06T11:00:30
-lastmod: 2025-12-11T16:18:04
-title: "April 6"
+lastmod: 2025-03-25T21:14:06
+title: "Kingdom of Days: April 6"
 slug: kingdom-of-days-april-6-2
 author: Ken Rosen
 description: "A rare performance of “Lion’s Den” and a surprise cover of Van Halen’s “Jump” lead today’s highlights."
@@ -28,6 +29,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/04/20140406_6_front.jpg.webp
   post_id: 56370
 ---
+***New for 2025:** No updates*<br>
+
 **1969:** Child performs at the Pandemonium in Wanamassa, New Jersey.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/04/Asbury_Park_Press_Fri__Apr_4__1969_-scaled.jpg.webp)
@@ -42,11 +45,11 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/04/The_Sydney_Morning_Herald_Mon__Apr_8__1985_-scaled.jpg.webp)
 
-**1990:** Bruce records "Trouble River" at Soundworks West in Los Angeles. It will remain in the vault for almost a decade.<br>
+**1990:** Bruce records "[Trouble River]({{< relref "2019-03-05-roll-of-the-dice-trouble-river.md" >}})" at Soundworks West in Los Angeles. It will remain in the vault for almost a decade.<br>
 
 {{< youtube 0KstWZbn3Fw >}}
 
-**1999:** At a special Johnny Cash tribute in New York City, Bruce performs "Give My Love to Rose" via a pre-recorded video. The event is recorded for airing on TNT later in the month.<br>
+**1999:** At a special Johnny Cash tribute in New York City, Bruce performs "[Give My Love to Rose]({{< relref "2020-10-29-cover-me-give-my-love-to-rose.md" >}})" via a pre-recorded video. The event is recorded for airing on TNT later in the month.<br>
 
 {{< youtube hEfe80Ty8KY >}}
 
@@ -54,9 +57,9 @@ params:
 
 **2006:** Bruce rehearses with the Sessions Band at Asbury Park's Paramount Theater, preparing for their upcoming tour. Meanwhile, Bruce is inducted into the Freehold High School Hall of Fame in absentia. Bruce's mom accepts the award on his behalf and reads a note from Bruce:<br>
 
-"*I'd like to thank everyone for the honor. It's especially nice coming from my hometown and my old alma mater. It's kind of funny, really. I spent my years at Freehold Regional pretty much as an outcast and at best a very mediocre student. I would probably have been voted ‘Least Likely to Succeed'. My only advice to teachers and the administrators would be to keep your eyes on the ones that don't fit in. They're the ones thinking out of the box and reimagining this place we live in… our hometown. You never know where they're going. So, thank you once again and please show my mother a good time. Without her I may not have survived Freehold Regional High School."*
+"*I'd like to thank everyone for the honor. It's especially nice coming from my hometown and my old alma mater. It's kind of funny, really. I spent my years at Freehold Regional pretty much as an outcast and at best a very mediocre student. I would probably have been voted 'Least Likely to Succeed'. My only advice to teachers and the administrators would be to keep your eyes on the ones that don't fit in. They're the ones thinking out of the box and reimagining this place we live in... our hometown. You never know where they're going. So, thank you once again and please show my mother a good time. Without her I may not have survived Freehold Regional High School."*
 
-**2012:** Bruce brings the Wrecking Ball Tour to Madison Square Garden for the first of two nights. The setlist features the tour premiere of "Murder Incorporated" and a very rare "Lion's Den," only its fourth performance and its first in over a decade.<br>
+**2012:** Bruce brings the Wrecking Ball Tour to Madison Square Garden for the first of two nights. The setlist features the tour premiere of "[Murder Incorporated]({{< relref "1984-01-15-roll-of-the-dice-murder-incorporated.md" >}})" and a very rare "[Lion's Den]({{< relref "2019-06-21-roll-of-the-dice-lions-den.md" >}})," only its fourth performance and its first in over a decade.<br>
 
 {{< videopress id=QvFl1u7J >}}
 
@@ -68,14 +71,14 @@ params:
 
 {{< youtube F9SuCBFcZlo >}}
 
-**2014:** Back in the U.S. after their Australia/New Zealand tour, Bruce and the E Street Band play a free concert at the NCAA March Madness Music Festival in Dallas. Bruce continues his streak of creative opening covers with Van Halen's "Jump."<br>
+**2014:** Back in the U.S. after their Australia/New Zealand tour, Bruce and the E Street Band play a free concert at the NCAA March Madness Music Festival in Dallas. Bruce continues his streak of creative opening covers with Van Halen's "[Jump]({{< relref "2019-04-02-cover-me-jump.md" >}})."<br>
 
 {{< videopress id=AclwSTf7 >}}
 
 {{< videopress id=Bel2SeJM >}}
 
-**2018:** *Springsteen on Broadway* continues its theatrical run at the Walter Kerr Theater in New York City. Patti isn't present tonight, so theatergoers get the "B" setlist featuring "Long Time Comin'" and "The Ghost of Tom Joad" in place of "Brilliant Disguise" and "Tougher Than the Rest." In attendance tonight: actress Gina Gershon.<br>
+**2018:** *Springsteen on Broadway* continues its theatrical run at the Walter Kerr Theater in New York City. Patti isn't present tonight, so theatergoers get the "B" setlist featuring ["Long Time Comin']({{< relref "2022-06-19-roll-of-the-dice-long-time-comin.md" >}})" and "[The Ghost of Tom Joad]({{< relref "2019-10-17-roll-of-the-dice-the-ghost-of-tom-joad.md" >}})" in place of "[Brilliant Disguise]({{< relref "1987-01-09-roll-of-the-dice-brilliant-disguise.md" >}}/)" and "[Tougher Than the Rest]({{< relref "1987-01-02-roll-of-the-dice-tougher-than-the-rest.md" >}}/)." In attendance tonight: actress Gina Gershon.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/03/20180406_GinaGershon_01.jpg.webp)
 
-**2022:** Bruce celebrates Clive Davis' 90th birthday by recording a video salute and a performance of "Blinded by the Light."<br>
+**2022:** Bruce celebrates Clive Davis' 90th birthday by recording a video salute and a performance of "[Blinded by the Light]({{< relref "2011-01-02-roll-of-the-dice-blinded-by-the-light.md" >}})."<br>

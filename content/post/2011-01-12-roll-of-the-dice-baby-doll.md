@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-baby-doll/
+- /roll-of-the-dice-baby-doll/
 - /13193/
 layout: post
 date: 2011-01-12T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-i-sold-my-heart-to-the-junkman/
+- /cover-me-i-sold-my-heart-to-the-junkman/
 - /19183/
 layout: post
 date: 2020-06-21T12:00:00

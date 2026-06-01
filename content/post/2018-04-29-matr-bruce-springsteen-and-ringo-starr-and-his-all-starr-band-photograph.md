@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-ringo-starr-and-his-all-starr-band-photograph/
+- /matr-bruce-springsteen-and-ringo-starr-and-his-all-starr-band-photograph/
 - /1774/
 layout: post
 date: 2018-04-29T12:00:08

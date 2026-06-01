@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-long-walk-home/
+- /roll-of-the-dice-long-walk-home/
 - /16552/
 layout: post
 date: 2020-03-21T12:00:00

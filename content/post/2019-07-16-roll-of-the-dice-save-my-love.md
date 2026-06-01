@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-save-my-love/
+- /roll-of-the-dice-save-my-love/
 - /11224/
 layout: post
 date: 2019-07-16T12:00:00

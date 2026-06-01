@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-june-11-2/
+- /kingdom-of-days-june-11/
 - /57048/
 layout: post
 date: 2025-06-11T11:00:51
-lastmod: 2026-02-15T20:43:19
-title: "June 11"
+lastmod: 2025-06-04T00:06:29
+title: "Kingdom of Days: June 11"
 slug: kingdom-of-days-june-11-2
 author: Ken Rosen
 description: "Bruce likes to spend June 11th in Italy–watch highlights from three Italian shows held on this date."
@@ -29,9 +30,11 @@ tags:
 categories:
 - "kingdom-of-days"
 params:
-  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/06/537091047_18520362721052296_5175092859982628767_n.jpg.webp
+  header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/06/20230611-landgraaf-ne-bruce-springsteen-and-the-e-street-band-review.webp
   post_id: 57048
 ---
+***New for 2025:** No updates*<br>
+
 **1988:** The European leg of the Tunnel of Love Tour kicks off in Italy, starting with a show at Stadio Comunale in Turin that features the tour premiere of "Because the Night."<br>
 
 {{< youtube Q9KzCea1pas >}}
@@ -64,7 +67,7 @@ params:
 
 **2005:** A scheduled solo acoustic show in Hamburg is rescheduled after Terry Magovern's fiancée passes away.<br>
 
-**2006:** The Seeger Sessions Tour stops at Xcel Energy Center in St. Paul, where "Long Black Veil" makes its American premiere.<br>
+**2006:** The Seeger Sessions Tour stops at Xcel Energy Center in St. Paul, where "[Long Black Veil]({{< relref "2020-02-05-cover-me-long-black-veil.md" >}})" makes its American premiere.<br>
 
 {{< youtube OJZmPNby-9U >}}
 
@@ -93,11 +96,3 @@ params:
 {{< youtube cW97ZkLHJUg >}}
 
 {{< youtube NPS5b-XWCyU >}}
-
-**2025:** The Land of Hope and Dreams Tour moves on to Olympiastadion in Berlin, where "Two Hearts" and "Seven Nights to Rock" receive rare outings.<br>
-
-{{< youtube 9QYg0126zzY >}}
-
-{{< youtube Cdl-GBT758k >}}
-
-{{< youtube rIywFg9CPJw >}}

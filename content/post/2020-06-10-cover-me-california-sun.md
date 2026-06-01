@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-california-sun/
+- /cover-me-california-sun/
 - /18566/
 layout: post
 date: 2020-06-10T12:00:00

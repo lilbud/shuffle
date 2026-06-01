@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-one-of-us-must-know-sooner-or-later/
+- /cover-me-one-of-us-must-know-sooner-or-later/
 - /35846/
 layout: post
 date: 2022-07-27T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-price-you-pay/
+- /roll-of-the-dice-the-price-you-pay/
 - /12486/
 layout: post
 date: 2019-09-23T12:00:00

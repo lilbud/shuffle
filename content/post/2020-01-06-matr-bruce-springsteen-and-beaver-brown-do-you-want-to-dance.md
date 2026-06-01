@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-beaver-brown-do-you-want-to-dance/
+- /matr-bruce-springsteen-and-beaver-brown-do-you-want-to-dance/
 - /15114/
 layout: post
 date: 2020-01-06T13:00:00

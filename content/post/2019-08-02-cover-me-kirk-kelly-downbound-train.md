@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-kirk-kelly-downbound-train/
+- /cover-me-kirk-kelly-downbound-train/
 - /11450/
 layout: post
 date: 2019-08-02T12:00:00

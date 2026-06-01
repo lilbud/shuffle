@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-turn-on-your-love-light/
+- /cover-me-turn-on-your-love-light/
 - /51968/
 layout: post
 date: 2024-06-16T13:00:00

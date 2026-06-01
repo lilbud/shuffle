@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-shackled-and-drawn/
+- /roll-of-the-dice-shackled-and-drawn/
 - /19324/
 layout: post
 date: 2020-07-16T12:05:00

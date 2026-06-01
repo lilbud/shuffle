@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-free-redemption-im-goin-down/
+- /cover-me-free-redemption-im-goin-down/
 - /17352/
 layout: post
 date: 2020-04-12T12:00:00

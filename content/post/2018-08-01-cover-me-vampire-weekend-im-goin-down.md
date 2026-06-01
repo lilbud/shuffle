@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-vampire-weekend-im-goin-down/
+- /cover-me-vampire-weekend-im-goin-down/
 - /3567/
 layout: post
 date: 2018-08-01T12:00:33

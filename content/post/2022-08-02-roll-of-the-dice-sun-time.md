@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-sun-time/
+- /roll-of-the-dice-sun-time/
 - /36532/
 layout: post
 date: 2022-08-02T12:00:00

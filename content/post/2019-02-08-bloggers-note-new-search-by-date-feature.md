@@ -1,6 +1,7 @@
 ---
 aliases:
 - /bloggers-note-new-search-by-date-feature/
+- /bloggers-note-new-search-by-date-feature/
 - /7627/
 layout: post
 date: 2019-02-08T20:03:20

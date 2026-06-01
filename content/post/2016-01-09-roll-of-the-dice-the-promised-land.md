@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-promised-land/
+- /roll-of-the-dice-the-promised-land/
 - /2700/
 layout: post
 date: 2016-01-09T19:00:47

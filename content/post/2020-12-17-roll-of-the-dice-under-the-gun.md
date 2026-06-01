@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-under-the-gun/
+- /roll-of-the-dice-under-the-gun/
 - /22423/
 layout: post
 date: 2020-12-17T13:00:00

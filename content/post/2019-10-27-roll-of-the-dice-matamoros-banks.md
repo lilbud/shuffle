@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-matamoros-banks/
+- /roll-of-the-dice-matamoros-banks/
 - /12926/
 layout: post
 date: 2019-10-27T12:00:00

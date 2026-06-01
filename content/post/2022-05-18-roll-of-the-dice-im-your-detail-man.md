@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-im-your-detail-man/
+- /roll-of-the-dice-im-your-detail-man/
 - /34745/
 layout: post
 date: 2022-05-18T12:00:00

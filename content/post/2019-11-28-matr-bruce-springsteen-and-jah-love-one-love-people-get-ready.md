@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-jah-love-one-love-people-get-ready/
+- /matr-bruce-springsteen-and-jah-love-one-love-people-get-ready/
 - /14358/
 layout: post
 date: 2019-11-28T13:00:00

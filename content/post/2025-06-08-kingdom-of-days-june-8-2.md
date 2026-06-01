@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-june-8-2/
+- /kingdom-of-days-june-8/
 - /57023/
 layout: post
 date: 2025-06-08T11:00:52
-lastmod: 2026-02-15T18:58:06
-title: "June 8"
+lastmod: 2025-06-01T16:22:44
+title: "Kingdom of Days: June 8"
 slug: kingdom-of-days-june-8-2
 author: Ken Rosen
 description: "Happy wedding anniversary, Bruce and Patti! Also on this date: Bruce plays a Born in the U.S.A. warm-up gig at The Stone Pony–listen to the first public airing of much of the album. Plus: the stadium breaker!"
@@ -33,6 +34,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/06/brucepatti.jpg.webp
   post_id: 57023
 ---
+***New for 2025:** New entry for 1977*<br>
+
 **1968:** The Castiles play a show at the Hullabaloo in Middletown, New Jersey.<br>
 
 **1973:** Bruce and the E Street Band open for Chicago at Boston Garden.<br>
@@ -55,7 +58,7 @@ params:
 
 {{< videopress id=dAro3Txt >}}
 
-**1984:** Bruce plays a warm-up show for the Born in the U.S.A. Tour at The Stone Pony in Asbury Park. "Glory Days," "Darlington County," "My Hometown," and "Born in the U.S.A." all make their live debuts. Listen to this historic bar gig below.<br>
+**1984:** Bruce plays a warm-up show for the Born in the U.S.A. Tour at The Stone Pony in Asbury Park. "[Glory Days]({{< relref "1984-01-12-roll-of-the-dice-glory-days.md" >}})," "[Darlington County,]({{< relref "1984-01-05-roll-of-the-dice-darlington-county.md" >}})" "[My Hometown,]({{< relref "1983-01-12-roll-of-the-dice-my-hometown.md" >}})" and "[Born in the U.S.A.]({{< relref "1984-01-03-roll-of-the-dice-born-in-the-u-s-a.md" >}})" all make their live debuts. Listen to this historic bar gig below.<br>
 
 {{< youtube _vH_efNE9ZU >}}
 
@@ -71,13 +74,13 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/06/Bristol_Herald_Courier__Bristol_Virginia_Tennessean_Mon__Jun_10__1985_-scaled.jpg.webp)
 
-**1991:** At their home in Beverly Hills, Bruce and Patti marry and hold a reception with family and friends, including the E Street Band, Jackson Browne, Bonnie Raitt, Sting, and John Fogerty. Bruce performs "If I Should Fall Behind"–written for the occasion–for the very first time.<br>
+**1991:** At their home in Beverly Hills, Bruce and Patti marry and hold a reception with family and friends, including the E Street Band, Jackson Browne, Bonnie Raitt, Sting, and John Fogerty. Bruce performs "[If I Should Fall Behind]({{< relref "1992-02-05-roll-of-the-dice-if-i-should-fall-behind.md" >}})"–written for the occasion–for the very first time.<br>
 
 {{< youtube om5UcNKA5XY >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/05/1991-06-08.jpg.webp)
 
-**2003:** Bruce and Patti celebrate their twelfth wedding anniversary at their Rising show in Florence, Italy, where Bruce dedicates "Tougher Than the Rest" for the occasion.<br>
+**2003:** Bruce and Patti celebrate their twelfth wedding anniversary at their Rising show in Florence, Italy, where Bruce dedicates "[Tougher Than the Rest]({{< relref "1987-01-02-roll-of-the-dice-tougher-than-the-rest.md" >}}/)" for the occasion.<br>
 
 {{< youtube k7xqgp6x-44 >}}
 

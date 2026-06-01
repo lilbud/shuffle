@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-somewhere-north-of-nashville/
+- /roll-of-the-dice-somewhere-north-of-nashville/
 - /35382/
 layout: post
 date: 2022-06-09T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-a-fine-fine-boy/
+- /cover-me-a-fine-fine-boy/
 - /7166/
 layout: post
 date: 2019-01-28T13:00:27

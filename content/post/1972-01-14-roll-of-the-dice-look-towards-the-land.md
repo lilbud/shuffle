@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-look-towards-the-land/
+- /roll-of-the-dice-look-towards-the-land/
 - /6209/
 layout: post
 date: 1972-01-14T19:00:48

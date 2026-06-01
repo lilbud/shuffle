@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-30-2/
+- /kingdom-of-days-january-30/
 - /55825/
 layout: post
 date: 2025-01-30T12:00:42
 lastmod: 2025-11-12T20:48:12
-title: "January 30"
+title: "Kingdom of Days: January 30"
 slug: kingdom-of-days-january-30-2
 author: Ken Rosen
 description: "On this date: Bruce responds to President Trump’s attempt to ban Muslims from the U.S. with a pointed, timely speech and setlist in Adelaide. More highlights inside."

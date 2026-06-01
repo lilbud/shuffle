@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-paul-carrack-if-i-should-fall-behind/
+- /cover-me-paul-carrack-if-i-should-fall-behind/
 - /20592/
 layout: post
 date: 2020-09-03T12:00:00

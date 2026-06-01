@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-i-just-cant-change/
+- /roll-of-the-dice-i-just-cant-change/
 - /1995/
 layout: post
 date: 1972-01-23T19:00:00

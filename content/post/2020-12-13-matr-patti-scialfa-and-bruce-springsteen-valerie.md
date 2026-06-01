@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-scialfa-and-bruce-springsteen-valerie/
+- /matr-patti-scialfa-and-bruce-springsteen-valerie/
 - /23382/
 layout: post
 date: 2020-12-13T13:00:00

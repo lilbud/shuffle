@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-coming-home/
+- /roll-of-the-dice-coming-home/
 - /19669/
 layout: post
 date: 1972-01-18T19:00:00

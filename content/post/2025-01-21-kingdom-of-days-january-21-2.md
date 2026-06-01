@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-21-2/
+- /kingdom-of-days-january-21/
 - /55627/
 layout: post
 date: 2025-01-21T12:00:09
 lastmod: 2025-11-19T20:41:51
-title: "January 21"
+title: "Kingdom of Days: January 21"
 slug: kingdom-of-days-january-21-2
 author: Ken Rosen
 description: "Today’s highlights include a show from the short-lived Sundance Blues Band and Springsteen’s Hall of Fame induction of (and duet with) Roy Orbison."

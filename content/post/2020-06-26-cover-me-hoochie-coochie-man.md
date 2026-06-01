@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-hoochie-coochie-man/
+- /cover-me-hoochie-coochie-man/
 - /19180/
 layout: post
 date: 2020-06-26T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-gary-u-s-bonds-your-love/
+- /cover-me-gary-u-s-bonds-your-love/
 - /3401/
 layout: post
 date: 2018-07-27T12:00:54

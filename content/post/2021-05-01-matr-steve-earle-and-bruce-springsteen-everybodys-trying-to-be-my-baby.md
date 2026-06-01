@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-steve-earle-and-bruce-springsteen-everybodys-trying-to-be-my-baby/
+- /matr-steve-earle-and-bruce-springsteen-everybodys-trying-to-be-my-baby/
 - /24824/
 layout: post
 date: 2021-05-01T12:00:00

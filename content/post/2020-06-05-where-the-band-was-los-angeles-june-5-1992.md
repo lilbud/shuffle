@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-los-angeles-june-5-1992/
+- /where-the-band-was-los-angeles-june-5-1992/
 - /18728/
 layout: post
 date: 2020-06-05T12:00:00

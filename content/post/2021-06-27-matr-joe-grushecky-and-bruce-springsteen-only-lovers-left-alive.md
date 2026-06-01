@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-joe-grushecky-and-bruce-springsteen-only-lovers-left-alive/
+- /matr-joe-grushecky-and-bruce-springsteen-only-lovers-left-alive/
 - /27328/
 layout: post
 date: 2021-06-27T12:00:00

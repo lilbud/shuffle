@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-tyler-ward-born-in-the-u-s-a/
+- /cover-me-tyler-ward-born-in-the-u-s-a/
 - /28458/
 layout: post
 date: 2021-08-04T12:00:00

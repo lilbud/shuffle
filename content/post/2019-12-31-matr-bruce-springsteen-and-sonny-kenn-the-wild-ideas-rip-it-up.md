@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-sonny-kenn-the-wild-ideas-rip-it-up/
+- /matr-bruce-springsteen-and-sonny-kenn-the-wild-ideas-rip-it-up/
 - /15191/
 layout: post
 date: 2019-12-31T13:00:00

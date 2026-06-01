@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-garland-jeffreys-and-bruce-springsteen-new-york-skyline/
+- /matr-garland-jeffreys-and-bruce-springsteen-new-york-skyline/
 - /8282/
 layout: post
 date: 2019-04-27T12:00:00

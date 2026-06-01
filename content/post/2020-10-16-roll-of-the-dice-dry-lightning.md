@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-dry-lightning/
+- /roll-of-the-dice-dry-lightning/
 - /21640/
 layout: post
 date: 2020-10-16T12:00:00

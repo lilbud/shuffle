@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-roulette/
+- /roll-of-the-dice-roulette/
 - /33513/
 layout: post
 date: 2022-04-16T12:00:00

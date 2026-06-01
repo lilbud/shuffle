@@ -1,6 +1,7 @@
 ---
 aliases:
 - /american-babylon-a-retrospective/
+- /american-babylon-a-retrospective/
 - /20444/
 layout: post
 date: 2020-10-17T12:00:00

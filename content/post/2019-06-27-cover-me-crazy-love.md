@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-crazy-love/
+- /cover-me-crazy-love/
 - /10788/
 layout: post
 date: 2019-06-27T12:00:00

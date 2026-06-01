@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-outside-looking-in/
+- /roll-of-the-dice-outside-looking-in/
 - /25452/
 layout: post
 date: 2021-02-19T13:00:00

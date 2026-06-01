@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-man-at-the-top/
+- /roll-of-the-dice-man-at-the-top/
 - /9386/
 layout: post
 date: 2019-05-10T12:00:00

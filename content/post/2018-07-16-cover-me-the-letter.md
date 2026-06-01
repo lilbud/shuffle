@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-letter/
+- /cover-me-the-letter/
 - /2974/
 layout: post
 date: 2018-07-16T12:00:38

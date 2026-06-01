@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-slow-fade/
+- /roll-of-the-dice-slow-fade/
 - /15271/
 layout: post
 date: 2020-01-16T13:00:00

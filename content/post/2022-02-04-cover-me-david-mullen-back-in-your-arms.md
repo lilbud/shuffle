@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-david-mullen-back-in-your-arms/
+- /cover-me-david-mullen-back-in-your-arms/
 - /32747/
 layout: post
 date: 2022-02-04T13:00:00

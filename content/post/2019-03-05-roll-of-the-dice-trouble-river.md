@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-trouble-river/
+- /roll-of-the-dice-trouble-river/
 - /7788/
 layout: post
 date: 2019-03-05T13:00:00

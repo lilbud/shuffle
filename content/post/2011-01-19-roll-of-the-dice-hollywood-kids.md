@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-hollywood-kids/
+- /roll-of-the-dice-hollywood-kids/
 - /158/
 layout: post
 date: 2011-01-19T00:00:40

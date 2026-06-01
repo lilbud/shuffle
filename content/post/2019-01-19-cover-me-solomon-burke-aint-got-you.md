@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-solomon-burke-aint-got-you/
+- /cover-me-solomon-burke-aint-got-you/
 - /7155/
 layout: post
 date: 2019-01-19T13:00:54

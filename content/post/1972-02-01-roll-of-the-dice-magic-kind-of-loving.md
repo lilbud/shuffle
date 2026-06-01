@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-magic-kind-of-loving/
+- /roll-of-the-dice-magic-kind-of-loving/
 - /27152/
 layout: post
 date: 1972-02-01T19:00:00

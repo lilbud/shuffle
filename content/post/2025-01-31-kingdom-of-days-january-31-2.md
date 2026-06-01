@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-31-2/
+- /kingdom-of-days-january-31/
 - /55826/
 layout: post
 date: 2025-01-31T12:00:43
 lastmod: 2025-11-19T20:32:08
-title: "January 31"
+title: "Kingdom of Days: January 31"
 slug: kingdom-of-days-january-31-2
 author: Ken Rosen
 description: "Rare performances of lost classics in amazing clarity, a benefit team-up with Jon Bon Jovi, and more."

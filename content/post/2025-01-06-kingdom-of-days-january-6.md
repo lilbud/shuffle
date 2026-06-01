@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-6/
+- /kingdom-of-days-january-6/
 - /55545/
 layout: post
 date: 2025-01-06T12:00:42
 lastmod: 2025-11-08T17:48:36
-title: "January 6"
+title: "Kingdom of Days: January 6"
 slug: kingdom-of-days-january-6
 author: Ken Rosen
 description: "On this date: Seven-year-old Bruce stays up late to watch Elvis, gorgeous soundboard recordings from a 1974 show and rehearsal, and more."

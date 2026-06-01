@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-elliott-murphy-and-bruce-springsteen-diamonds-by-the-yard/
+- /matr-elliott-murphy-and-bruce-springsteen-diamonds-by-the-yard/
 - /33512/
 layout: post
 date: 2022-03-29T12:00:00

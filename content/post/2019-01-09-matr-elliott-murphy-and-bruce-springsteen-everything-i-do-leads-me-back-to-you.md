@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-elliott-murphy-and-bruce-springsteen-everything-i-do-leads-me-back-to-you/
+- /matr-elliott-murphy-and-bruce-springsteen-everything-i-do-leads-me-back-to-you/
 - /6940/
 layout: post
 date: 2019-01-09T13:00:14

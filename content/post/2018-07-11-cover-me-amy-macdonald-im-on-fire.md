@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-amy-macdonald-im-on-fire/
+- /cover-me-amy-macdonald-im-on-fire/
 - /2615/
 layout: post
 date: 2018-07-11T12:00:29

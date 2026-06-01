@@ -16,6 +16,9 @@
     {{ .Content }}
 
     {{ partial "tag-category.html" . }}
-    {{ partial "post-nav.html" . }}
+
+    {{ if ne .Params.title "Changelog" }}
+      {{ partial "post-nav.html" . }}
+    {{ end }}
   </div>
 {{ end }}

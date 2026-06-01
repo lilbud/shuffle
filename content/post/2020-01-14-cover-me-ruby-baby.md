@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-ruby-baby/
+- /cover-me-ruby-baby/
 - /15273/
 layout: post
 date: 2020-01-14T13:00:00

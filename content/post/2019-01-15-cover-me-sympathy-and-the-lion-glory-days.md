@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sympathy-and-the-lion-glory-days/
+- /cover-me-sympathy-and-the-lion-glory-days/
 - /7097/
 layout: post
 date: 2019-01-15T13:00:00

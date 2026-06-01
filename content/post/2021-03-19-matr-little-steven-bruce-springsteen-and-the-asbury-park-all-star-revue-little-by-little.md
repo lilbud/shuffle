@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-little-steven-bruce-springsteen-and-the-asbury-park-all-star-revue-little-by-little/
+- /matr-little-steven-bruce-springsteen-and-the-asbury-park-all-star-revue-little-by-little/
 - /25001/
 layout: post
 date: 2021-03-19T12:00:00

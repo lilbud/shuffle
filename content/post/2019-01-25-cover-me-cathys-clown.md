@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-cathys-clown/
+- /cover-me-cathys-clown/
 - /7224/
 layout: post
 date: 2019-01-25T13:00:27

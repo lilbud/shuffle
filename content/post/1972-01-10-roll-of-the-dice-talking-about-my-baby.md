@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-talking-about-my-baby/
+- /roll-of-the-dice-talking-about-my-baby/
 - /52380/
 layout: post
 date: 1972-01-10T19:00:00

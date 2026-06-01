@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-melissa-mcclelland-factory/
+- /cover-me-melissa-mcclelland-factory/
 - /21108/
 layout: post
 date: 2020-09-07T12:00:00

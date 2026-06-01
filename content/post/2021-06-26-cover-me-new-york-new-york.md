@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-new-york-new-york/
+- /cover-me-new-york-new-york/
 - /27898/
 layout: post
 date: 2021-06-26T12:00:00

@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-10/
+- /kingdom-of-days-january-10/
 - /55576/
 layout: post
 date: 2025-01-10T12:00:59
 lastmod: 2025-11-12T23:19:38
-title: "January 10"
+title: "Kingdom of Days: January 10"
 slug: kingdom-of-days-january-10
 author: Ken Rosen
 description: "Listen to the never-released “Sell It and They Will Come,” first performed on this day in 1996, an E Street Radio interview from 2014, and more."

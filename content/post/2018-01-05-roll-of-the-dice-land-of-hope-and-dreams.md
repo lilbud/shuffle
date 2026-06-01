@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-land-of-hope-and-dreams/
+- /roll-of-the-dice-land-of-hope-and-dreams/
 - /52/
 layout: post
 date: 2018-01-05T22:07:18

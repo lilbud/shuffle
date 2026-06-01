@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-spanish-harlem/
+- /cover-me-spanish-harlem/
 - /389/
 layout: post
 date: 2018-01-23T13:00:05

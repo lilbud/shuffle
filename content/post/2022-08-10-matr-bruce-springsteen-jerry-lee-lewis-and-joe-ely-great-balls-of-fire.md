@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-jerry-lee-lewis-and-joe-ely-great-balls-of-fire/
+- /matr-bruce-springsteen-jerry-lee-lewis-and-joe-ely-great-balls-of-fire/
 - /36883/
 layout: post
 date: 2022-08-10T12:00:00

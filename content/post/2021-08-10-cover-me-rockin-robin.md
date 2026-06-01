@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-rockin-robin/
+- /cover-me-rockin-robin/
 - /28862/
 layout: post
 date: 2021-08-10T12:00:00

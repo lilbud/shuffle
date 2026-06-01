@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-bring-on-the-night/
+- /roll-of-the-dice-bring-on-the-night/
 - /2240/
 layout: post
 date: 2018-05-23T12:00:17

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-mary-queen-of-arkansas/
+- /roll-of-the-dice-mary-queen-of-arkansas/
 - /26519/
 layout: post
 date: 2011-01-03T13:00:00

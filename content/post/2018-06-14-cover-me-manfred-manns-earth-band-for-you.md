@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-manfred-manns-earth-band-for-you/
+- /cover-me-manfred-manns-earth-band-for-you/
 - /2457/
 layout: post
 date: 2018-06-14T12:00:54

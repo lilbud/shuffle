@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-talk-to-me/
+- /roll-of-the-dice-talk-to-me/
 - /7531/
 layout: post
 date: 2019-02-26T13:00:46

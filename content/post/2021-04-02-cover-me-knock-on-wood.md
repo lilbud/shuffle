@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-knock-on-wood/
+- /cover-me-knock-on-wood/
 - /26259/
 layout: post
 date: 2021-04-02T12:00:00

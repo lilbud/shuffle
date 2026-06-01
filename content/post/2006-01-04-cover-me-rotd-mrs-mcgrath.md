@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-rotd-mrs-mcgrath/
+- /cover-me-rotd-mrs-mcgrath/
 - /9735/
 layout: post
 date: 2006-01-04T19:00:00

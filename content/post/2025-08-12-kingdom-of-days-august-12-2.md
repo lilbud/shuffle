@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-august-12-2/
+- /kingdom-of-days-august-12/
 - /58369/
 layout: post
 date: 2025-08-12T11:00:27
-lastmod: 2026-05-12T22:05:26
-title: "August 12"
+lastmod: 2025-08-09T18:10:13
+title: "Kingdom of Days: August 12"
 slug: kingdom-of-days-august-12-2
 author: Ken Rosen
 description: "On this date: Mitch Ryder makes a “Detroit Medley” guest appearance, Bruce swings by the Yankees’ clubhouse, the debut of the acoustic “Countin’ on a Miracle” video, and more."
@@ -33,17 +34,23 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/08/19990812_2_front.jpg.webp
   post_id: 58369
 ---
-**1967:** The Castiles play the Surf ‘N'See Club in Sea Bright, New Jersey. That night, Bruce and some of his bandmates catch The Blues Magoos and The Who opening for Herman's Hermits at Convention Hall in Asbury Park. Just a few weeks later, the band will cover The Blues Magoos' "One By One" in concert themselves.<br>
+***New for 2025:** New entry for 1977*<br>
+
+**1967:** The Castiles play the Surf 'N'See Club in Sea Bright, New Jersey. That night, Bruce and some of his bandmates catch The Blues Magoos and The Who opening for Herman's Hermits at Convention Hall in Asbury Park. Just a few weeks later, the band will cover The Blues Magoos' "[One By One]({{< relref "2020-07-28-cover-me-one-by-one.md" >}})" in concert themselves.<br>
 
 **1972:** Bruce plays his fourth of six two-shows-a-night solo gigs at Max's Kansas City that week.<br>
 
-**1974**: Bruce cancels a gig at the Cambridge Performance Center to make room for *Born to Run* recording sessions.<br>
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/08/1972-08-11.jpg.webp)
+
+**1974:** Bruce cancels a gig at the Cambridge Performance Center to make room for *Born to Run* recording sessions.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/08/1974-08-11.jpg.webp)
 
 **1975:** Columbia Records begins distributing a limited run of advanced promo copies of *Born to Run.*<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/08/1975-0812.jpg.webp)
 
-**1977:** At Atlantic Studios in New York City, Bruce and the E Street Band record "Gotta Get That Feeling." It will be released 38 years later.<br>
+**1977:** At Atlantic Studios in New York City, Bruce and the E Street Band record "[Gotta Get That Feeling.]({{< relref "2021-02-08-roll-of-the-dice-gotta-get-that-feeling.md" >}})" It will be released 38 years later.<br>
 
 {{< youtube DQ1LfLDrDrU >}}
 
@@ -51,7 +58,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/08/1978-0812.jpg.webp)
 
-**1981:** Bruce and the E Street Band play their second of two nights at Detroit's Joe Louis Arena on the original River Tour. Mitch Ryder makes a guest appearance during the encores on (what else?) "Detroit Medley."<br>
+**1981:** Bruce and the E Street Band play their second of two nights at Detroit's Joe Louis Arena on the original River Tour. Mitch Ryder makes a guest appearance during the encores on (what else?) "[Detroit Medley.]({{< relref "1976-01-02-cover-me-detroit-medley.md" >}}/)"<br>
 
 {{< videopress id=O8YUTq5R >}}
 
@@ -71,7 +78,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/1998-08-11b.png.webp)
 
-**1999:** Bruce and the E Street Band wrap up their astounding fifteen-night Reunion stand at the Meadowlands with two long-awaited and inevitable bookends: the show-opening tour premiere of "Jersey Girl" and the show-closing one-off performance of "Rosalita (Come Out Tonight)." During the encores, Jon Bon Jovi, Richie Sambora, and Melissa Etheridge join Bruce and the band for "Hungry Heart."<br>
+**1999:** Bruce and the E Street Band wrap up their astounding fifteen-night Reunion stand at the Meadowlands with two long-awaited and inevitable bookends: the show-opening tour premiere of "[Jersey Girl]({{< relref "1976-02-07-cover-me-roll-of-the-dice-jersey-girl.md" >}}/)" and the show-closing one-off performance of "Rosalita (Come Out Tonight)." During the encores, Jon Bon Jovi, Richie Sambora, and Melissa Etheridge join Bruce and the band for "[Hungry Heart]({{< relref "2022-12-21-roll-of-the-dice-hungry-heart.md" >}})."<br>
 
 {{< youtube DNzLnlxJh20 >}}
 
@@ -81,12 +88,12 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/1999-08-12.png.webp)
 
-**2002:** Bruce and the E Street Band bring the Rising Tour to Madison Square Garden, where they play the second of four identical set lists in one week. When the show ends, a new video of an acoustic arrangement of "Countin' on a Miracle" (directed by Danny Clinch) debuts.<br>
+**2002:** Bruce and the E Street Band bring the Rising Tour to Madison Square Garden, where they play the second of four identical set lists in one week. When the show ends, a new video of an acoustic arrangement of "[Countin' on a Miracle]({{< relref "2019-02-05-roll-of-the-dice-countin-on-a-miracle.md" >}})" (directed by Danny Clinch) debuts.<br>
 
 {{< youtube bFys3yQTPIc >}}
 
 {{< videopress id=pNq9JhnV >}}
 
-{{< videopress id=hUQAannx >}}
+[Bruce Springsteen - Countin' on a miracle](https://geo.dailymotion.com/player.html?video=x2netx&)
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/08/Newsday_2002_08_15_78.jpg.webp)

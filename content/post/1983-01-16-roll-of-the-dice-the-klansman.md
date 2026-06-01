@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-klansman/
+- /roll-of-the-dice-the-klansman/
 - /4890/
 layout: post
 date: 1983-01-16T19:00:25

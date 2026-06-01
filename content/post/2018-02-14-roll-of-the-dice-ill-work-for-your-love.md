@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-ill-work-for-your-love/
+- /roll-of-the-dice-ill-work-for-your-love/
 - /671/
 layout: post
 date: 2018-02-14T13:00:34

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-take-me-out-to-the-ball-game/
+- /cover-me-take-me-out-to-the-ball-game/
 - /6808/
 layout: post
 date: 2019-01-21T13:00:08

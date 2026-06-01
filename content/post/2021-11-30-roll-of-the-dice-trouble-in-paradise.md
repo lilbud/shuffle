@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-trouble-in-paradise/
+- /roll-of-the-dice-trouble-in-paradise/
 - /30734/
 layout: post
 date: 2021-11-30T13:00:00

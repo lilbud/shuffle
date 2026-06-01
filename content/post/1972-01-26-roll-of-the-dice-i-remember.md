@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-i-remember/
+- /roll-of-the-dice-i-remember/
 - /34540/
 layout: post
 date: 1972-01-26T19:00:00

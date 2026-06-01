@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-roger-mcguinn-mr-tambourine-man/
+- /matr-bruce-springsteen-and-roger-mcguinn-mr-tambourine-man/
 - /15051/
 layout: post
 date: 2019-12-28T13:00:00

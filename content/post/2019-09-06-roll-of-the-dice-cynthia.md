@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-cynthia/
+- /roll-of-the-dice-cynthia/
 - /12105/
 layout: post
 date: 2019-09-06T12:00:00

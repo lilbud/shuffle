@@ -1,10 +1,11 @@
 ---
 aliases:
 - /where-the-band-was-minneapolis-march-31-2026/
+- /where-the-band-was-minneapolis-march-31-2026/
 - /68809/
 layout: post
 date: 2016-01-01T20:00:56
-lastmod: 2026-05-30T16:38:51
+lastmod: 2026-05-24T00:28:32
 title: "Where The Band Was: Minneapolis March 31, 2026"
 slug: where-the-band-was-minneapolis-march-31-2026
 author: Ken Rosen
@@ -79,8 +80,6 @@ Although he typically let such attempts pass by without comment, Bruce responded
 
 {{< videopress id=4C0NYp0F >}}
 
-
-
 Both times, though, he was brief enough and sly enough that his remarks went mostly unnoticed.
 
 This time was different. On stage during the Vote for Change Tour that fall, Bruce abandoned all pretense at subtlety, opening his shows with the “Star-Spangled Banner” and using “Mary’s Place” as a nightly set piece to galvanize his audience into action.
@@ -99,7 +98,7 @@ When the next U.S. presidential campaign came around, Bruce didn’t wait until 
 
 <img src='https://estreetshuffle.com/wp-content/uploads/2016/01/Calgary_Herald_2004_08_07_13-1-scaled.jpg' alt='' title='' width='758' height='947' />
 
-Bruce backed up his early endorsement of Senator Barack Obama with frequent road, rally, and fundraising appearances with the candidate, kick-starting a friendship that grew stronger over the years and endures to this day.
+Bruce’s backed up his early endorsement of Senator Barack Obama with frequent road, rally, and fundraising appearances with the candidate, kick-starting a friendship that grew stronger over the years and endures to this day.
 
 {{< youtube hrBIk1EJ_ho >}}
 
@@ -127,19 +126,19 @@ But those early days offered only a very small taste of what was to come when Tr
 
 Retitling his ongoing world tour the Land of Home and Dreams Tour, Bruce spent much of 2025 ratcheting up his rhetoric overseas calling out the Trump administration back home. From the stage in Manchester, he spoke eloquently:
 
-> *In my home, the America I love, the America I’ve written about that has been a beacon of hope and liberty for 250 years, is currently in the hands of a corrupt, incompetent, and treasonous administration.*
+*In my home, the America I love, the America I’ve written about that has been a beacon of hope and liberty for 250 years, is currently in the hands of a corrupt, incompetent, and treasonous administration.*
 
-> *In America, they are persecuting people for using their right to free speech and voicing their dissent. This is happening now.*
+*In America, they are persecuting people for using their right to free speech and voicing their dissent. This is happening now.*
 
-> *In America, the richest men are taking satisfaction in abandoning the world’s poorest children to sickness and death. This is happening now.*
+*In America, the richest men are taking satisfaction in abandoning the world’s poorest children to sickness and death. This is happening now.*
 
-> *In my country, they’re taking sadistic pleasure in the pain that they inflict on loyal American workers, they’re rolling back historic Civil Rights legislation that led to a more just and plural society, they’re abandoning our great allies and siding with dictators against those struggling for their freedom.*
+*In my country, they’re taking sadistic pleasure in the pain that they inflict on loyal American workers, they’re rolling back historic Civil Rights legislation that led to a more just and plural society, they’re abandoning our great allies and siding with dictators against those struggling for their freedom.*
 
-> *They’re defunding American universities that won’t bow down to their ideological demands. They’re removing residents off American streets and, without due process of law, are deporting them to foreign detention centers and prisons. This is all happening now.*
+*They’re defunding American universities that won’t bow down to their ideological demands. They’re removing residents off American streets and, without due process of law, are deporting them to foreign detention centers and prisons. This is all happening now.*
 
-> *A majority of our elected representatives have failed to protect the American people from the abuses of an unfit president and a rogue government.*
+*A majority of our elected representatives have failed to protect the American people from the abuses of an unfit president and a rogue government.*
 
-> *They have no concern or idea of what it means to be deeply American. The America that I’ve sung to you about for 50 years is real, and regardless of its faults, is a great country with a great people.*
+*They have no concern or idea of what it means to be deeply American. The America that I’ve sung to you about for 50 years is real, and regardless of its faults, is a great country with a great people.*
 
 After the tour ended, things got even worse.
 
@@ -161,7 +160,7 @@ And then there was ICE.
 
 For months, Trump sent masked, armed, untrained and unaccountable enforcers into American cities, capturing citizens and non-citizens alike, detaining and deporting them without due process or due diligence.
 
-It all came to a head in Minneapolis, when in rapid succession Renee Good and Alex Pretti, two local and peaceful protesters, were executed by ICE officers in the street.
+It all came to a head in Minneapolis, when in rapid succession Renee Good and Alex Pretti, two local and peaceful protesters , were executed by ICE officers in the street.
 
 That was the final straw for Bruce Springsteen.
 
@@ -177,11 +176,11 @@ Even so, everything about the Land of Hope and Dreams Tour was deliberate, from 
 
 (An NBA post-season game would end up pre-empting the Philadelphia show, but even then Bruce was intentional in his response, moving the show so that the tour would now end in the birthplace of American democracy.)
 
-Unlike the Land of Hope and Dreams European Tour in 2025, which wove plenty of crowd-pleasers and wild cards into a politically-themed backbone, this time Bruce crafted a sharp, finely-honed American set list that would remain virtually identical throughout the tour.
+Unlike the Land of Hope and Dreams European Tour in 2025, which wove plenty of crowd-pleasers and wild cards into a politically-themed setlist backbone, this time Bruce crafted a sharp, finely-honed American setlist that would remain virtually identical throughout the tour.
 
 Like his Broadway show, almost every song in the Land of Hope and Dreams American Tour main set had a place and purpose (“Hungry Heart” and “Because the Night” are the inexplicable exceptions), and together they formed a narrative arc that began with a shout of anger before descending into grief, only to rise in resistance and end in hope and optimism.
 
-It was arguably the most cohesive and powerful set list Bruce has ever created, and while some fans might have been disappointed at the lack of night-to-night variety, this fan thinks it was virtually perfect.
+It was arguably the most cohesive and powerful set list Bruce has ever created, and while some fans might have been disappointed at the lack of night-to-night variation, this fan thinks it was virtually perfect.
 
 I was present for opening night in Minneapolis. Because I abandoned all social media a year or so back, I’d managed to avoid spoilers completely. For the first time this century, I walked into a Bruce Springsteen concert completely unaware of what was to come.
 
@@ -205,23 +204,23 @@ On this night, “Born to Run,” “Bobby Jean,” “Dancing in the Dark,” a
 
 “Chimes of Freedom” brought me back into the moment, however, along with Bruce’s closing benediction–his most eloquent of the evening.
 
-> *I know for me, the hardest part about all of this is feeling the distance between your neighbors, your fellow citizens, and that distance… well, it can darken your soul.*
+*I know for me, the hardest part about all of this is feeling the distance between your neighbors, your fellow citizens, and that distance… well, it can darken your soul.*
 
-> *We have a leader who says he wishes nothing but ill upon the people he disagrees with and who disagree with him.*
+*We have a leader who says he wishes nothing but ill upon the people he disagrees with and who disagree with him.*
 
-> *Well, I don’t feel that way.*
+*Well, I don’t feel that way.*
 
-> *America, from the beginning, was born out of disagreement, was built on disagreement. We can argue about what course we think the country should take while recognizing our common humanity, our dignity, and yes, our unity.*
+*America, from the beginning, was born out of disagreement, was built on disagreement. We can argue about what course we think the country should take while recognizing our common humanity, our dignity, and yes, our unity.*
 
-> *Now, I go back to thinking about Renée Good's last words before she died, to the man who she was protesting against, the man who would take her life. She said, "That's fine, dude, I'm not mad at you. I'm not mad." God bless her.*
+*Now, I go back to thinking about Renée Good's last words before she died, to the man who she was protesting against, the man who would take her life. She said, "That's fine, dude, I'm not mad at you. I'm not mad." God bless her.*
 
-> *So tonight, when you go home, hold your loved ones close. And tomorrow, do as Renée did, find a way to take aggressive, peaceful action to defend our country's ideals.*
+*So tonight, when you go home, hold your loved ones close. And tomorrow, do as Renée did, find a way to take aggressive, peaceful action to defend our country's ideals.*
 
-> *And as the great civil rights leader John Lewis said, "Go out and get into some good trouble." Say something! Do something! Hell… sing something!*
+*And as the great civil rights leader John Lewis said, "Go out and get into some good trouble." Say something! Do something! Hell… sing something!*
 
-> *If you're feeling helpless, hopeless, betrayed, frustrated, angry… I know I've been. That's why The E Street Band is here tonight. This is a tour that was not planned. We're here tonight because we need to feel your hope, and your strength. And we want to bring some hope and some strength for you. I hope we did that.*
+*If you're feeling helpless, hopeless, betrayed, frustrated, angry… I know I've been. That's why The E Street Band is here tonight. This is a tour that was not planned. We're here tonight because we need to feel your hope, and your strength. And we want to bring some hope and some strength for you. I hope we did that.*
 
-> *All I can say is God bless Alex Pretti, God bless Renée Good, God bless you, and God bless America.*
+*All I can say is God bless Alex Pretti, God bless Renée Good, God bless you, and God bless America.*
 
 He closed the show with a one-off surprise performance of “Purple Rain,” a special thank-you gift for the people of Minneapolis for lighting the way for the rest of us.. It was beautiful and heart-breaking and essentially the city’s anthem, and because of that I can forgive him ending the show with a song about a world-ending apocalypse. (Sometimes I hate my analytical brain.)
 

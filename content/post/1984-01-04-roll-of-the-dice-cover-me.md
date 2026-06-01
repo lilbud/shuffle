@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-cover-me/
+- /roll-of-the-dice-cover-me/
 - /23943/
 layout: post
 date: 1984-01-04T19:00:00

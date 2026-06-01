@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-carol/
+- /cover-me-carol/
 - /24477/
 layout: default-post
 date: 2022-02-17T13:00:00

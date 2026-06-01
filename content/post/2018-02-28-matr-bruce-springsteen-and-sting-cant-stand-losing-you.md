@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-sting-cant-stand-losing-you/
+- /matr-bruce-springsteen-and-sting-cant-stand-losing-you/
 - /816/
 layout: post
 date: 2018-02-28T13:00:44

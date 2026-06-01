@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-milan-november-28-2007/
+- /where-the-band-was-milan-november-28-2007/
 - /5779/
 layout: post
 date: 2018-11-28T13:00:56

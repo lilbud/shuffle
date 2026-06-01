@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-sheryl-crow-and-bruce-springsteen-redemption-day/
+- /matr-sheryl-crow-and-bruce-springsteen-redemption-day/
 - /32950/
 layout: post
 date: 2022-02-20T13:00:00

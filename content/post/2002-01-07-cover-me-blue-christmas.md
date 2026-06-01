@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-blue-christmas/
+- /cover-me-blue-christmas/
 - /22586/
 layout: post
 date: 2002-01-07T19:00:00

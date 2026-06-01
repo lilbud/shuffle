@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-justin-roberts-anna-steinhoff-one-minute-youre-here/
+- /cover-me-justin-roberts-anna-steinhoff-one-minute-youre-here/
 - /26208/
 layout: post
 date: 2021-03-25T12:00:00

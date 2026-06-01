@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-scary-pockets-and-darren-criss-dancing-in-the-dark/
+- /cover-me-scary-pockets-and-darren-criss-dancing-in-the-dark/
 - /14840/
 layout: post
 date: 2019-12-01T13:00:00

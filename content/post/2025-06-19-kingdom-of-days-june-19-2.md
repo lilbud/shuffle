@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-june-19-2/
+- /kingdom-of-days-june-19/
 - /57110/
 layout: post
 date: 2025-06-19T11:00:10
-lastmod: 2026-02-15T21:25:11
-title: "June 19"
+lastmod: 2025-06-07T20:07:14
+title: "Kingdom of Days: June 19"
 slug: kingdom-of-days-june-19-2
 author: Ken Rosen
 description: "Bruce’s high school graduation, rare Steel Mill performances, and abundant tour premieres lead off the highlights from this date in Springsteen history."
@@ -48,6 +49,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/06/Berlin2016.jpg.webp.f59d0a5fdd1b1c3524560308cedd627e.jpg.webp
   post_id: 57110
 ---
+***New for 2025:** Audio for 1988*<br>
+
 **1967:** Bruce Springsteen graduates from Freehold Borough High School. He does not attend, however, but instead picks up his diploma later.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/06/1967-0619.jpg.webp)
@@ -56,7 +59,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/06/1968-0619.jpg.webp)
 
-**1970:** Steel Mill takes a trip down to Richmond, where they play the first of two nights at The String Factory. The set list includes a twenty-minute "Garden State Parkway Blues" and the only known performance of "Where Was Jesus in Ohio?"<br>
+**1970:** Steel Mill takes a trip down to Richmond, where they play the first of two nights at The String Factory. The set list includes a twenty-minute "[Garden State Parkway Blues]({{< relref "2018-11-30-roll-of-the-dice-garden-state-parkway-blues.md" >}})" and the only known performance of "[Where Was Jesus in Ohio]({{< relref "2020-07-06-roll-of-the-dice-where-was-jesus-in-ohio.md" >}})?"<br>
 
 {{< youtube 75UD5Xo01M4 >}}
 
@@ -70,19 +73,23 @@ params:
 
 **1974:** Bruce cancels a scheduled date at the Cowtown Ballroom in Kansas City.<br>
 
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/1974-06-19.jpg.webp)
+
 **1988:** Bruce and the E Street Band bring the Tunnel of Love Tour to Paris for a single show at the Hippodrome de Vincennes.<br>
 
 {{< youtube 6zv4sUHh5lg >}}
 
+{{< youtube gshkdeuA51Y >}}
+
 {{< youtube McWF04ZD7qw >}}
 
-**1999:** At Night One in Arnhem on the Reunion Tour, Bruce and the E Street Band tour premiere "Stand On It."<br>
+**1999:** At Night One in Arnhem on the Reunion Tour, Bruce and the E Street Band tour premiere "[Stand On It.]({{< relref "2021-10-08-roll-of-the-dice-stand-on-it.md" >}})"<br>
 
 {{< videopress id=EHBMBZae >}}
 
 {{< videopress id=oiYswN6O >}}
 
-**2003:** The Rising Tour stops in Oslo for a night, where "Where the Bands Are" gets a rare outing. Word gets out about where Bruce and the band are staying, and crowds form to greet him as he leaves for the show.<br>
+**2003:** The Rising Tour stops in Oslo for a night, where "[Where the Bands Are]({{< relref "2018-11-08-roll-of-the-dice-where-the-bands-are.md" >}})" gets a rare outing. Word gets out about where Bruce and the band are staying, and crowds form to greet him as he leaves for the show.<br>
 
 {{< youtube NCAYMEGXfXo >}}
 
@@ -94,7 +101,7 @@ params:
 
 {{< videopress id=14y2ksQZ >}}
 
-**2005:** Bruce plays "Adam Raised a Cain" for the first time on the Devils & Dust Tour, opening with it at his solo acoustic show in Rotterdam. Before the show, Bruce sits down for an interview with a local reporter.<br>
+**2005:** Bruce plays "[Adam Raised a Cain]({{< relref "2022-07-03-roll-of-the-dice-adam-raised-a-cain.md" >}})" for the first time on the Devils & Dust Tour, opening with it at his solo acoustic show in Rotterdam. Before the show, Bruce sits down for an interview with a local reporter.<br>
 
 {{< youtube 7YGNzMtCMqo >}}
 
@@ -106,13 +113,13 @@ params:
 
 {{< youtube zO9akJo53-8 >}}
 
-**2006:** The Seeger Sessions Tour stops at the Performing Arts Center in Saratoga Springs, where "Buffalo Gals" makes its final tour appearance.<br>
+**2006:** The Seeger Sessions Tour stops at the Performing Arts Center in Saratoga Springs, where "[Buffalo Gals]({{< relref "2006-01-15-cover-me-roll-of-the-dice-buffalo-gals.md" >}})" makes its final tour appearance.<br>
 
 {{< youtube -Pi4xwctX_o >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/2006-06-19.jpg.webp)
 
-**2012:** The Wrecking Ball Tour stops in Montpellier, where Bruce and the band tour premiere "Growin' Up" and "Fire."<br>
+**2012:** The Wrecking Ball Tour stops in Montpellier, where Bruce and the band tour premiere "[Growin' Up]({{< relref "2011-01-03-roll-of-the-dice-growin-up.md" >}}/)" and "[Fire]({{< relref "2020-08-05-roll-of-the-dice-fire.md" >}})."<br>
 
 {{< youtube oj8ss5Pt6TI >}}
 
@@ -122,7 +129,7 @@ params:
 
 {{< youtube OaymbCdxrvM >}}
 
-**2016:** Bruce and the E Street Band tour premiere "My Lucky Day" at their tour stop in Berlin.<br>
+**2016:** Bruce and the E Street Band tour premiere "[My Lucky Day]({{< relref "2019-09-02-roll-of-the-dice-my-lucky-day.md" >}})" at their tour stop in Berlin. This show is available to stream or purchase [here](https://live.brucespringsteen.net/live-music/0,14116/Bruce-Springsteen-mp3-flac-download-6-19-2016-Olympiastadion-Berlin-Berlin-DE.html).<br>
 
 {{< youtube l-pvsoFf9KM >}}
 
@@ -150,6 +157,6 @@ params:
 
 > *I've played this show 146 nights with basically the same set list, but tonight calls for something different…*<br>
 
-Bruce then played "The Ghost of Tom Joad" in place of "Long Walk Home" to drive home his message. The set list change will stick. In attendance tonight: Christina Aguilera.
+Bruce then played "[The Ghost of Tom Joad]({{< relref "2019-10-17-roll-of-the-dice-the-ghost-of-tom-joad.md" >}})" in place of ["Long Walk Home]({{< relref "2020-03-21-roll-of-the-dice-long-walk-home.md" >}})" to drive home his message. The set list change will stick. In attendance tonight: Christina Aguilera.
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/2018-06-19.png.webp)

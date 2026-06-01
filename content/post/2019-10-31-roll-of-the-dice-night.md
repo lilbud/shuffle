@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-night/
+- /roll-of-the-dice-night/
 - /13793/
 layout: post
 date: 2019-10-31T12:00:00

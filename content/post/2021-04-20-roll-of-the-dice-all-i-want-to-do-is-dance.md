@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-all-i-want-to-do-is-dance/
+- /roll-of-the-dice-all-i-want-to-do-is-dance/
 - /26260/
 layout: post
 date: 2021-04-20T12:00:00

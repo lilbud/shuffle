@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-ive-got-to-have-you-baby/
+- /roll-of-the-dice-ive-got-to-have-you-baby/
 - /27895/
 layout: post
 date: 1972-01-07T19:00:00

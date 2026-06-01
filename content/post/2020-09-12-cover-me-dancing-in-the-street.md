@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-dancing-in-the-street/
+- /cover-me-dancing-in-the-street/
 - /20932/
 layout: post
 date: 2020-09-12T12:00:00

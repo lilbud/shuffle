@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-marie/
+- /roll-of-the-dice-marie/
 - /30736/
 layout: post
 date: 2011-01-22T13:00:00

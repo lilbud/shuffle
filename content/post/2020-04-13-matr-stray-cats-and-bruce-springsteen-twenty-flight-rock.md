@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-stray-cats-and-bruce-springsteen-twenty-flight-rock/
+- /matr-stray-cats-and-bruce-springsteen-twenty-flight-rock/
 - /17361/
 layout: post
 date: 2020-04-13T12:00:00

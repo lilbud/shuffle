@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-mumford-and-sons-im-on-fire/
+- /cover-me-mumford-and-sons-im-on-fire/
 - /13442/
 layout: post
 date: 2019-10-06T12:00:00

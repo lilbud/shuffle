@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-eddie-berman-and-laura-marling-dancing-in-the-dark/
+- /cover-me-eddie-berman-and-laura-marling-dancing-in-the-dark/
 - /14569/
 layout: post
 date: 2019-12-13T13:00:00

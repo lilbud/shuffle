@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-scialfa-and-bruce-springsteen-play-around/
+- /matr-patti-scialfa-and-bruce-springsteen-play-around/
 - /12102/
 layout: post
 date: 2020-02-06T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-dark-end-of-the-street/
+- /cover-me-the-dark-end-of-the-street/
 - /11223/
 layout: post
 date: 2019-07-22T12:00:00

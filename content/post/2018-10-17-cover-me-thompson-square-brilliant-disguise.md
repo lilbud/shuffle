@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-thompson-square-brilliant-disguise/
+- /cover-me-thompson-square-brilliant-disguise/
 - /4778/
 layout: post
 date: 2018-10-17T12:00:45

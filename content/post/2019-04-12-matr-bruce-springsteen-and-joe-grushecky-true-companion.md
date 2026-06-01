@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-joe-grushecky-true-companion/
+- /matr-bruce-springsteen-and-joe-grushecky-true-companion/
 - /8428/
 layout: post
 date: 2019-04-12T12:00:00

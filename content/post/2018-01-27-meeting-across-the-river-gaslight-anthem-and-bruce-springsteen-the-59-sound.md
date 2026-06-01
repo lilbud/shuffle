@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-gaslight-anthem-and-bruce-springsteen-the-59-sound/
+- /meeting-across-the-river-gaslight-anthem-and-bruce-springsteen-the-59-sound/
 - /411/
 layout: post
 date: 2018-01-27T13:00:49

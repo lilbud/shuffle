@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-lonely-night-in-the-park/
+- /roll-of-the-dice-lonely-night-in-the-park/
 - /2461/
 layout: post
 date: 2018-06-09T12:00:29

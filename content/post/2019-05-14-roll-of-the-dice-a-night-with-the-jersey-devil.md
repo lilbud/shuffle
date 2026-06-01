@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-a-night-with-the-jersey-devil/
+- /roll-of-the-dice-a-night-with-the-jersey-devil/
 - /9991/
 layout: post
 date: 2019-05-14T12:00:00

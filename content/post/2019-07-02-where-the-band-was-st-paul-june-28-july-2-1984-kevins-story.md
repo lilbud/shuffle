@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-st-paul-june-28-july-2-1984-kevins-story/
+- /where-the-band-was-st-paul-june-28-july-2-1984-kevins-story/
 - /11266/
 layout: post
 date: 2019-07-02T12:00:39

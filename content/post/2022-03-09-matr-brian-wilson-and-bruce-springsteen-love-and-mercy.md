@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-brian-wilson-and-bruce-springsteen-love-and-mercy/
+- /matr-brian-wilson-and-bruce-springsteen-love-and-mercy/
 - /32481/
 layout: post
 date: 2022-03-09T13:00:00

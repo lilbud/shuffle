@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-love-cycle/
+- /roll-of-the-dice-love-cycle/
 - /26455/
 layout: post
 date: 2021-04-27T12:00:00

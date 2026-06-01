@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-silent-bear-badlands/
+- /cover-me-silent-bear-badlands/
 - /37007/
 layout: post
 date: 2022-08-14T12:00:00

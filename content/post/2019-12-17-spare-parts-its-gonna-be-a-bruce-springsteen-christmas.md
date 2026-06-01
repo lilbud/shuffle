@@ -1,6 +1,7 @@
 ---
 aliases:
 - /spare-parts-its-gonna-be-a-bruce-springsteen-christmas/
+- /spare-parts-its-gonna-be-a-bruce-springsteen-christmas/
 - /14927/
 layout: post
 date: 2019-12-17T10:15:00

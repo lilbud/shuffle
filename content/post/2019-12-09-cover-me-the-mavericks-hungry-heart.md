@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-mavericks-hungry-heart/
+- /cover-me-the-mavericks-hungry-heart/
 - /14966/
 layout: post
 date: 2019-12-09T13:00:00

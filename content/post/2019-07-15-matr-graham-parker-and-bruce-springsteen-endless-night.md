@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-graham-parker-and-bruce-springsteen-endless-night/
+- /matr-graham-parker-and-bruce-springsteen-endless-night/
 - /11229/
 layout: post
 date: 2019-07-15T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-warm-and-tender-love/
+- /cover-me-warm-and-tender-love/
 - /21114/
 layout: post
 date: 2020-09-29T12:00:00

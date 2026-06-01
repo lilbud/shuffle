@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-straight-time/
+- /roll-of-the-dice-straight-time/
 - /39613/
 layout: post
 date: 2022-12-05T13:00:00

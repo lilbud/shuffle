@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jimmy-eat-world-take-em-as-they-come/
+- /cover-me-jimmy-eat-world-take-em-as-they-come/
 - /2313/
 layout: post
 date: 2018-05-30T12:00:06

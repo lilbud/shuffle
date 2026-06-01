@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-seattle-march-29-2008/
+- /where-the-band-was-seattle-march-29-2008/
 - /1330/
 layout: post
 date: 2018-03-29T13:00:46

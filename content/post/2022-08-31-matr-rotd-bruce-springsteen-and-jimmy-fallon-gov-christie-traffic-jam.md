@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-rotd-bruce-springsteen-and-jimmy-fallon-gov-christie-traffic-jam/
+- /matr-rotd-bruce-springsteen-and-jimmy-fallon-gov-christie-traffic-jam/
 - /37344/
 layout: post
 date: 2022-08-31T12:00:00

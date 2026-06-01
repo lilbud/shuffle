@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-melissa-etheridge-thunder-road/
+- /cover-me-melissa-etheridge-thunder-road/
 - /17935/
 layout: post
 date: 2020-04-20T12:00:00

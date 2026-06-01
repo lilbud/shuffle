@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-someday-well-be-together/
+- /roll-of-the-dice-someday-well-be-together/
 - /12916/
 layout: post
 date: 2019-10-03T12:00:00

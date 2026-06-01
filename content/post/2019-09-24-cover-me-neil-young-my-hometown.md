@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-neil-young-my-hometown/
+- /cover-me-neil-young-my-hometown/
 - /12915/
 layout: post
 date: 2019-09-24T11:59:00

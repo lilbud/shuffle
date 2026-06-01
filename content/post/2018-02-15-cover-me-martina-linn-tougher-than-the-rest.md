@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-martina-linn-tougher-than-the-rest/
+- /cover-me-martina-linn-tougher-than-the-rest/
 - /793/
 layout: post
 date: 2018-02-15T13:00:57

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-death-to-my-hometown/
+- /roll-of-the-dice-death-to-my-hometown/
 - /33129/
 layout: post
 date: 2016-01-04T19:00:00

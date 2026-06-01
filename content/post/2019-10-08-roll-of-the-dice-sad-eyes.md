@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-sad-eyes/
+- /roll-of-the-dice-sad-eyes/
 - /13049/
 layout: post
 date: 2019-10-08T12:00:00

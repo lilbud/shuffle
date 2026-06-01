@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-i-forgot-to-be-your-lover/
+- /cover-me-i-forgot-to-be-your-lover/
 - /39250/
 layout: post
 date: 2022-11-12T13:15:00

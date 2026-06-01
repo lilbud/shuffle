@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-new-york-morning-love/
+- /roll-of-the-dice-new-york-morning-love/
 - /13439/
 layout: post
 date: 2019-10-23T12:00:00

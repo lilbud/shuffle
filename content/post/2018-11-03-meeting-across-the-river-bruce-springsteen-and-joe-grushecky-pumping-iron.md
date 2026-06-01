@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-joe-grushecky-pumping-iron/
+- /meeting-across-the-river-bruce-springsteen-and-joe-grushecky-pumping-iron/
 - /5413/
 layout: post
 date: 2018-11-03T12:00:37

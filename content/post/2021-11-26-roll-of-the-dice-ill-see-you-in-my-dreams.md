@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-ill-see-you-in-my-dreams/
+- /roll-of-the-dice-ill-see-you-in-my-dreams/
 - /30860/
 layout: post
 date: 2021-11-26T12:45:00

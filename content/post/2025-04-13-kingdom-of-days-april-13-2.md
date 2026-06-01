@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-april-13-2/
+- /kingdom-of-days-april-13/
 - /56452/
 layout: post
 date: 2025-04-13T11:00:06
-lastmod: 2025-12-11T17:59:25
-title: "April 13"
+lastmod: 2025-04-03T01:22:26
+title: "Kingdom of Days: April 13"
 slug: kingdom-of-days-april-13-2
 author: Ken Rosen
 description: "Happy birthday, Mighty Max Weinberg! Plus: Bruce releases 18 Tracks, Jon Bon Jovi makes a guest appearance, and much, much more."
@@ -51,11 +52,15 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/04/18tracks.jpg.webp
   post_id: 56452
 ---
+***New for 2025:** Audio for 1976 and 1996; review for 2012; new entry for 2018*<br>
+
 **1951:** E Street Band drummer and late night telly-vision personality Max Weinberg is born in Newark, New Jersey.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/04/max-weinberg.jpg.webp)
 
 **1969:** Child plays the Pandemonium in Wanamassa, New Jersey, part of their month-long residency.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/04/1969-0413.jpg.webp)
 
 **1973:** Bruce cancels a scheduled show at Villanova University at the last minute, no doubt disappointing the local boys scheduled to open for him: Daryl Hall and John Oates.<br>
 
@@ -63,7 +68,7 @@ params:
 
 **1974:** Bruce and his band open for Buzzy Linhart at The Joint in the Woods in Parsippany, New Jersey.<br>
 
-**1976:** Bruce and the band play a sold-out show at Penn State University, where Bruce gets drawn into a scuffle between security and his road manager. Listen to a gorgeous rendition of “Frankie” below.<br>
+**1976:** Bruce and the band play a sold-out show at Penn State University, where Bruce gets drawn into a scuffle between security and his road manager. Listen to a gorgeous rendition of "[Frankie]({{< relref "2019-03-31-roll-of-the-dice-frankie.md" >}})" below.<br>
 
 {{< youtube UGq8YkOyuMs >}}
 
@@ -77,19 +82,19 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/04/1979-0413.jpg.webp)
 
-**1984:** At the Ripley Music Hall in Philadelphia, Bruce joins Clarence Clemons and The Red Bank Rockers midway through their encore of “[Fire]({{< relref "2020-08-05-roll-of-the-dice-fire.md" >}})” and stays for “Rockin’ All Over the World.” Listen to the moment the crowd realizes who’s there.<br>
+**1984:** At the Ripley Music Hall in Philadelphia, Bruce joins Clarence Clemons and The Red Bank Rockers midway through their encore of "[Fire]({{< relref "2020-08-05-roll-of-the-dice-fire.md" >}})" and stays for "Rockin' All Over the World." Listen to the moment the crowd realizes who's there.<br>
 
 {{< youtube XlPAOjsEc9c >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/04/1984-04-13.jpg.webp)
 
-**1985:** The third of five nights at Tokyo’s Yoyogi National Gymnasium, where Bruce plays “Reason to Believe” for the last time on the tour. Other than the two Christic shows in 1990, the song won’t be heard again for more than a decade.<br>
+**1985:** The third of five nights at Tokyo's Yoyogi National Gymnasium, where Bruce plays "[Reason to Believe]({{< relref "2021-02-27-roll-of-the-dice-reason-to-believe.md" >}})" for the last time on the tour. Other than the two Christic shows in 1990, the song won't be heard again for more than a decade.<br>
 
 {{< videopress id=jH8MQOe7 >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/04/Daily_Record_Tue__Apr_16__1985_-scaled.jpg.webp)
 
-Also today: *American Top 40* guest host Chuck Britton introduces Bruce’s current hit “I’m on Fire” with a story about his fascination with Elvis Presley.
+Also today: *American Top 40* guest host Chuck Britton introduces Bruce's current hit "[I'm on Fire]({{< relref "1984-01-08-roll-of-the-dice-im-on-fire.md" >}})" with a story about his fascination with Elvis Presley.
 
 [https://estreetshuffle.com/wp-content/uploads/2022/04/AT40-1985-04-13.mp3](https://estreetshuffle.com/wp-content/uploads/2022/04/AT40-1985-04-13.mp3)
 {{< audio url="https://estreetshuffle.com/wp-content/uploads/2022/04/AT40-1985-04-13.mp3" >}}
@@ -98,11 +103,11 @@ Also today: *American Top 40* guest host Chuck Britton introduces Bruce’s curr
 
 {{< videopress id=OkkTPjEr >}}
 
-**1993:** Bruce’s World Tour 1993 moves on to Lyon for a single show at Halle Tony Garnier.<br>
+**1993:** Bruce's World Tour 1993 moves on to Lyon for a single show at Halle Tony Garnier.<br>
 
 {{< videopress id=DWvX1khT >}}
 
-**1996:** The Italian leg of Bruce’s solo acoustic tour concludes with a show at Teatro Carlo Felice in Genoa.<br>
+**1996:** The Italian leg of Bruce's solo acoustic tour concludes with a show at Teatro Carlo Felice in Genoa.<br>
 
 {{< youtube KlnHV-oYuaM >}}
 
@@ -122,18 +127,18 @@ Also today: *American Top 40* guest host Chuck Britton introduces Bruce’s curr
 
 **2005:** Bruce rehearses for his upcoming solo acoustic tour at the Paramount Theater in Asbury Park.<br>
 
-**2006:** At Asbury Park’s Convention Hall, Bruce and the Sessions Band rehearse for their upcoming tour. Their rehearsal performance of “How Can a Poor Man Stand Such Times and Live?” will be released on the *American Land Edition* of *We Shall Overcome: The Seeger Sessions*.<br>
+**2006:** At Asbury Park's Convention Hall, Bruce and the Sessions Band rehearse for their upcoming tour. Their rehearsal performance of "[How Can a Poor Man Stand Such Times and Live?]({{< relref "2006-01-17-rotd-cover-me-how-can-a-poor-man-stand-such-times-and-live.md" >}})" will be released on the *American Land Edition* of *[We Shall Overcome: The Seeger Sessions]({{< relref "2006-01-01-album-companion-we-shall-overcome.md" >}})*.<br>
 
 {{< youtube ibbOhr8t5pQ >}}
 
-**2008:** At the Magic Tour stop at the American Airlines Center in Dallas, “Independence Day” makes its tour premiere, and Jon Bon Jovi makes a guest appearance for “Glory Days.”<br>
+**2008:** At the Magic Tour stop at the American Airlines Center in Dallas, "[Independence Day]({{< relref "2022-03-14-roll-of-the-dice-independence-day.md" >}})" makes its tour premiere, and Jon Bon Jovi makes a guest appearance for "Glory Days."<br>
 
 [https://estreetshuffle.com/wp-content/uploads/2023/04/2008-04-13-Glory-Days.mp3](https://estreetshuffle.com/wp-content/uploads/2023/04/2008-04-13-Glory-Days.mp3)
 {{< audio url="https://estreetshuffle.com/wp-content/uploads/2023/04/2008-04-13-Glory-Days.mp3" >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/04/2008-04-13.jpg.webp)
 
-**2012:** The Wrecking Ball Tour stops at First Niagara Center in Buffalo. Bruce enters to “Buffalo Gals” and plays “Ramrod” in honor of Max’s birthday in the encores. Tour premiering tonight: “Rendezvous,” “Mountain of Love,” and “Point Blank.”<br>
+**2012:** The Wrecking Ball Tour stops at First Niagara Center in Buffalo. Bruce enters to "[Buffalo Gals]({{< relref "2006-01-15-cover-me-roll-of-the-dice-buffalo-gals.md" >}})" and plays "[Ramrod]({{< relref "2022-09-10-roll-of-the-dice-ramrod.md" >}})" in honor of Max's birthday in the encores. Tour premiering tonight: "[Rendezvous]({{< relref "2021-05-08-roll-of-the-dice-rendezvous.md" >}})," "[Mountain of Love]({{< relref "2022-09-21-cover-me-mountain-of-love.md" >}})," and "[Point Blank]({{< relref "2020-12-19-roll-of-the-dice-point-blank.md" >}})."<br>
 
 {{< youtube WxyT7i0L4MQ >}}
 
@@ -141,11 +146,11 @@ Also today: *American Top 40* guest host Chuck Britton introduces Bruce’s curr
 
 {{< youtube mUNQYwJRANQ >}}
 
-![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/04/The_Buffalo_News_2012_04_14_1.jpg) ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/04/The_Buffalo_News_2012_04_14_2.jpg.webp)
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/04/The_Buffalo_News_2012_04_14_2.jpg.webp)
 
 **2018:** Springsteen on Broadway continues its theatrical run at the Walter Kerr Theater in New York City.<br>
 
-**2019:** Bruce guest stars with Danny Clinch’s Tangiers Blues Band at the annual Kristen Ann Carr benefit.<br>
+**2019:** Bruce guest stars with Danny Clinch's Tangiers Blues Band at the annual Kristen Ann Carr benefit.<br>
 
 {{< youtube gC72nJOeExc >}}
 

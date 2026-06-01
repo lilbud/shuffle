@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-i-wanna-marry-you/
+- /roll-of-the-dice-i-wanna-marry-you/
 - /34148/
 layout: post
 date: 2022-04-22T12:00:00

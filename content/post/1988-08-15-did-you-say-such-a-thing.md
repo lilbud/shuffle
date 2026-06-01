@@ -1,6 +1,7 @@
 ---
 aliases:
 - /did-you-say-such-a-thing/
+- /did-you-say-such-a-thing/
 - /67963/
 layout: post
 date: 1988-08-15T18:00:20

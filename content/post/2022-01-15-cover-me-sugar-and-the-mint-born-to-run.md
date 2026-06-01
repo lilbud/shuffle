@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sugar-and-the-mint-born-to-run/
+- /cover-me-sugar-and-the-mint-born-to-run/
 - /32349/
 layout: post
 date: 2022-01-15T13:00:00

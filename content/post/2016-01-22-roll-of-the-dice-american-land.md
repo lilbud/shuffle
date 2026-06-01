@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-american-land/
+- /roll-of-the-dice-american-land/
 - /15484/
 layout: post
 date: 2016-01-22T19:00:00

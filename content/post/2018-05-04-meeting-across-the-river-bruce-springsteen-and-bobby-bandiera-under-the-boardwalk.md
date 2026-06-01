@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-bobby-bandiera-under-the-boardwalk/
+- /meeting-across-the-river-bruce-springsteen-and-bobby-bandiera-under-the-boardwalk/
 - /1913/
 layout: post
 date: 2018-05-04T12:00:37

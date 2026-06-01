@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-i-dont-wanna-be/
+- /roll-of-the-dice-i-dont-wanna-be/
 - /29803/
 layout: post
 date: 2021-09-26T12:00:00

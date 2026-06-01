@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-chris-martin-my-love-will-not-let-you-down/
+- /cover-me-chris-martin-my-love-will-not-let-you-down/
 - /4241/
 layout: post
 date: 2018-09-04T12:00:02

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-everybodys-looking-for-somebody/
+- /roll-of-the-dice-everybodys-looking-for-somebody/
 - /9380/
 layout: post
 date: 2019-04-28T12:00:00

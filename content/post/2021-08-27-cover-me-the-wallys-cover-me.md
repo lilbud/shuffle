@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-wallys-cover-me/
+- /cover-me-the-wallys-cover-me/
 - /29119/
 layout: post
 date: 2021-08-27T12:00:00

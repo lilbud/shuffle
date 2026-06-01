@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-stockton-boys/
+- /roll-of-the-dice-stockton-boys/
 - /6883/
 layout: post
 date: 2019-01-10T12:30:18

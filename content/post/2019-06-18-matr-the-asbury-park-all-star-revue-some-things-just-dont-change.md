@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-the-asbury-park-all-star-revue-some-things-just-dont-change/
+- /matr-the-asbury-park-all-star-revue-some-things-just-dont-change/
 - /10188/
 layout: post
 date: 2019-06-18T12:00:00

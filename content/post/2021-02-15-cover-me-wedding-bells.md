@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-wedding-bells/
+- /cover-me-wedding-bells/
 - /25335/
 layout: post
 date: 2021-02-15T13:00:00

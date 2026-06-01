@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-many-rivers-to-cross/
+- /cover-me-many-rivers-to-cross/
 - /3252/
 layout: post
 date: 2018-07-28T12:00:49

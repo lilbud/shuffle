@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-thats-what-you-get/
+- /roll-of-the-dice-thats-what-you-get/
 - /14435/
 layout: post
 date: 2019-11-30T13:00:00

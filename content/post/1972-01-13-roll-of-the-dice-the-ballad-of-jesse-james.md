@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-ballad-of-jesse-james/
+- /roll-of-the-dice-the-ballad-of-jesse-james/
 - /21638/
 layout: post
 date: 1972-01-13T19:00:00

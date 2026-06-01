@@ -1,6 +1,7 @@
 ---
 aliases:
 - /year-four-complete/
+- /year-four-complete/
 - /32172/
 layout: post
 date: 2022-01-04T14:00:00

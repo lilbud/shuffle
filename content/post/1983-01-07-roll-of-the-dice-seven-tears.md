@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-seven-tears/
+- /roll-of-the-dice-seven-tears/
 - /7819/
 layout: post
 date: 1983-01-07T19:00:00

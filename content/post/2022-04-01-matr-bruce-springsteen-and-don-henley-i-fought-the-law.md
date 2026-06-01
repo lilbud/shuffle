@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-don-henley-i-fought-the-law/
+- /matr-bruce-springsteen-and-don-henley-i-fought-the-law/
 - /33404/
 layout: post
 date: 2022-04-01T12:00:00

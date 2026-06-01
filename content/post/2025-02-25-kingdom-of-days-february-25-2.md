@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-25-2/
+- /kingdom-of-days-february-25/
 - /56002/
 layout: post
 date: 2025-02-25T12:00:06
 lastmod: 2025-11-24T23:04:09
-title: "February 25"
+title: "Kingdom of Days: February 25"
 slug: kingdom-of-days-february-25-2
 author: Ken Rosen
 description: "On this day in Springsteen history: The Tunnel of Love Express Tour kicks off, the E Street Band plays their last concert to date, the inspiration for one of Bruce’s most controversial songs, and a whole lot more."

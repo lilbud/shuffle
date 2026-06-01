@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-june-29-2/
+- /kingdom-of-days-june-29/
 - /57515/
 layout: post
 date: 2025-06-29T11:00:13
-lastmod: 2026-02-15T22:05:31
-title: "June 29"
+lastmod: 2025-06-22T01:23:02
+title: "Kingdom of Days: June 29"
 slug: kingdom-of-days-june-29-2
 author: Ken Rosen
 description: "A big, big day for Bruce: He sees his first ever rock concert, kicks off his biggest ever tour, films his most popular video, and debuts Nils and Patti as members of the E Street Band. Whew! There’s a lot more inside, too."
@@ -45,6 +46,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/06/june-29th-2024-nijmegen-ne-bruce-springsteen-and-the-e-street-band-review.jpg.webp
   post_id: 57515
 ---
+***New for 2025:** New entry for 1972, 1975, 1983, and 2024; audio for 1985*<br>
+
 **1962:** Adele Springsteen takes Bruce and Ginny to their first-ever rock concert when Chubby Checker plays at Steel Pier in Atlantic City. She also takes them to see Anita Bryant that evening. Bruce enjoys the afternoon show a lot more than the evening show.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/06/1962-0629.jpg.webp)
@@ -57,7 +60,7 @@ params:
 
 **1974:** A scheduled E Street Band gig in Memphis is cancelled.<br>
 
-**1975:** Bruce and the E Street Band record "Linda Let Me Be the One" at the Record Plant in New York City. It won't be released for another 23 years.<br>
+**1975:** Bruce and the E Street Band record "[Linda Let Me Be the One]({{< relref "2021-03-27-roll-of-the-dice-linda-let-me-be-the-one.md" >}})" at the Record Plant in New York City. It won't be released for another 23 years.<br>
 
 {{< youtube G4yx0JdiKfo >}}
 
@@ -67,13 +70,13 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/1978-0629.jpg.webp)
 
-**1983:** Bruce and the E Street Band record "My Hometown" at The Hit Factory in New York City.<br>
+**1983:** Bruce and the E Street Band record "[My Hometown]({{< relref "1983-01-12-roll-of-the-dice-my-hometown.md" >}})" at The Hit Factory in New York City.<br>
 
 {{< youtube KrGi8ODOWR0 >}}
 
-**1984:** A big, big night for Bruce Springsteen and the E Street Band: The Born in the U.S.A. Tour kicks off at the St. Paul Civic Center Arena, with Nils and Patti making their official debuts as full-fledged members of the band. Film director Brian De Palma is on hand to film Bruce's performance (twice!) of "Dancing in the Dark" for the now classic music video. This is also Courtney Cox's debut–as most people know, she's the "lucky fan" pulled out of the audience to dance with Bruce on-stage.<br>
+**1984:** A big, big night for Bruce Springsteen and the E Street Band: The Born in the U.S.A. Tour kicks off at the St. Paul Civic Center Arena, with Nils and Patti making their official debuts as full-fledged members of the band. Film director Brian De Palma is on hand to film Bruce's performance (twice!) of "[Dancing in the Dark]({{< relref "1984-01-13-roll-of-the-dice-dancing-in-the-dark.md" >}})" for the now classic music video, and fan [Sandi Pederson is front and center]({{< relref "2019-06-28-where-the-band-was-st-paul-june-28-1984.md" >}}). This is also Courtney Cox's debut–as most people know, she's the "lucky fan" pulled out of the audience to dance with Bruce on-stage.<br>
 
-Watch footage from the video premiere below, and then listen to a never-before-circulated soundboard recording of Bruce's first-ever public concert performance of "Dancing in the Dark." (Sorry about those drum machines…)
+Watch footage from the video premiere below, and then listen to a never-before-circulated soundboard recording of Bruce's first-ever public concert performance of "Dancing in the Dark." (Sorry about those drum machines...)
 
 {{< youtube MKXlK0fmnTg >}}
 
@@ -83,7 +86,7 @@ Watch footage from the video premiere below, and then listen to a never-before-c
 
 {{< youtube-playlist PLJTyL9twk3zAEeAs19HVKihUHhbpsNF26 >}}
 
-In the setlist, a couple of notable moments: Bruce covers "Street Fighting Man" for the first time, and "No Surrender" makes its debut as well, the latter song in a short-lived arrangement with an extended instrumental ending and a new final verse.
+In the setlist, a couple of notable moments: Bruce covers "[Street Fighting Man]({{< relref "1976-01-17-cover-me-street-fighting-man.md" >}}/)" for the first time, and "[No Surrender]({{< relref "1984-01-09-roll-of-the-dice-no-surrender.md" >}})" makes its debut as well, the latter song in a short-lived arrangement with an extended instrumental ending and a new final verse.
 
 {{< youtube _VQiGVKbLok >}}
 
@@ -105,11 +108,11 @@ In the setlist, a couple of notable moments: Bruce covers "Street Fighting Man" 
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/06/The_Herald_News_1985_07_01_10.jpg.webp)
 
-Meanwhile, "Glory Days," Bruce's latest single, climbs the charts and is profiled on *American Top 40*.
+Meanwhile, "[Glory Days]({{< relref "1984-01-12-roll-of-the-dice-glory-days.md" >}})," Bruce's latest single, climbs the charts and is profiled on *American Top 40*.
 
 {{< videopress id=bjCt8eEl >}}
 
-**1988:** Night Two in Rotterdam on the Tunnel of Love Tour features the first performances of "Chimes of Freedom" and "Paradise by the ‘C'" in a decade.<br>
+**1988:** Night Two in Rotterdam on the Tunnel of Love Tour features the first performances of "[Chimes of Freedom]({{< relref "2018-07-18-roll-of-the-dice-cover-me-chimes-of-freedom.md" >}})" and "[Paradise by the 'C']({{< relref "2020-12-12-roll-of-the-dice-paradise-by-the-c.md" >}})" in a decade.<br>
 
 {{< videopress id=ewosTtgL >}}
 
@@ -119,11 +122,11 @@ Meanwhile, "Glory Days," Bruce's latest single, climbs the charts and is profile
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/06/Asbury_Park_Press_1989_07_09_Page_135-scaled.jpg.webp)
 
-**1990:** Bruce records "Seven Angels" at Oceanway Studios in Los Angeles.<br>
+**1990:** Bruce records "[Seven Angels]({{< relref "2018-06-07-roll-of-the-dice-seven-angels.md" >}})" at Oceanway Studios in Los Angeles.<br>
 
 {{< youtube SWUXK4D7F-E >}}
 
-**1992:** Bruce and his new touring band bring World Tour 1992 to Paris for the first of two nights at Palais Omnisports de Paris-Bercy, where Bruce reveals that "Darkness on the Edge of Town" and "If I Should Fall Behind" share a common character.<br>
+**1992:** Bruce and his new touring band bring World Tour 1992 to Paris for the first of two nights at Palais Omnisports de Paris-Bercy, where Bruce reveals that "[Darkness on the Edge of Town]({{< relref "2016-01-07-roll-of-the-dice-darkness-on-the-edge-of-town.md" >}})" and "[If I Should Fall Behind]({{< relref "1992-02-05-roll-of-the-dice-if-i-should-fall-behind.md" >}})" share a common character.<br>
 
 {{< videopress id=3NLub5G0 >}}
 
@@ -152,7 +155,7 @@ Meanwhile, "Glory Days," Bruce's latest single, climbs the charts and is profile
 [https://estreetshuffle.com/wp-content/uploads/2024/06/101-Two-Hearts.mp3](https://estreetshuffle.com/wp-content/uploads/2024/06/101-Two-Hearts.mp3)
 {{< audio url="https://estreetshuffle.com/wp-content/uploads/2024/06/101-Two-Hearts.mp3" >}}
 
-**2013:** Bruce and the E Street Band bring the Wrecking Ball Tour to Stade de France outside of Paris, where lucky fans get an acoustic pre-show that features a cover of "Burning Love." Elliot Murphy and his son guest-star on "Born to Run," and Bruce tour premieres "Lucille" in the opening pack.<br>
+**2013:** Bruce and the E Street Band bring the Wrecking Ball Tour to Stade de France outside of Paris, where lucky fans get an acoustic pre-show that features a cover of "[Burning Love]({{< relref "2018-05-01-cover-me-burning-love.md" >}})." Elliot Murphy and his son guest-star on "Born to Run," and Bruce tour premieres "[Lucille]({{< relref "1976-01-07-cover-me-lucille.md" >}}/)" in the opening pack.<br>
 
 {{< youtube RPNgL3dOTpM >}}
 
@@ -174,6 +177,6 @@ Meanwhile, "Glory Days," Bruce's latest single, climbs the charts and is profile
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/06/2021-06-29.jpg.webp)
 
-**2024:** Bruce and the E Street Band tour debut "Seven Nights to Rock" on Night Two in Nijmegen in The Netherlands.<br>
+**2024:** Bruce and the E Street Band tour debut "[Seven Nights to Rock]({{< relref "2021-04-22-cover-me-seven-nights-to-rock.md" >}})" on Night Two in Nijmegen in The Netherlands. Stream or buy this show [here](https://www.nugs.net/live-download-of-bruce-springsteen-goffertpark-nijmegen-netherlands-06-29-2024-mp3-flac-or-online-music-streaming/35855.html).<br>
 
 {{< youtube 9ZdNyvVTDXQ >}}

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-shake/
+- /cover-me-shake/
 - /1568/
 layout: post
 date: 1976-01-12T19:00:32

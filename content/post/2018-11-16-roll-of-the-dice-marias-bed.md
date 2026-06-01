@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-marias-bed/
+- /roll-of-the-dice-marias-bed/
 - /5733/
 layout: post
 date: 2018-11-16T13:00:14

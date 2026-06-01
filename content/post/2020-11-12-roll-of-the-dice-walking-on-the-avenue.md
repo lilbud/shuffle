@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-walking-on-the-avenue/
+- /roll-of-the-dice-walking-on-the-avenue/
 - /22770/
 layout: post
 date: 2020-11-12T13:00:00

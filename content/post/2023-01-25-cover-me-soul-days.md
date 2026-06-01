@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-soul-days/
+- /cover-me-soul-days/
 - /41197/
 layout: post
 date: 2023-01-25T13:30:00

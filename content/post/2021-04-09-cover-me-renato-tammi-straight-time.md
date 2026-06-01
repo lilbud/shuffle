@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-renato-tammi-straight-time/
+- /cover-me-renato-tammi-straight-time/
 - /26450/
 layout: post
 date: 2021-04-09T12:00:00

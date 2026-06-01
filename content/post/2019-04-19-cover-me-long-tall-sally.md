@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-long-tall-sally/
+- /cover-me-long-tall-sally/
 - /8273/
 layout: post
 date: 2019-04-19T12:00:00

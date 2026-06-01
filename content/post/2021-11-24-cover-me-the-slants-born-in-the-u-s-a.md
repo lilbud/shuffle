@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-slants-born-in-the-u-s-a/
+- /cover-me-the-slants-born-in-the-u-s-a/
 - /31116/
 layout: post
 date: 2021-11-24T12:26:00

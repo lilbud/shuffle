@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-i-wanna-be-with-you/
+- /roll-of-the-dice-i-wanna-be-with-you/
 - /226/
 layout: post
 date: 2018-01-14T23:41:51

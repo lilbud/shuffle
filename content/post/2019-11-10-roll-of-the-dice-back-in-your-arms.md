@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-back-in-your-arms/
+- /roll-of-the-dice-back-in-your-arms/
 - /13790/
 layout: post
 date: 2019-11-10T13:00:00

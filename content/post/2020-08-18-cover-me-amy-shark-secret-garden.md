@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-amy-shark-secret-garden/
+- /cover-me-amy-shark-secret-garden/
 - /20587/
 layout: post
 date: 2020-08-18T12:00:00

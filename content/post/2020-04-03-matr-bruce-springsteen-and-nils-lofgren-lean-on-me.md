@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-nils-lofgren-lean-on-me/
+- /matr-bruce-springsteen-and-nils-lofgren-lean-on-me/
 - /17514/
 layout: post
 date: 2020-04-03T20:39:00

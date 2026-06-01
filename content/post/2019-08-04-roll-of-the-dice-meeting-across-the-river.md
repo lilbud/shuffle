@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-meeting-across-the-river/
+- /roll-of-the-dice-meeting-across-the-river/
 - /11449/
 layout: post
 date: 2019-08-04T12:00:00

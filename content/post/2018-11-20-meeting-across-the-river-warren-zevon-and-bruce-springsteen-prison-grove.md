@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-warren-zevon-and-bruce-springsteen-prison-grove/
+- /meeting-across-the-river-warren-zevon-and-bruce-springsteen-prison-grove/
 - /5745/
 layout: post
 date: 2018-11-20T13:00:23

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-millworker/
+- /cover-me-millworker/
 - /15192/
 layout: post
 date: 2020-01-12T13:00:00

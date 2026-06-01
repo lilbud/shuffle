@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-magic/
+- /roll-of-the-dice-magic/
 - /20801/
 layout: post
 date: 2020-09-13T12:00:00

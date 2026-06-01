@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-the-patti-smith-group-and-bruce-springsteen-were-gonna-have-a-real-good-time-together/
+- /matr-the-patti-smith-group-and-bruce-springsteen-were-gonna-have-a-real-good-time-together/
 - /20497/
 layout: post
 date: 2020-09-09T12:00:00

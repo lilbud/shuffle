@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-john-eddie-and-friends-suspicious-minds/
+- /matr-bruce-springsteen-john-eddie-and-friends-suspicious-minds/
 - /7678/
 layout: post
 date: 2019-03-09T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-angel/
+- /roll-of-the-dice-the-angel/
 - /21388/
 layout: post
 date: 2011-01-06T13:00:00

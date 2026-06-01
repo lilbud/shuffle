@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-fred-the-bear-atlantic-city/
+- /cover-me-fred-the-bear-atlantic-city/
 - /19490/
 layout: post
 date: 2020-07-13T12:00:00

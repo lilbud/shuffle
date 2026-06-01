@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-phish-glory-days/
+- /meeting-across-the-river-bruce-springsteen-and-phish-glory-days/
 - /691/
 layout: post
 date: 2018-02-16T13:00:57

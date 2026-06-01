@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-r-e-m-and-bruce-springsteen-man-on-the-moon/
+- /matr-r-e-m-and-bruce-springsteen-man-on-the-moon/
 - /24158/
 layout: post
 date: 2021-01-06T13:00:00

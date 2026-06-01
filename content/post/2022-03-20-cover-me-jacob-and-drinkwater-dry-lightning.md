@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jacob-and-drinkwater-dry-lightning/
+- /cover-me-jacob-and-drinkwater-dry-lightning/
 - /33411/
 layout: post
 date: 2022-03-20T12:00:00

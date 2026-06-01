@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-goin-back/
+- /cover-me-goin-back/
 - /24472/
 layout: post
 date: 2021-02-07T13:00:00

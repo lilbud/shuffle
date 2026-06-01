@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-way-you-do-the-things-you-do/
+- /cover-me-the-way-you-do-the-things-you-do/
 - /21785/
 layout: post
 date: 2020-11-20T13:00:00

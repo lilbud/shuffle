@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-john-fogerty-green-river/
+- /matr-bruce-springsteen-and-john-fogerty-green-river/
 - /30011/
 layout: post
 date: 2021-10-27T12:00:00

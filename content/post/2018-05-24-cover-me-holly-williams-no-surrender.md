@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-holly-williams-no-surrender/
+- /cover-me-holly-williams-no-surrender/
 - /2291/
 layout: post
 date: 2018-05-24T12:00:24

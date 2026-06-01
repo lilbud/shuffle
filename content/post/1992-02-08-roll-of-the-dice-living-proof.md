@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-living-proof/
+- /roll-of-the-dice-living-proof/
 - /15113/
 layout: post
 date: 1992-02-08T19:00:00

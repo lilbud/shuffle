@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-darlene-love-and-bruce-springsteen-zip-a-dee-doo-dah/
+- /meeting-across-the-river-darlene-love-and-bruce-springsteen-zip-a-dee-doo-dah/
 - /4045/
 layout: post
 date: 2018-08-28T12:00:09

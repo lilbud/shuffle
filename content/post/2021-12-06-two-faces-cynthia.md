@@ -1,6 +1,7 @@
 ---
 aliases:
 - /two-faces-cynthia/
+- /two-faces-cynthia/
 - /31270/
 layout: post
 date: 2021-12-06T13:00:00

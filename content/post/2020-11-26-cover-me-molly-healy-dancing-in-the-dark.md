@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-molly-healy-dancing-in-the-dark/
+- /cover-me-molly-healy-dancing-in-the-dark/
 - /23185/
 layout: post
 date: 2020-11-26T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-out-of-limits/
+- /cover-me-out-of-limits/
 - /30102/
 layout: post
 date: 2021-10-14T12:00:00

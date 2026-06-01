@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-roy-orbison-bruce-springsteen-and-friends-uptown/
+- /matr-roy-orbison-bruce-springsteen-and-friends-uptown/
 - /21386/
 layout: post
 date: 2020-10-06T12:00:00

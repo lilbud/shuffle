@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-tina-turner-dancing-in-the-dark/
+- /cover-me-tina-turner-dancing-in-the-dark/
 - /1656/
 layout: post
 date: 2018-06-05T12:00:44

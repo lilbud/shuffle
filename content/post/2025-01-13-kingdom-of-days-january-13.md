@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-13/
+- /kingdom-of-days-january-13/
 - /55587/
 layout: post
 date: 2025-01-13T12:00:05
 lastmod: 2025-11-12T17:12:15
-title: "January 13"
+title: "Kingdom of Days: January 13"
 slug: kingdom-of-days-january-13
 author: Ken Rosen
 description: "Watch Bruce induct Creedence Clearwater Revival into the Rock and Roll Hall of Fame, listen to an NPR interview from 2014, and more."

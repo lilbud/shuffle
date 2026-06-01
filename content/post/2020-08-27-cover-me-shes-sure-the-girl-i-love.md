@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-shes-sure-the-girl-i-love/
+- /cover-me-shes-sure-the-girl-i-love/
 - /20490/
 layout: post
 date: 2020-08-27T12:00:00

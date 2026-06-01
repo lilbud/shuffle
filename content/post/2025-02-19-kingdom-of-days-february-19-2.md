@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-19-2/
+- /kingdom-of-days-february-19/
 - /55962/
 layout: post
 date: 2025-02-19T12:00:54
 lastmod: 2025-11-24T22:07:10
-title: "February 19"
+title: "Kingdom of Days: February 19"
 slug: kingdom-of-days-february-19-2
 author: Ken Rosen
 description: "On this date: early E Street Band footage from ’77, a one-off acoustic show in Somerville, and two surprise covers in Sydney. Lots of great video to watch today!"

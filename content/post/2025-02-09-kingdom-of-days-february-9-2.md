@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-9-2/
+- /kingdom-of-days-february-9/
 - /55884/
 layout: post
 date: 2025-02-09T12:00:13
 lastmod: 2025-11-27T00:31:27
-title: "February 9"
+title: "Kingdom of Days: February 9"
 slug: kingdom-of-days-february-9-2
 author: Ken Rosen
 description: "On this date: Watch highlights from Bruce’s last show in Sydney. Off-stage, a fourteen-year old Bruce watches the Beatles live debut on American TV. More highlights inside."

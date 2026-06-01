@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-8/
+- /kingdom-of-days-january-8/
 - /55555/
 layout: post
 date: 2025-01-08T12:00:37
 lastmod: 2025-11-12T20:35:55
-title: "January 8"
+title: "Kingdom of Days: January 8"
 slug: kingdom-of-days-january-8
 author: Ken Rosen
 description: "Oh, the ignominy: Rejections, second fiddles, and name mangling mark January 8th in Springsteen history."

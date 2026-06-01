@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-thundercrack/
+- /roll-of-the-dice-thundercrack/
 - /27713/
 layout: post
 date: 2021-09-24T12:00:00

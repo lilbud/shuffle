@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-15-2/
+- /kingdom-of-days-february-15/
 - /55947/
 layout: post
 date: 2025-02-15T12:00:59
 lastmod: 2025-11-24T22:01:46
-title: "February 15"
+title: "Kingdom of Days: February 15"
 slug: kingdom-of-days-february-15-2
 author: Ken Rosen
 description: "Great duets highlight this day in Bruce history: “Thunder Road” with Melissa Etheridge, and “Highway to Hell” and “Darkness on the Edge of Town” with Eddie Vedder."

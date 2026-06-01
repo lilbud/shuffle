@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-jack-of-all-trades/
+- /roll-of-the-dice-jack-of-all-trades/
 - /22585/
 layout: post
 date: 2020-11-27T13:00:00

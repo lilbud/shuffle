@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-you-really-got-me/
+- /cover-me-you-really-got-me/
 - /22911/
 layout: post
 date: 2020-12-01T13:00:00

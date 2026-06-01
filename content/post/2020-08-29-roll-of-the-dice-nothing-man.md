@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-nothing-man/
+- /roll-of-the-dice-nothing-man/
 - /20375/
 layout: post
 date: 2020-08-29T12:00:00

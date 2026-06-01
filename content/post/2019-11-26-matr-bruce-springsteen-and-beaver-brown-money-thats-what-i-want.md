@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-beaver-brown-money-thats-what-i-want/
+- /matr-bruce-springsteen-and-beaver-brown-money-thats-what-i-want/
 - /14436/
 layout: post
 date: 2019-11-26T13:00:00

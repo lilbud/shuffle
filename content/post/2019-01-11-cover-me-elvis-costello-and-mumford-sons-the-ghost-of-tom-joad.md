@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-elvis-costello-and-mumford-sons-the-ghost-of-tom-joad/
+- /cover-me-elvis-costello-and-mumford-sons-the-ghost-of-tom-joad/
 - /6814/
 layout: post
 date: 2019-01-11T13:00:23

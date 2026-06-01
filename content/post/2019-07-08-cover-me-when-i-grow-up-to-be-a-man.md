@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-when-i-grow-up-to-be-a-man/
+- /cover-me-when-i-grow-up-to-be-a-man/
 - /11227/
 layout: post
 date: 2019-07-08T12:00:00

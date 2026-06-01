@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-ruled-by-the-gun/
+- /roll-of-the-dice-ruled-by-the-gun/
 - /24825/
 layout: post
 date: 2021-02-23T13:00:00

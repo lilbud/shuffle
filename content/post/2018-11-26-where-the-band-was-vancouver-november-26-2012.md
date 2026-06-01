@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-vancouver-november-26-2012/
+- /where-the-band-was-vancouver-november-26-2012/
 - /5781/
 layout: post
 date: 2018-11-26T14:00:49

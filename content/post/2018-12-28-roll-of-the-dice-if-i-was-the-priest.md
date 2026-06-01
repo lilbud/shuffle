@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-if-i-was-the-priest/
+- /roll-of-the-dice-if-i-was-the-priest/
 - /6319/
 layout: post
 date: 2018-12-28T08:10:40

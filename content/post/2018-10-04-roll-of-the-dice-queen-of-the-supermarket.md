@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-queen-of-the-supermarket/
+- /roll-of-the-dice-queen-of-the-supermarket/
 - /4774/
 layout: post
 date: 2018-10-04T12:00:29

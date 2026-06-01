@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-jazz-musician/
+- /roll-of-the-dice-jazz-musician/
 - /33131/
 layout: post
 date: 2011-01-19T13:00:00

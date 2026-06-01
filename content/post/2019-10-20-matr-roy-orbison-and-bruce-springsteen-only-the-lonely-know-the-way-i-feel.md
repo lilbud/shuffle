@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-roy-orbison-and-bruce-springsteen-only-the-lonely-know-the-way-i-feel/
+- /matr-roy-orbison-and-bruce-springsteen-only-the-lonely-know-the-way-i-feel/
 - /13044/
 layout: post
 date: 2019-10-20T12:00:00

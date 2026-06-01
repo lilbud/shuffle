@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-solar-circus-and-bruce-springsteen-stems-and-seeds/
+- /matr-solar-circus-and-bruce-springsteen-stems-and-seeds/
 - /25695/
 layout: post
 date: 2021-03-22T12:00:00

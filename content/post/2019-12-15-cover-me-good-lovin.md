@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-good-lovin/
+- /cover-me-good-lovin/
 - /14564/
 layout: post
 date: 2019-12-15T13:00:00

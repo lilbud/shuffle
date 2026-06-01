@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-part-man-part-monkey/
+- /roll-of-the-dice-part-man-part-monkey/
 - /32476/
 layout: post
 date: 2022-02-19T13:00:00

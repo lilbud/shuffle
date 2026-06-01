@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-roberta-finocchiaro-new-york-city-serenade/
+- /cover-me-roberta-finocchiaro-new-york-city-serenade/
 - /19053/
 layout: post
 date: 2020-06-07T12:00:00

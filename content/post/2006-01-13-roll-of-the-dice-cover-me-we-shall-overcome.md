@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-cover-me-we-shall-overcome/
+- /roll-of-the-dice-cover-me-we-shall-overcome/
 - /3565/
 layout: post
 date: 2006-01-13T19:00:56

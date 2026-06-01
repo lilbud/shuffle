@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-jon-bon-jovi-its-my-life/
+- /meeting-across-the-river-bruce-springsteen-and-jon-bon-jovi-its-my-life/
 - /2601/
 layout: post
 date: 2018-06-13T11:49:59

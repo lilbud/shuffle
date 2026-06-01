@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-jeannie-i-want-to-thank-you/
+- /roll-of-the-dice-jeannie-i-want-to-thank-you/
 - /13617/
 layout: post
 date: 2019-11-22T11:35:00

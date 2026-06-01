@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-royals/
+- /cover-me-royals/
 - /17745/
 layout: post
 date: 2020-04-25T12:00:00

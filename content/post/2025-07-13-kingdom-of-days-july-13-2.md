@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-july-13-2/
+- /kingdom-of-days-july-13/
 - /57721/
 layout: post
 date: 2025-07-13T11:00:09
-lastmod: 2026-03-02T23:42:54
-title: "July 13"
+lastmod: 2025-07-07T22:07:10
+title: "Kingdom of Days: July 13"
 slug: kingdom-of-days-july-13-2
 author: Ken Rosen
 description: "On this date: Listen to a work-in-progress “Born to Run” from the Bottom Line and a rare E Street Band “Man’s Job.” Plus Patti releases her first solo album, Rumble Doll—listen to her in-depth radio interview inside."
@@ -40,6 +41,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/07/rumbledoll.jpg.webp
   post_id: 57721
 ---
+***New for 2025:** New entry for 1975 and 1979*<br>
+
 **1974:** Bruce headlines two shows at the Bottom Line in New York City. By this time, recording sessions are underway for *Born to Run*, and Bruce has been writing prolifically. These shows feature work-in-progress versions of "Jungleland" and "Born to Run" and are fascinating to listen to.<br>
 
 {{< youtube ICJr6lSGS3c >}}
@@ -48,7 +51,7 @@ params:
 
 {{< youtube yh2oBFsFfgA >}}
 
-**1975:** In a stroke of last-minute inspiration, Steven Van Zandt arranges a horn section for "Tenth Avenue Freeze-Out." Randy and Michael Brecker provide the wind-power, completing the song mere weeks before its official release.<br>
+**1975:** In a stroke of last-minute inspiration, Steven Van Zandt arranges a horn section for "[Tenth Avenue Freeze-Out.]({{< relref "2018-11-19-roll-of-the-dice-tenth-avenue-freeze-out.md" >}})" Randy and Michael Brecker provide the wind-power, completing the song mere weeks before its official release.<br>
 
 {{< youtube LOkQsVJV8ts >}}
 
@@ -72,7 +75,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/06/1984-07-13.jpg.webp)
 
-**1992:** Bruce and his new band wrap up the European leg of World Tour 1992 with a fifth and final show at Wembley Arena. "Prove It All Night" makes its tour debut, and "Born in the U.S.A." is dropped from the set list for the first time since its debut in 1984.<br>
+**1992:** Bruce and his new band wrap up the European leg of World Tour 1992 with a fifth and final show at Wembley Arena. "[Prove It All Night]({{< relref "2020-10-24-roll-of-the-dice-prove-it-all-night.md" >}})" makes its tour debut, and "[Born in the U.S.A.]({{< relref "1984-01-03-roll-of-the-dice-born-in-the-u-s-a.md" >}})" is dropped from the set list for the first time since its debut in 1984.<br>
 
 {{< videopress id=pbxCty6f >}}
 
@@ -86,13 +89,13 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/07/1993-07-13b.jpg.webp)
 
-**2005:** Bruce brings his Devils & Dust acoustic tour back to North America, kicking off with a show at Corel Center in Ottawa. Bruce plays a fairly standard set, but a lightning strike-induced power outage at the end of "Reno" provides some unplanned excitement.<br>
+**2005:** Bruce brings his Devils & Dust acoustic tour back to North America, kicking off with a show at Corel Center in Ottawa. Bruce plays a fairly standard set, but a lightning strike-induced power outage at the end of "[Reno]({{< relref "2020-05-21-roll-of-the-dice-reno.md" >}})" provides some unplanned excitement.<br>
 
 {{< videopress id=LRnkEQ4z >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/07/2005-07-13.jpg.webp)
 
-**2013:** Bruce and the E Street Band headline the TW Classic Festival in Werchter, Belgium. Ben Harper makes a guest appearance on "Atlantic City," and Bruce tour premieres "Jailhouse Rock." "Man's Job" and "Follow That Dream" also make rare appearances.<br>
+**2013:** Bruce and the E Street Band headline the TW Classic Festival in Werchter, Belgium. Ben Harper makes a guest appearance on "[Atlantic City]({{< relref "2018-06-04-roll-of-the-dice-atlantic-city.md" >}})," and Bruce tour premieres "[Jailhouse Rock.]({{< relref "2019-10-12-matr-bruce-springsteen-sting-billy-joel-elton-john-and-friends-jailhouse-rock.md" >}})" "[Man's Job]({{< relref "2022-05-30-roll-of-the-dice-mans-job.md" >}})" and "Follow That Dream" also make rare appearances.<br>
 
 {{< youtube x7z4dXc4UGc >}}
 
@@ -104,7 +107,7 @@ params:
 
 {{< youtube DvsNbfX8iik >}}
 
-**2016:** Bruce surprises and delights Paris fans by opening with "Iceman" (only its third-ever performance) and "Lucky Town" before announcing and performing *The River* in full, a first-time event in Europe.<br>
+**2016:** Bruce surprises and delights Paris fans by opening with "[Iceman]({{< relref "2022-02-01-roll-of-the-dice-iceman.md" >}})" (only its third-ever performance) and "[Lucky Town]({{< relref "1992-02-03-roll-of-the-dice-lucky-town.md" >}})" before announcing and performing *The River* in full, a first-time event in Europe.<br>
 
 {{< youtube cZgiQ_v14T8 >}}
 
@@ -122,7 +125,7 @@ params:
 
 **2021:** *Springsteen on Broadway* continues its limited return engagement at the St. James Theater in New York City.<br>
 
-**2023:** Bruce and the E Street Band play their second of two shows at Parken Stadium in Copenhagen.<br>
+**2023:** Bruce and the E Street Band play their second of two shows at Parken Stadium in Copenhagen. This show is available to stream or purchase [here](https://live.brucespringsteen.net/live-music/0,31092/Bruce-Springsteen-mp3-flac-download-7-13-2023-Parken-Copenhagen-DENMARK.html).<br>
 
 {{< youtube cpPl4rhcCTg >}}
 

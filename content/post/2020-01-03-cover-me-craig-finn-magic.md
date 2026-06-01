@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-craig-finn-magic/
+- /cover-me-craig-finn-magic/
 - /15405/
 layout: post
 date: 2020-01-03T13:00:00

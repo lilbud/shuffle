@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-take-em-as-they-come/
+- /roll-of-the-dice-take-em-as-they-come/
 - /7891/
 layout: post
 date: 2019-03-29T12:00:00

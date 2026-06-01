@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-lucinda-williams-and-bruce-springsteen-disgusted/
+- /meeting-across-the-river-lucinda-williams-and-bruce-springsteen-disgusted/
 - /6177/
 layout: post
 date: 2018-12-04T13:00:11

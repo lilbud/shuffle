@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-your-own-worst-enemy/
+- /roll-of-the-dice-your-own-worst-enemy/
 - /18392/
 layout: post
 date: 2020-05-31T12:00:00

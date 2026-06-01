@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-my-sweet-lord/
+- /cover-me-my-sweet-lord/
 - /14568/
 layout: post
 date: 2019-11-25T13:00:00

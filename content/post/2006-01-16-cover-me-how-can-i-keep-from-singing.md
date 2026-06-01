@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-how-can-i-keep-from-singing/
+- /cover-me-how-can-i-keep-from-singing/
 - /13196/
 layout: post
 date: 2006-01-16T19:00:00

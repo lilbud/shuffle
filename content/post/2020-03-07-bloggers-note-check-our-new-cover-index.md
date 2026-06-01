@@ -1,6 +1,7 @@
 ---
 aliases:
 - /bloggers-note-check-our-new-cover-index/
+- /bloggers-note-check-our-new-cover-index/
 - /16760/
 layout: post
 date: 2020-03-07T18:32:33

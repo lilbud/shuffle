@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-paul-simon-billy-joel-james-taylor-and-more-rock-and-roll-music/
+- /matr-bruce-springsteen-paul-simon-billy-joel-james-taylor-and-more-rock-and-roll-music/
 - /27052/
 layout: post
 date: 2021-06-02T12:00:00

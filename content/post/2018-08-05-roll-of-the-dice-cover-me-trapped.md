@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-cover-me-trapped/
+- /roll-of-the-dice-cover-me-trapped/
 - /3569/
 layout: post
 date: 2018-08-05T12:00:51

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-the-south-community-choir-of-asbury-park-and-bruce-springsteen-ive-got-a-feeling-everythings-gonna-be-alright/
+- /matr-the-south-community-choir-of-asbury-park-and-bruce-springsteen-ive-got-a-feeling-everythings-gonna-be-alright/
 - /22583/
 layout: post
 date: 2020-11-04T13:00:00

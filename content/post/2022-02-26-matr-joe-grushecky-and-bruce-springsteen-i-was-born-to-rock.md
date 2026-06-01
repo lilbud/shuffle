@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-joe-grushecky-and-bruce-springsteen-i-was-born-to-rock/
+- /matr-joe-grushecky-and-bruce-springsteen-i-was-born-to-rock/
 - /32113/
 layout: post
 date: 2022-02-26T13:00:00

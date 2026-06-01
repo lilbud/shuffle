@@ -1,6 +1,7 @@
 ---
 aliases:
 - /bloggers-note-long-walk-home-book-review-and-reader-mail/
+- /bloggers-note-long-walk-home-book-review-and-reader-mail/
 - /11737/
 layout: post
 date: 2019-07-18T20:30:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-vaginal-vandals/
+- /roll-of-the-dice-vaginal-vandals/
 - /15838/
 layout: post
 date: 2020-02-19T13:00:00

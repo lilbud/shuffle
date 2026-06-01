@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-cross-my-heart/
+- /roll-of-the-dice-cross-my-heart/
 - /24156/
 layout: post
 date: 2020-12-29T13:00:00

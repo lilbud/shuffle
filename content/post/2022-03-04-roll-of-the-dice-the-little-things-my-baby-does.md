@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-little-things-my-baby-does/
+- /roll-of-the-dice-the-little-things-my-baby-does/
 - /32877/
 layout: post
 date: 2022-03-04T13:00:00

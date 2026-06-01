@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-danger-zone/
+- /roll-of-the-dice-danger-zone/
 - /17932/
 layout: post
 date: 2020-05-01T12:00:00

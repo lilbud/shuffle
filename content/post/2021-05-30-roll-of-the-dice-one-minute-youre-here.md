@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-one-minute-youre-here/
+- /roll-of-the-dice-one-minute-youre-here/
 - /27150/
 layout: post
 date: 2021-05-30T12:00:00

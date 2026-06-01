@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-war/
+- /cover-me-war/
 - /9987/
 layout: post
 date: 2016-01-02T19:00:00

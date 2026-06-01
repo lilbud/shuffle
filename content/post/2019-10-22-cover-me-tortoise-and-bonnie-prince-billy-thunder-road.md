@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-tortoise-and-bonnie-prince-billy-thunder-road/
+- /cover-me-tortoise-and-bonnie-prince-billy-thunder-road/
 - /13812/
 layout: post
 date: 2019-10-22T12:00:00

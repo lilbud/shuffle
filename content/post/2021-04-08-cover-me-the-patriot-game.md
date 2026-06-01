@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-patriot-game/
+- /cover-me-the-patriot-game/
 - /26258/
 layout: post
 date: 2021-04-08T12:00:00

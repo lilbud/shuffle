@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-adam-and-leena-waite-my-city-of-ruins/
+- /cover-me-adam-and-leena-waite-my-city-of-ruins/
 - /19123/
 layout: post
 date: 2020-06-11T12:00:00

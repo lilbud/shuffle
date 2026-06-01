@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-wish/
+- /roll-of-the-dice-the-wish/
 - /2879/
 layout: post
 date: 2018-06-23T12:00:21

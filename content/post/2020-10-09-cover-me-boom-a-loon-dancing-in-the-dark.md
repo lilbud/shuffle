@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-boom-a-loon-dancing-in-the-dark/
+- /cover-me-boom-a-loon-dancing-in-the-dark/
 - /21783/
 layout: post
 date: 2020-10-09T12:00:00

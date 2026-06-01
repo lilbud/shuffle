@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-a-winters-revelation-in-9-illusions/
+- /roll-of-the-dice-a-winters-revelation-in-9-illusions/
 - /11846/
 layout: post
 date: 2019-08-13T12:00:00

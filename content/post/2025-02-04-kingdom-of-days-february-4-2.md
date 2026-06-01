@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-4-2/
+- /kingdom-of-days-february-4/
 - /55857/
 layout: post
 date: 2025-02-04T12:00:54
 lastmod: 2025-11-26T03:40:27
-title: "February 4"
+title: "Kingdom of Days: February 4"
 slug: kingdom-of-days-february-4-2
 author: Ken Rosen
 description: "On this date: Listen to an outstanding Bruce Springsteen Band performance from 1972 and more."

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-im-so-lonesome-i-could-cry/
+- /cover-me-im-so-lonesome-i-could-cry/
 - /5411/
 layout: post
 date: 2018-11-01T12:00:30

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-smith-and-bruce-springsteen-you-can-dig-it/
+- /matr-patti-smith-and-bruce-springsteen-you-can-dig-it/
 - /9734/
 layout: post
 date: 2019-05-25T12:00:00

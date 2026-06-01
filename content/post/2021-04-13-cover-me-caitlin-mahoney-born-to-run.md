@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-caitlin-mahoney-born-to-run/
+- /cover-me-caitlin-mahoney-born-to-run/
 - /26513/
 layout: post
 date: 2021-04-13T12:00:00

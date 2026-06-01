@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-valentines-day/
+- /roll-of-the-dice-valentines-day/
 - /2607/
 layout: post
 date: 1987-01-12T19:00:17

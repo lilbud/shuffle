@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-mick-jagger-little-richard-tina-turner-paul-simon-bruce-springsteen-et-al-bony-moronie/
+- /matr-mick-jagger-little-richard-tina-turner-paul-simon-bruce-springsteen-et-al-bony-moronie/
 - /1772/
 layout: post
 date: 2018-04-27T12:00:13

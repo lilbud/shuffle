@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-greg-kihn-band-rendezvous/
+- /cover-me-greg-kihn-band-rendezvous/
 - /3133/
 layout: post
 date: 2018-07-17T12:00:34

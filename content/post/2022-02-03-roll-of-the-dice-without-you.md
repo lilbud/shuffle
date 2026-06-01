@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-without-you/
+- /roll-of-the-dice-without-you/
 - /32251/
 layout: post
 date: 2022-02-03T13:00:00

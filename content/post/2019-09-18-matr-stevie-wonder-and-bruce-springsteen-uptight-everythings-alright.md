@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-stevie-wonder-and-bruce-springsteen-uptight-everythings-alright/
+- /matr-stevie-wonder-and-bruce-springsteen-uptight-everythings-alright/
 - /13040/
 layout: post
 date: 2019-09-18T12:00:00

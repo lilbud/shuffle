@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-joe-grushecky-and-bruce-springsteen-is-she-the-one/
+- /matr-joe-grushecky-and-bruce-springsteen-is-she-the-one/
 - /29192/
 layout: post
 date: 2022-01-02T13:15:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-staves-im-on-fire/
+- /cover-me-the-staves-im-on-fire/
 - /4772/
 layout: post
 date: 2018-10-01T12:00:11

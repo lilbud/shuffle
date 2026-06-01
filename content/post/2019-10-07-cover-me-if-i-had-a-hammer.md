@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-if-i-had-a-hammer/
+- /cover-me-if-i-had-a-hammer/
 - /13621/
 layout: post
 date: 2019-10-07T12:00:00

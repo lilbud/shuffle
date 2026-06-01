@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-apache/
+- /cover-me-apache/
 - /32109/
 layout: post
 date: 2022-01-17T13:00:00

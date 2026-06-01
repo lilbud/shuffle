@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-southside-shuffle/
+- /roll-of-the-dice-southside-shuffle/
 - /20798/
 layout: post
 date: 2020-08-25T12:00:00

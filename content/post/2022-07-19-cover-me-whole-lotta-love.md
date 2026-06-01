@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-whole-lotta-love/
+- /cover-me-whole-lotta-love/
 - /36169/
 layout: post
 date: 2022-07-19T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-when-you-need-me/
+- /roll-of-the-dice-when-you-need-me/
 - /15843/
 layout: post
 date: 2020-01-30T13:00:00

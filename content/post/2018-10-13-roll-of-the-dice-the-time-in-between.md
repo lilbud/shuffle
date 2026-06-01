@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-time-in-between/
+- /roll-of-the-dice-the-time-in-between/
 - /5063/
 layout: post
 date: 2018-10-13T12:00:14

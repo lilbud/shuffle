@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-tucson-train/
+- /roll-of-the-dice-tucson-train/
 - /18295/
 layout: post
 date: 2020-05-25T12:00:00

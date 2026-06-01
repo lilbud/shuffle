@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-steves-song/
+- /cover-me-steves-song/
 - /16556/
 layout: post
 date: 2020-04-06T12:00:00

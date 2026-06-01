@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-tim-neuhaus-streets-of-philadelphia/
+- /cover-me-tim-neuhaus-streets-of-philadelphia/
 - /27633/
 layout: post
 date: 2021-05-31T12:00:00

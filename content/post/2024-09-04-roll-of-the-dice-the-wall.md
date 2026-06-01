@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-wall/
+- /roll-of-the-dice-the-wall/
 - /52382/
 layout: post
 date: 2024-09-04T12:00:00

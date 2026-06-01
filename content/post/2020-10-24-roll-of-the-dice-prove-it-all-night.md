@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-prove-it-all-night/
+- /roll-of-the-dice-prove-it-all-night/
 - /20931/
 layout: post
 date: 2020-10-24T12:00:00

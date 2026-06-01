@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-pittsburgh-january-16-2016/
+- /where-the-band-was-pittsburgh-january-16-2016/
 - /7078/
 layout: post
 date: 2019-01-16T13:30:36

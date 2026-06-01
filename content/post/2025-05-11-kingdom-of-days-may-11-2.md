@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-may-11-2/
+- /kingdom-of-days-may-11/
 - /56751/
 layout: post
 date: 2025-05-11T11:00:10
-lastmod: 2026-02-01T17:56:40
-title: "May 11"
+lastmod: 2025-05-02T23:16:04
+title: "Kingdom of Days: May 11"
 slug: kingdom-of-days-may-11-2
 author: Ken Rosen
 description: "On this date: Nils Lofgren joins the E Street Band, Bruce enjoys a final night out as a bachelor, Bruce plays “Dream Baby Dream” for the first time, and more."
@@ -44,6 +45,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/05/nils-and-bruce.jpg.webp
   post_id: 56751
 ---
+***New for 2025:** No updates*<br>
+
 **1968:** The Castiles play a gig at The Hullabaloo in Freehold.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/05/1968-0511.jpg.webp)
@@ -58,7 +61,7 @@ params:
 
 **1974:** Bruce and the band play a show at Fairleigh Dickinson University.<br>
 
-**1976:** The Chicken Scratch Tour moves on to Auburn University in Alabama, where a few songs were captured on Super-8 color film.<br>
+**1976:** The Chicken Scratch Tour moves on to Auburn University in Alabama, where a few songs were captured on Super-8 color film. Friend of the blog Bud McLaughlin [shares why Bruce went into the stands](https://buddmclaughlin.blogspot.com/2013/07/springsteen-i-even-noses.html) on "[Spirit in the Night]({{< relref "2011-01-08-roll-of-the-dice-spirit-in-the-night.md" >}}/)."<br>
 
 {{< youtube YreeqdgfHm8 >}}
 
@@ -80,7 +83,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/05/Sunday_Sun_Sun__May_17__1981_-scaled.jpg.webp)
 
-**1982:** Bruce works on "I'm on Fire," "This Hard Land," "Baby I'm So Cold" and "Common Ground (Stay Hungry)" at The Power Station in New York City.<br>
+**1982:** Bruce works on "[I'm on Fire]({{< relref "1984-01-08-roll-of-the-dice-im-on-fire.md" >}})," "This Hard Land," "[Baby I'm So Cold]({{< relref "2019-05-04-roll-of-the-dice-baby-im-so-cold.md" >}})" and "Common Ground (Stay Hungry)" at The Power Station in New York City.<br>
 
 **1984:** Nils Lofgren officially joins The E Street Band and rehearses with his new bandmates at the former home of Big Man's West in Red Bank.<br>
 
@@ -102,7 +105,7 @@ Meanwhile back at home, the *Asbury Park Press* reports that the E Street Band i
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/05/Asbury_Park_Press_Tue__May_11__1993_-scaled.jpg.webp)
 
-**2005:** One of the standout shows of the first leg of the Devils & Dust Tour. At the Rosemont Theater outside of Chicago, Bruce debuts "Dream Baby Dream" (with slightly different lyrics and phrasing than the version it would soon morph into) and plays the banjo for the first time (on "I'm on Fire"). During "Land of Hope and Dreams," Bruce breaks a guitar string and continues a capella without missing a beat until Kevin Buell restrings the guitar in the nick of time–a truly remarkable performance.<br>
+**2005:** One of the standout shows of the first leg of the Devils & Dust Tour. At the Rosemont Theater outside of Chicago, Bruce debuts "[Dream Baby Dream]({{< relref "2020-04-02-cover-me-dream-baby-dream.md" >}})" (with slightly different lyrics and phrasing than the version it would soon morph into) and plays the banjo for the first time (on "I'm on Fire"). During "[Land of Hope and Dreams,]({{< relref "2018-01-05-roll-of-the-dice-land-of-hope-and-dreams.md" >}})" Bruce breaks a guitar string and continues a capella without missing a beat until Kevin Buell restrings the guitar in the nick of time–a truly remarkable performance.<br>
 
 {{< youtube iqy-o19coRw >}}
 

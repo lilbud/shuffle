@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-dave-edmunds-and-bruce-springsteen-lets-talk-about-us/
+- /matr-dave-edmunds-and-bruce-springsteen-lets-talk-about-us/
 - /7880/
 layout: post
 date: 2019-03-21T12:00:00

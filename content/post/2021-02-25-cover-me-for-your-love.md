@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-for-your-love/
+- /cover-me-for-your-love/
 - /25521/
 layout: post
 date: 2021-02-25T13:00:00

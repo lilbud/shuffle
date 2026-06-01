@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-deportee-plane-wreck-at-los-gatos/
+- /cover-me-deportee-plane-wreck-at-los-gatos/
 - /15274/
 layout: post
 date: 2020-01-05T13:00:00

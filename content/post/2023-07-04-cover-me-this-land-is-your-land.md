@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-this-land-is-your-land/
+- /cover-me-this-land-is-your-land/
 - /43824/
 layout: post
 date: 2023-07-04T12:00:00

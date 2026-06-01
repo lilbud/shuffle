@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-cover-me-jesse-james/
+- /roll-of-the-dice-cover-me-jesse-james/
 - /10637/
 layout: post
 date: 2006-01-03T19:00:00

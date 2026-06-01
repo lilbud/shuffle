@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-roll-of-the-dice-jersey-girl/
+- /cover-me-roll-of-the-dice-jersey-girl/
 - /11448/
 layout: post
 date: 1976-02-07T19:00:00

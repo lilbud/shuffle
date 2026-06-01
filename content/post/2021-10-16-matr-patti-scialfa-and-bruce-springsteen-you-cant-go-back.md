@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-scialfa-and-bruce-springsteen-you-cant-go-back/
+- /matr-patti-scialfa-and-bruce-springsteen-you-cant-go-back/
 - /30171/
 layout: post
 date: 2021-10-16T12:00:00

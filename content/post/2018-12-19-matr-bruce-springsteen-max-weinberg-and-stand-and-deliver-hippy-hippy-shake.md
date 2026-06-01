@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-max-weinberg-and-stand-and-deliver-hippy-hippy-shake/
+- /matr-bruce-springsteen-max-weinberg-and-stand-and-deliver-hippy-hippy-shake/
 - /6266/
 layout: post
 date: 2018-12-19T13:00:37

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-mavericks-all-that-heaven-will-allow/
+- /cover-me-the-mavericks-all-that-heaven-will-allow/
 - /6942/
 layout: post
 date: 2019-02-28T13:00:46

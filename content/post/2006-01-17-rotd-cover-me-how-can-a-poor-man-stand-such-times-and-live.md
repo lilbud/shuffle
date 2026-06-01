@@ -1,6 +1,7 @@
 ---
 aliases:
 - /rotd-cover-me-how-can-a-poor-man-stand-such-times-and-live/
+- /rotd-cover-me-how-can-a-poor-man-stand-such-times-and-live/
 - /31275/
 layout: post
 date: 2006-01-17T19:00:00

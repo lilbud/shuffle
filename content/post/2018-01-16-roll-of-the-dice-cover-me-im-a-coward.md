@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-cover-me-im-a-coward/
+- /roll-of-the-dice-cover-me-im-a-coward/
 - /255/
 layout: post
 date: 2018-01-16T23:30:35

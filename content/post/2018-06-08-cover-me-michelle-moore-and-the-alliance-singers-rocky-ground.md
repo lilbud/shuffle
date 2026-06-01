@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-michelle-moore-and-the-alliance-singers-rocky-ground/
+- /cover-me-michelle-moore-and-the-alliance-singers-rocky-ground/
 - /2692/
 layout: post
 date: 2018-06-08T12:00:01

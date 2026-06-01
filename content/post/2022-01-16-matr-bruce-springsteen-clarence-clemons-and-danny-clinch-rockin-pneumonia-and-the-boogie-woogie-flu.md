@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-clarence-clemons-and-danny-clinch-rockin-pneumonia-and-the-boogie-woogie-flu/
+- /matr-bruce-springsteen-clarence-clemons-and-danny-clinch-rockin-pneumonia-and-the-boogie-woogie-flu/
 - /32366/
 layout: post
 date: 2022-01-16T13:00:00

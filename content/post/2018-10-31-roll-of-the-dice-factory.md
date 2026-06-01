@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-factory/
+- /roll-of-the-dice-factory/
 - /5306/
 layout: post
 date: 2018-10-31T12:00:53

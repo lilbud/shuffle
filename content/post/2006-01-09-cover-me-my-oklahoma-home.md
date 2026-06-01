@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-my-oklahoma-home/
+- /cover-me-my-oklahoma-home/
 - /16358/
 layout: post
 date: 2006-01-09T19:00:00

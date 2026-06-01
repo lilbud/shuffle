@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-wild-thing/
+- /cover-me-wild-thing/
 - /16063/
 layout: post
 date: 2020-03-10T12:00:00

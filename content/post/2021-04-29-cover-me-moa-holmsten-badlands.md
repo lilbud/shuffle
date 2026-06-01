@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-moa-holmsten-badlands/
+- /cover-me-moa-holmsten-badlands/
 - /26961/
 layout: post
 date: 2021-04-29T12:00:00

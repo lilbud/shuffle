@@ -1,6 +1,7 @@
 ---
 aliases:
 - /is-there-anybody-alive-out-there/
+- /is-there-anybody-alive-out-there/
 - /61/
 layout: post
 date: 2018-01-05T04:29:45

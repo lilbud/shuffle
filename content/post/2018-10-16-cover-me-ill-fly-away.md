@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-ill-fly-away/
+- /cover-me-ill-fly-away/
 - /5341/
 layout: post
 date: 2018-10-16T12:00:16

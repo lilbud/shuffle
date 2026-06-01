@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-just-about-everybody-mustang-sally/
+- /matr-bruce-springsteen-and-just-about-everybody-mustang-sally/
 - /19326/
 layout: post
 date: 2020-07-15T12:00:00

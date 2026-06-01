@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-slum-sentiments/
+- /roll-of-the-dice-slum-sentiments/
 - /4888/
 layout: post
 date: 2018-10-12T11:27:07

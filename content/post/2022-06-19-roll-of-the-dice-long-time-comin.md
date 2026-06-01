@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-long-time-comin/
+- /roll-of-the-dice-long-time-comin/
 - /35690/
 layout: post
 date: 2022-06-19T12:10:00

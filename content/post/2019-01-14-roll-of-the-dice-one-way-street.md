@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-one-way-street/
+- /roll-of-the-dice-one-way-street/
 - /6889/
 layout: post
 date: 2019-01-14T13:00:46

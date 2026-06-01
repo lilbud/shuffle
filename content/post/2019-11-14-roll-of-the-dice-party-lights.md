@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-party-lights/
+- /roll-of-the-dice-party-lights/
 - /14214/
 layout: post
 date: 2019-11-14T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-silver-palomino/
+- /roll-of-the-dice-silver-palomino/
 - /30467/
 layout: post
 date: 2021-11-13T13:00:00

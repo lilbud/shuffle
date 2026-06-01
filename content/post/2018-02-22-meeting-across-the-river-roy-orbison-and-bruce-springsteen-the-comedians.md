@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-roy-orbison-and-bruce-springsteen-the-comedians/
+- /meeting-across-the-river-roy-orbison-and-bruce-springsteen-the-comedians/
 - /796/
 layout: post
 date: 2018-02-22T13:00:08

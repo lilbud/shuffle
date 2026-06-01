@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-break-my-heart-tonight/
+- /roll-of-the-dice-break-my-heart-tonight/
 - /21110/
 layout: post
 date: 2020-10-07T12:00:00

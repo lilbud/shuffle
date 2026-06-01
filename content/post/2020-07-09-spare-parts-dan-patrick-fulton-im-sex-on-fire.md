@@ -1,6 +1,7 @@
 ---
 aliases:
 - /spare-parts-dan-patrick-fulton-im-sex-on-fire/
+- /spare-parts-dan-patrick-fulton-im-sex-on-fire/
 - /18567/
 layout: post
 date: 2020-07-09T12:00:00

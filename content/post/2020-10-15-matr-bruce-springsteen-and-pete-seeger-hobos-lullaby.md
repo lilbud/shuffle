@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-pete-seeger-hobos-lullaby/
+- /matr-bruce-springsteen-and-pete-seeger-hobos-lullaby/
 - /20113/
 layout: post
 date: 2020-10-15T12:00:00

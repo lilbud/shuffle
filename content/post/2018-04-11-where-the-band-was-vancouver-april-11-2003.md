@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-vancouver-april-11-2003/
+- /where-the-band-was-vancouver-april-11-2003/
 - /1555/
 layout: post
 date: 2018-04-11T13:00:55

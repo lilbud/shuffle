@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-waybacks-and-joan-osborne-born-in-the-usa/
+- /cover-me-the-waybacks-and-joan-osborne-born-in-the-usa/
 - /3397/
 layout: post
 date: 2018-07-26T12:00:06

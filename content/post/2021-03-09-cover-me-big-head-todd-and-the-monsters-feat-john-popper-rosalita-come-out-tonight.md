@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-big-head-todd-and-the-monsters-feat-john-popper-rosalita-come-out-tonight/
+- /cover-me-big-head-todd-and-the-monsters-feat-john-popper-rosalita-come-out-tonight/
 - /25517/
 layout: post
 date: 2021-03-09T13:00:00

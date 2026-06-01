@@ -1,6 +1,7 @@
 ---
 aliases:
 - /have-a-good-time-but-get-out-alive/
+- /have-a-good-time-but-get-out-alive/
 - /18388/
 layout: default-post
 date: 1988-04-25T18:00:00

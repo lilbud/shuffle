@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-smith-bruce-springsteen-and-michael-stipe-people-have-the-power/
+- /matr-patti-smith-bruce-springsteen-and-michael-stipe-people-have-the-power/
 - /15112/
 layout: post
 date: 2020-01-09T13:00:00

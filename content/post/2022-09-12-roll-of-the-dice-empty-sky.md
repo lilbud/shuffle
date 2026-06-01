@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-empty-sky/
+- /roll-of-the-dice-empty-sky/
 - /37606/
 layout: post
 date: 2022-09-12T12:00:00

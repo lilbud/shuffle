@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-keith-urban-and-john-mayer-im-on-fire/
+- /cover-me-keith-urban-and-john-mayer-im-on-fire/
 - /1313/
 layout: post
 date: 2018-03-18T12:00:18

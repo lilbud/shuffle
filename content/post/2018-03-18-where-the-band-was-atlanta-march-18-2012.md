@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-atlanta-march-18-2012/
+- /where-the-band-was-atlanta-march-18-2012/
 - /1137/
 layout: post
 date: 2018-03-18T13:00:51

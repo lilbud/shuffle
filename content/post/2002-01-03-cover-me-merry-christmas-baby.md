@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-merry-christmas-baby/
+- /cover-me-merry-christmas-baby/
 - /6315/
 layout: post
 date: 2002-01-03T19:00:21

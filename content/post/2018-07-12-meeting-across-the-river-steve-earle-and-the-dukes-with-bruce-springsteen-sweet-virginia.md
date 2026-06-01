@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-steve-earle-and-the-dukes-with-bruce-springsteen-sweet-virginia/
+- /meeting-across-the-river-steve-earle-and-the-dukes-with-bruce-springsteen-sweet-virginia/
 - /3030/
 layout: post
 date: 2018-07-12T12:00:48

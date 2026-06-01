@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-my-rides-here/
+- /cover-me-my-rides-here/
 - /33466/
 layout: post
 date: 2022-03-24T12:00:00

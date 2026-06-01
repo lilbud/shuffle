@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-winter-blanket-darkness-on-the-edge-of-town/
+- /cover-me-the-winter-blanket-darkness-on-the-edge-of-town/
 - /7879/
 layout: post
 date: 2019-03-20T12:00:00

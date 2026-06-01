@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-originaire-atlantic-city/
+- /cover-me-originaire-atlantic-city/
 - /17353/
 layout: post
 date: 2020-03-31T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jake-thistle-real-world/
+- /cover-me-jake-thistle-real-world/
 - /14843/
 layout: post
 date: 2019-12-05T13:00:00

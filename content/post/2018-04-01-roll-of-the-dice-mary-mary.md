@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-mary-mary/
+- /roll-of-the-dice-mary-mary/
 - /1408/
 layout: post
 date: 2018-04-01T12:00:04

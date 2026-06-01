@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-ramrod/
+- /roll-of-the-dice-ramrod/
 - /36371/
 layout: post
 date: 2022-09-10T12:00:00

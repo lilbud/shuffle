@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-night-train/
+- /cover-me-night-train/
 - /14847/
 layout: post
 date: 2019-12-08T12:45:00

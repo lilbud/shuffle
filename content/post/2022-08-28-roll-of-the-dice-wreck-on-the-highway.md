@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-wreck-on-the-highway/
+- /roll-of-the-dice-wreck-on-the-highway/
 - /36656/
 layout: post
 date: 2022-08-28T12:00:00

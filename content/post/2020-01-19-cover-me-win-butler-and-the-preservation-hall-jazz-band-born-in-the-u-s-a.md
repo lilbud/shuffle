@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-win-butler-and-the-preservation-hall-jazz-band-born-in-the-u-s-a/
+- /cover-me-win-butler-and-the-preservation-hall-jazz-band-born-in-the-u-s-a/
 - /15116/
 layout: post
 date: 2020-01-19T13:00:00

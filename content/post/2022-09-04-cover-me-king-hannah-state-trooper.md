@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-king-hannah-state-trooper/
+- /cover-me-king-hannah-state-trooper/
 - /37439/
 layout: post
 date: 2022-09-04T12:00:00

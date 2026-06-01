@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-elliot-murphy-and-bruce-springsteen-rock-ballad/
+- /matr-elliot-murphy-and-bruce-springsteen-rock-ballad/
 - /28866/
 layout: post
 date: 2021-08-24T12:00:00

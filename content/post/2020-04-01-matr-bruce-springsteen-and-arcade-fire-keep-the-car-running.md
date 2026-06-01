@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-arcade-fire-keep-the-car-running/
+- /matr-bruce-springsteen-and-arcade-fire-keep-the-car-running/
 - /17117/
 layout: post
 date: 2020-04-01T12:00:00

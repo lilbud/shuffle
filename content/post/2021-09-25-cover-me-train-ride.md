@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-train-ride/
+- /cover-me-train-ride/
 - /29688/
 layout: post
 date: 2021-09-25T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-householder-reloaded-the-wayfarer/
+- /cover-me-householder-reloaded-the-wayfarer/
 - /28310/
 layout: post
 date: 2021-06-29T12:00:00

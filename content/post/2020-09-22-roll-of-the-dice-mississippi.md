@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-mississippi/
+- /roll-of-the-dice-mississippi/
 - /21116/
 layout: post
 date: 2020-09-22T12:00:00

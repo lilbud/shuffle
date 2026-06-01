@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-little-steven-and-bruce-springsteen-men-without-women/
+- /matr-little-steven-and-bruce-springsteen-men-without-women/
 - /15482/
 layout: post
 date: 2021-02-20T13:00:00

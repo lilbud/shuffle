@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-joe-ely-and-alejandro-escovedo-midnight-train/
+- /matr-bruce-springsteen-joe-ely-and-alejandro-escovedo-midnight-train/
 - /927/
 layout: post
 date: 2018-03-04T13:00:24

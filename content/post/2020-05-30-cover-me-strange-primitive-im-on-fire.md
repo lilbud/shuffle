@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-strange-primitive-im-on-fire/
+- /cover-me-strange-primitive-im-on-fire/
 - /16771/
 layout: post
 date: 2020-05-30T12:00:00

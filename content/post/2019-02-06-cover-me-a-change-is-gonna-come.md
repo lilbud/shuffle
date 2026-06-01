@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-a-change-is-gonna-come/
+- /cover-me-a-change-is-gonna-come/
 - /7400/
 layout: post
 date: 2019-02-06T13:00:57

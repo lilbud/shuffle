@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-jumbeliah/
+- /roll-of-the-dice-jumbeliah/
 - /5126/
 layout: post
 date: 2018-10-22T12:00:58

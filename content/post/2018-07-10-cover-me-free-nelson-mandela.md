@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-free-nelson-mandela/
+- /cover-me-free-nelson-mandela/
 - /3028/
 layout: post
 date: 2018-07-10T12:00:39

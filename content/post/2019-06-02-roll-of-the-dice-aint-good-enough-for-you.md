@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-aint-good-enough-for-you/
+- /roll-of-the-dice-aint-good-enough-for-you/
 - /10321/
 layout: post
 date: 2019-06-02T12:00:00

@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-1-2/
+- /kingdom-of-days-february-1/
 - /55844/
 layout: post
 date: 2025-02-01T12:00:01
 lastmod: 2025-11-27T01:01:16
-title: "February 1"
+title: "Kingdom of Days: February 1"
 slug: kingdom-of-days-february-1-2
 author: Ken Rosen
 description: "Step back from the guacamole dip, put the chicken fingers down, and turn your television ALL the way up: Bruce Springsteen and the E Street Band play the Super Bowl! Watch Bruce’s video journal, full performance, and more highlights from this date inside."

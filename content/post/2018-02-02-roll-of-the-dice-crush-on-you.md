@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-crush-on-you/
+- /roll-of-the-dice-crush-on-you/
 - /525/
 layout: post
 date: 2018-02-02T12:55:58

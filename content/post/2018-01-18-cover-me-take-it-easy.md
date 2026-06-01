@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-take-it-easy/
+- /cover-me-take-it-easy/
 - /220/
 layout: post
 date: 2018-01-18T13:00:49

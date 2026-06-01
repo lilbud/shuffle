@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-wind-and-the-rain/
+- /roll-of-the-dice-the-wind-and-the-rain/
 - /29315/
 layout: post
 date: 2021-10-10T12:00:00

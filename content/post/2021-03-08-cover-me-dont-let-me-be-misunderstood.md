@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-dont-let-me-be-misunderstood/
+- /cover-me-dont-let-me-be-misunderstood/
 - /25336/
 layout: post
 date: 2021-03-08T13:00:00

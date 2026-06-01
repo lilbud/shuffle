@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-blue-moon-turns-to-gold/
+- /roll-of-the-dice-blue-moon-turns-to-gold/
 - /16916/
 layout: post
 date: 2020-03-29T12:00:00

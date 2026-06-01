@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-paul-mccartney-billy-joel-bruce-springsteen-and-more-let-it-be/
+- /matr-paul-mccartney-billy-joel-bruce-springsteen-and-more-let-it-be/
 - /22771/
 layout: post
 date: 2020-11-23T13:00:00

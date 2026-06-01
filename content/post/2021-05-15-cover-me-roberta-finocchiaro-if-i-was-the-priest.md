@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-roberta-finocchiaro-if-i-was-the-priest/
+- /cover-me-roberta-finocchiaro-if-i-was-the-priest/
 - /27315/
 layout: post
 date: 2021-05-15T12:00:00

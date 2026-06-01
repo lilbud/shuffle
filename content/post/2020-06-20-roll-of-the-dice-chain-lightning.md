@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-chain-lightning/
+- /roll-of-the-dice-chain-lightning/
 - /18722/
 layout: post
 date: 2020-06-20T12:00:00

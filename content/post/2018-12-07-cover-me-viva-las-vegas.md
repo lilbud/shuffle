@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-viva-las-vegas/
+- /cover-me-viva-las-vegas/
 - /6183/
 layout: post
 date: 2018-12-07T13:00:42

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-darlene-love-da-doo-ron-ron/
+- /matr-bruce-springsteen-and-darlene-love-da-doo-ron-ron/
 - /6804/
 layout: post
 date: 2019-01-02T12:18:26

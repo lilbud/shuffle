@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-iceman/
+- /roll-of-the-dice-iceman/
 - /32363/
 layout: post
 date: 2022-02-01T13:00:00

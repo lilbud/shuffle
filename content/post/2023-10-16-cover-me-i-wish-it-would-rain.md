@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-i-wish-it-would-rain/
+- /cover-me-i-wish-it-would-rain/
 - /45724/
 layout: post
 date: 2023-10-16T14:00:00

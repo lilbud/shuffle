@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-stewart-francke-and-bruce-springsteen-summer-solider-holler-if-ya-hear-me/
+- /matr-stewart-francke-and-bruce-springsteen-summer-solider-holler-if-ya-hear-me/
 - /17545/
 layout: post
 date: 2020-04-17T12:00:00

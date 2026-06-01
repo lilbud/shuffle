@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-i-wanna-start-a-new-life/
+- /roll-of-the-dice-i-wanna-start-a-new-life/
 - /25334/
 layout: post
 date: 2021-03-02T13:00:00

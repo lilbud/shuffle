@@ -1,6 +1,7 @@
 ---
 aliases:
 - /kingdom-of-days-october-22-2/
+- /kingdom-of-days-october-22/
 - /61184/
 layout: post
 date: 2025-10-22T11:00:16

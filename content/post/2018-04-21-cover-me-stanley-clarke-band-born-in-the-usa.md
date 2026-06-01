@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-stanley-clarke-band-born-in-the-usa/
+- /cover-me-stanley-clarke-band-born-in-the-usa/
 - /1768/
 layout: post
 date: 2018-04-21T12:00:04

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-philadelphia-april-28-2009/
+- /where-the-band-was-philadelphia-april-28-2009/
 - /1749/
 layout: post
 date: 2018-04-28T13:00:50

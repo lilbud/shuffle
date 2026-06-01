@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-boom-boom/
+- /cover-me-boom-boom/
 - /16919/
 layout: post
 date: 2020-03-26T12:00:00

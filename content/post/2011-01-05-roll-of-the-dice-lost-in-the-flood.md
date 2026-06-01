@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-lost-in-the-flood/
+- /roll-of-the-dice-lost-in-the-flood/
 - /825/
 layout: post
 date: 2011-01-05T13:00:27

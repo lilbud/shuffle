@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-blinded-by-the-light/
+- /roll-of-the-dice-blinded-by-the-light/
 - /40201/
 layout: post
 date: 2011-01-02T08:30:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-dr-john-and-bruce-springsteen-right-place-wrong-time/
+- /matr-dr-john-and-bruce-springsteen-right-place-wrong-time/
 - /14566/
 layout: post
 date: 2019-12-02T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-its-all-right/
+- /cover-me-its-all-right/
 - /3208/
 layout: post
 date: 1976-01-25T07:00:24

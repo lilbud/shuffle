@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-john-legend-dancing-in-the-dark/
+- /cover-me-john-legend-dancing-in-the-dark/
 - /6188/
 layout: post
 date: 2018-12-05T13:00:10

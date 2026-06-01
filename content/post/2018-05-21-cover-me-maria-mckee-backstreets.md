@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-maria-mckee-backstreets/
+- /cover-me-maria-mckee-backstreets/
 - /2238/
 layout: post
 date: 2018-05-21T12:00:20

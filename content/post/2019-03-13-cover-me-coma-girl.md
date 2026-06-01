@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-coma-girl/
+- /cover-me-coma-girl/
 - /7818/
 layout: post
 date: 2019-03-13T12:00:00

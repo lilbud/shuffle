@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-just-about-everyone-we-are-the-world/
+- /matr-bruce-springsteen-and-just-about-everyone-we-are-the-world/
 - /32252/
 layout: post
 date: 2022-01-30T13:00:00

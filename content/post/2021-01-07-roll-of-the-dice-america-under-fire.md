@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-america-under-fire/
+- /roll-of-the-dice-america-under-fire/
 - /24435/
 layout: post
 date: 2021-01-07T13:00:00

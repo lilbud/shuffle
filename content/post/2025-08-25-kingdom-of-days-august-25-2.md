@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-august-25-2/
+- /kingdom-of-days-august-25/
 - /59421/
 layout: post
 date: 2025-08-25T11:00:25
-lastmod: 2026-05-14T20:25:47
-title: "August 25"
+lastmod: 2025-08-17T23:08:56
+title: "Kingdom of Days: August 25"
 slug: kingdom-of-days-august-25-2
 author: Ken Rosen
 description: "On this date: Bruce releases his third studio album, Born to Run. Plus: Little Steven fronts the E Street Band at a 2009 soundcheck, a memorable on-stage marriage proposal, and more."
@@ -40,9 +41,13 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/btr.jpg.webp
   post_id: 59421
 ---
+***New for 2025:** New entry for 1979*<br>
+
 **1970:** Bruce hires Robbin Thompson as vocalist for Steel Mill and kicks off three days of rehearsals at the Challenger Eastern Surfboard factory in Wanamassa, New Jersey.<br>
 
 **1973:** Bruce and the E Street Band play their sixth night of a week-long residency at Oliver's in Boston.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/08/1973-0821.jpg.webp)
 
 **1975:** Finally! After fourteen months of recording and production, Bruce releases *Born to Run*, his third studio album, to radio stations. (It will reach record store shelves next week.) Reviews are mostly positive.<br>
 
@@ -58,7 +63,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/1975-08-25b.png.webp)
 
-**1978:** Bruce and the E Street Band bring the Darkness Tour to New Haven for a show at the Veterans Memorial Coliseum, where they play a tour one-off of "It's Gonna Work Out Fine." After the show, Bruce sits down for an interview with Bob Harris for the UK television show, *Old Grey Whistle Test*.<br>
+**1978:** Bruce and the E Street Band bring the Darkness Tour to New Haven for a show at the Veterans Memorial Coliseum, where they play a tour one-off of "[It's Gonna Work Out Fine]({{< relref "2021-01-02-cover-me-its-gonna-work-out-fine.md" >}})." After the show, Bruce sits down for an interview with Bob Harris for the UK television show, *Old Grey Whistle Test*.<br>
 
 {{< youtube 8jvarthD60U >}}
 
@@ -66,11 +71,11 @@ params:
 
 Later that night, Bruce and Clarence join Beaver Brown on stage nearby at Toad's Place.
 
-**1979:** Bruce and the band record "Point Blank" and an early arrangement of "You Can Look (Buy You Better Not Touch)" during a recording session at the Power Station in New York City.<br>
+**1979:** Bruce and the band record "[Point Blank]({{< relref "2020-12-19-roll-of-the-dice-point-blank.md" >}})" and an early arrangement of "[You Can Look (Buy You Better Not Touch)]({{< relref "2020-06-14-roll-of-the-dice-you-can-look-but-you-better-not-touch.md" >}})" during a recording session at the Power Station in New York City.<br>
 
 {{< youtube aQcxrt9-6ZI >}}
 
-**1984:** Bruce and the E Street Band kick off a four-night stand at the Capital Center in Largo, Maryland. In attendance tonight: conservative political columnist George Will, who is moved enough by the show to write a column about Bruce for publication the following month.<br>
+**1984:** Bruce and the E Street Band kick off a four-night stand at the Capital Center in Largo, Maryland. In attendance tonight: conservative political columnist George Will, who is moved enough by the show to write [a column about Bruce](https://www.washingtonpost.com/archive/politics/1984/09/13/bruce-springsteens-usa/f6502baa-a8eb-48ad-ba85-7fa848d8833e/) for publication the following month.<br>
 
 {{< youtube _jg4X4qcZq0 >}}
 
@@ -80,7 +85,7 @@ Later that night, Bruce and Clarence join Beaver Brown on stage nearby at Toad's
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/1984-08-25c.png.webp)
 
-**1992:** World Tour 1992 moves on to the Washington DC area, with the first of two shows at the Capital Center in Largo. Bruce plays "Dancing in the Dark" for the last time on the tour. It will surface once more next year, and then not again until the Reunion Tour.<br>
+**1992:** World Tour 1992 moves on to the Washington DC area, with the first of two shows at the Capital Center in Largo. Bruce plays "[Dancing in the Dark]({{< relref "1984-01-13-roll-of-the-dice-dancing-in-the-dark.md" >}})" for the last time on the tour. It will surface once more next year, and then not again until the Reunion Tour.<br>
 
 {{< videopress id=BgCpUOF3 >}}
 
@@ -108,13 +113,13 @@ Later that night, Bruce and Clarence join Beaver Brown on stage nearby at Toad's
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/08/Philadelphia_Daily_News_2006_08_28_Page_37-scaled.jpg.webp)
 
-**2009:** Jay Weinberg flies solo on drums for the entire Working on a Dream show in Saratoga Springs, but it's the soundcheck that's most interesting about this show: check out a rare "Spare Parts" and Little Steven on lead vocals for "Prove It All Night" and "Hungry Heart."<br>
+**2009:** Jay Weinberg flies solo on drums for the entire Working on a Dream show in Saratoga Springs, but it's the soundcheck that's most interesting about this show: check out a rare "[Spare Parts]({{< relref "1987-01-04-roll-of-the-dice-spare-parts.md" >}}/)" and Little Steven on lead vocals for "[Prove It All Night]({{< relref "2020-10-24-roll-of-the-dice-prove-it-all-night.md" >}})" and "[Hungry Heart]({{< relref "2022-12-21-roll-of-the-dice-hungry-heart.md" >}})."<br>
 
 {{< videopress id=AmZyGrtP >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/08/2009-08-25.jpg.webp)
 
-**2016:** Bruce flirts with the four-hour mark at Night Two at MetLife Stadium, stopping just short of it but setting a new American record for show length just the same. "New York City Serenade" with strings is once again the opener, and "Jersey Girl" with fireworks is once again the closer (this time with a marriage proposal that ends the evening on a wonderfully loose and romantic note). Tom Morello makes his final E Street Band appearance to date, on stage for four songs.<br>
+**2016:** Bruce flirts with the four-hour mark at Night Two at MetLife Stadium, stopping just short of it but setting a new American record for show length just the same. "New York City Serenade" with strings is once again the opener, and "[Jersey Girl]({{< relref "1976-02-07-cover-me-roll-of-the-dice-jersey-girl.md" >}}/)" with fireworks is once again the closer (this time with a marriage proposal that ends the evening on a wonderfully loose and romantic note). Tom Morello makes his final E Street Band appearance to date, on stage for four songs. For more highlights from this show, see my [*Where the Band Was*]({{< relref "2018-08-25-where-the-band-was-east-rutherford-august-25-2016.md" >}}) report.<br>
 
 {{< youtube odKf_k4x0iI >}}
 

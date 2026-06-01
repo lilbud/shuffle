@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-ballad-of-easy-rider/
+- /cover-me-ballad-of-easy-rider/
 - /23583/
 layout: post
 date: 2021-01-04T13:00:00

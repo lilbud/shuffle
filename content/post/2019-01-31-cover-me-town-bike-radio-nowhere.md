@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-town-bike-radio-nowhere/
+- /cover-me-town-bike-radio-nowhere/
 - /7397/
 layout: post
 date: 2019-01-31T13:00:18

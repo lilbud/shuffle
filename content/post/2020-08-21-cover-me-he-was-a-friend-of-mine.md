@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-he-was-a-friend-of-mine/
+- /cover-me-he-was-a-friend-of-mine/
 - /20109/
 layout: post
 date: 2020-08-21T12:00:00

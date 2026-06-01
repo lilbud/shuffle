@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-two-hearts-in-true-waltz-time/
+- /roll-of-the-dice-two-hearts-in-true-waltz-time/
 - /12477/
 layout: post
 date: 2011-01-31T13:00:00

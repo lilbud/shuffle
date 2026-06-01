@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-tad-jennings-im-on-fire/
+- /cover-me-tad-jennings-im-on-fire/
 - /22279/
 layout: post
 date: 2020-10-18T12:00:00

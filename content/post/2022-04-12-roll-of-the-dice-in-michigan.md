@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-in-michigan/
+- /roll-of-the-dice-in-michigan/
 - /33851/
 layout: post
 date: 2022-04-12T12:00:00

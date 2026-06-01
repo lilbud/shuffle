@@ -1,6 +1,7 @@
 ---
 aliases:
 - /kingdom-of-days-december-30-2/
+- /kingdom-of-days-december-30/
 - /63578/
 layout: post
 date: 2025-12-30T12:00:53

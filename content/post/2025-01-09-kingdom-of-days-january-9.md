@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-9/
+- /kingdom-of-days-january-9/
 - /55556/
 layout: post
 date: 2025-01-09T12:00:39
 lastmod: 2025-11-12T17:11:22
-title: "January 9"
+title: "Kingdom of Days: January 9"
 slug: kingdom-of-days-january-9
 author: Ken Rosen
 description: "On this date: listen to the earliest live recording of Bruce and the E Street Band, a full performance of Springsteen on Broadway, and more."

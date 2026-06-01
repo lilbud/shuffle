@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-mojo-nixon-badlands/
+- /cover-me-mojo-nixon-badlands/
 - /6701/
 layout: post
 date: 2018-12-13T13:00:52

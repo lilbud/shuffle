@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-eleanor-rigby/
+- /cover-me-eleanor-rigby/
 - /18300/
 layout: post
 date: 2020-05-16T12:00:00

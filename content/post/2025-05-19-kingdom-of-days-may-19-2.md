@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-may-19-2/
+- /kingdom-of-days-may-19/
 - /56783/
 layout: post
 date: 2025-05-19T11:00:45
-lastmod: 2026-02-02T18:20:49
-title: "May 19"
+lastmod: 2025-05-04T16:55:46
+title: "Kingdom of Days: May 19"
 slug: kingdom-of-days-may-19-2
 author: Ken Rosen
 description: "Bruce records the videos for “Vigilante Man” and “I Ain’t Got No Home,” but the real highlights for this date are the only known Darkness-era performances of three tracks from The Promise."
@@ -56,19 +57,21 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/05/may-19th-2024-dublin-ie-bruce-springsteen-and-the-e-street-band-review.jpg.webp
   post_id: 56783
 ---
-**1973:** Bruce cancels a scheduled performance at Detroit’s Masonic Temple Theater.<br>
+***New for 2025:** New entry for 1975*<br>
+
+**1973:** Bruce cancels a scheduled performance at Detroit's Masonic Temple Theater.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/05/1973-05-19.jpg.webp)
 
-**1975:** Bruce and the E Street Band work on what will become *Born to Run* at the Record Plant in New York City, including a version of “Backstreets” with strings.<br>
+**1975:** Bruce and the E Street Band work on what will become *Born to Run* at the Record Plant in New York City, including a version of "[Backstreets]({{< relref "2022-05-14-roll-of-the-dice-backstreets.md" >}})" with strings.<br>
 
 {{< youtube nwKsHpVPXs8 >}}
 
-**1977:** Bruce drops by The Stone Pony and joins The Shakes for two numbers, “Jailhouse Rock” and “Sea Cruise.”<br>
+**1977:** Bruce drops by The Stone Pony and joins The Shakes for two numbers, "[Jailhouse Rock]({{< relref "2019-10-12-matr-bruce-springsteen-sting-billy-joel-elton-john-and-friends-jailhouse-rock.md" >}})" and "[Sea Cruise]({{< relref "2018-04-08-cover-me-sea-cruise.md" >}})."<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/05/1977-0519.jpg.webp)
 
-**1978:** Bruce and the E Street Band rehearse for the upcoming Darkness Tour at the Paramount Theater in Asbury Park. Among the songs they rehearse but never play publicly: “Spanish Eyes,” “The Brokenhearted,” and “The Way.” Listen to them all below, especially “The Brokenhearted,” on which you can hear the original coda (Bruce obviously and jarringly recorded a new one for the version that’s on *The Promise*) and “The Way,” which to this day has never had a proper performance. The recording quality isn’t the best, but the performance is stunning.<br>
+**1978:** Bruce and the E Street Band rehearse for the upcoming Darkness Tour at the Paramount Theater in Asbury Park. Among the songs they rehearse but never play publicly: "[Spanish Eyes]({{< relref "2023-01-14-roll-of-the-dice-spanish-eyes.md" >}})," "[The Brokenhearted]({{< relref "2018-08-20-roll-of-the-dice-the-brokenhearted.md" >}})," and "[The Way.]({{< relref "2021-08-06-roll-of-the-dice-the-way.md" >}})" Listen to them all below, especially "The Brokenhearted," on which you can hear the original coda (Bruce obviously and jarringly recorded a new one for the version that's on *The Promise*) and "The Way," which to this day has never had a proper performance. The recording quality isn't the best, but the performance is stunning.<br>
 
 {{< youtube _7l1ZAOtNLs >}}
 
@@ -84,13 +87,21 @@ params:
 
 **1984:** Bruce joins Clarence Clemons and The Red Bank Rockers on stage for four songs at The Stone Pony.<br>
 
+{{< videopress id=8PYuzTA6 >}}
+
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/05/1984-0519.jpg.webp)
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/05/1984-05-19.jpg.webp)
 
-**1988**: At Night Three (of five) at Madison Square Garden, Bruce records the videos for “Vigilante Man” and “I Ain’t Got No Home.”<br>
+**1988:** At Night Three (of five) at Madison Square Garden, Bruce records the videos for "[Vigilante Man]({{< relref "2021-09-14-cover-me-vigilante-man.md" >}})" and "[I Ain't Got No Home.]({{< relref "2019-02-10-cover-me-rotd-i-aint-got-no-home.md" >}})"<br>
 
-**1993:** Bruce joins Joe Ely on stage at Joe’s gig at Dublin’s National Stadium for three songs, including “Fingernails” and “Settle for Love.” Joe will repay the favor with Bruce tomorrow night.<br>
+{{< youtube eKXILNMXxs0 >}}
+
+(Skip to the 4:15 mark below to watch the video for "I Ain't Got No Home.")
+
+[Watch Video](//www.dailymotion.com/embed/video/x74lcw)
+
+**1993:** Bruce joins Joe Ely on stage at Joe's gig at Dublin's National Stadium for three songs, including "[Fingernails]({{< relref "2018-10-10-meeting-across-the-river-joe-ely-and-bruce-springsteen-fingernails.md" >}})" and "[Settle for Love]({{< relref "2020-04-22-matr-bruce-springsteen-and-joe-ely-settle-for-love.md" >}})." Joe will repay the favor with Bruce tomorrow night.<br>
 
 {{< youtube AHFfjy87y8s >}}
 
@@ -100,19 +111,27 @@ params:
 
 **1997:** Bruce plays a solo acoustic show in Toulon, France.<br>
 
+{{< videopress id=U0SMqWyc >}}
+
 **1999:** Night Two of four at Earls Court in London for the Reunion Tour.<br>
+
+{{< videopress id=L763UO8r >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/05/Evening_Standard_Fri__May_21__1999_-scaled.jpg.webp)
 
-**2003:** Elliott Murphy guest-stars on “[Better Days]({{< relref "1992-02-02-roll-of-the-dice-better-days.md" >}})” and “Born to Run” when the Rising Tour makes a stop at the Estadio de la Comunidad in Madrid.<br>
+**2003:** Elliott Murphy guest-stars on "[Better Days]({{< relref "1992-02-02-roll-of-the-dice-better-days.md" >}})" and "Born to Run" when the Rising Tour makes a stop at the Estadio de la Comunidad in Madrid.<br>
+
+{{< videopress id=SCAXgeKO >}}
 
 {{< youtube NSQGuU01YCc >}}
 
-**2005:** Bruce performs the tour premiere of “The Wish” at his solo acoustic show in East Rutherford.<br>
+**2005:** Bruce performs the tour premiere of "[The Wish]({{< relref "2018-06-23-roll-of-the-dice-the-wish.md" >}})" at his solo acoustic show in East Rutherford.<br>
 
 {{< youtube ufI1O9KNygg >}}
 
 {{< youtube U2PKBQ5yHoM >}}
+
+{{< videopress id=X33FlTuR >}}
 
 {{< youtube 5qhY0mkV_4k >}}
 
@@ -122,7 +141,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/05/2005-05-19.jpg.webp)
 
-**2009:** The first and only E Street Band performance of “Like a Rolling Stone” debuts at the Mellon Arena in Pittsburgh. Plus: a rare outing for “Jackson Cage;” Joe and Johnny Grushecky join the band for two final encores of “[Glory Day]({{< relref "1984-01-12-roll-of-the-dice-glory-days.md" >}})s” and “Mony Mony.”<br>
+**2009:** The first and only E Street Band performance of "[Like a Rolling Stone]({{< relref "2019-06-09-cover-me-like-a-rolling-stone.md" >}})" debuts at the Mellon Arena in Pittsburgh. Plus: a rare outing for "[Jackson Cage]({{< relref "2018-11-04-roll-of-the-dice-jackson-cage.md" >}});" Joe and Johnny Grushecky join the band for two final encores of "[Glory Day]({{< relref "1984-01-12-roll-of-the-dice-glory-days.md" >}})s" and "[Mony Mony]({{< relref "2021-03-18-cover-me-mony-mony.md" >}})."<br>
 
 {{< youtube YRvmZpc6P34 >}}
 
@@ -130,12 +149,12 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/05/2009-05-19.jpg.webp)
 
-**2016:** Bruce makes a return appearance (his third) at the Rock in Rio Festival in Lisbon. *The River* gets thrown by the wayside, with only three songs from that album making a Greatest Hits setlist that includes the tour premieres of “Darkness on the Edge of Town,” “Downbound Train,” “I’m on Fire,” “Johnny 99,” and “Spirit in the Night.” Watch the full pro-shot set below.<br>
+**2016:** Bruce makes a return appearance (his third) at the Rock in Rio Festival in Lisbon. *The River* gets thrown by the wayside, with only three songs from that album making a Greatest Hits setlist that includes the tour premieres of "[Darkness on the Edge of Town]({{< relref "2016-01-07-roll-of-the-dice-darkness-on-the-edge-of-town.md" >}})," "[Downbound Train,]({{< relref "1984-01-07-roll-of-the-dice-downbound-train.md" >}})" "[I'm on Fire,]({{< relref "1984-01-08-roll-of-the-dice-im-on-fire.md" >}})" "[Johnny 99]({{< relref "2020-07-20-roll-of-the-dice-johnny-99.md" >}})," and "[Spirit in the Night]({{< relref "2011-01-08-roll-of-the-dice-spirit-in-the-night.md" >}}/)." Watch the full pro-shot set below.<br>
 
 {{< vimeo 176779980 >}}
 
 **2018:** *Springsteen on Broadway* continues its theatrical run at the Walter Kerr Theater in New York City.<br>
 
-**2024:** Bruce and the E Street Band return to Croke Park in Dublin, where they tour premiere “Reason to Believe.”<br>
+**2024:** Bruce and the E Street Band return to Croke Park in Dublin, where they tour premiere "[Reason to Believe.]({{< relref "2021-02-27-roll-of-the-dice-reason-to-believe.md" >}})"<br>
 
 {{< youtube Q-Gge15k4bQ >}}

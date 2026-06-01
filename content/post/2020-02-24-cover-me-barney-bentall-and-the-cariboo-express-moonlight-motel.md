@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-barney-bentall-and-the-cariboo-express-moonlight-motel/
+- /cover-me-barney-bentall-and-the-cariboo-express-moonlight-motel/
 - /16363/
 layout: post
 date: 2020-02-24T13:00:00

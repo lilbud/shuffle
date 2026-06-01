@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-rotd-john-henry/
+- /cover-me-rotd-john-henry/
 - /27148/
 layout: post
 date: 2006-01-06T19:00:00

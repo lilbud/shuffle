@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-devils-dust/
+- /roll-of-the-dice-devils-dust/
 - /32478/
 layout: post
 date: 2022-03-02T12:51:00

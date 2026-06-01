@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-no-money-down/
+- /cover-me-no-money-down/
 - /8427/
 layout: post
 date: 2019-03-30T12:00:00

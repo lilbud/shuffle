@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-cover-me-pony-boy/
+- /roll-of-the-dice-cover-me-pony-boy/
 - /7700/
 layout: post
 date: 2019-03-01T13:00:00

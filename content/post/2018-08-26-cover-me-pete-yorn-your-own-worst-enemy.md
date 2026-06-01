@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-pete-yorn-your-own-worst-enemy/
+- /cover-me-pete-yorn-your-own-worst-enemy/
 - /4198/
 layout: post
 date: 2018-08-26T12:00:18

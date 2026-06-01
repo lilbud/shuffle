@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-scott-jacobs-dry-lightning/
+- /cover-me-scott-jacobs-dry-lightning/
 - /14361/
 layout: post
 date: 2019-11-27T12:51:00

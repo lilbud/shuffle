@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-southside-johnny-and-ronnie-spector-you-mean-so-much-to-me/
+- /cover-me-southside-johnny-and-ronnie-spector-you-mean-so-much-to-me/
 - /15636/
 layout: post
 date: 2020-02-16T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /bloggers-note-new-music-and-other-updates/
+- /bloggers-note-new-music-and-other-updates/
 - /21241/
 layout: post
 date: 2020-09-11T19:00:00

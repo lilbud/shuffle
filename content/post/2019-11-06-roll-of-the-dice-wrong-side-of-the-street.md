@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-wrong-side-of-the-street/
+- /roll-of-the-dice-wrong-side-of-the-street/
 - /13440/
 layout: post
 date: 2019-11-06T13:00:00

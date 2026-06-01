@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-waitin-on-a-sunny-day/
+- /roll-of-the-dice-waitin-on-a-sunny-day/
 - /12717/
 layout: post
 date: 2019-09-27T12:00:00

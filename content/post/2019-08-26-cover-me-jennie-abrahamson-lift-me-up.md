@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jennie-abrahamson-lift-me-up/
+- /cover-me-jennie-abrahamson-lift-me-up/
 - /12295/
 layout: post
 date: 2019-08-26T12:00:00

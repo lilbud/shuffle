@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-26-2/
+- /kingdom-of-days-february-26/
 - /56001/
 layout: post
 date: 2025-02-26T12:00:06
 lastmod: 2025-11-24T23:05:33
-title: "February 26"
+title: "Kingdom of Days: February 26"
 slug: kingdom-of-days-february-26-2
 author: Ken Rosen
 description: "An insanely eventful day in Bruce history with gigs galore, Grammy Awards, and TV appearances. Check out the highlights, including an amazing cover of “Stayin’ Alive” and a barely-pre-reunion clip from Conan O’Brian."

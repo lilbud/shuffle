@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-alexander-schmidt-band-im-on-fire/
+- /cover-me-alexander-schmidt-band-im-on-fire/
 - /15626/
 layout: post
 date: 2020-01-27T13:00:00

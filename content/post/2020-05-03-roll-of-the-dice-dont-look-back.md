@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-dont-look-back/
+- /roll-of-the-dice-dont-look-back/
 - /15272/
 layout: post
 date: 2020-05-03T12:00:00

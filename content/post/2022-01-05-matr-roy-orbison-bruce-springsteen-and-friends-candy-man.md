@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-roy-orbison-bruce-springsteen-and-friends-candy-man/
+- /matr-roy-orbison-bruce-springsteen-and-friends-candy-man/
 - /30867/
 layout: post
 date: 2022-01-05T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-alison-mosshart-state-trooper/
+- /cover-me-alison-mosshart-state-trooper/
 - /36624/
 layout: post
 date: 2022-07-29T12:00:00

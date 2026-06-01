@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-murder-incorporated/
+- /roll-of-the-dice-murder-incorporated/
 - /17539/
 layout: post
 date: 1984-01-15T19:00:00

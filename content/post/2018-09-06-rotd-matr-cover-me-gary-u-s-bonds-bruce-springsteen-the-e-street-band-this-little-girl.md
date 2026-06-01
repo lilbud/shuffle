@@ -1,6 +1,7 @@
 ---
 aliases:
 - /rotd-matr-cover-me-gary-u-s-bonds-bruce-springsteen-the-e-street-band-this-little-girl/
+- /rotd-matr-cover-me-gary-u-s-bonds-bruce-springsteen-the-e-street-band-this-little-girl/
 - /4184/
 layout: post
 date: 2018-09-06T12:00:57

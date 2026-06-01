@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-the-wallflowers-god-dont-make-lonely-girls/
+- /matr-bruce-springsteen-and-the-wallflowers-god-dont-make-lonely-girls/
 - /10319/
 layout: post
 date: 2019-05-29T12:00:00

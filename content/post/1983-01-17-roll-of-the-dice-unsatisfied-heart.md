@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-unsatisfied-heart/
+- /roll-of-the-dice-unsatisfied-heart/
 - /4347/
 layout: post
 date: 1983-01-17T19:00:41

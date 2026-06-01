@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-american-beauty/
+- /roll-of-the-dice-american-beauty/
 - /7529/
 layout: post
 date: 2019-02-21T13:00:36

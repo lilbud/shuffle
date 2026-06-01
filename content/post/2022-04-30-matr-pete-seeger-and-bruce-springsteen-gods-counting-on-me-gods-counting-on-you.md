@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-pete-seeger-and-bruce-springsteen-gods-counting-on-me-gods-counting-on-you/
+- /matr-pete-seeger-and-bruce-springsteen-gods-counting-on-me-gods-counting-on-you/
 - /34327/
 layout: post
 date: 2022-04-30T12:00:00

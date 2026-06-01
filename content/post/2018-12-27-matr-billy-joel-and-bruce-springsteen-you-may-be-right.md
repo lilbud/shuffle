@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-billy-joel-and-bruce-springsteen-you-may-be-right/
+- /matr-billy-joel-and-bruce-springsteen-you-may-be-right/
 - /6321/
 layout: post
 date: 2018-12-27T08:10:30

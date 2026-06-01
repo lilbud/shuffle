@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-marc-broussard-back-in-your-arms/
+- /cover-me-marc-broussard-back-in-your-arms/
 - /2970/
 layout: post
 date: 2018-07-05T12:00:17

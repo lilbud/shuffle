@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-lucca-lazaro-dancing-in-the-dark/
+- /cover-me-lucca-lazaro-dancing-in-the-dark/
 - /17892/
 layout: post
 date: 2020-05-02T12:00:00

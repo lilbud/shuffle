@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-co-ro-and-taleesa-because-the-night/
+- /cover-me-co-ro-and-taleesa-because-the-night/
 - /21250/
 layout: post
 date: 2020-09-27T12:00:00

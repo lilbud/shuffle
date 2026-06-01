@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-fire/
+- /cover-me-fire/
 - /15046/
 layout: post
 date: 2019-12-23T13:00:00

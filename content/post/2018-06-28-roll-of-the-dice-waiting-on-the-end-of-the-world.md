@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-waiting-on-the-end-of-the-world/
+- /roll-of-the-dice-waiting-on-the-end-of-the-world/
 - /2714/
 layout: post
 date: 2018-06-28T12:00:52

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-mandrillos-cross-my-heart/
+- /cover-me-the-mandrillos-cross-my-heart/
 - /34840/
 layout: post
 date: 2022-05-20T12:00:00

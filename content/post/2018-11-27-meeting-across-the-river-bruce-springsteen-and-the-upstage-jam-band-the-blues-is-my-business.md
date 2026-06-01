@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-the-upstage-jam-band-the-blues-is-my-business/
+- /meeting-across-the-river-bruce-springsteen-and-the-upstage-jam-band-the-blues-is-my-business/
 - /5813/
 layout: post
 date: 2018-11-27T13:00:32

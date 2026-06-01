@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-alabama-shakes-adam-raised-a-cain/
+- /cover-me-alabama-shakes-adam-raised-a-cain/
 - /30157/
 layout: post
 date: 2021-10-09T12:00:00

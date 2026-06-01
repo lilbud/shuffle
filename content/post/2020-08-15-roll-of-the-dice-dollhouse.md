@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-dollhouse/
+- /roll-of-the-dice-dollhouse/
 - /20374/
 layout: post
 date: 2020-08-15T12:00:00

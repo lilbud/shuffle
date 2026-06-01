@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-jesse-malin-and-bruce-springsteen-wendy/
+- /matr-jesse-malin-and-bruce-springsteen-wendy/
 - /20934/
 layout: post
 date: 2020-09-05T12:00:00

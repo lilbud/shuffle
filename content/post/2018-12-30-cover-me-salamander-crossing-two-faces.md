@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-salamander-crossing-two-faces/
+- /cover-me-salamander-crossing-two-faces/
 - /6325/
 layout: post
 date: 2018-12-30T09:50:08

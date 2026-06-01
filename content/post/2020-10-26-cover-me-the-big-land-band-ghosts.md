@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-big-land-band-ghosts/
+- /cover-me-the-big-land-band-ghosts/
 - /22492/
 layout: post
 date: 2020-10-26T12:16:00

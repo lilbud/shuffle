@@ -1,22 +1,22 @@
 <div class="row post-meta-footer mt-4">
-                      <div class="col">
-                        <span class="category">
-                          Posted In
-                          {{ range .Params.categories }}
-                            <a href="/categories/{{ . }}">
-                              {{ . | replaceRE "-" " " }}
-                            </a>
-                          {{ end }}
-                        </span>
-                        <span class="tags">
-                          Tagged
-                          {{ range $i, $e := .Params.tags }}
-                            {{ if $i }},{{ end }}
-                            <a href="/tags/{{ . }}">
-                              {{ . | replaceRE "-" " " }}
-                            </a>
-                          {{ end }}
-                        </span>
-                      </div>
-                    </div>
-                  </div>
+  <div class="col">
+    <span class="category">
+      Posted In
+      {{ range .Params.categories }}
+      <a href="/shuffle/categories/{{ . }}">
+        {{ . | replaceRE "-" " " }}
+      </a>
+      {{ end }}
+    </span>
+    <span class="tags">
+      Tagged
+      {{ range $i, $e := .Params.tags }}
+      {{ if $i }},{{ end }}
+      <a href="/shuffle/tags/{{ . }}">
+        {{ . | replaceRE "-" " " }}
+      </a>
+      {{ end }}
+    </span>
+  </div>
+</div>
+</div>

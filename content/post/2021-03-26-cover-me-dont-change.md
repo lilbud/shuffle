@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-dont-change/
+- /cover-me-dont-change/
 - /26079/
 layout: post
 date: 2021-03-26T12:00:00

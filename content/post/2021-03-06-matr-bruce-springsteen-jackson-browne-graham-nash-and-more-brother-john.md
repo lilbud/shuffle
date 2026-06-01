@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-jackson-browne-graham-nash-and-more-brother-john/
+- /matr-bruce-springsteen-jackson-browne-graham-nash-and-more-brother-john/
 - /25698/
 layout: post
 date: 2021-03-06T13:00:00

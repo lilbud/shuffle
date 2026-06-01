@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-the-asbury-park-all-star-revue-without-love/
+- /matr-bruce-springsteen-and-the-asbury-park-all-star-revue-without-love/
 - /32954/
 layout: post
 date: 2022-03-21T12:00:00

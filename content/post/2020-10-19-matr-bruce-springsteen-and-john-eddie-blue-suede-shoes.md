@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-john-eddie-blue-suede-shoes/
+- /matr-bruce-springsteen-and-john-eddie-blue-suede-shoes/
 - /22286/
 layout: post
 date: 2020-10-19T12:00:00

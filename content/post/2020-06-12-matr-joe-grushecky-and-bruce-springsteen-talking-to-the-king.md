@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-joe-grushecky-and-bruce-springsteen-talking-to-the-king/
+- /matr-joe-grushecky-and-bruce-springsteen-talking-to-the-king/
 - /18166/
 layout: post
 date: 2020-06-12T12:00:00

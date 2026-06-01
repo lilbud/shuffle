@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-lisa-lowell-secret-garden/
+- /cover-me-lisa-lowell-secret-garden/
 - /18396/
 layout: post
 date: 2020-06-19T12:00:00

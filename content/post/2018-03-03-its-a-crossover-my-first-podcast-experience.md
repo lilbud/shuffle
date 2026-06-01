@@ -1,6 +1,7 @@
 ---
 aliases:
 - /its-a-crossover-my-first-podcast-experience/
+- /its-a-crossover-my-first-podcast-experience/
 - /1061/
 layout: post
 date: 2018-03-03T23:23:34

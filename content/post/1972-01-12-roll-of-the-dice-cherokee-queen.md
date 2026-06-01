@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-cherokee-queen/
+- /roll-of-the-dice-cherokee-queen/
 - /27718/
 layout: post
 date: 1972-01-12T19:00:00

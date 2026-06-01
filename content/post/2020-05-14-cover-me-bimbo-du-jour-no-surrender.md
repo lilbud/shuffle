@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-bimbo-du-jour-no-surrender/
+- /cover-me-bimbo-du-jour-no-surrender/
 - /18471/
 layout: post
 date: 2020-05-14T12:00:00

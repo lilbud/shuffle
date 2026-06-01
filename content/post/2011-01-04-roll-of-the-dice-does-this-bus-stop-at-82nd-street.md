@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-does-this-bus-stop-at-82nd-street/
+- /roll-of-the-dice-does-this-bus-stop-at-82nd-street/
 - /17121/
 layout: post
 date: 2011-01-04T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-nils-lofgren-wreck-on-the-highway/
+- /cover-me-nils-lofgren-wreck-on-the-highway/
 - /405/
 layout: post
 date: 2018-01-25T13:00:12

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /bloggers-note-the-new-normal/
+- /bloggers-note-the-new-normal/
 - /34500/
 layout: post
 date: 2022-05-07T14:00:00

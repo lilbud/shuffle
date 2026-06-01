@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-tacoma-april-4-2000/
+- /where-the-band-was-tacoma-april-4-2000/
 - /1459/
 layout: post
 date: 2018-04-04T13:00:03

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-diddy-wah-diddy/
+- /cover-me-diddy-wah-diddy/
 - /27715/
 layout: post
 date: 2021-06-11T12:00:00

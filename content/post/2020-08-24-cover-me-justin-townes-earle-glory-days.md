@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-justin-townes-earle-glory-days/
+- /cover-me-justin-townes-earle-glory-days/
 - /20857/
 layout: post
 date: 2020-08-24T04:04:00

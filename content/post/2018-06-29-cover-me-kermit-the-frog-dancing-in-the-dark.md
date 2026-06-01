@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-kermit-the-frog-dancing-in-the-dark/
+- /cover-me-kermit-the-frog-dancing-in-the-dark/
 - /2773/
 layout: post
 date: 2018-06-29T12:00:50

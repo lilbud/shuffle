@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-fuse/
+- /roll-of-the-dice-the-fuse/
 - /19179/
 layout: post
 date: 2020-07-04T12:00:00

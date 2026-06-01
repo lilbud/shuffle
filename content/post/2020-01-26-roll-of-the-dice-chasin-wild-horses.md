@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-chasin-wild-horses/
+- /roll-of-the-dice-chasin-wild-horses/
 - /15625/
 layout: post
 date: 2020-01-26T13:00:00

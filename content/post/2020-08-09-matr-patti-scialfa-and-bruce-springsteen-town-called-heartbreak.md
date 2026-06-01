@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-scialfa-and-bruce-springsteen-town-called-heartbreak/
+- /matr-patti-scialfa-and-bruce-springsteen-town-called-heartbreak/
 - /19805/
 layout: post
 date: 2020-08-09T12:00:00

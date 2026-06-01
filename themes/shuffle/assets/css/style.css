@@ -513,7 +513,8 @@ p:last-child {
         font-size: 1.125rem;
     }
 
-    #main-column>.card {
+    #main-column>.card,
+    .card.post-navigation {
         padding: 30px !important;
     }
 }
@@ -523,7 +524,8 @@ p:last-child {
         font-size: 1rem;
     }
 
-    #main-column>.card {
+    #main-column>.card,
+    .card.post-navigation {
         padding: 15px;
     }
 }

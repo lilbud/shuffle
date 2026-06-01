@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-john-moreland-thunder-road/
+- /cover-me-john-moreland-thunder-road/
 - /3126/
 layout: post
 date: 2018-07-14T12:00:56

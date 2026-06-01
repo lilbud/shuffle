@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-gulf-coast-highway/
+- /cover-me-gulf-coast-highway/
 - /6681/
 layout: post
 date: 2019-01-18T13:00:21

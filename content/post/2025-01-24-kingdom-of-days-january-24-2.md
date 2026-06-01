@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-24-2/
+- /kingdom-of-days-january-24/
 - /55793/
 layout: post
 date: 2025-01-24T12:00:19
 lastmod: 2025-11-19T20:29:08
-title: "January 24"
+title: "Kingdom of Days: January 24"
 slug: kingdom-of-days-january-24-2
 author: Ken Rosen
 description: "Bruce plays his first ever show in Chicago, preps for his first ever show in South Africa, and records two songs that have still never seen the light of day. These and more highlights inside."

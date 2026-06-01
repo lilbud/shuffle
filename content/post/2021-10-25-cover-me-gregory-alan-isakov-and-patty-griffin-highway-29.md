@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-gregory-alan-isakov-and-patty-griffin-highway-29/
+- /cover-me-gregory-alan-isakov-and-patty-griffin-highway-29/
 - /30436/
 layout: post
 date: 2021-10-25T11:53:00

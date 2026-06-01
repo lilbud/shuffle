@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-green-onions/
+- /cover-me-green-onions/
 - /9990/
 layout: post
 date: 2019-05-17T12:00:00

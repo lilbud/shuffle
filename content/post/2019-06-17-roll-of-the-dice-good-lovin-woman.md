@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-good-lovin-woman/
+- /roll-of-the-dice-good-lovin-woman/
 - /10475/
 layout: post
 date: 2019-06-17T12:00:00

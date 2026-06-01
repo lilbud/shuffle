@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-new-york-city-december-14-2016/
+- /where-the-band-was-new-york-city-december-14-2016/
 - /6028/
 layout: post
 date: 2018-12-14T14:00:58

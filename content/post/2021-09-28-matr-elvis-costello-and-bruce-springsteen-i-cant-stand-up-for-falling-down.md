@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-elvis-costello-and-bruce-springsteen-i-cant-stand-up-for-falling-down/
+- /matr-elvis-costello-and-bruce-springsteen-i-cant-stand-up-for-falling-down/
 - /29632/
 layout: post
 date: 2021-09-28T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-like-a-rolling-stone/
+- /cover-me-like-a-rolling-stone/
 - /10315/
 layout: post
 date: 2019-06-09T12:00:00

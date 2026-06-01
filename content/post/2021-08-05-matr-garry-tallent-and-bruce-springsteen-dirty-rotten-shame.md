@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-garry-tallent-and-bruce-springsteen-dirty-rotten-shame/
+- /matr-garry-tallent-and-bruce-springsteen-dirty-rotten-shame/
 - /28462/
 layout: post
 date: 2021-08-05T11:58:00

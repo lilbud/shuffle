@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-rotd-gary-u-s-bonds-and-bruce-springsteen-loves-on-the-line/
+- /matr-rotd-gary-u-s-bonds-and-bruce-springsteen-loves-on-the-line/
 - /32111/
 layout: post
 date: 2022-01-20T13:00:00

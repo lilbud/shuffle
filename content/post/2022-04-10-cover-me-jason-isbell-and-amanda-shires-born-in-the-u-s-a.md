@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jason-isbell-and-amanda-shires-born-in-the-u-s-a/
+- /cover-me-jason-isbell-and-amanda-shires-born-in-the-u-s-a/
 - /33817/
 layout: post
 date: 2022-04-10T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-the-shots-farther-up-the-road/
+- /matr-bruce-springsteen-and-the-shots-farther-up-the-road/
 - /26261/
 layout: post
 date: 2021-04-06T12:00:00

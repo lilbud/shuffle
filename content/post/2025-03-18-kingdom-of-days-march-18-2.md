@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-march-18-2/
+- /kingdom-of-days-march-18/
 - /56190/
 layout: post
 date: 2025-03-18T11:00:24
-lastmod: 2025-12-08T19:14:29
-title: "March 18"
+lastmod: 2025-03-07T00:47:27
+title: "Kingdom of Days: March 18"
 slug: kingdom-of-days-march-18-2
 author: Ken Rosen
 description: "Bruce meets Patti, kicks off the Wrecking Ball tour, makes a guest appearance with Dropkick Murphys, plays the first public gig with the reunited E Street Band, and more on this VERY busy day in Bruce history."
@@ -37,6 +38,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/03/2023-03-18-penn-state-pa-bruce-springsteen-and-the-e-street-band-review.webp
   post_id: 56190
 ---
+***New for 2025:** Video for 2023; new entry for 2024*<br>
+
 **1967:** The Castiles play The Cage in Middletown, New Jersey.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/03/1967-0318.jpg.webp)
@@ -49,11 +52,11 @@ params:
 
 **1972:** The Bruce Springsteen Band plays a gig at Hampden-Sydney College in Virginia.<br>
 
-**1973:** Bruce and his band finish their weeklong stint at Oliver’s in Boston with a rare Sunday matinee performance. Following the show, the band drives to the University of Rhode Island for an evening show opening for Sha Na Na. (Photo credit: Bob Savage)<br>
+**1973:** Bruce and his band finish their weeklong stint at Oliver's in Boston with a rare Sunday matinee performance. Following the show, the band drives to the University of Rhode Island for an evening show opening for Sha Na Na. (Photo credit: Bob Savage)<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/03/1973-0318.jpg.webp)
 
-**1974:** Bruce and his unnamed band play their first two shows (of eight total) at Gertie’s in Dallas. Bruce is not yet popular in Dallas, and the shows are poorly attended.<br>
+**1974:** Bruce and his unnamed band play their first two shows (of eight total) at Gertie's in Dallas. Bruce is not yet popular in Dallas, and the shows are poorly attended.<br>
 
 **1977:** Bruce and the E Street Band bring the Lawsuit Tour to the Veterans Memorial Coliseum in New Haven, Connecticut.<br>
 
@@ -63,13 +66,13 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/03/1977-03-18.jpg.webp)
 
-**1999:** Bruce and the reunited E Street Band play their first public show at Convention Hall in Asbury Park. The show is a warm-up for the upcoming tour and a benefit for local Asbury Park community organizations. “My Love Will Not Let You Down” and “Land of Hope and Dreams” both make their debuts tonight; “If I Should Fall Behind” makes its E Street Band debut; “Factory” is played for the first time in 15 years; and “The River” and “Youngstown” get new arrangements.<br>
+**1999:** Bruce and the reunited E Street Band play their first public show at Convention Hall in Asbury Park. The show is a warm-up for the upcoming tour and a benefit for local Asbury Park community organizations. "[My Love Will Not Let You Down]({{< relref "2018-01-24-roll-of-the-dice-my-love-will-not-let-you-down.md" >}})" and "[Land of Hope and Dreams]({{< relref "2018-01-05-roll-of-the-dice-land-of-hope-and-dreams.md" >}})" both make their debuts tonight; "[If I Should Fall Behind]({{< relref "1992-02-05-roll-of-the-dice-if-i-should-fall-behind.md" >}})" makes its E Street Band debut; "[Factory]({{< relref "2018-10-31-roll-of-the-dice-factory.md" >}})" is played for the first time in 15 years; and "[The River]({{< relref "2021-03-04-roll-of-the-dice-the-river.md" >}})" and "[Youngstown]({{< relref "2023-05-01-roll-of-the-dice-youngstown.md" >}})" get new arrangements.<br>
 
 News coverage from the day:
 
 {{< youtube zBc-SIs943E >}}
 
-…and video of the opener:
+...and video of the opener:
 
 {{< youtube yx-6qyVaUJA >}}
 
@@ -77,7 +80,7 @@ News coverage from the day:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/03/1999-03-18b.jpg.webp)
 
-**2000:** The Reunion Tour moves on to Memphis and the Pyramid Arena, where “Follow That Dream” makes its tour debut and only appearance.<br>
+**2000:** The Reunion Tour moves on to Memphis and the Pyramid Arena, where "Follow That Dream" makes its tour debut and only appearance.<br>
 
 {{< youtube wKD0Fh5A8eg >}}
 
@@ -85,11 +88,11 @@ News coverage from the day:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/03/The_Commercial_Appeal_Sun__Mar_19__2000_.jpg.webp)
 
-**2009:** Bruce and the E Street Band rehearse for their upcoming tour at Asbury Park’s Convention Hall. Eavesdrop below to hear them work out several songs, including Jimmy Cliff’s “Sufferin’ in the Land,” which won’t make it to the final setlist.<br>
+**2009:** Bruce and the E Street Band rehearse for their upcoming tour at Asbury Park's Convention Hall. Eavesdrop below to hear them work out several songs, including Jimmy Cliff's "[Sufferin' in the Land,]({{< relref "2020-09-14-cover-me-sufferin-in-the-land.md" >}})" which won't make it to the final setlist.<br>
 
 {{< videopress id=lxNzRjRj >}}
 
-**2011:** Bruce joins Dropkick Murphys on stage at the House of Blues in Boston for “Peg O’ My Heart,” “Badlands,” and “I’m Shipping Up to Boston.”<br>
+**2011:** Bruce joins Dropkick Murphys on stage at the House of Blues in Boston for "[Peg O' My Heart]({{< relref "2020-02-03-matr-dropkick-murphys-and-bruce-springsteen-peg-o-my-heart.md" >}})," "[Badlands]({{< relref "2016-01-20-roll-of-the-dice-badlands.md" >}})," and "[I'm Shipping Up to Boston]({{< relref "2018-12-16-matr-dropkick-murphys-and-bruce-springsteen-im-shipping-up-to-boston.md" >}})."<br>
 
 {{< youtube rGvZGCh16yA >}}
 
@@ -99,7 +102,7 @@ News coverage from the day:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/03/2011-03-18.jpg.webp)
 
-**2012:** The Wrecking Ball Tour kicks off at Philips Arena in Atlanta, featuring the live debut of “Easy Money.”<br>
+**2012:** The Wrecking Ball Tour kicks off at Philips Arena in Atlanta, featuring the live debut of "[Easy Money]({{< relref "2021-06-10-roll-of-the-dice-easy-money.md" >}})." For more highlights from this show, see my [Where the Band Was report]({{< relref "2018-03-18-where-the-band-was-atlanta-march-18-2012.md" >}}).<br>
 
 {{< youtube tH3X6MhqW4k >}}
 
@@ -119,7 +122,7 @@ News coverage from the day:
 
 {{< youtube SZ1x1HZVp0c >}}
 
-**2023:** Bruce and the E Street Band bring their World Tour to Penn State University, where “Hungry Heart” makes its first tour appearance.<br>
+**2023:** Bruce and the E Street Band bring their World Tour to Penn State University, where "[Hungry Heart]({{< relref "2022-12-21-roll-of-the-dice-hungry-heart.md" >}})" makes its first tour appearance.<br>
 
 {{< youtube Aoc_cCa9f0Y >}}
 
@@ -127,6 +130,6 @@ News coverage from the day:
 
 {{< youtube bzpVJE1_dGk >}}
 
-![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/03/Centre_Daily_Times_Mon__Mar_20__2023_-scaled.jpg) ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/03/Centre_Daily_Times_Mon__Mar_20__2023_-1-scaled.jpg.webp)
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/03/Centre_Daily_Times_Mon__Mar_20__2023_-1-scaled.jpg.webp)
 
 **2024:** Bruce and the E Street Band rehearse at the Footprint Center in Phoenix.<br>

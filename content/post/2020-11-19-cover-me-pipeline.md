@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-pipeline/
+- /cover-me-pipeline/
 - /22914/
 layout: post
 date: 2020-11-19T13:00:00

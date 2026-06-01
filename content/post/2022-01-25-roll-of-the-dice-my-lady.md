@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-my-lady/
+- /roll-of-the-dice-my-lady/
 - /32247/
 layout: post
 date: 2022-01-25T13:00:00

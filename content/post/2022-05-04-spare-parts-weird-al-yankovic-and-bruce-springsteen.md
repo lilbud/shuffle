@@ -1,6 +1,7 @@
 ---
 aliases:
 - /spare-parts-weird-al-yankovic-and-bruce-springsteen/
+- /spare-parts-weird-al-yankovic-and-bruce-springsteen/
 - /34398/
 layout: post
 date: 2022-05-04T12:00:00

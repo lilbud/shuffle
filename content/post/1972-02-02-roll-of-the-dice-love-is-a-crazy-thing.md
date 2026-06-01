@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-love-is-a-crazy-thing/
+- /roll-of-the-dice-love-is-a-crazy-thing/
 - /20377/
 layout: post
 date: 1972-02-02T19:00:00

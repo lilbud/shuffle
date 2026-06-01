@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-ronnie-spector-and-the-e-street-band-say-goodbye-to-hollywood/
+- /matr-ronnie-spector-and-the-e-street-band-say-goodbye-to-hollywood/
 - /12011/
 layout: post
 date: 2019-08-27T12:00:00

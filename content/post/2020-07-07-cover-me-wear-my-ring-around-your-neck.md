@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-wear-my-ring-around-your-neck/
+- /cover-me-wear-my-ring-around-your-neck/
 - /18175/
 layout: post
 date: 2020-07-07T12:00:00

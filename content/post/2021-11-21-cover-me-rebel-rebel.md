@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-rebel-rebel/
+- /cover-me-rebel-rebel/
 - /31028/
 layout: post
 date: 2021-11-21T13:00:00

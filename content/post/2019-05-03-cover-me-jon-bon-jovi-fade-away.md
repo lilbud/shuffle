@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jon-bon-jovi-fade-away/
+- /cover-me-jon-bon-jovi-fade-away/
 - /9377/
 layout: post
 date: 2019-05-03T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-precious-metal-two-hearts/
+- /cover-me-precious-metal-two-hearts/
 - /20105/
 layout: post
 date: 2020-08-10T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-billy-mann-two-hearts/
+- /cover-me-billy-mann-two-hearts/
 - /16921/
 layout: post
 date: 2020-03-27T12:00:00

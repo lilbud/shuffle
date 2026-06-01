@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-iacopo-fedi-mans-job/
+- /cover-me-iacopo-fedi-mans-job/
 - /29281/
 layout: post
 date: 2021-09-04T12:40:00

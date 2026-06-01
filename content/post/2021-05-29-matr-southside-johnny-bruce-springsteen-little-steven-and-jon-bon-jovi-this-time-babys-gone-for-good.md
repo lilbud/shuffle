@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-southside-johnny-bruce-springsteen-little-steven-and-jon-bon-jovi-this-time-babys-gone-for-good/
+- /matr-southside-johnny-bruce-springsteen-little-steven-and-jon-bon-jovi-this-time-babys-gone-for-good/
 - /27325/
 layout: post
 date: 2021-05-29T11:57:00

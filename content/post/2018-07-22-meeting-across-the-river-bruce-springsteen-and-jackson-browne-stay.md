@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-jackson-browne-stay/
+- /meeting-across-the-river-bruce-springsteen-and-jackson-browne-stay/
 - /3210/
 layout: post
 date: 2018-07-22T12:00:49

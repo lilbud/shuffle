@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-kansas-city-august-24-2008/
+- /where-the-band-was-kansas-city-august-24-2008/
 - /3911/
 layout: post
 date: 2018-08-24T12:47:51

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-mark-lavengood-band-born-in-the-u-s-a/
+- /cover-me-mark-lavengood-band-born-in-the-u-s-a/
 - /16218/
 layout: post
 date: 2020-03-07T13:00:00

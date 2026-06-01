@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-lorenzo-bertocchini-and-elizabeth-lee-be-true/
+- /cover-me-lorenzo-bertocchini-and-elizabeth-lee-be-true/
 - /23066/
 layout: post
 date: 2020-12-09T13:00:02

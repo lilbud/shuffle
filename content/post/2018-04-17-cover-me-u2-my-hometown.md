@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-u2-my-hometown/
+- /cover-me-u2-my-hometown/
 - /1755/
 layout: post
 date: 2018-04-17T12:00:16

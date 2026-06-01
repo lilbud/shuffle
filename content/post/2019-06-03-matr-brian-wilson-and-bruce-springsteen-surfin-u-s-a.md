@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-brian-wilson-and-bruce-springsteen-surfin-u-s-a/
+- /matr-brian-wilson-and-bruce-springsteen-surfin-u-s-a/
 - /10184/
 layout: post
 date: 2019-06-03T12:00:00

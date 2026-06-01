@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-anne-mccue-born-to-run/
+- /cover-me-anne-mccue-born-to-run/
 - /15204/
 layout: post
 date: 2019-12-30T13:00:00

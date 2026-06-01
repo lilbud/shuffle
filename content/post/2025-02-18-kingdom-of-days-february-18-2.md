@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-18-2/
+- /kingdom-of-days-february-18/
 - /55961/
 layout: post
 date: 2025-02-18T12:00:52
 lastmod: 2025-11-24T23:44:18
-title: "February 18"
+title: "Kingdom of Days: February 18"
 slug: kingdom-of-days-february-18-2
 author: Ken Rosen
 description: "Check out highlights from Hunter Valley, Atlanta, Jacksonville, and more–all from this date."

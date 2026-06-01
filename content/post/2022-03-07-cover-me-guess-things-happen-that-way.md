@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-guess-things-happen-that-way/
+- /cover-me-guess-things-happen-that-way/
 - /33130/
 layout: post
 date: 2022-03-07T13:00:00

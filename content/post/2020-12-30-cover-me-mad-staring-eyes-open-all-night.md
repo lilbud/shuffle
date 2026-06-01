@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-mad-staring-eyes-open-all-night/
+- /cover-me-mad-staring-eyes-open-all-night/
 - /24149/
 layout: post
 date: 2020-12-30T13:00:00

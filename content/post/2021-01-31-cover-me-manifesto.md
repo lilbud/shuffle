@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-manifesto/
+- /cover-me-manifesto/
 - /24857/
 layout: post
 date: 2021-01-31T13:00:00

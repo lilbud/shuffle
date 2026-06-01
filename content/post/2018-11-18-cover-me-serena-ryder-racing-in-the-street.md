@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-serena-ryder-racing-in-the-street/
+- /cover-me-serena-ryder-racing-in-the-street/
 - /5735/
 layout: post
 date: 2018-11-18T13:00:59

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-streets-of-fire/
+- /roll-of-the-dice-streets-of-fire/
 - /30554/
 layout: post
 date: 2021-11-06T12:00:00

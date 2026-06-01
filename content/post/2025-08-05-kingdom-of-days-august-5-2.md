@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-august-5-2/
+- /kingdom-of-days-august-5/
 - /57910/
 layout: post
 date: 2025-08-05T11:00:00
-lastmod: 2026-05-12T20:19:04
-title: "August 5"
+lastmod: 2025-07-21T22:19:18
+title: "Kingdom of Days: August 5"
 slug: kingdom-of-days-august-5-2
 author: Ken Rosen
 description: "On this date: Bruce kicks off his first stadium tour, guest stars with John Fogerty, and more."
@@ -28,6 +29,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2019/08/1984-08-05.jpg.webp
   post_id: 57910
 ---
+***New for 2025:** New entry for 1977*<br>
+
 **1971:** Bruce joins an acoustic jam session (along with Steve Van Zandt on acoustic slide guitar, Kevin Kavanaugh on piano, and Vini Lopez on pebble-filled soda cans) at an outdoor folk concert organized by Tinker West.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/08/1971-08-05.png.webp)
@@ -36,7 +39,7 @@ params:
 
 {{< videopress id=P8BHqSd0 >}}
 
-**1977:** Bruce holds a recording session for his fourth album at Atlantic Studios in New York City, where he and the band work on "The Way," "Talk to Me," and "After Dinner"–none of which will make the album.<br>
+**1977:** Bruce holds a recording session for his fourth album at Atlantic Studios in New York City, where he and the band work on "[The Way,]({{< relref "2021-08-06-roll-of-the-dice-the-way.md" >}})" "[Talk to Me,]({{< relref "2019-02-26-roll-of-the-dice-talk-to-me.md" >}})" and "After Dinner"–none of which will make the album.<br>
 
 **1978:** Bruce and the boys bring the Darkness Tour to Louisville for a night. Bruce loses his place early on during "Rosalita (Come Out Tonight)" and the band vamps until Bruce remembers where he was.<br>
 
@@ -54,7 +57,7 @@ After the show, Bruce sits down for an interview with Australian journalist Davi
 
 {{< videopress id=pK3XrIXK >}}
 
-**1984:** Bruce and the E Street Band kick off a ten-night Born in the U.S.A. Tour stand at the Meadowlands. This show features the tour premiere of "Jersey Girl" and is available as part of Bruce's official archive series. Watch the pro-shot opening of the show below.<br>
+**1984:** Bruce and the E Street Band kick off a ten-night Born in the U.S.A. Tour stand at the Meadowlands. This show features the tour premiere of "[Jersey Girl]({{< relref "1976-02-07-cover-me-roll-of-the-dice-jersey-girl.md" >}}/)" and is available as part of Bruce's official archive series–get it [here](https://live.brucespringsteen.net/live-music/0,12491/Bruce-Springsteen---The-E-Street-Band-mp3-flac-download-8-5-1984-Brendan-Byrne-Arena-East-Rutherford-NJ.html). Watch the pro-shot opening of the show below.<br>
 
 {{< youtube xQWHgkEPO6M >}}
 
@@ -70,7 +73,7 @@ After the show, Bruce sits down for an interview with Australian journalist Davi
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/07/1984-08-05c.png.webp)
 
-**1985:** Bruce and the E Street Band kick off the final leg of the Born in the U.S.A. Tour–his first all-stadium tour–at RFK Stadium in Washington, DC. This show is notable for the second of only three performances ever of "Man at the Top," the first U.S. performance of "Seeds," and the first time Bruce closes a show with "Sherry Darling."<br>
+**1985:** Bruce and the E Street Band kick off the final leg of the Born in the U.S.A. Tour–his first all-stadium tour–at RFK Stadium in Washington, DC. This show is notable for the second of only three performances ever of "[Man at the Top]({{< relref "2019-05-10-roll-of-the-dice-man-at-the-top.md" >}})," the first U.S. performance of "[Seeds]({{< relref "2020-10-10-roll-of-the-dice-seeds.md" >}})," and the first time Bruce closes a show with "[Sherry Darling]({{< relref "2018-07-06-roll-of-the-dice-sherry-darling.md" >}})."<br>
 
 {{< youtube rm49wginqwo >}}
 
@@ -94,6 +97,6 @@ Because this show marks Bruce's return to the U.S. and the first time playing to
 
 {{< youtube-playlist PLJTyL9twk3zB4ezPROrBW1WqFU1B0KIHv >}}
 
-**2006:** Bruce makes a guest appearance with John Fogerty at John's show at the PNC Bank Arts Center in Holmdel, playing "Long Tall Sally."<br>
+**2006:** Bruce makes a guest appearance with John Fogerty at John's show at the PNC Bank Arts Center in Holmdel, playing "[Long Tall Sally]({{< relref "2019-04-19-cover-me-long-tall-sally.md" >}})."<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/08/2006-0805.jpg.webp)

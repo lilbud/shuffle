@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-lift-me-up/
+- /roll-of-the-dice-lift-me-up/
 - /2181/
 layout: post
 date: 2018-05-20T12:00:56

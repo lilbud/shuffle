@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-garland-jeffreys-and-bruce-springsteen-r-o-c-k/
+- /matr-garland-jeffreys-and-bruce-springsteen-r-o-c-k/
 - /14565/
 layout: post
 date: 2019-12-04T12:51:00

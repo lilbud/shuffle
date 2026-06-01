@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-fire/
+- /roll-of-the-dice-fire/
 - /19928/
 layout: post
 date: 2020-08-05T12:00:00

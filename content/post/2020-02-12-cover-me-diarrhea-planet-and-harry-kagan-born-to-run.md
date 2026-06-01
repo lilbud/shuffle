@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-diarrhea-planet-and-harry-kagan-born-to-run/
+- /cover-me-diarrhea-planet-and-harry-kagan-born-to-run/
 - /15952/
 layout: post
 date: 2020-02-12T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-rockaway-the-days/
+- /roll-of-the-dice-rockaway-the-days/
 - /25700/
 layout: post
 date: 2021-03-15T12:00:00

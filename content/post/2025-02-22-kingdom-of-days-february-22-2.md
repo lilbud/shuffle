@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-22-2/
+- /kingdom-of-days-february-22/
 - /55973/
 layout: post
 date: 2025-02-22T12:00:46
 lastmod: 2025-11-24T23:53:02
-title: "February 22"
+title: "Kingdom of Days: February 22"
 slug: kingdom-of-days-february-22-2
 author: Ken Rosen
 description: "Bruce’s parents marry, Steel Mill records in the studio, and Bruce and the band play a fun Australian winery show. Plus: Friday Night Videos airs a private reel on Bruce."

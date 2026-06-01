@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-streets-of-philadelphia/
+- /roll-of-the-dice-streets-of-philadelphia/
 - /27622/
 layout: post
 date: 2021-06-30T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-mary-j-blige-and-kendrick-lamar-american-skin-41-shots/
+- /cover-me-mary-j-blige-and-kendrick-lamar-american-skin-41-shots/
 - /8271/
 layout: post
 date: 2019-04-05T12:00:00

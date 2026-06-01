@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-st-paul-february-29-2016/
+- /where-the-band-was-st-paul-february-29-2016/
 - /16332/
 layout: post
 date: 2020-02-29T12:01:00

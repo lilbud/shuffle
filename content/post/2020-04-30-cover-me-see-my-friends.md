@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-see-my-friends/
+- /cover-me-see-my-friends/
 - /17544/
 layout: post
 date: 2020-04-30T12:00:00

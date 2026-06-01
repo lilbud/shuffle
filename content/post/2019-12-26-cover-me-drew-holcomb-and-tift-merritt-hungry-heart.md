@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-drew-holcomb-and-tift-merritt-hungry-heart/
+- /cover-me-drew-holcomb-and-tift-merritt-hungry-heart/
 - /15244/
 layout: post
 date: 2019-12-26T13:00:00

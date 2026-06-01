@@ -1,6 +1,7 @@
 ---
 aliases:
 - /rotd-cover-me-jacobs-ladder/
+- /rotd-cover-me-jacobs-ladder/
 - /8401/
 layout: post
 date: 2006-01-08T19:00:00

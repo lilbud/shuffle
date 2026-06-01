@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-where-was-jesus-in-ohio/
+- /roll-of-the-dice-where-was-jesus-in-ohio/
 - /19325/
 layout: post
 date: 2020-07-06T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-fabio-melis-factory/
+- /cover-me-fabio-melis-factory/
 - /27774/
 layout: post
 date: 2021-06-08T12:00:00

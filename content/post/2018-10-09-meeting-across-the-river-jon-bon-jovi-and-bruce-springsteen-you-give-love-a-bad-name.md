@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-jon-bon-jovi-and-bruce-springsteen-you-give-love-a-bad-name/
+- /meeting-across-the-river-jon-bon-jovi-and-bruce-springsteen-you-give-love-a-bad-name/
 - /5130/
 layout: post
 date: 2018-10-09T12:00:37

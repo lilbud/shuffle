@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-yankees-win/
+- /roll-of-the-dice-yankees-win/
 - /10924/
 layout: post
 date: 2019-06-23T12:00:00

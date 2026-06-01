@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-once-upon-a-time-in-the-west/
+- /cover-me-once-upon-a-time-in-the-west/
 - /803/
 layout: post
 date: 2018-02-25T13:26:08

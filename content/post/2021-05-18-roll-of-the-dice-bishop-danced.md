@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-bishop-danced/
+- /roll-of-the-dice-bishop-danced/
 - /26869/
 layout: post
 date: 2021-05-18T12:00:00

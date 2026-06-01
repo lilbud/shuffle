@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-dropkick-murphys-and-bruce-springsteen-peg-o-my-heart/
+- /matr-dropkick-murphys-and-bruce-springsteen-peg-o-my-heart/
 - /15624/
 layout: post
 date: 2020-02-03T13:00:00

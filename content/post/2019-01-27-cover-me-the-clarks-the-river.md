@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-clarks-the-river/
+- /cover-me-the-clarks-the-river/
 - /7164/
 layout: post
 date: 2019-01-27T13:00:50

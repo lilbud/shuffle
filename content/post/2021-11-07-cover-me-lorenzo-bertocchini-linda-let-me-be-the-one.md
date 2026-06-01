@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-lorenzo-bertocchini-linda-let-me-be-the-one/
+- /cover-me-lorenzo-bertocchini-linda-let-me-be-the-one/
 - /26255/
 layout: post
 date: 2021-11-07T13:00:00

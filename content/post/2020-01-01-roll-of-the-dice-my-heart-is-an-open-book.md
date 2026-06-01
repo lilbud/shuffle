@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-my-heart-is-an-open-book/
+- /roll-of-the-dice-my-heart-is-an-open-book/
 - /15270/
 layout: post
 date: 2020-01-01T13:00:00

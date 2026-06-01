@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-no-surrender/
+- /roll-of-the-dice-no-surrender/
 - /27047/
 layout: post
 date: 1984-01-09T19:00:00

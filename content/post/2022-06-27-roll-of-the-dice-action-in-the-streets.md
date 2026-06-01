@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-action-in-the-streets/
+- /roll-of-the-dice-action-in-the-streets/
 - /35841/
 layout: post
 date: 2022-06-27T12:00:00

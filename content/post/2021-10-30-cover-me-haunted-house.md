@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-haunted-house/
+- /cover-me-haunted-house/
 - /30100/
 layout: post
 date: 2021-10-30T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-southside-johnny-and-bruce-springsteen-trapped-again/
+- /meeting-across-the-river-southside-johnny-and-bruce-springsteen-trapped-again/
 - /6282/
 layout: post
 date: 2018-12-23T13:00:49

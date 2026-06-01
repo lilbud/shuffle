@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-gloria/
+- /cover-me-gloria/
 - /1017/
 layout: post
 date: 2018-03-16T12:00:02

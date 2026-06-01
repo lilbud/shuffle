@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-eric-burdon-we-gotta-get-out-of-this-place/
+- /matr-bruce-springsteen-and-eric-burdon-we-gotta-get-out-of-this-place/
 - /33062/
 layout: post
 date: 2022-03-17T12:00:00

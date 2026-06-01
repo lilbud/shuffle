@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-ninety-nine-and-a-half-wont-do/
+- /cover-me-ninety-nine-and-a-half-wont-do/
 - /21637/
 layout: post
 date: 2020-10-11T12:00:00

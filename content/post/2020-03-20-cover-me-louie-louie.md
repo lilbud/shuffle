@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-louie-louie/
+- /cover-me-louie-louie/
 - /16554/
 layout: post
 date: 2020-03-20T12:00:00

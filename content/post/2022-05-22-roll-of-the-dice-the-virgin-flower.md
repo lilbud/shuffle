@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-virgin-flower/
+- /roll-of-the-dice-the-virgin-flower/
 - /27324/
 layout: post
 date: 2022-05-22T12:00:00

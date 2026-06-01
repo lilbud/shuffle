@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-june-20-2/
+- /kingdom-of-days-june-20/
 - /57120/
 layout: post
 date: 2025-06-20T11:00:08
-lastmod: 2026-02-15T21:07:06
-title: "June 20"
+lastmod: 2025-06-07T22:36:38
+title: "Kingdom of Days: June 20"
 slug: kingdom-of-days-june-20-2
 author: Ken Rosen
 description: "On this date: Bruce plays Red Rocks for the first time, guest stars abound, and the legendary ten-night MSG Reunion stand continues. More highlights inside."
@@ -54,19 +55,23 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2025/06/june-20th-2024-barcelona-es-bruce-springsteen-and-the-e-street-band-review-2.jpg.webp
   post_id: 57120
 ---
+***New for 2025:** New entry for 1977, 1979 and 2024*<br>
+
 **1970:** Steel Mill plays their second of two nights at The String Factory in Richmond.<br>
 
 **1971:** The Sundance Blues Band plays an afternoon gig at The Student Prince in Asbury Park.<br>
 
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/06/1971-06-19.jpg.webp)
+
 **1977:** Bruce and the E Street Band record for what will become *Darkness on the Edge of Town* at Atlantic Studios in New York City.<br>
 
-**1978:** Bruce and the E Street Band play Red Rocks for the first time at this Darkness Tour stop. This show also notches two additional firsts: Bruce's first-ever show in Colorado and his first-ever cover of "I Fought the Law."<br>
+**1978:** Bruce and the E Street Band play Red Rocks for the first time at this Darkness Tour stop. This show also notches two additional firsts: Bruce's first-ever show in Colorado and his first-ever cover of "[I Fought the Law]({{< relref "2022-04-01-matr-bruce-springsteen-and-don-henley-i-fought-the-law.md" >}})."<br>
 
 {{< videopress id=602P8E1i >}}
 
 **1979:** Bruce and the E Street Band work on "Stolen Car" at The Power Station in New York City.<br>
 
-**1982:** Bruce makes his by now customary "surprise" appearance with Cats on a Smooth Surface at The Stone Pony, with a setlist that includes covers of "Come On, Let's Go," "Little Latin Lupe Lu," "Sweet Little Sixteen," "Lucille," and more.<br>
+**1982:** Bruce makes his by now customary "surprise" appearance with Cats on a Smooth Surface at The Stone Pony, with a setlist that includes covers of "[Come On, Let's Go]({{< relref "2018-10-19-cover-me-come-on-lets-go.md" >}})," "[Little Latin Lupe Lu]({{< relref "1976-01-14-cover-me-little-latin-lupe-lu.md" >}}/)," "[Sweet Little Sixteen]({{< relref "2018-06-18-cover-me-sweet-little-sixteen.md" >}})," "[Lucille]({{< relref "1976-01-07-cover-me-lucille.md" >}}/)," and more.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/06/1982-0620.jpg.webp)
 
@@ -76,11 +81,11 @@ params:
 
 {{< videopress id=Sx92iRWL >}}
 
-**1999:** Bruce and the reunited E Street Band play their second of two nights in Arnhem, The Netherlands, where they tour premiere "Trapped."<br>
+**1999:** Bruce and the reunited E Street Band play their second of two nights in Arnhem, The Netherlands, where they tour premiere "[Trapped]({{< relref "2018-08-05-roll-of-the-dice-cover-me-trapped.md" >}})."<br>
 
 {{< videopress id=uOIqfM0v >}}
 
-**2000:** Night Four of ten at Madison Square Garden, as the Reunion Tour's last stand continues. Highlights include the last "New York City Serenade" of the tour, "Take 'em as They Come," and a Soozie Tyrell guest appearance for "The Ghost of Tom Joad." In attendance tonight: Michael J. Fox and Tracey Pollan.<br>
+**2000:** Night Four of ten at Madison Square Garden, as the Reunion Tour's last stand continues. Highlights include the last "New York City Serenade" of the tour, "[Take 'em as They Come]({{< relref "2019-03-29-roll-of-the-dice-take-em-as-they-come.md" >}})," and a Soozie Tyrell guest appearance for "[The Ghost of Tom Joad]({{< relref "2019-10-17-roll-of-the-dice-the-ghost-of-tom-joad.md" >}})." In attendance tonight: Michael J. Fox and Tracey Pollan.<br>
 
 {{< videopress id=sdgFdg9s >}}
 
@@ -96,7 +101,7 @@ params:
 
 {{< videopress id=Hi4z7lS4 >}}
 
-**2005:** Elliott Murphy makes a guest appearance on "Better Days" when Bruce tour premieres it (along with "Cadillac Ranch") at his solo acoustic show in Paris.<br>
+**2005:** Elliott Murphy makes a guest appearance on "[Better Days]({{< relref "1992-02-02-roll-of-the-dice-better-days.md" >}})" when Bruce tour premieres it (along with "[Cadillac Ranch]({{< relref "2020-07-23-roll-of-the-dice-cadillac-ranch.md" >}})") at his solo acoustic show in Paris.<br>
 
 {{< youtube 6DNpb_i2V7U >}}
 
@@ -106,7 +111,7 @@ params:
 
 {{< youtube tQ3_Fy5nd10 >}}
 
-**2006:** Bruce and the Sessions Band deliver a great show at the Tweeter Center in Camden, tour premiering a full-band "Maria's Bed." Southside Johnny and Joe Grushecky join Bruce for "Pay Me My Money Down."<br>
+**2006:** Bruce and the Sessions Band deliver a great show at the Tweeter Center in Camden, tour premiering a full-band "[Maria's Bed]({{< relref "2018-11-16-roll-of-the-dice-marias-bed.md" >}})." Southside Johnny and Joe Grushecky join Bruce for "[Pay Me My Money Down]({{< relref "2006-01-12-roll-of-the-dice-cover-me-pay-me-my-money-down.md" >}})."<br>
 
 {{< youtube yoq1or7rtS0 >}}
 
@@ -118,7 +123,7 @@ params:
 
 {{< youtube 456baiiyLcs >}}
 
-**2013:** Bruce and the E Street Band perform *Born to Run* from start to finish during their Wrecking Ball show at Coventry's Ricoh Arena. This show also features the first full-band (E Street Band, at least) performance of "Long Time Comin'."<br>
+**2013:** Bruce and the E Street Band perform *Born to Run* from start to finish during their Wrecking Ball show at Coventry's Ricoh Arena. This show also features the first full-band (E Street Band, at least) performance of "[Long Time Comin'.]({{< relref "2022-06-19-roll-of-the-dice-long-time-comin.md" >}})"<br>
 
 {{< youtube 78eZDLRf1aI >}}
 
@@ -130,6 +135,6 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/06/brucepattipony.jpeg.webp)
 
-**2024:** World Tour 2024 arrives in Barcelona for the first of two nights. This night features the tour premiere of "Radio Nowhere."<br>
+**2024:** World Tour 2024 arrives in Barcelona for the first of two nights. This night features the tour premiere of "[Radio Nowhere]({{< relref "2021-08-01-roll-of-the-dice-radio-nowhere.md" >}})." Purchase or stream this show [here](https://www.nugs.net/live-download-of-bruce-springsteen-estadi-ol%C3%ADmpic-barcelona-spain-06-20-2024-mp3-flac-or-online-music-streaming/35852.html).<br>
 
 {{< youtube 74XJN6XUdpA >}}

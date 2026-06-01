@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-suzanne/
+- /cover-me-suzanne/
 - /1231/
 layout: post
 date: 2018-03-25T12:00:51

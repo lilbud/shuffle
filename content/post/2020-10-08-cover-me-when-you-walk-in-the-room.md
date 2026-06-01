@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-when-you-walk-in-the-room/
+- /cover-me-when-you-walk-in-the-room/
 - /21789/
 layout: post
 date: 2020-10-08T12:00:00

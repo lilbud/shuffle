@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-swallowed-up-in-the-belly-of-the-whale/
+- /roll-of-the-dice-swallowed-up-in-the-belly-of-the-whale/
 - /17933/
 layout: post
 date: 2020-05-07T12:00:00

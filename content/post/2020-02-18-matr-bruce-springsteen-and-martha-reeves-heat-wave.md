@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-martha-reeves-heat-wave/
+- /matr-bruce-springsteen-and-martha-reeves-heat-wave/
 - /15957/
 layout: post
 date: 2020-02-18T13:00:00

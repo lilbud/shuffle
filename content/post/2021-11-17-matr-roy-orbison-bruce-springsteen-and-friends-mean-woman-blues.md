@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-roy-orbison-bruce-springsteen-and-friends-mean-woman-blues/
+- /matr-roy-orbison-bruce-springsteen-and-friends-mean-woman-blues/
 - /28461/
 layout: post
 date: 2021-11-17T13:00:00

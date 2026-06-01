@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-stormers-my-hometown/
+- /cover-me-the-stormers-my-hometown/
 - /18165/
 layout: post
 date: 2020-05-10T12:00:00

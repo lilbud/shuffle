@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-the-bruce-springsteen-band-and-southside-johnny-aint-that-peculiar/
+- /matr-the-bruce-springsteen-band-and-southside-johnny-aint-that-peculiar/
 - /12005/
 layout: post
 date: 2019-08-12T12:00:00

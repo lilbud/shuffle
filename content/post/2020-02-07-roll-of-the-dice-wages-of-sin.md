@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-wages-of-sin/
+- /roll-of-the-dice-wages-of-sin/
 - /15411/
 layout: post
 date: 2020-02-07T13:00:00

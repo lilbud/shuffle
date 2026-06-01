@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-my-kind-of-town/
+- /cover-me-my-kind-of-town/
 - /31936/
 layout: post
 date: 2022-01-09T13:00:00

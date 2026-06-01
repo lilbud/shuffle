@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-daniele-tenca-johnny-99/
+- /cover-me-daniele-tenca-johnny-99/
 - /17120/
 layout: post
 date: 2020-03-23T12:00:00

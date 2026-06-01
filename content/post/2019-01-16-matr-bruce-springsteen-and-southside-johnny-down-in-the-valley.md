@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-southside-johnny-down-in-the-valley/
+- /matr-bruce-springsteen-and-southside-johnny-down-in-the-valley/
 - /6921/
 layout: post
 date: 2019-01-16T13:00:04

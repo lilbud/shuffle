@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-local-hero/
+- /roll-of-the-dice-local-hero/
 - /6935/
 layout: post
 date: 1992-02-04T19:00:16

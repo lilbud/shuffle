@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-hunter-of-invisible-game/
+- /roll-of-the-dice-hunter-of-invisible-game/
 - /31942/
 layout: post
 date: 2022-01-18T13:00:00

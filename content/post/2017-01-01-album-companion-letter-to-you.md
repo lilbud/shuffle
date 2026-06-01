@@ -1,6 +1,7 @@
 ---
 aliases:
 - /album-companion-letter-to-you/
+- /album-companion-letter-to-you/
 - /44060/
 layout: post
 date: 2017-01-01T19:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-hey-good-lookin/
+- /cover-me-hey-good-lookin/
 - /13438/
 layout: post
 date: 2019-10-24T12:00:00

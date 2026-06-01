@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-efix-henri-pfr-florence-welch-and-kid-harpoon-im-goin-down/
+- /cover-me-efix-henri-pfr-florence-welch-and-kid-harpoon-im-goin-down/
 - /5128/
 layout: post
 date: 2018-10-23T12:00:19

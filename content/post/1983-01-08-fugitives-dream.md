@@ -1,0 +1,77 @@
+---
+aliases:
+- /fugitives-dream/
+- /fugitives-dream/
+- /65854/
+layout: default-post
+date: 1983-01-08T19:00:50
+lastmod: 2026-01-30T22:32:11
+title: "Fugitive's Dream"
+slug: fugitives-dream
+author: Ken Rosen
+description: "Things are about to get confusing again. “Fugitive’s Dream” is one of three very closely related songs on L.A. Garage Sessions ’83, and it’s virtually impossible…"
+params:
+  post_id: 65854
+---
+Things are about to get confusing again.
+
+"Fugitive's Dream" is one of three *very* closely related songs on *L.A. Garage Sessions '83*, and it's virtually impossible to discuss one without referencing the others.
+
+But this song is exceptionally challenging to write about here, because even though its author sequenced it first on the album, evidence suggests it was actually the second of the three songs to be written and recorded.
+
+It's also the only one of the three I hadn't written about when I was actively blogging, so the bulk of the discussion on all three songs happens in the other two essays.
+
+If you want to read about the songs and listen to them in the order Bruce wrote them, start at the end of this book with "Fugitive's Dream (Ballad)," come back here for "Fugitive's Dream," and then proceed forward again to "Unsatisfied Heart."
+
+Got all that? Good. Let's take a listen to "Fugitive's Dream" the second installment in the evolution of a song.
+
+{{< youtube iMZDDrGXJv8 >}}
+
+"Fugitive's Dream" is the tightest of the three songs, and the only one paired to a sinister melody befitting its lyrics.
+
+The plot and opening lines are the same across all three songs: a stranger comes to down and reminds our narrator of a long-buried sin.
+
+> *Sir I'm a pilgrim and a stranger in this land*<br>
+> *Once I had a home here and my salvation was at hand*<br>
+> *I lived in a fine home on a far hillside*<br>
+> *I had two beautiful children and a kind and loving wife*<br>
+
+> *One day a man came to town with nothing and nowhere to go*<br>
+> *He came to me and he mentioned something I'd done a long time ago*<br>
+
+(Those last two lines will appear on yet another *Lost Albums* track, in a most unlikely place: the magnificent *High Sierra*, recorded decades later. One wonders if Bruce was already at work compiling this collection when he wrote that song.)
+
+From here, the songs diverge, although the general plot remains the same. In "Fugitive's Dream (Ballad)," the earliest (and in my opinion the best) version, our narrator comes very close to an action he wouldn't be able to walk away from. In "Unsatisfied Heart," it's implied that that he literally did walk away.
+
+But here in "Fugitive's Dream," Joe is simply haunted by his past, unable to shake a memory (or is it an urge?) once awakened.
+
+> *I allowed him into my home on his vow our secret would never see the light*<br>
+> *At night I'd lay awake in my wife's arms, she sighed, "Joe, are you alright?"*<br>
+
+> *I thought I could hold on, my vows I tried to keep*<br>
+> *Day after day I felt myself grow weak*<br>
+> *One night I dressed by moonlight and kissed my wife on the cheek*<br>
+> *And I fled into the darkness of Union Street*<br>
+
+> *And night after night the same dream keeps coming 'round*<br>
+> *I'm standing high in the green hills on the outskirts of town*<br>
+> *The night air fills my lungs and rustles my shirt*<br>
+> *In the distance I can see the building where I used to work*<br>
+
+> *I break through the open fields and out onto Old Town Road*<br>
+> *I run faster and faster 'til I feel like my chest will explode*<br>
+> *As I draw near the town's lit by a red summer moon*<br>
+> *I feel your arms around me, I wake up in this room*<br>
+
+Although this version lacks the moment of intimacy between Joe and his houseguest that heightens "Fugitive's Dream (Ballad)," Bruce uses the word "vows" in a different context here that strongly implies he's referring to marital ones.
+
+We follow a slightly different path, but it still leads to a moment of weakness and the darkness of Union Street. Whether he's fleeing from his own self-awareness or seeking a community of similarly oriented men, our narrator is forever after haunted in his dreams, chased by the lie he's living (in a couplet too similar to the dream sequence in "Downbound Train" to be a coincidence).
+
+The title "Fugitive's Dream" conditions us to expect a more black-and-white crime fiction. What we witness instead is a man on the run from himself.
+
+**Fugitive's Dream**<br>
+**Recorded** March 24, 1983<br>
+**Released:** *L.A. Garage Sessions '83* (2025)<br>
+**Never performed**<br>
+
+© January 19, 2026

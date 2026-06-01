@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-cover-me-chimes-of-freedom/
+- /roll-of-the-dice-cover-me-chimes-of-freedom/
 - /3131/
 layout: post
 date: 2018-07-18T12:00:59

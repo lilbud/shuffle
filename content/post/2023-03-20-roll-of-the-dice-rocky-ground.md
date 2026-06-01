@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-rocky-ground/
+- /roll-of-the-dice-rocky-ground/
 - /42140/
 layout: post
 date: 2023-03-20T13:00:00

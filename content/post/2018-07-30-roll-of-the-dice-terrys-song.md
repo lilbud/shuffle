@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-terrys-song/
+- /roll-of-the-dice-terrys-song/
 - /3399/
 layout: post
 date: 2018-07-30T11:01:55

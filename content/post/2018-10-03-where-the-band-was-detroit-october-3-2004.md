@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-detroit-october-3-2004/
+- /where-the-band-was-detroit-october-3-2004/
 - /4718/
 layout: post
 date: 2018-10-03T12:00:45

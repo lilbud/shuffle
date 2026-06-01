@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-when-i-leave-berlin/
+- /cover-me-when-i-leave-berlin/
 - /19328/
 layout: post
 date: 2020-07-19T12:00:00

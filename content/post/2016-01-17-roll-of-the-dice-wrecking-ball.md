@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-wrecking-ball/
+- /roll-of-the-dice-wrecking-ball/
 - /36967/
 layout: post
 date: 2016-01-17T19:00:00

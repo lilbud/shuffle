@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-u2-and-bruce-springsteen-stand-by-me/
+- /matr-u2-and-bruce-springsteen-stand-by-me/
 - /30464/
 layout: post
 date: 2021-12-12T13:00:00

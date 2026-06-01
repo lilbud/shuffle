@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-elysium-drive-all-night/
+- /cover-me-elysium-drive-all-night/
 - /18894/
 layout: post
 date: 2020-06-03T12:00:00

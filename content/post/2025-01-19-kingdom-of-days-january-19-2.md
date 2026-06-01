@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-19-2/
+- /kingdom-of-days-january-19/
 - /55607/
 layout: post
 date: 2025-01-19T12:00:17
 lastmod: 2025-11-12T18:05:02
-title: "January 19"
+title: "Kingdom of Days: January 19"
 slug: kingdom-of-days-january-19-2
 author: Ken Rosen
 description: "On this day in Springsteen history: Bruce releases “We Take Care of Our Own,” pays tribute to Glenn Frey, holds a benefit for 3M factory workers and much more."

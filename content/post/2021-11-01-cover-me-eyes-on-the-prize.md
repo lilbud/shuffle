@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-eyes-on-the-prize/
+- /cover-me-eyes-on-the-prize/
 - /30173/
 layout: post
 date: 2021-11-01T12:00:00

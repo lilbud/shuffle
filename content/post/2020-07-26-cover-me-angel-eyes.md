@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-angel-eyes/
+- /cover-me-angel-eyes/
 - /19492/
 layout: post
 date: 2020-07-26T12:00:00

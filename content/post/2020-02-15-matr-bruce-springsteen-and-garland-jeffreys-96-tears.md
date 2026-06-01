@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-garland-jeffreys-96-tears/
+- /matr-bruce-springsteen-and-garland-jeffreys-96-tears/
 - /14365/
 layout: post
 date: 2020-02-15T13:00:00

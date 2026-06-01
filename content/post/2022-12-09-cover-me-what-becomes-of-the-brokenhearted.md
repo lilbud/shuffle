@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-what-becomes-of-the-brokenhearted/
+- /cover-me-what-becomes-of-the-brokenhearted/
 - /39748/
 layout: post
 date: 2022-12-09T12:16:00

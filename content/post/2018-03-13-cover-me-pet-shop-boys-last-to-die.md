@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-pet-shop-boys-last-to-die/
+- /cover-me-pet-shop-boys-last-to-die/
 - /1030/
 layout: post
 date: 2018-03-13T12:00:37

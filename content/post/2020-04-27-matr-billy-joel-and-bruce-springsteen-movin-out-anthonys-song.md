@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-billy-joel-and-bruce-springsteen-movin-out-anthonys-song/
+- /matr-billy-joel-and-bruce-springsteen-movin-out-anthonys-song/
 - /17936/
 layout: post
 date: 2020-04-27T12:00:00

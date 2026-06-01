@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-seventh-son/
+- /cover-me-seventh-son/
 - /19800/
 layout: post
 date: 2020-08-04T12:00:00

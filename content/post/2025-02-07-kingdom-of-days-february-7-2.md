@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-7-2/
+- /kingdom-of-days-february-7/
 - /55882/
 layout: post
 date: 2025-02-07T12:00:10
 lastmod: 2025-11-26T23:40:12
-title: "February 7"
+title: "Kingdom of Days: February 7"
 slug: kingdom-of-days-february-7-2
 author: Ken Rosen
 description: "On this date in Springsteen history: Not one, not two, but *three* Australian shows, the “Lawsuit Tour” opener, and no respect in Atlanta for “Bruce Silversteen.”"

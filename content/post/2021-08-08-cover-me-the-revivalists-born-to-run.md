@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-revivalists-born-to-run/
+- /cover-me-the-revivalists-born-to-run/
 - /28459/
 layout: post
 date: 2021-08-08T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-jimmy-cliff-the-harder-they-come/
+- /matr-bruce-springsteen-and-jimmy-cliff-the-harder-they-come/
 - /11790/
 layout: post
 date: 2019-08-05T12:00:00

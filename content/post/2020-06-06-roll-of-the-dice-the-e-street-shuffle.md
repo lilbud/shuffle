@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-e-street-shuffle/
+- /roll-of-the-dice-the-e-street-shuffle/
 - /18561/
 layout: post
 date: 2020-06-06T12:00:00

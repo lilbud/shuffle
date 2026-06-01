@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-joe-grushecky-and-bruce-springsteen-labor-of-love/
+- /matr-joe-grushecky-and-bruce-springsteen-labor-of-love/
 - /34234/
 layout: post
 date: 2022-05-08T12:00:00

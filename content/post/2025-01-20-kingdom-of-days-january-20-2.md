@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-20-2/
+- /kingdom-of-days-january-20/
 - /55626/
 layout: post
 date: 2025-01-20T12:00:08
 lastmod: 2025-11-19T20:33:55
-title: "January 20"
+title: "Kingdom of Days: January 20"
 slug: kingdom-of-days-january-20-2
 author: Ken Rosen
 description: "Classic all-star Hall of Fame team-ups lead the highlights from this date in Springsteen history."

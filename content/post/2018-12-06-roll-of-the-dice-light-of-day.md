@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-light-of-day/
+- /roll-of-the-dice-light-of-day/
 - /6181/
 layout: post
 date: 2018-12-06T13:00:28

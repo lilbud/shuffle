@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-lucas-mege-drive-all-night/
+- /cover-me-lucas-mege-drive-all-night/
 - /26076/
 layout: post
 date: 2021-03-29T12:00:00

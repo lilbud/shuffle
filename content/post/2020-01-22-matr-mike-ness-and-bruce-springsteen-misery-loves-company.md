@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-mike-ness-and-bruce-springsteen-misery-loves-company/
+- /matr-mike-ness-and-bruce-springsteen-misery-loves-company/
 - /15115/
 layout: post
 date: 2020-01-22T13:00:00

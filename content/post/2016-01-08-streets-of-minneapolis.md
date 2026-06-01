@@ -1,6 +1,7 @@
 ---
 aliases:
 - /streets-of-minneapolis/
+- /streets-of-minneapolis/
 - /68709/
 layout: post
 date: 2016-01-08T19:00:13

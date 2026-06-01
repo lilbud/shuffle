@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-ronnie-spector-brilliant-disguise/
+- /cover-me-ronnie-spector-brilliant-disguise/
 - /5522/
 layout: post
 date: 2018-11-10T13:00:53

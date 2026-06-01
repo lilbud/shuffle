@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-cape-town-january-26-2014/
+- /where-the-band-was-cape-town-january-26-2014/
 - /335/
 layout: post
 date: 2025-01-31T17:00:58

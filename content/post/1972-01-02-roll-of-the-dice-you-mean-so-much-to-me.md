@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-you-mean-so-much-to-me/
+- /roll-of-the-dice-you-mean-so-much-to-me/
 - /15485/
 layout: post
 date: 1972-01-02T19:00:00

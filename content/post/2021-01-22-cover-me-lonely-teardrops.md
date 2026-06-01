@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-lonely-teardrops/
+- /cover-me-lonely-teardrops/
 - /24641/
 layout: post
 date: 2021-01-22T13:00:00

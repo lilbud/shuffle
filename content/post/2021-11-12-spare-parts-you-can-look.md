@@ -1,6 +1,7 @@
 ---
 aliases:
 - /spare-parts-you-can-look/
+- /spare-parts-you-can-look/
 - /30811/
 layout: post
 date: 2021-11-12T13:00:00

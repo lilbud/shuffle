@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-randolph-street/
+- /roll-of-the-dice-randolph-street/
 - /23579/
 layout: post
 date: 2011-01-25T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-working-on-the-highway/
+- /roll-of-the-dice-working-on-the-highway/
 - /181/
 layout: post
 date: 1984-01-06T19:00:14

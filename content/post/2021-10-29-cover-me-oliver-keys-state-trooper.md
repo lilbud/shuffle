@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-oliver-keys-state-trooper/
+- /cover-me-oliver-keys-state-trooper/
 - /30524/
 layout: post
 date: 2021-10-29T12:00:00

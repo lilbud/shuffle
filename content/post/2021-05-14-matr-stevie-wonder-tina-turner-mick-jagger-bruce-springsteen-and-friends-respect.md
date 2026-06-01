@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-stevie-wonder-tina-turner-mick-jagger-bruce-springsteen-and-friends-respect/
+- /matr-stevie-wonder-tina-turner-mick-jagger-bruce-springsteen-and-friends-respect/
 - /27048/
 layout: post
 date: 2021-05-14T12:02:00

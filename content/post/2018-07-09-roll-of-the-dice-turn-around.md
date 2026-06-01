@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-turn-around/
+- /roll-of-the-dice-turn-around/
 - /2972/
 layout: post
 date: 2018-07-09T12:00:19

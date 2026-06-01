@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-folding-chairs-new-york-city-serenade/
+- /cover-me-the-folding-chairs-new-york-city-serenade/
 - /27678/
 layout: post
 date: 2021-06-04T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-san-franciscan-nights/
+- /cover-me-san-franciscan-nights/
 - /2234/
 layout: post
 date: 2018-05-22T12:00:48

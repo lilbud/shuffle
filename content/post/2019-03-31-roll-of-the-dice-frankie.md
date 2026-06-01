@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-frankie/
+- /roll-of-the-dice-frankie/
 - /7887/
 layout: post
 date: 2019-03-31T12:00:00

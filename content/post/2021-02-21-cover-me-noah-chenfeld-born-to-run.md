@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-noah-chenfeld-born-to-run/
+- /cover-me-noah-chenfeld-born-to-run/
 - /25177/
 layout: post
 date: 2021-02-21T13:00:00

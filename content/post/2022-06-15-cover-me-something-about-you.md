@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-something-about-you/
+- /cover-me-something-about-you/
 - /35074/
 layout: post
 date: 2022-06-15T12:00:00

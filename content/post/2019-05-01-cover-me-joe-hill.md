@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-joe-hill/
+- /cover-me-joe-hill/
 - /9383/
 layout: post
 date: 2019-05-01T12:00:00

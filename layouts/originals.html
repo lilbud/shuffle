@@ -18,9 +18,9 @@
     <div class="row" id="album_{{ add $index 1 }}">
       <div class="col-12 col-lg-6 mb-3 mb-lg-0">
         {{ if $album.url }}
-        <a href="{{ $album.url | relURL }}"><img class="img-fluid" src="{{ $album.img }}" alt=""></a>
+        <a href="{{ $album.url | relURL }}"><img class="img-fluid" src="{{ $album.img | relURL }}" alt=""></a>
         {{ else }}
-        <img class="img-fluid" src="{{ $album.img }}" alt="">
+        <img class="img-fluid" src="{{ $album.img | relURL }}" alt="">
         {{ end }}
       </div>
       <div class="col-12 col-lg-6">

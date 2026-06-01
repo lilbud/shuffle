@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-working-on-a-dream/
+- /roll-of-the-dice-working-on-a-dream/
 - /10786/
 layout: post
 date: 2019-07-04T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-racketeers-atlantic-city/
+- /cover-me-racketeers-atlantic-city/
 - /11795/
 layout: post
 date: 2019-09-11T12:00:00

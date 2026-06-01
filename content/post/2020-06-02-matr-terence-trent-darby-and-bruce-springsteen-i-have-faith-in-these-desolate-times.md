@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-terence-trent-darby-and-bruce-springsteen-i-have-faith-in-these-desolate-times/
+- /matr-terence-trent-darby-and-bruce-springsteen-i-have-faith-in-these-desolate-times/
 - /18723/
 layout: post
 date: 2020-06-02T12:00:00

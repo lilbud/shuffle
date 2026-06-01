@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-just-like-fire-would/
+- /cover-me-just-like-fire-would/
 - /18568/
 layout: post
 date: 2020-05-24T12:00:00

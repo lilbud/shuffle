@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-will-you-love-me-tomorrow/
+- /cover-me-will-you-love-me-tomorrow/
 - /310/
 layout: post
 date: 2018-01-20T13:00:32

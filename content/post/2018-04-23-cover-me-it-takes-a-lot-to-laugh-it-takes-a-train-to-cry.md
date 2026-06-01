@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-it-takes-a-lot-to-laugh-it-takes-a-train-to-cry/
+- /cover-me-it-takes-a-lot-to-laugh-it-takes-a-train-to-cry/
 - /1757/
 layout: post
 date: 2018-04-23T12:00:25

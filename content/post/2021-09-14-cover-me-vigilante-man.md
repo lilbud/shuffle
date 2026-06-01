@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-vigilante-man/
+- /cover-me-vigilante-man/
 - /29312/
 layout: post
 date: 2021-09-14T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-long-branch-august-20-1994/
+- /where-the-band-was-long-branch-august-20-1994/
 - /12242/
 layout: post
 date: 2019-08-20T11:01:00

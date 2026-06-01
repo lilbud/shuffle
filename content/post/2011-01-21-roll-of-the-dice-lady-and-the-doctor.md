@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-lady-and-the-doctor/
+- /roll-of-the-dice-lady-and-the-doctor/
 - /20495/
 layout: post
 date: 2011-01-21T13:00:00

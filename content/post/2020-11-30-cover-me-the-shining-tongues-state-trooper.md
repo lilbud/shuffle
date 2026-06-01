@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-shining-tongues-state-trooper/
+- /cover-me-the-shining-tongues-state-trooper/
 - /22910/
 layout: post
 date: 2020-11-30T13:00:00

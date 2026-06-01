@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-joe-grushecky-and-bruce-springsteen-gimme-shelter/
+- /matr-joe-grushecky-and-bruce-springsteen-gimme-shelter/
 - /12100/
 layout: post
 date: 2019-09-09T11:30:00

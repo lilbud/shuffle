@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-your-love-keeps-lifting-me-higher-and-higher/
+- /cover-me-your-love-keeps-lifting-me-higher-and-higher/
 - /4536/
 layout: post
 date: 2018-09-23T12:00:50

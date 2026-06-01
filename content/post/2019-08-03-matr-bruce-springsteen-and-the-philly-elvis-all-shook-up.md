@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-the-philly-elvis-all-shook-up/
+- /matr-bruce-springsteen-and-the-philly-elvis-all-shook-up/
 - /11076/
 layout: post
 date: 2019-08-03T12:00:00

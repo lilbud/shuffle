@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-ghost-hounds-and-sasha-allen-thunder-road/
+- /cover-me-ghost-hounds-and-sasha-allen-thunder-road/
 - /22193/
 layout: post
 date: 2020-10-13T12:00:00

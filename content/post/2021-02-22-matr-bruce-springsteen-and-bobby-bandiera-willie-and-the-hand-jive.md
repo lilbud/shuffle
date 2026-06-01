@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-bobby-bandiera-willie-and-the-hand-jive/
+- /matr-bruce-springsteen-and-bobby-bandiera-willie-and-the-hand-jive/
 - /25520/
 layout: post
 date: 2021-02-22T13:00:00

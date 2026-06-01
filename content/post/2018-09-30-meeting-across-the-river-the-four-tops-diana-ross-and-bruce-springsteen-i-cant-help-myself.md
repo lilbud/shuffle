@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-the-four-tops-diana-ross-and-bruce-springsteen-i-cant-help-myself/
+- /meeting-across-the-river-the-four-tops-diana-ross-and-bruce-springsteen-i-cant-help-myself/
 - /4619/
 layout: post
 date: 2018-09-30T12:00:40

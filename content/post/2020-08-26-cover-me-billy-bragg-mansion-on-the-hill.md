@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-billy-bragg-mansion-on-the-hill/
+- /cover-me-billy-bragg-mansion-on-the-hill/
 - /20489/
 layout: post
 date: 2020-08-26T12:00:00

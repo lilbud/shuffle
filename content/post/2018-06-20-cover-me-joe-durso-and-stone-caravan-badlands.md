@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-joe-durso-and-stone-caravan-badlands/
+- /cover-me-joe-durso-and-stone-caravan-badlands/
 - /2609/
 layout: post
 date: 2018-06-20T12:00:33

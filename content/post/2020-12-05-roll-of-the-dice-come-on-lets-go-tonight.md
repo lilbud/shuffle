@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-come-on-lets-go-tonight/
+- /roll-of-the-dice-come-on-lets-go-tonight/
 - /23071/
 layout: post
 date: 2020-12-05T13:00:00

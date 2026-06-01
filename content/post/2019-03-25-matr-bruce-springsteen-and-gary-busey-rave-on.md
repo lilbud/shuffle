@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-gary-busey-rave-on/
+- /matr-bruce-springsteen-and-gary-busey-rave-on/
 - /8266/
 layout: post
 date: 2019-03-25T11:57:00

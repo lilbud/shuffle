@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-18-2/
+- /kingdom-of-days-january-18/
 - /55606/
 layout: post
 date: 2025-01-18T12:00:15
 lastmod: 2025-11-12T20:45:11
-title: "January 18"
+title: "Kingdom of Days: January 18"
 slug: kingdom-of-days-january-18-2
 author: Ken Rosen
 description: "Bruce Springsteen performs at President Obama’s inaugural concert, a truly all-star Hall of Fame jam, the debut performance of “Frankie Fell in Love,” and much more on this day in history."

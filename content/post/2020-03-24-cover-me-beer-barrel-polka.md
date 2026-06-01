@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-beer-barrel-polka/
+- /cover-me-beer-barrel-polka/
 - /16721/
 layout: post
 date: 2020-03-24T12:00:00

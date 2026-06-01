@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-cant-help-falling-in-love/
+- /cover-me-cant-help-falling-in-love/
 - /26703/
 layout: post
 date: 1976-01-21T19:00:00

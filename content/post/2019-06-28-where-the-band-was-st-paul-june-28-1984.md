@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-st-paul-june-28-1984/
+- /where-the-band-was-st-paul-june-28-1984/
 - /10976/
 layout: post
 date: 2019-06-28T11:45:00

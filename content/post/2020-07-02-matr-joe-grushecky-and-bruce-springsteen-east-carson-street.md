@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-joe-grushecky-and-bruce-springsteen-east-carson-street/
+- /matr-joe-grushecky-and-bruce-springsteen-east-carson-street/
 - /18899/
 layout: post
 date: 2020-07-02T12:00:00

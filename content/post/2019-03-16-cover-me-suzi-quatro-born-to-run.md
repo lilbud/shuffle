@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-suzi-quatro-born-to-run/
+- /cover-me-suzi-quatro-born-to-run/
 - /7801/
 layout: post
 date: 2019-03-16T12:00:00

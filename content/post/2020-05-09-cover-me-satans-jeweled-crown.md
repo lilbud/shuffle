@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-satans-jeweled-crown/
+- /cover-me-satans-jeweled-crown/
 - /18173/
 layout: post
 date: 2020-05-09T12:00:00

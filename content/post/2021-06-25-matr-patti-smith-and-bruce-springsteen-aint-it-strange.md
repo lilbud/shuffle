@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-smith-and-bruce-springsteen-aint-it-strange/
+- /matr-patti-smith-and-bruce-springsteen-aint-it-strange/
 - /27896/
 layout: post
 date: 2021-06-25T12:00:00

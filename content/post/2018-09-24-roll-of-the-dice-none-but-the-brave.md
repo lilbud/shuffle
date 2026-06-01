@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-none-but-the-brave/
+- /roll-of-the-dice-none-but-the-brave/
 - /4617/
 layout: post
 date: 2018-09-24T12:00:37

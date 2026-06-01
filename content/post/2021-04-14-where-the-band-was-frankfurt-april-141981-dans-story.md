@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-frankfurt-april-141981-dans-story/
+- /where-the-band-was-frankfurt-april-141981-dans-story/
 - /25023/
 layout: post
 date: 2021-04-14T11:01:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-black-sun-rising/
+- /roll-of-the-dice-black-sun-rising/
 - /451/
 layout: post
 date: 2018-01-27T20:30:49

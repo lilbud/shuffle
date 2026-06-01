@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-spirit-in-the-night/
+- /roll-of-the-dice-spirit-in-the-night/
 - /16175/
 layout: post
 date: 2011-01-08T13:00:00

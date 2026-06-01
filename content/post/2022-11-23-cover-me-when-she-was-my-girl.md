@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-when-she-was-my-girl/
+- /cover-me-when-she-was-my-girl/
 - /39396/
 layout: post
 date: 2022-11-23T13:15:00

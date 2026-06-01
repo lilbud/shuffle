@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-walk-like-a-man/
+- /roll-of-the-dice-walk-like-a-man/
 - /3216/
 layout: post
 date: 1987-01-06T19:00:15

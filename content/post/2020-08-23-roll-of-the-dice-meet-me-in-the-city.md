@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-meet-me-in-the-city/
+- /roll-of-the-dice-meet-me-in-the-city/
 - /20111/
 layout: post
 date: 2020-08-23T12:00:00

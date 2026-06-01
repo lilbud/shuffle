@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-patti-scialfa-big-black-heaven/
+- /meeting-across-the-river-bruce-springsteen-and-patti-scialfa-big-black-heaven/
 - /2289/
 layout: post
 date: 2018-05-26T12:00:48

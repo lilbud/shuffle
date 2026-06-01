@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-tom-mcrae-and-david-ford-brilliant-disguise/
+- /cover-me-tom-mcrae-and-david-ford-brilliant-disguise/
 - /19056/
 layout: post
 date: 2020-06-27T12:00:00

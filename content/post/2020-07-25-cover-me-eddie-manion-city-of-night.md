@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-eddie-manion-city-of-night/
+- /cover-me-eddie-manion-city-of-night/
 - /19643/
 layout: post
 date: 2020-07-25T12:00:00

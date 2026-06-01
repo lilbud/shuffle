@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-missing/
+- /roll-of-the-dice-missing/
 - /23737/
 layout: post
 date: 2021-01-10T13:00:00

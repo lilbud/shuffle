@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-8-bit-arcade-western-stars/
+- /cover-me-8-bit-arcade-western-stars/
 - /16450/
 layout: post
 date: 2020-02-28T13:00:00

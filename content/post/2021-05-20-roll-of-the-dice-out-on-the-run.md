@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-out-on-the-run/
+- /roll-of-the-dice-out-on-the-run/
 - /26511/
 layout: post
 date: 2021-05-20T12:00:00

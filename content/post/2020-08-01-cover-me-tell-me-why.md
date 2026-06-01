@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-tell-me-why/
+- /cover-me-tell-me-why/
 - /19668/
 layout: post
 date: 2020-08-01T12:00:00

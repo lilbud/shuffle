@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-book-of-dreams/
+- /roll-of-the-dice-book-of-dreams/
 - /9986/
 layout: post
 date: 1992-02-09T19:00:00

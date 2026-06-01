@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-brown-eyed-girl/
+- /cover-me-brown-eyed-girl/
 - /4534/
 layout: post
 date: 2018-09-20T12:00:55

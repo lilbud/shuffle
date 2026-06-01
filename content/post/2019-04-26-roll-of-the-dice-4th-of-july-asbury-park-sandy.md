@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-4th-of-july-asbury-park-sandy/
+- /roll-of-the-dice-4th-of-july-asbury-park-sandy/
 - /8769/
 layout: post
 date: 2019-04-26T12:00:00

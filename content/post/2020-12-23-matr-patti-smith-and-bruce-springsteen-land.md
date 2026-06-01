@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-smith-and-bruce-springsteen-land/
+- /matr-patti-smith-and-bruce-springsteen-land/
 - /23375/
 layout: post
 date: 2020-12-23T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-ballad-of-a-self-loading-pistol/
+- /roll-of-the-dice-ballad-of-a-self-loading-pistol/
 - /9384/
 layout: post
 date: 2019-05-09T12:00:00

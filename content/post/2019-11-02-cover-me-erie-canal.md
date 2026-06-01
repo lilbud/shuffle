@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-erie-canal/
+- /cover-me-erie-canal/
 - /13792/
 layout: post
 date: 2019-11-02T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-little-richard-mick-jagger-bruce-springsteen-more-i-cant-turn-you-loose/
+- /matr-little-richard-mick-jagger-bruce-springsteen-more-i-cant-turn-you-loose/
 - /29033/
 layout: post
 date: 2021-09-06T12:00:00

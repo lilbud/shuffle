@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-youre-missing/
+- /roll-of-the-dice-youre-missing/
 - /15955/
 layout: post
 date: 2020-02-11T13:00:00

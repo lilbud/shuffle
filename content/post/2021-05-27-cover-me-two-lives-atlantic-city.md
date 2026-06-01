@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-two-lives-atlantic-city/
+- /cover-me-two-lives-atlantic-city/
 - /27583/
 layout: post
 date: 2021-05-27T12:00:00

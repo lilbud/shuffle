@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-shes-the-one/
+- /roll-of-the-dice-shes-the-one/
 - /25005/
 layout: post
 date: 2021-04-04T12:06:00

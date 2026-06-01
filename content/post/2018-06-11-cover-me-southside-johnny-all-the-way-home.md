@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-southside-johnny-all-the-way-home/
+- /cover-me-southside-johnny-all-the-way-home/
 - /2596/
 layout: post
 date: 2018-06-11T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-two-hearts/
+- /roll-of-the-dice-two-hearts/
 - /2293/
 layout: post
 date: 2018-05-28T12:00:34

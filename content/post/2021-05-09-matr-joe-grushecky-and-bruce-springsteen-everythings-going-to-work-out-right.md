@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-joe-grushecky-and-bruce-springsteen-everythings-going-to-work-out-right/
+- /matr-joe-grushecky-and-bruce-springsteen-everythings-going-to-work-out-right/
 - /25805/
 layout: post
 date: 2021-05-09T12:00:00

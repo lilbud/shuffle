@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-mans-job/
+- /roll-of-the-dice-mans-job/
 - /34693/
 layout: post
 date: 2022-05-30T12:00:00

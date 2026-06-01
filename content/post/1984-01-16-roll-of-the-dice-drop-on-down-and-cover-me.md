@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-drop-on-down-and-cover-me/
+- /roll-of-the-dice-drop-on-down-and-cover-me/
 - /14888/
 layout: post
 date: 1984-01-16T19:10:00

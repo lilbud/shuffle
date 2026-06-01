@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-lucille/
+- /cover-me-lucille/
 - /5815/
 layout: post
 date: 1976-01-07T20:00:46

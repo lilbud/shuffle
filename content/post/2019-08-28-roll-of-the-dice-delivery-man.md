@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-delivery-man/
+- /roll-of-the-dice-delivery-man/
 - /7842/
 layout: post
 date: 2019-08-28T12:00:00

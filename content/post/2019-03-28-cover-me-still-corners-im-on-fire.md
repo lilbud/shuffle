@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-still-corners-im-on-fire/
+- /cover-me-still-corners-im-on-fire/
 - /7444/
 layout: post
 date: 2019-03-28T12:00:57

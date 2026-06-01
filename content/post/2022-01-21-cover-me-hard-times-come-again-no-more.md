@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-hard-times-come-again-no-more/
+- /cover-me-hard-times-come-again-no-more/
 - /32365/
 layout: post
 date: 2022-01-21T13:00:00

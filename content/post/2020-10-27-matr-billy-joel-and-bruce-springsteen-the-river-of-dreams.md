@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-billy-joel-and-bruce-springsteen-the-river-of-dreams/
+- /matr-billy-joel-and-bruce-springsteen-the-river-of-dreams/
 - /22319/
 layout: post
 date: 2020-10-27T12:00:00

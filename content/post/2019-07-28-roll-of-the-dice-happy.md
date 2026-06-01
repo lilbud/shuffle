@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-happy/
+- /roll-of-the-dice-happy/
 - /11792/
 layout: post
 date: 2019-07-28T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-sister-theresa/
+- /roll-of-the-dice-sister-theresa/
 - /15953/
 layout: post
 date: 2020-02-14T13:00:00

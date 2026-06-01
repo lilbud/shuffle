@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-for-you/
+- /roll-of-the-dice-for-you/
 - /32112/
 layout: post
 date: 2011-01-07T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-passenger-the-river/
+- /cover-me-passenger-the-river/
 - /5061/
 layout: post
 date: 2018-10-05T12:00:38

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-big-boss-man/
+- /cover-me-big-boss-man/
 - /14034/
 layout: post
 date: 2019-11-18T08:06:00

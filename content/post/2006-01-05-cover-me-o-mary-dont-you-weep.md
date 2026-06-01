@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-o-mary-dont-you-weep/
+- /cover-me-o-mary-dont-you-weep/
 - /36168/
 layout: post
 date: 2006-01-05T19:00:00

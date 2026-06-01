@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-preachers-daughter/
+- /roll-of-the-dice-preachers-daughter/
 - /2933/
 layout: post
 date: 2018-07-01T12:00:36

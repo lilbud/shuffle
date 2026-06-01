@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-little-girl-like-you/
+- /roll-of-the-dice-little-girl-like-you/
 - /2613/
 layout: post
 date: 2018-06-15T12:00:40

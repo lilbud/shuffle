@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-smith-and-bruce-springsteen-my-car-was-invisible-the-case-of-bruce-springsteen/
+- /matr-patti-smith-and-bruce-springsteen-my-car-was-invisible-the-case-of-bruce-springsteen/
 - /38786/
 layout: post
 date: 2022-10-20T12:00:00

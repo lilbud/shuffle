@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-shut-out-the-light/
+- /roll-of-the-dice-shut-out-the-light/
 - /21387/
 layout: post
 date: 2020-10-14T12:00:00

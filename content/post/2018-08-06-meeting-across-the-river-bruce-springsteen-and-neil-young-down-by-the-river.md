@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-neil-young-down-by-the-river/
+- /meeting-across-the-river-bruce-springsteen-and-neil-young-down-by-the-river/
 - /3663/
 layout: post
 date: 2018-08-06T12:00:27

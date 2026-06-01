@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-prodigal-son/
+- /roll-of-the-dice-prodigal-son/
 - /7885/
 layout: post
 date: 2011-01-24T13:00:00

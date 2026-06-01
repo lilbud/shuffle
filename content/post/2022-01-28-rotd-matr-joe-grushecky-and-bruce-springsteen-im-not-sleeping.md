@@ -1,6 +1,7 @@
 ---
 aliases:
 - /rotd-matr-joe-grushecky-and-bruce-springsteen-im-not-sleeping/
+- /rotd-matr-joe-grushecky-and-bruce-springsteen-im-not-sleeping/
 - /32253/
 layout: post
 date: 2022-01-28T13:00:00

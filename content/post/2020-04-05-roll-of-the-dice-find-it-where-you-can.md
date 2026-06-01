@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-find-it-where-you-can/
+- /roll-of-the-dice-find-it-where-you-can/
 - /17123/
 layout: post
 date: 2020-04-05T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-john-hiatt-johnny-99/
+- /cover-me-john-hiatt-johnny-99/
 - /800/
 layout: post
 date: 2018-02-19T13:00:21

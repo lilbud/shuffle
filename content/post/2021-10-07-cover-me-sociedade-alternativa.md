@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sociedade-alternativa/
+- /cover-me-sociedade-alternativa/
 - /29796/
 layout: post
 date: 2021-10-07T12:00:00

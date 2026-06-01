@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-gary-u-s-bonds-hold-on-to-what-you-got/
+- /cover-me-gary-u-s-bonds-hold-on-to-what-you-got/
 - /24473/
 layout: post
 date: 2021-01-28T13:00:00

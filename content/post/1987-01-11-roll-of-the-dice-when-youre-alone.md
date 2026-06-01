@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-when-youre-alone/
+- /roll-of-the-dice-when-youre-alone/
 - /22773/
 layout: post
 date: 1987-01-11T19:00:00

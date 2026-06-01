@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-cosmic-spin-tougher-than-the-rest/
+- /cover-me-cosmic-spin-tougher-than-the-rest/
 - /16478/
 layout: post
 date: 2020-03-03T13:00:00

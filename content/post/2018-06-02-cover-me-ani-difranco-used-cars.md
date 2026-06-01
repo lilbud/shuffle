@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-ani-difranco-used-cars/
+- /cover-me-ani-difranco-used-cars/
 - /2106/
 layout: post
 date: 2018-06-02T12:00:47

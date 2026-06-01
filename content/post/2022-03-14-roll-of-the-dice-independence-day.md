@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-independence-day/
+- /roll-of-the-dice-independence-day/
 - /32833/
 layout: post
 date: 2022-03-14T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sufferin-in-the-land/
+- /cover-me-sufferin-in-the-land/
 - /21111/
 layout: post
 date: 2020-09-14T12:00:00

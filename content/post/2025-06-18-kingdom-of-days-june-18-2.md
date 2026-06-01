@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-june-18-2/
+- /kingdom-of-days-june-18/
 - /57109/
 layout: post
 date: 2025-06-18T11:00:09
-lastmod: 2026-02-15T21:03:21
-title: "June 18"
+lastmod: 2025-06-07T20:08:28
+title: "Kingdom of Days: June 18"
 slug: kingdom-of-days-june-18-2
 author: Ken Rosen
 description: "Rest in peace, Clarence “Big Man” Clemons. Clarence passed away on this date in 2011, but watch his magical performance with Bruce–just the two of them–from this date in 1988."
@@ -39,6 +40,8 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/bigman.jpg.webp
   post_id: 57109
 ---
+***New for 2025:** Audio for 2008*<br>
+
 **1968:** The Castiles serve as guest judges and provide the closing performance at the Long Branch YMCA Battle of the Bands.<br>
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/06/1968-0618.gif)
@@ -47,7 +50,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/06/1971-0618.jpg.webp)
 
-**1983:** Bruce makes a guest appearance at The Stone Pony with The Diamonds. Listen to their mini-set of "Around and Around, "Lucille," and "Twist and Shout" below.<br>
+**1983:** Bruce makes a guest appearance at The Stone Pony with The Diamonds. Listen to their mini-set of “[Around and Around]({{< relref "2020-02-26-cover-me-around-and-around.md" >}}), “[Lucille]({{< relref "1976-01-07-cover-me-lucille.md" >}}/),” and “Twist and Shout” below.<br>
 
 {{< videopress id=bfu6gyfx >}}
 
@@ -59,27 +62,27 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/06/1985-0618.jpg.webp)
 
-**1988:** In town for their Tunnel of Love show the following night, Bruce and Clarence make a guest appearance at the S.O.S. Racisme concert in Paris. The pair perform a mini-set, Bruce on guitar and harmonica and Clarence on sax and backing vocals. Watch this very unusual and beautiful performance below, including a wonderful "The Promised Land" and the first-ever acoustic performance of "My Hometown."<br>
+**1988:** In town for their Tunnel of Love show the following night, Bruce and Clarence make a guest appearance at the S.O.S. Racisme concert in Paris. The pair perform a mini-set, Bruce on guitar and harmonica and Clarence on sax and backing vocals. Watch this very unusual and beautiful performance below, including a wonderful “[The Promised Land]({{< relref "2016-01-09-roll-of-the-dice-the-promised-land.md" >}})” and the first-ever acoustic performance of “[My Hometown]({{< relref "1983-01-12-roll-of-the-dice-my-hometown.md" >}}).”<br>
 
 {{< youtube 7kltDPpjiP0 >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/1988-06-18.jpg.webp)
 
-Meanwhile back home, newspapers report official confirmation of the end of Bruce's separation from his first wife.
+Meanwhile back home, newspapers report official confirmation of the end of Bruce’s separation from his first wife.
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/06/Daily_News_Sat__Jun_18__1988_.jpg.webp)
 
-**1994:** Bruce performs "Wreck on the Highway" with John Wesley Harding at McCabe's Guitar Shop in Santa Monica. Their performance is recorded and will eventually be released as a bonus track on Harding's *Awake* album in 2001.<br>
+**1994:** Bruce performs “[Wreck on the Highway]({{< relref "2022-08-28-roll-of-the-dice-wreck-on-the-highway.md" >}})” with John Wesley Harding at McCabe’s Guitar Shop in Santa Monica. Their performance is recorded and will eventually be released as a bonus track on Harding’s *Awake* album in 2001.<br>
 
 {{< youtube ND2EcrsB2bY >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/1994-06-18-scaled.jpg.webp)
 
-**2008:** In Amsterdam on tour, Bruce finds time to perform "Thunder Road" via satellite for the memorial service for Tim Russert, who passed away five days earlier.<br>
+**2008:** In Amsterdam on tour, Bruce finds time to perform “Thunder Road” via satellite for the memorial service for Tim Russert, who passed away five days earlier.<br>
 
 {{< youtube 96ul2ivcmDQ >}}
 
-That night, Bruce plays three back-to-back tour premieres at Amsterdam's Magic show: "Summertime Blues," "Stand On It," and "Seven Nights to Rock" make for a great high-energy encore.
+That night, Bruce plays three back-to-back tour premieres at Amsterdam’s Magic show: “[Summertime Blues]({{< relref "2020-01-02-cover-me-summertime-blues.md" >}}),” “[Stand On It]({{< relref "2021-10-08-roll-of-the-dice-stand-on-it.md" >}}),” and “[Seven Nights to Rock]({{< relref "2021-04-22-cover-me-seven-nights-to-rock.md" >}})” make for a great high-energy encore.
 
 {{< youtube g0PaDMFv50U >}}
 
@@ -87,7 +90,7 @@ That night, Bruce plays three back-to-back tour premieres at Amsterdam's Magic s
 
 **2011:** Clarence Clemons passes away following complications arising from his stroke a week earlier. Bruce issues the following statement:<br>
 
-> *Clarence lived a wonderful life. He carried within him a love of people that made them love him. He created a wondrous and extended family. He loved the saxophone, loved our fans and gave everything he had every night he stepped on stage. His loss is immeasurable and we are honored and thankful to have known him and had the opportunity to stand beside him for nearly forty years. He was my great friend, my partner and with Clarence at my side, my band and I were able to tell a story far deeper than those simply contained in our music. His life, his memory, and his love will live on in that story and in our band.*<br>
+> *Clarence lived a wonderful life. He carried within him a love of people that made them love him. He created a wondrous and extended family. He loved the saxophone, loved our fans and gave everything he had every night he stepped on stage. His loss is immeasurable and we are honored and thankful to have known him and had the opportunity to stand beside him for nearly forty years. He was my great friend, my partner and with Clarence at my side, my band and I were able to tell a story far deeper than those simply contained in our music. His life, his memory, and his love will live on in that story and in our band.*
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/06/2011-06-18.jpg.webp)
 
@@ -103,7 +106,7 @@ That night, Bruce plays three back-to-back tour premieres at Amsterdam's Magic s
 
 {{< youtube d6Jqp8LBsQg >}}
 
-**2018:** The Asbury Lanes bowling alley and concert venue re-opens, and Bruce is on hand for the occasion. He joins Danny Clinch's Tangiers Blues Band for four songs before an audience selected by a locals-only lottery.<br>
+**2018:** The Asbury Lanes bowling alley and concert venue re-opens, and Bruce is on hand for the occasion. He joins Danny Clinch’s Tangiers Blues Band for four songs before an audience selected by a locals-only lottery.<br>
 
 {{< youtube t7aCF9Uh85Q >}}
 
@@ -128,9 +131,3 @@ That night, Bruce plays three back-to-back tour premieres at Amsterdam's Magic s
 {{< youtube zVDdLVwCqmo >}}
 
 {{< youtube nsPfRjSUusE >}}
-
-**2025:** The Land of Hope and Dreams Tour stops for a night at Deutsche Bank Park in Frankfurt.<br>
-
-{{< youtube TOz5jpOwYu8 >}}
-
-{{< youtube XgsoJa6oGVs >}}

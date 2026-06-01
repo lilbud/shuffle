@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-zurich-july-31-2016-barry-rebos-story/
+- /where-the-band-was-zurich-july-31-2016-barry-rebos-story/
 - /20245/
 layout: post
 date: 2020-07-31T12:00:00

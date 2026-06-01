@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-asbury-park-december-7-2010-mariettas-story/
+- /where-the-band-was-asbury-park-december-7-2010-mariettas-story/
 - /23523/
 layout: post
 date: 2020-12-07T12:02:00

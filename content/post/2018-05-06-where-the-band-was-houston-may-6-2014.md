@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-houston-may-6-2014/
+- /where-the-band-was-houston-may-6-2014/
 - /2027/
 layout: post
 date: 2018-05-06T13:00:33

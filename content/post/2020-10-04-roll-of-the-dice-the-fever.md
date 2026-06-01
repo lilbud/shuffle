@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-fever/
+- /roll-of-the-dice-the-fever/
 - /21113/
 layout: post
 date: 2020-10-04T12:00:00

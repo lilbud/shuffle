@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-i-wanna-be-sedated/
+- /cover-me-i-wanna-be-sedated/
 - /7883/
 layout: post
 date: 2019-03-15T12:00:00

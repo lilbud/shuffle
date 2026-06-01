@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-downbound-train/
+- /roll-of-the-dice-downbound-train/
 - /6887/
 layout: post
 date: 1984-01-07T19:00:13

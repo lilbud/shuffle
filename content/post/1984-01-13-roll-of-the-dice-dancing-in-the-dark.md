@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-dancing-in-the-dark/
+- /roll-of-the-dice-dancing-in-the-dark/
 - /29798/
 layout: post
 date: 1984-01-13T19:00:00

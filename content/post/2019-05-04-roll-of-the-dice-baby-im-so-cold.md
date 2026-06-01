@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-baby-im-so-cold/
+- /roll-of-the-dice-baby-im-so-cold/
 - /9731/
 layout: post
 date: 2019-05-04T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-soul-driver/
+- /roll-of-the-dice-soul-driver/
 - /41081/
 layout: post
 date: 2023-01-22T13:16:00

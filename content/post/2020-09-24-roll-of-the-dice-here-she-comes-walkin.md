@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-here-she-comes-walkin/
+- /roll-of-the-dice-here-she-comes-walkin/
 - /21253/
 layout: post
 date: 2020-09-24T12:00:00

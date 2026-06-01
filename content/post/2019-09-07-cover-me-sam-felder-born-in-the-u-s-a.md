@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-sam-felder-born-in-the-u-s-a/
+- /cover-me-sam-felder-born-in-the-u-s-a/
 - /12101/
 layout: post
 date: 2019-09-07T12:00:00

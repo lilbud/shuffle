@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-racing-in-the-street/
+- /roll-of-the-dice-racing-in-the-street/
 - /29310/
 layout: post
 date: 2021-10-03T12:00:00

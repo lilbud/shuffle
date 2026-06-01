@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-my-best-was-never-good-enough/
+- /roll-of-the-dice-my-best-was-never-good-enough/
 - /28661/
 layout: post
 date: 2021-08-22T12:00:00

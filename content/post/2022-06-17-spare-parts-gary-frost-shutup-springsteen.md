@@ -1,6 +1,7 @@
 ---
 aliases:
 - /spare-parts-gary-frost-shutup-springsteen/
+- /spare-parts-gary-frost-shutup-springsteen/
 - /35642/
 layout: post
 date: 2022-06-17T12:00:00

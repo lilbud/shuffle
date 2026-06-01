@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-avett-brothers-glory-days/
+- /cover-me-avett-brothers-glory-days/
 - /213/
 layout: post
 date: 2018-01-13T15:32:45

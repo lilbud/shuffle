@@ -1,6 +1,7 @@
 ---
 aliases:
 - /spare-parts-arty-supposed-to-be/
+- /spare-parts-arty-supposed-to-be/
 - /22426/
 layout: post
 date: 2020-11-02T13:00:00

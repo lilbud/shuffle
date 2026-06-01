@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-patti-smith-and-bruce-springsteen-slowly-walking-down-the-river/
+- /meeting-across-the-river-patti-smith-and-bruce-springsteen-slowly-walking-down-the-river/
 - /2348/
 layout: post
 date: 2018-05-29T12:00:21

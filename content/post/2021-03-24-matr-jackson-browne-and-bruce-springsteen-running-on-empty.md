@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-jackson-browne-and-bruce-springsteen-running-on-empty/
+- /matr-jackson-browne-and-bruce-springsteen-running-on-empty/
 - /25186/
 layout: post
 date: 2021-03-24T12:00:00

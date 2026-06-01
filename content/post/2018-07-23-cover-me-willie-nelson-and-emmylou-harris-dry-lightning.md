@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-willie-nelson-and-emmylou-harris-dry-lightning/
+- /cover-me-willie-nelson-and-emmylou-harris-dry-lightning/
 - /3248/
 layout: post
 date: 2018-07-23T12:00:12

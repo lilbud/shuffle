@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-night-fire/
+- /roll-of-the-dice-night-fire/
 - /1915/
 layout: post
 date: 2018-05-10T12:00:31

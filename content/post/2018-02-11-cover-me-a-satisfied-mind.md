@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-a-satisfied-mind/
+- /cover-me-a-satisfied-mind/
 - /668/
 layout: post
 date: 2018-02-11T14:00:28

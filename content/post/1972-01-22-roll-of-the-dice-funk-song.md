@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-funk-song/
+- /roll-of-the-dice-funk-song/
 - /1917/
 layout: post
 date: 1972-01-22T19:00:56

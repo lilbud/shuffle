@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-mad-hatters-daughter-dancing-in-the-dark/
+- /cover-me-mad-hatters-daughter-dancing-in-the-dark/
 - /18719/
 layout: post
 date: 2020-06-23T12:00:00

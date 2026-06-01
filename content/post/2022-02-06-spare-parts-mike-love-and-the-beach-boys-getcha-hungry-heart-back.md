@@ -1,6 +1,7 @@
 ---
 aliases:
 - /spare-parts-mike-love-and-the-beach-boys-getcha-hungry-heart-back/
+- /spare-parts-mike-love-and-the-beach-boys-getcha-hungry-heart-back/
 - /32766/
 layout: post
 date: 2022-02-06T13:00:00

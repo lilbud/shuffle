@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-just-like-a-woman/
+- /cover-me-just-like-a-woman/
 - /1986/
 layout: post
 date: 2018-05-08T12:00:23

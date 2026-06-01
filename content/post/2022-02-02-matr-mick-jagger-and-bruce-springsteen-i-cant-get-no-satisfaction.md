@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-mick-jagger-and-bruce-springsteen-i-cant-get-no-satisfaction/
+- /matr-mick-jagger-and-bruce-springsteen-i-cant-get-no-satisfaction/
 - /32480/
 layout: post
 date: 2022-02-02T13:00:00

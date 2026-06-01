@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-turn-back-the-hands-of-time/
+- /cover-me-turn-back-the-hands-of-time/
 - /52381/
 layout: post
 date: 2024-07-04T12:00:00

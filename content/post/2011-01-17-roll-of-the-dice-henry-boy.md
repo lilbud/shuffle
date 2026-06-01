@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-henry-boy/
+- /roll-of-the-dice-henry-boy/
 - /33406/
 layout: post
 date: 2011-01-17T13:00:00

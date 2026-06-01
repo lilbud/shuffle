@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-i-shall-be-released/
+- /cover-me-i-shall-be-released/
 - /32831/
 layout: post
 date: 2022-02-21T13:00:00

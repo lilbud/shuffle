@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-stories-featuring-garrison-starr/
+- /cover-me-stories-featuring-garrison-starr/
 - /19888/
 layout: post
 date: 2020-07-17T12:00:00

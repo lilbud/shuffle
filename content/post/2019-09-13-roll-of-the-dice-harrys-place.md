@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-harrys-place/
+- /roll-of-the-dice-harrys-place/
 - /12908/
 layout: post
 date: 2019-09-13T12:00:00

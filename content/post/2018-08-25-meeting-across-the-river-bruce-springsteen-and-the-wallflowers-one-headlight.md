@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-the-wallflowers-one-headlight/
+- /meeting-across-the-river-bruce-springsteen-and-the-wallflowers-one-headlight/
 - /3900/
 layout: post
 date: 2018-08-25T12:00:30

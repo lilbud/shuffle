@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-sam-moore-fa-fa-fa-fa-fa-sad-song/
+- /matr-bruce-springsteen-and-sam-moore-fa-fa-fa-fa-fa-sad-song/
 - /32245/
 layout: post
 date: 2022-01-26T13:00:00

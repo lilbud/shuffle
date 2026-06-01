@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-divine-fits-hungry-heart/
+- /cover-me-divine-fits-hungry-heart/
 - /22117/
 layout: post
 date: 2020-11-14T13:00:00

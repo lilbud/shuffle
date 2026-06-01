@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-oh-no-no-no/
+- /roll-of-the-dice-oh-no-no-no/
 - /5526/
 layout: post
 date: 2018-11-13T13:00:26

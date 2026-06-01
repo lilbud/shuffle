@@ -1,6 +1,7 @@
 ---
 aliases:
 - /announcing-the-e-street-shuffle-bookshelf-collection/
+- /announcing-the-e-street-shuffle-bookshelf-collection/
 - /62701/
 layout: post
 date: 2025-11-06T00:00:00

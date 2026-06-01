@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-you-cant-sit-down/
+- /cover-me-you-cant-sit-down/
 - /2694/
 layout: default-post
 date: 2018-06-21T11:33:23

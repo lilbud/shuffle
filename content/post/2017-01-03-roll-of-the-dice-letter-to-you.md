@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-letter-to-you/
+- /roll-of-the-dice-letter-to-you/
 - /22281/
 layout: post
 date: 2017-01-03T19:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-december-reason-to-believe/
+- /cover-me-december-reason-to-believe/
 - /37691/
 layout: post
 date: 2022-09-16T12:00:00

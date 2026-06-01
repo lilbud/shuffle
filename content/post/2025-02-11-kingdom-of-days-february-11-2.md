@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-11-2/
+- /kingdom-of-days-february-11/
 - /55934/
 layout: post
 date: 2025-02-11T12:00:47
 lastmod: 2025-11-24T21:22:35
-title: "February 11"
+title: "Kingdom of Days: February 11"
 slug: kingdom-of-days-february-11-2
 author: Ken Rosen
 description: "Bruce joins Marah in the studio, plays “In Freehold” *outside* Freehold for the first time, and plays three Australian shows (he knows the right time of year to go!) on this day in Springsteen history."

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-cover-me-freedom-cadence/
+- /roll-of-the-dice-cover-me-freedom-cadence/
 - /8403/
 layout: post
 date: 2019-04-15T12:00:00

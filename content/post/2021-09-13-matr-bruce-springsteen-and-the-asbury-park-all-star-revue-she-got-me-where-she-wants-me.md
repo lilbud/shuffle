@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-the-asbury-park-all-star-revue-she-got-me-where-she-wants-me/
+- /matr-bruce-springsteen-and-the-asbury-park-all-star-revue-she-got-me-where-she-wants-me/
 - /25934/
 layout: post
 date: 2021-09-13T12:00:00

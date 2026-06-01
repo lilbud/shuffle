@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-x-ambassadors-stolen-car/
+- /cover-me-x-ambassadors-stolen-car/
 - /9385/
 layout: post
 date: 2019-05-15T12:00:00

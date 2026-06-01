@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-mr-outside/
+- /roll-of-the-dice-mr-outside/
 - /10317/
 layout: post
 date: 2019-06-10T12:00:00

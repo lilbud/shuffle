@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-wild-years-radio-nowhere/
+- /cover-me-the-wild-years-radio-nowhere/
 - /29538/
 layout: post
 date: 2021-09-12T12:00:00

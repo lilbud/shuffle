@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-gary-u-s-bonds-and-the-e-street-band-angelyne/
+- /cover-me-gary-u-s-bonds-and-the-e-street-band-angelyne/
 - /7158/
 layout: post
 date: 2019-02-04T13:00:37

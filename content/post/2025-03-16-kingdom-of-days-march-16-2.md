@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-march-16-2/
+- /kingdom-of-days-march-16/
 - /56176/
 layout: post
 date: 2025-03-16T11:00:32
-lastmod: 2025-12-08T19:03:39
-title: "March 16"
+lastmod: 2025-03-06T03:14:46
+title: "Kingdom of Days: March 16"
 slug: kingdom-of-days-march-16-2
 author: Ken Rosen
 description: "On this date: the live debut of “High Hopes,” a guest appearance with Jackson Browne, and more."
@@ -34,7 +35,11 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/03/2023-03-16-philadelphia-pa-bruce-springsteen-and-the-e-street-band-review.webp
   post_id: 56176
 ---
-**1973:** Bruce and the (not yet named) E Street Band play a gig at Oliver’s in Boston, their fifth of seven straight nights.<br>
+***New for 2025:** Video for 2023*<br>
+
+**1973:** Bruce and the (not yet named) E Street Band play a gig at Oliver's in Boston, their fifth of seven straight nights.<br>
+
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2018/03/1973-0316.jpg.webp)
 
 **1974:** Bruce and the band play their second of two nights at Armadillo World Headquarters in Austin.<br>
 
@@ -50,7 +55,7 @@ params:
 
 {{< youtube _p690qQT8L0 >}}
 
-**2004:** Bruce joins Jackson Browne on-stage at the Beacon Theater in New York City and provides backing vocals on “Take It Easy.”<br>
+**2004:** Bruce joins Jackson Browne on-stage at the Beacon Theater in New York City and provides backing vocals on "[Take It Easy]({{< relref "2018-01-18-cover-me-take-it-easy.md" >}})."<br>
 
 {{< youtube b7y7zEisP1k >}}
 
@@ -66,7 +71,7 @@ params:
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2022/03/2008-03-16.jpg.webp)
 
-**2013:** Night Two in Brisbane opens with the live debut of “High Hopes.”<br>
+**2013:** Night Two in Brisbane opens with the live debut of "[High Hopes]({{< relref "2021-08-25-cover-me-high-hopes.md" >}})."<br>
 
 {{< youtube Z7ksWwv3GtQ >}}
 
@@ -84,8 +89,8 @@ params:
 
 {{< youtube G_bAlbzUkVk >}}
 
-{{< youtube jMnCm66J_oQ >}}
+{{< youtube HKtD_bzCU9E >}}
 
-{{< youtube gn8tNdOaWQY >}}
+{{< youtube vpM5M6nBrtk >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2024/03/Philadelphia_Inquirer_Sat__Mar_18__2023_-scaled.jpg.webp)

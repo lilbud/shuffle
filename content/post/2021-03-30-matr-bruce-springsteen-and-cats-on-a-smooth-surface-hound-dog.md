@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-cats-on-a-smooth-surface-hound-dog/
+- /matr-bruce-springsteen-and-cats-on-a-smooth-surface-hound-dog/
 - /26262/
 layout: post
 date: 2021-03-30T12:00:00

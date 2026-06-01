@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-steve-earle-and-bruce-springsteen-dead-flowers/
+- /matr-steve-earle-and-bruce-springsteen-dead-flowers/
 - /15479/
 layout: post
 date: 2020-01-25T13:00:00

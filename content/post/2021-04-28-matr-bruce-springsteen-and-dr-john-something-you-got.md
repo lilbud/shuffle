@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-dr-john-something-you-got/
+- /matr-bruce-springsteen-and-dr-john-something-you-got/
 - /26874/
 layout: post
 date: 2021-04-28T12:00:00

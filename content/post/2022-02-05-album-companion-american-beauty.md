@@ -1,6 +1,7 @@
 ---
 aliases:
 - /album-companion-american-beauty/
+- /album-companion-american-beauty/
 - /32756/
 layout: post
 date: 2022-02-05T13:00:00

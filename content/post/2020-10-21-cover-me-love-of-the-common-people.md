@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-love-of-the-common-people/
+- /cover-me-love-of-the-common-people/
 - /22141/
 layout: post
 date: 2020-10-21T11:02:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-mel-mcdaniel-stand-on-it/
+- /cover-me-mel-mcdaniel-stand-on-it/
 - /28142/
 layout: post
 date: 2021-06-20T12:00:00

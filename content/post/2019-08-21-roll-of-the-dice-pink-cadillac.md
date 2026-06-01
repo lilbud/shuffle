@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-pink-cadillac/
+- /roll-of-the-dice-pink-cadillac/
 - /11451/
 layout: post
 date: 2019-08-21T12:00:00

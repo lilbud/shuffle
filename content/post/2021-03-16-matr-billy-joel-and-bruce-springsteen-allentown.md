@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-billy-joel-and-bruce-springsteen-allentown/
+- /matr-billy-joel-and-bruce-springsteen-allentown/
 - /25519/
 layout: post
 date: 2021-03-16T12:00:00

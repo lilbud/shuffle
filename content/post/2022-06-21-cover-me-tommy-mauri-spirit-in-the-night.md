@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-tommy-mauri-spirit-in-the-night/
+- /cover-me-tommy-mauri-spirit-in-the-night/
 - /35719/
 layout: post
 date: 2022-06-21T12:00:00

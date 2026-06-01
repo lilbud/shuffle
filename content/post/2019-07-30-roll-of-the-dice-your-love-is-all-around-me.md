@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-your-love-is-all-around-me/
+- /roll-of-the-dice-your-love-is-all-around-me/
 - /11789/
 layout: post
 date: 2019-07-30T12:00:00

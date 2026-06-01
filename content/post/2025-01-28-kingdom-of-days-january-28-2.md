@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-january-28-2/
+- /kingdom-of-days-january-28/
 - /55811/
 layout: post
 date: 2025-01-28T12:00:07
 lastmod: 2025-11-19T20:31:09
-title: "January 28"
+title: "Kingdom of Days: January 28"
 slug: kingdom-of-days-january-28-2
 author: Ken Rosen
 description: "Behind the scenes of “We Are the World” and the Tunnel of Love Express Tour, plus much more on this date in Springsteen history."

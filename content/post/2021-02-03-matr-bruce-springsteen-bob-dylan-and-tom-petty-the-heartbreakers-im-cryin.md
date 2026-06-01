@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-bob-dylan-and-tom-petty-the-heartbreakers-im-cryin/
+- /matr-bruce-springsteen-bob-dylan-and-tom-petty-the-heartbreakers-im-cryin/
 - /25004/
 layout: post
 date: 2021-02-03T13:00:00

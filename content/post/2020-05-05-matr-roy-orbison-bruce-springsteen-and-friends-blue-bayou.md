@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-roy-orbison-bruce-springsteen-and-friends-blue-bayou/
+- /matr-roy-orbison-bruce-springsteen-and-friends-blue-bayou/
 - /17749/
 layout: post
 date: 2020-05-05T12:00:00

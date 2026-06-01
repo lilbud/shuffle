@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-patti-scialfa-and-bruce-springsteen-as-long-as-i-can-be-with-you/
+- /meeting-across-the-river-patti-scialfa-and-bruce-springsteen-as-long-as-i-can-be-with-you/
 - /4776/
 layout: post
 date: 2018-10-02T12:00:45

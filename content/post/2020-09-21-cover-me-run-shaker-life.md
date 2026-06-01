@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-run-shaker-life/
+- /cover-me-run-shaker-life/
 - /21252/
 layout: post
 date: 2020-09-21T12:00:00

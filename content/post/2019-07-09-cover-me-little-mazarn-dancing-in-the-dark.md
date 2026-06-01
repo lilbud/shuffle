@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-little-mazarn-dancing-in-the-dark/
+- /cover-me-little-mazarn-dancing-in-the-dark/
 - /10925/
 layout: post
 date: 2019-07-09T12:00:00

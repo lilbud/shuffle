@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-lucky-day/
+- /cover-me-lucky-day/
 - /22912/
 layout: post
 date: 2020-12-06T13:00:00

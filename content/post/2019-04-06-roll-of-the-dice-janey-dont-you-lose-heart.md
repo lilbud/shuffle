@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-janey-dont-you-lose-heart/
+- /roll-of-the-dice-janey-dont-you-lose-heart/
 - /8274/
 layout: post
 date: 2019-04-06T12:00:00

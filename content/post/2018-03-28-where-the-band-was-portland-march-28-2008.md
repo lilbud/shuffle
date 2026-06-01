@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-portland-march-28-2008/
+- /where-the-band-was-portland-march-28-2008/
 - /1329/
 layout: post
 date: 2018-03-28T13:00:40

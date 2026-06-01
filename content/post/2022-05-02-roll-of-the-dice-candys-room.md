@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-candys-room/
+- /roll-of-the-dice-candys-room/
 - /34350/
 layout: post
 date: 2022-05-02T12:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-long-goodbye/
+- /roll-of-the-dice-the-long-goodbye/
 - /31029/
 layout: post
 date: 2021-12-05T13:00:00

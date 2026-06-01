@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-bless-my-soul/
+- /roll-of-the-dice-bless-my-soul/
 - /35514/
 layout: post
 date: 1972-01-21T19:00:00

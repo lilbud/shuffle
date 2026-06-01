@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-february-10-2/
+- /kingdom-of-days-february-10/
 - /55933/
 layout: post
 date: 2025-02-10T12:00:38
 lastmod: 2025-11-27T00:50:18
-title: "February 10"
+title: "Kingdom of Days: February 10"
 slug: kingdom-of-days-february-10-2
 author: Ken Rosen
 description: "On this date: Bruce wins three Grammy Awards, plays his last show at the Sunshine In, and much more."

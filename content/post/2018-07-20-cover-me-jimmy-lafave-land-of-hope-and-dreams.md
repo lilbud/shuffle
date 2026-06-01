@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-jimmy-lafave-land-of-hope-and-dreams/
+- /cover-me-jimmy-lafave-land-of-hope-and-dreams/
 - /3212/
 layout: post
 date: 2018-07-20T12:00:22

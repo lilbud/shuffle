@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-paul-mccartney-and-bruce-springsteen-i-wanna-be-your-man/
+- /matr-paul-mccartney-and-bruce-springsteen-i-wanna-be-your-man/
 - /44211/
 layout: post
 date: 2023-07-15T12:30:00

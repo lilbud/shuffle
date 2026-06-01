@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-paul-mccartney-and-bruce-springsteen-the-end/
+- /matr-paul-mccartney-and-bruce-springsteen-the-end/
 - /52383/
 layout: post
 date: 2024-07-06T22:30:00

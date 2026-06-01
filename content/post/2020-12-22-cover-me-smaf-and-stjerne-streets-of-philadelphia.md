@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-smaf-and-stjerne-streets-of-philadelphia/
+- /cover-me-smaf-and-stjerne-streets-of-philadelphia/
 - /23942/
 layout: post
 date: 2020-12-22T13:00:00

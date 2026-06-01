@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-billy-joel-bruce-springsteen-and-the-e-street-band-only-the-good-die-young/
+- /matr-billy-joel-bruce-springsteen-and-the-e-street-band-only-the-good-die-young/
 - /16062/
 layout: post
 date: 2020-02-10T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-patti-scialfa-and-bruce-springsteen-tell-him/
+- /matr-patti-scialfa-and-bruce-springsteen-tell-him/
 - /16361/
 layout: post
 date: 2020-03-22T12:00:00

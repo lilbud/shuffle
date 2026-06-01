@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-sun-aint-gonna-shine-anymore/
+- /cover-me-the-sun-aint-gonna-shine-anymore/
 - /40755/
 layout: post
 date: 2023-01-10T13:00:00

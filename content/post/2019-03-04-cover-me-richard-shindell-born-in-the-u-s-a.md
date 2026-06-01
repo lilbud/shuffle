@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-richard-shindell-born-in-the-u-s-a/
+- /cover-me-richard-shindell-born-in-the-u-s-a/
 - /7800/
 layout: post
 date: 2019-03-04T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-lions-den/
+- /roll-of-the-dice-lions-den/
 - /10411/
 layout: post
 date: 2019-06-21T12:00:00

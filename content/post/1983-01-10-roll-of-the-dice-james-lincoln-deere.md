@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-james-lincoln-deere/
+- /roll-of-the-dice-james-lincoln-deere/
 - /39522/
 layout: post
 date: 1983-01-10T19:00:00

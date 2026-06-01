@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-family-song/
+- /roll-of-the-dice-family-song/
 - /16061/
 layout: post
 date: 2020-02-23T13:00:00

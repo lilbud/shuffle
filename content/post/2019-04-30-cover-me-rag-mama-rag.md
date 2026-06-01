@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-rag-mama-rag/
+- /cover-me-rag-mama-rag/
 - /9379/
 layout: post
 date: 2019-04-30T12:00:00

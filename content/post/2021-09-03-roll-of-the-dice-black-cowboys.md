@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-black-cowboys/
+- /roll-of-the-dice-black-cowboys/
 - /29011/
 layout: post
 date: 2021-09-03T11:14:00

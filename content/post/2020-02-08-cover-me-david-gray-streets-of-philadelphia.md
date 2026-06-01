@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-david-gray-streets-of-philadelphia/
+- /cover-me-david-gray-streets-of-philadelphia/
 - /13626/
 layout: post
 date: 2020-02-08T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-gotta-get-that-feeling/
+- /roll-of-the-dice-gotta-get-that-feeling/
 - /24827/
 layout: post
 date: 2021-02-08T13:00:00

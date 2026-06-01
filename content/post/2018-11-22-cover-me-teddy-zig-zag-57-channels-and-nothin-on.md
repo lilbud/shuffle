@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-teddy-zig-zag-57-channels-and-nothin-on/
+- /cover-me-teddy-zig-zag-57-channels-and-nothin-on/
 - /5811/
 layout: post
 date: 2018-11-22T13:00:33

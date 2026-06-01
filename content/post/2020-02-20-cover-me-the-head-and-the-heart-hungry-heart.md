@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-head-and-the-heart-hungry-heart/
+- /cover-me-the-head-and-the-heart-hungry-heart/
 - /16090/
 layout: post
 date: 2020-02-20T13:00:00

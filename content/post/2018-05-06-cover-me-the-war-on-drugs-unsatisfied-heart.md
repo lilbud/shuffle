@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-the-war-on-drugs-unsatisfied-heart/
+- /cover-me-the-war-on-drugs-unsatisfied-heart/
 - /2078/
 layout: post
 date: 2018-05-06T12:00:54

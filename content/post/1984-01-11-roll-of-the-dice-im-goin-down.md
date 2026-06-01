@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-im-goin-down/
+- /roll-of-the-dice-im-goin-down/
 - /27455/
 layout: post
 date: 1984-01-11T19:00:00

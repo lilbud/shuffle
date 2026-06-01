@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-ed-sheeran-atlantic-city/
+- /cover-me-ed-sheeran-atlantic-city/
 - /303/
 layout: post
 date: 2018-01-19T13:00:15

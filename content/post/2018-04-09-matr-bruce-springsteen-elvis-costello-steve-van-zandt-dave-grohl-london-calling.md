@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-elvis-costello-steve-van-zandt-dave-grohl-london-calling/
+- /matr-bruce-springsteen-elvis-costello-steve-van-zandt-dave-grohl-london-calling/
 - /1467/
 layout: post
 date: 2018-04-09T12:00:28

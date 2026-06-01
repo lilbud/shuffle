@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-marcel-lichter-western-stars/
+- /cover-me-marcel-lichter-western-stars/
 - /14363/
 layout: post
 date: 2019-12-21T13:00:00

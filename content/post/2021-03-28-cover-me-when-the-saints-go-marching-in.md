@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-when-the-saints-go-marching-in/
+- /cover-me-when-the-saints-go-marching-in/
 - /25932/
 layout: post
 date: 2021-03-28T12:00:00

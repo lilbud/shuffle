@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-and-sam-moore-soul-man/
+- /meeting-across-the-river-bruce-springsteen-and-sam-moore-soul-man/
 - /3494/
 layout: post
 date: 2018-07-25T12:00:58

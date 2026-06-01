@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-jennifer-nettles-sting-darlene-love-ronnie-spector-bruce-springsteen-and-more-do-you-hear-what-i-hear/
+- /matr-jennifer-nettles-sting-darlene-love-ronnie-spector-bruce-springsteen-and-more-do-you-hear-what-i-hear/
 - /23378/
 layout: post
 date: 2020-12-24T13:00:00

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-springsteen-and-u2-i-still-havent-found-what-im-looking-for/
+- /matr-bruce-springsteen-and-u2-i-still-havent-found-what-im-looking-for/
 - /7435/
 layout: post
 date: 2019-02-25T13:00:08

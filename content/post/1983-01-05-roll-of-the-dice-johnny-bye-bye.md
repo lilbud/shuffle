@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-johnny-bye-bye/
+- /roll-of-the-dice-johnny-bye-bye/
 - /35847/
 layout: post
 date: 1983-01-05T19:00:00

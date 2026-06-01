@@ -1,11 +1,12 @@
 ---
 aliases:
 - /kingdom-of-days-june-25-2/
+- /kingdom-of-days-june-25/
 - /57180/
 layout: post
 date: 2025-06-25T11:00:03
-lastmod: 2026-02-15T21:49:59
-title: "June 25"
+lastmod: 2025-06-15T16:43:47
+title: "Kingdom of Days: June 25"
 slug: kingdom-of-days-june-25-2
 author: Ken Rosen
 description: "Patti Scialfa joins the E Street Band, Bruce performs on David Letterman’s last NBC show, and the Darkness Tour comes to Seattle. More inside!"
@@ -46,7 +47,9 @@ params:
   header_img: https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/5292b0cbbfd852d631e6539c83ffb22a.jpg.webp
   post_id: 57180
 ---
-**1973:** Bruce is in the studio, working on his second album at 914 Sound Studios in Blauvelt, New York. Today he works on "Wild Billy's Circus Story."<br>
+***New for 2025:** Audio for 2008; video for 2016*<br>
+
+**1973:** Bruce is in the studio, working on his second album at 914 Sound Studios in Blauvelt, New York. Today he works on "[Wild Billy's Circus Story]({{< relref "2019-03-14-roll-of-the-dice-wild-billys-circus-story.md" >}})."<br>
 
 **1974:** A scheduled gig–the first of a planned six-night stand–at Lafayette's Music Room in Memphis is cancelled.<br>
 
@@ -60,11 +63,11 @@ params:
 
 **1984:** Bruce and the E Street Band rehearse one last time before kicking off the Born in the U.S.A. Tour. Following her successful audition the day before, Bruce invites Patti Scialfa to join the band effective immediately. She accepts on the spot.<br>
 
-**1985:** The French leg of the Born in the U.S.A. Tour continues with a show in Saint-Etienne, where Bruce plays "No Surrender" for the very first time in Europe.<br>
+**1985:** The French leg of the Born in the U.S.A. Tour continues with a show in Saint-Etienne, where Bruce plays "[No Surrender]({{< relref "1984-01-09-roll-of-the-dice-no-surrender.md" >}})" for the very first time in Europe.<br>
 
 {{< videopress id=oaIjWOlU >}}
 
-**1988:** The Tunnel of Love Tour stops in London for one show at Wembley Stadium, where Bruce plays "Love Me Tender" for the last time to date. Meanwhile, rumors continue to swirl around Bruce and Patti.<br>
+**1988:** The Tunnel of Love Tour stops in London for one show at Wembley Stadium, where Bruce plays "[Love Me Tender]({{< relref "2019-03-02-cover-me-love-me-tender.md" >}})" for the last time to date. Meanwhile, rumors continue to swirl around Bruce and Patti.<br>
 
 {{< videopress id=GQWCsmkf >}}
 
@@ -82,17 +85,17 @@ params:
 
 {{< videopress id=BVjxn8FM >}}
 
-**1993:** David Letterman films his final episode on NBC before moving to CBS and turning his NBC show over to Conan O'Brien. To mark the occasion, Bruce drops by as a surprise guest and performs "Glory Days," momentarily taking over leadership of the house band. Watch the band have the time of their lives below.<br>
+**1993:** David Letterman films his final episode on NBC before moving to CBS and turning his NBC show over to Conan O'Brien. To mark the occasion, Bruce drops by as a surprise guest and performs "[Glory Days]({{< relref "1984-01-12-roll-of-the-dice-glory-days.md" >}})," momentarily taking over leadership of the house band. Watch the band have the time of their lives below.<br>
 
 {{< youtube R9hqLDOPNg8 >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/06/1993-06-25.jpg.webp)
 
-**2003:** The European leg of the Rising Tour hits the home stretch with this show in Vienna, featuring a full-band "Incident on 57th Street."<br>
+**2003:** The European leg of the Rising Tour hits the home stretch with this show in Vienna, featuring a full-band "[Incident on 57th Street]({{< relref "2018-12-14-roll-of-the-dice-incident-on-57th-street.md" >}})."<br>
 
 {{< videopress id=fpJ31k53 >}}
 
-**2005:** Four tour premieres when the Devils & Dust Tour stops in Stockholm, including "Downbound Train," "Across the Border," "Blinded by the Light," and the first "Walk Like a Man" in 17 years. This show is available for purchase as part of Bruce's official archive series.<br>
+**2005:** Four tour premieres when the Devils & Dust Tour stops in Stockholm, including "[Downbound Train]({{< relref "1984-01-07-roll-of-the-dice-downbound-train.md" >}})," "[Across the Border]({{< relref "2020-09-06-roll-of-the-dice-across-the-border.md" >}})," "[Blinded by the Light]({{< relref "2011-01-02-roll-of-the-dice-blinded-by-the-light.md" >}})," and the first "[Walk Like a Man]({{< relref "1987-01-06-roll-of-the-dice-walk-like-a-man.md" >}}/)" in 17 years. This show is available for purchase as part of Bruce's official archive series–get it [here](https://live.brucespringsteen.net/live-music/0,24925/bruce-springsteen-hovet-stockholm-se-06-25-2005-mp3-flac-or-online-music-streaming.html).<br>
 
 {{< youtube o2GxcTjeu58 >}}
 
@@ -104,13 +107,13 @@ params:
 
 {{< youtube q7zn6k9Cz5I >}}
 
-**2006:** The American leg of the Seeger Sessions Tour wraps up with a second show at the PNC Bank Arts Center in Holmdel, New Jersey. Bruce closes out the leg with a tour premiere: "The Daring Young Man on the Flying Trapeze."<br>
+**2006:** The American leg of the Seeger Sessions Tour wraps up with a second show at the PNC Bank Arts Center in Holmdel, New Jersey. Bruce closes out the leg with a tour premiere: "[The Daring Young Man on the Flying Trapeze]({{< relref "1976-02-01-cover-me-the-daring-young-man-on-the-flying-trapeze.md" >}}/)."<br>
 
 {{< youtube voXHqkN2k9Q >}}
 
 ![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2021/06/2006-06-25.jpg.webp)
 
-**2008:** When the Magic Tour comes to Milan, Bruce opens with "Summertime Blues," closes with the tour premiere of "Twist and Shout," and treats fans to the first European performance of "None But the Brave."<br>
+**2008:** When the Magic Tour comes to Milan, Bruce opens with "[Summertime Blues]({{< relref "2020-01-02-cover-me-summertime-blues.md" >}})," closes with the tour premiere of "Twist and Shout," and treats fans to the first European performance of "[None But the Brave]({{< relref "2018-09-24-roll-of-the-dice-none-but-the-brave.md" >}})."<br>
 
 {{< youtube w_IwWK8RFOQ >}}
 
@@ -120,7 +123,7 @@ params:
 
 {{< youtube-playlist PLJTyL9twk3zDbjokWJS5Hcw7_zeuswtkM >}}
 
-**2016:** At Night One in Gothenburg on the River Tour sequel, Bruce opens with the tour premiere of "The Promise," played solo on piano. "Tunnel of Love" and "Shackled and Drawn" also make their first appearances of the tour.<br>
+**2016:** At Night One in Gothenburg on the River Tour sequel, Bruce opens with the tour premiere of "The Promise," played solo on piano. "[Tunnel of Love]({{< relref "1987-01-07-roll-of-the-dice-tunnel-of-love.md" >}}/)" and "[Shackled and Drawn]({{< relref "2020-07-16-roll-of-the-dice-shackled-and-drawn.md" >}})" also make their first appearances of the tour. This show is available to stream or purchase [here](https://live.brucespringsteen.net/live-music/0,14118/Bruce-Springsteen-mp3-flac-download-6-25-2016-Ullevi-Stadium-Goteborg-SE.html).<br>
 
 {{< youtube uowZAEAi7_Y >}}
 

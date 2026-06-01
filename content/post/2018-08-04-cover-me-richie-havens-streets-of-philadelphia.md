@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-richie-havens-streets-of-philadelphia/
+- /cover-me-richie-havens-streets-of-philadelphia/
 - /3573/
 layout: post
 date: 2018-08-04T12:00:14

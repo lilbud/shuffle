@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-the-upstage-jam-band-the-blues-is-my-business/
+- /matr-the-upstage-jam-band-the-blues-is-my-business/
 - /996/
 layout: post
 date: 2018-03-11T12:00:45

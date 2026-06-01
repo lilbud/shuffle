@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-hurry-up-sundown/
+- /roll-of-the-dice-hurry-up-sundown/
 - /17541/
 layout: post
 date: 2020-04-26T12:00:00

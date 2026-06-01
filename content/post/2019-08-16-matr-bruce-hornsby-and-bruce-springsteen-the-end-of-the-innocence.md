@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-bruce-hornsby-and-bruce-springsteen-the-end-of-the-innocence/
+- /matr-bruce-hornsby-and-bruce-springsteen-the-end-of-the-innocence/
 - /12004/
 layout: post
 date: 2019-08-16T12:00:00

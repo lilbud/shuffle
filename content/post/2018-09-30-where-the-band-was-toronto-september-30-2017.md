@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-toronto-september-30-2017/
+- /where-the-band-was-toronto-september-30-2017/
 - /4624/
 layout: post
 date: 2018-09-30T13:00:12

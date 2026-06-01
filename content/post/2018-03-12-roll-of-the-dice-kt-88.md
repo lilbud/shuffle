@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-kt-88/
+- /roll-of-the-dice-kt-88/
 - /1009/
 layout: post
 date: 2018-03-12T12:00:00

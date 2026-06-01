@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-bat-for-lashes-im-on-fire/
+- /cover-me-bat-for-lashes-im-on-fire/
 - /5409/
 layout: post
 date: 2018-11-02T12:00:28

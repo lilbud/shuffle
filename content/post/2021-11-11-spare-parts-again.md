@@ -1,6 +1,7 @@
 ---
 aliases:
 - /spare-parts-again/
+- /spare-parts-again/
 - /30801/
 layout: post
 date: 2021-11-11T11:50:00

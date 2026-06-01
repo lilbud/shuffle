@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-dropkick-murphys-and-bruce-springsteen-im-shipping-up-to-boston/
+- /matr-dropkick-murphys-and-bruce-springsteen-im-shipping-up-to-boston/
 - /6252/
 layout: post
 date: 2018-12-16T13:00:36

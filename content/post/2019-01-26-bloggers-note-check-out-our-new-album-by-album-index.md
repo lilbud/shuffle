@@ -1,6 +1,7 @@
 ---
 aliases:
 - /bloggers-note-check-out-our-new-album-by-album-index/
+- /bloggers-note-check-out-our-new-album-by-album-index/
 - /7341/
 layout: post
 date: 2019-01-26T19:31:41

@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-roll-over-beethoven/
+- /cover-me-roll-over-beethoven/
 - /11794/
 layout: post
 date: 2019-08-08T12:00:00

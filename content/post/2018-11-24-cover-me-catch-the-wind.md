@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-catch-the-wind/
+- /cover-me-catch-the-wind/
 - /6173/
 layout: post
 date: 2018-11-24T13:00:33

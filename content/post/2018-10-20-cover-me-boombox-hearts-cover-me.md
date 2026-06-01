@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-boombox-hearts-cover-me/
+- /cover-me-boombox-hearts-cover-me/
 - /5068/
 layout: post
 date: 2018-10-20T12:00:40

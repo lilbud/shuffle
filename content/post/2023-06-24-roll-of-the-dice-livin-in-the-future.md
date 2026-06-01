@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-livin-in-the-future/
+- /roll-of-the-dice-livin-in-the-future/
 - /43751/
 layout: post
 date: 2023-06-24T12:00:00

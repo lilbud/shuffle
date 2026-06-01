@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-lisa-lowell-and-bruce-springsteen-the-moulin-rouge/
+- /matr-lisa-lowell-and-bruce-springsteen-the-moulin-rouge/
 - /6254/
 layout: post
 date: 2018-12-12T13:00:44

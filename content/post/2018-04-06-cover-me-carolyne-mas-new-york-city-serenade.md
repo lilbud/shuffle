@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-carolyne-mas-new-york-city-serenade/
+- /cover-me-carolyne-mas-new-york-city-serenade/
 - /1472/
 layout: post
 date: 2018-04-06T12:00:17

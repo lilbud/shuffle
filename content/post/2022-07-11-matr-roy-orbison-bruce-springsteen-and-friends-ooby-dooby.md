@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-roy-orbison-bruce-springsteen-and-friends-ooby-dooby/
+- /matr-roy-orbison-bruce-springsteen-and-friends-ooby-dooby/
 - /36164/
 layout: post
 date: 2022-07-11T12:00:00

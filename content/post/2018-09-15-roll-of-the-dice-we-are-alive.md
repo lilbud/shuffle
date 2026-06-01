@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-we-are-alive/
+- /roll-of-the-dice-we-are-alive/
 - /3987/
 layout: post
 date: 2018-09-15T12:00:14

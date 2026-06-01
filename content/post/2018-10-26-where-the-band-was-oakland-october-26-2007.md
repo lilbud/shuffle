@@ -1,6 +1,7 @@
 ---
 aliases:
 - /where-the-band-was-oakland-october-26-2007/
+- /where-the-band-was-oakland-october-26-2007/
 - /5191/
 layout: post
 date: 2018-10-26T13:00:57

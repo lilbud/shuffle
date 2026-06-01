@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-glory-days/
+- /roll-of-the-dice-glory-days/
 - /51596/
 layout: post
 date: 1984-01-12T19:05:00

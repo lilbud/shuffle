@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-the-brokenhearted/
+- /roll-of-the-dice-the-brokenhearted/
 - /3760/
 layout: post
 date: 2018-08-20T12:00:51

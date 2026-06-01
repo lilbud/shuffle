@@ -1,6 +1,7 @@
 ---
 aliases:
 - /roll-of-the-dice-human-touch/
+- /roll-of-the-dice-human-touch/
 - /11843/
 layout: post
 date: 2019-08-09T12:00:00

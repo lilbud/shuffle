@@ -1,6 +1,7 @@
 ---
 aliases:
 - /matr-joe-grushecky-and-bruce-springsteen-lighten-up/
+- /matr-joe-grushecky-and-bruce-springsteen-lighten-up/
 - /565/
 layout: post
 date: 2018-02-05T13:00:37

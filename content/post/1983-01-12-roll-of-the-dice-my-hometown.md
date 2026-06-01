@@ -1,10 +1,11 @@
 ---
 aliases:
 - /roll-of-the-dice-my-hometown/
+- /roll-of-the-dice-my-hometown/
 - /16720/
 layout: post
 date: 1983-01-12T19:00:00
-lastmod: 2025-12-22T03:06:25
+lastmod: 2026-02-18T22:51:10
 title: "My Hometown"
 slug: roll-of-the-dice-my-hometown
 author: Ken Rosen
@@ -23,7 +24,7 @@ It was '69 not '65, Monday night rather than Saturday night, and it wasn't his h
 
 But it *was* his home town, and when the high-running tensions boiled over into riots and violence, it made a lasting impression on nineteen-year-old Bruce Springsteen.
 
-![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2020/04/1969-05-20.jpg.webp)
+![](https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/1983/01/The_Daily_Register_1969_05_20_1.jpg.webp)
 
 On the evening of May 19, two black teens were shot by a fifteen-year old white boy from the passenger seat of a passing car.
 
@@ -208,6 +209,6 @@ Today Bruce lives ten minutes from his hometown, which tells us all we need to k
 **Recorded:** June 29, 1983<br>
 **Released:** *Born in the U.S.A.* (1984), *Greatest Hits* (1995), *L.A. Garage Sessions '83* (2025)<br>
 **First performed:** June 8, 1984 (Asbury Park, NJ)<br>
-**Last performed:** July 11, 2023 (Copenhagen, Denmark)<br>
+**Last performed:** July 3, 2025 (Milan, Italy)<br>
 
 © April 9, 2020 / December 21, 2025

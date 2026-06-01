@@ -1,6 +1,7 @@
 ---
 aliases:
 - /cover-me-shawn-colvin-tougher-than-the-rest/
+- /cover-me-shawn-colvin-tougher-than-the-rest/
 - /1905/
 layout: post
 date: 2018-05-09T12:00:00

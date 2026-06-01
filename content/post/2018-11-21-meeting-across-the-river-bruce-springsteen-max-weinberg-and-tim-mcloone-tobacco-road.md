@@ -1,6 +1,7 @@
 ---
 aliases:
 - /meeting-across-the-river-bruce-springsteen-max-weinberg-and-tim-mcloone-tobacco-road/
+- /meeting-across-the-river-bruce-springsteen-max-weinberg-and-tim-mcloone-tobacco-road/
 - /5747/
 layout: post
 date: 2018-11-21T13:00:54
