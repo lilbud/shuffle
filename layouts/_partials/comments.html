@@ -43,11 +43,7 @@
                 {{/* Use the avatar from the YAML, fallback to comment value if not found */}}
                 <img
                   class="author-img"
-                  src="{{ with $author_data }}
-                    {{ .thumb }}
-                  {{ else }}
-                    {{ $comment.avatar_thumb }}
-                  {{ end }}"
+                  src="{{ with $author_data }}/shuffle{{ .thumb }}{{ else }}/shuffle/img/avatars/default.jpg{{ end }}"
                   height="auto"
                   width="auto"
                   alt="{{ .name }}'s avatar" />
@@ -62,7 +58,6 @@
                     {{ else }}
                       {{ $url = $comment.author_url }}
                     {{ end }}
-
                     {{ if ne $url "" }}
                       <a class="comment-meta comment-author" href="{{ $url }}">
                         {{ .name }}
