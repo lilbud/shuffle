@@ -1,53 +1,2387 @@
 {{ define "main" }}
 <div class="content-area col-12 col-lg-10" id="main-column">
-<a href="#" class="back-to-top d-flex justify-content-center align-items-center"><i class="bi bi-caret-up-fill"></i></a>
-<div class="card widget-card mb-3">
-  <div class="widget-title">Navigation</div>
-  <div class="widget-body">
-    <select class="form-select" id="song_select">
-      <option selected>Select Song</option>
-      {{ range $index, $song := hugo.Data.covers }}
-      <option value="#song_{{ add $index 1 }}">{{ $song.name }}</option>
-      {{ end }}
-    </select>
-  </div>
-</div>
-<div class="card p-3 p-lg-4.5">
-  <table style="border-collapse: collapse; width: 100%;">
-    <thead>
-      <tr>
-        <th>Song Title</th>
-        <th>Cover Artist</th>
-      </tr>
-    </thead>
-    <tbody>
-      {{ range $index, $song := hugo.Data.covers }}
-      <tr id="song_{{ add $index 1 }}">
-        <td>
-          {{ if .url }}
-          <a href="{{ .url | relURL }}">{{ .name }}</a>
-          {{ else }}
-          {{ .name }}
-          {{ end }}
-        </td>
-        <td>
-          <ul class="list-unstyled mb-0">
-            {{ range .songs }}
-            <li>
-              {{ if .url }}
-              <a href="{{ .url  | relURL }}">{{ .name }}</a>
-              {{ else }}
-              {{ .name }}
-              {{ end }}
-            </li>
-            {{ end }}
-          </ul>
-        </td>
-      </tr>
-      {{ end }}
-    </tbody>
-  </table>
-</div>
+	<a href="/#" class="back-to-top d-flex justify-content-center align-items-center"><i class="bi bi-caret-up-fill.html"></i></a>
+	<div class="card widget-card mb-3">
+		<div class="widget-title">Navigation</div>
+		<div class="widget-body">
+			<select class="form-select" id="song_select">
+				<option selected>Select Song</option>
+				{{ range $index, $song := hugo.Data.covers }}
+					<option value="#song_{{ add $index 1 }}">{{ $song.name }}</option>
+				{{ end }}
+			</select>
+		</div>
+	</div>
+	<div class="card p-3 p-lg-4.5">
+		<table style="border-collapse: collapse; width: 100%;">
+			<thead>
+				<tr>
+					<th>Song Title</th>
+					<th>Cover Artist</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr id="song_1">
+					<td>
+						<a href="/2019/04/26/roll-of-the-dice-4th-of-july-asbury-park-sandy.html">4th of July, Asbury Park (Sandy)</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/03/17/cover-me-air-supply-4th-of-july-asbury-park-sandy.html">Air Supply</a>
+							</li>
+							<li>
+								<a href="/2018/06/24/cover-me-ben-e-king-4th-of-july-asbury-park-sandy.html">Ben E. King</a>
+							</li>
+							<li>
+								<a href="/2019/11/11/cover-me-jason-heath-and-the-greedy-souls-4th-of-july-asbury-park-sandy.html">Jason Heath and The Greedy Souls</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_2">
+					<td>
+						<a href="/2020/05/17/roll-of-the-dice-57-channels-and-nothin-on.html">57 Channels (And Nothin’ On)</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/11/22/cover-me-teddy-zig-zag-57-channels-and-nothin-on.html">Teddy “Zig Zag”</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_3">
+					<td>
+						<a href="/2020/09/06/roll-of-the-dice-across-the-border.html">Across the Border</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/02/01/cover-me-johnny-mac-and-the-faithful-across-the-border.html">Johnny Mac and The Faithful</a>
+							</li>
+							<li>
+								<a href="/2018/08/29/cover-me-linda-ronstadt-emmylou-harris-and-neil-young-across-the-border.html">Linda Ronstadt, Emmylou Harris &amp; Neil Young</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_4">
+					<td>
+						<a href="/2022/07/03/roll-of-the-dice-adam-raised-a-cain.html">Adam Raised a Cain</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/10/09/cover-me-alabama-shakes-adam-raised-a-cain.html">Alabama Shakes</a>
+							</li>
+							<li>
+								<a href="/2018/06/26/cover-me-drive-by-truckers-adam-raised-a-cain.html">Drive-By Truckers</a>
+							</li>
+							<li>
+								<a href="/2019/02/24/cover-me-sandra-stephens-adam-raised-a-cain.html">Sandra Stephens</a>
+							</li>
+							<li>
+								<a href="/2019/05/19/cover-me-sarah-hepburn-adam-raised-a-cain.html">Sarah Hepburn</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_5">
+					<td>
+						<a href="/2021/08/30/roll-of-the-dice-aint-got-you.html">Ain’t Got You</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/11/06/cover-me-helen-watson-aint-got-you.html">Helen Watson</a>
+							</li>
+							<li>
+								<a href="/2020/07/29/cover-me-robert-randolph-the-family-band-aint-got-you.html">Robert Randolph &amp; The Family Band</a>
+							</li>
+							<li>
+								<a href="/2019/01/19/cover-me-solomon-burke-aint-got-you.html">Solomon Burke</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_6">
+					<td>
+						<a href="/2019/12/03/roll-of-the-dice-cover-me-all-i-need.html">All I Need</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/12/03/roll-of-the-dice-cover-me-all-i-need.html">Gary U.S. Bonds</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_7">
+					<td>
+						<a href="/2018/01/30/roll-of-the-dice-all-or-nothing-at-all.html">All or Nothin’ at All</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/01/23/cover-me-marshall-crenshaw-all-or-nothin-at-all.html">Marshall Crenshaw</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_8">
+					<td>
+						<a href="/1987/01/03/roll-of-the-dice-all-that-heaven-will-allow.html">All That Heaven Will Allow</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/02/28/cover-me-the-mavericks-all-that-heaven-will-allow.html">The Mavericks</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_9">
+					<td>
+						<a href="/2019/09/08/roll-of-the-dice-all-the-way-home.html">All the Way Home</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/06/11/cover-me-southside-johnny-all-the-way-home.html">Southside Johnny</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_10">
+					<td>
+						<a href="/2016/01/13/american-skin-41-shots.html">American Skin (41 Shots)</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/10/01/cover-me-black-veil-brides-american-skin-41-shots.html">Black Veil Brides</a>
+							</li>
+							<li>
+								<a href="/2021/05/11/cover-me-the-coalesce-choir-american-skin-41-shots.html">Coalesce Choir</a>
+							</li>
+							<li>
+								<a href="/2018/04/11/cover-me-jackson-browne-and-shawn-colvin-american-skin-41-shots.html">Jackson Browne and Shawn Colvin</a>
+							</li>
+							<li>
+								<a href="/2019/10/02/cover-me-living-colour-american-skin-41-shots.html">Living Colour</a>
+							</li>
+							<li>
+								<a href="/2019/04/05/cover-me-mary-j-blige-and-kendrick-lamar-american-skin-41-shots.html">Mary J. Blige and Kendrick Lamar</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_11">
+					<td>
+						<a href="/2020/09/26/roll-of-the-dice-the-angel.html">The Angel</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/10/14/cover-me-the-blue-bonnets-the-angel.html">The Blue Bonnets</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_12">
+					<td>
+						<a href="/2019/02/04/cover-me-gary-u-s-bonds-and-the-e-street-band-angelyne.html">Angelyne</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/02/04/cover-me-gary-u-s-bonds-and-the-e-street-band-angelyne.html">Gary U.S. Bonds</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_13">
+					<td>
+						<a href="/2018/06/04/roll-of-the-dice-atlantic-city.html">Atlantic City</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/08/02/cover-me-amy-helm-atlantic-city.html">Amy Helm</a>
+							</li>
+							<li>
+								<a href="/2018/01/19/cover-me-ed-sheeran-atlantic-city.html">Ed Sheeran</a>
+							</li>
+							<li>
+								<a href="/2020/07/13/cover-me-fred-the-bear-atlantic-city.html">Fred the Bear</a>
+							</li>
+							<li>
+								<a href="/2020/03/31/cover-me-originaire-atlantic-city.html">Originaire</a>
+							</li>
+							<li>
+								<a href="/2019/09/11/cover-me-racketeers-atlantic-city.html">Racketeers</a>
+							</li>
+							<li>
+								<a href="/2018/09/25/cover-me-ryan-bingham-atlantic-city.html">Ryan Bingham</a>
+							</li>
+							<li>
+								<a href="/2021/05/27/cover-me-two-lives-atlantic-city.html">Two Lives</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_14">
+					<td>
+						<a href="/2019/11/10/roll-of-the-dice-back-in-your-arms.html">Back in Your Arms</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/05/23/cover-me-buckwheat-zydeco-back-in-your-arms.html">Buckwheat Zydeco</a>
+							</li>
+							<li>
+								<a href="/2018/07/05/cover-me-marc-broussard-back-in-your-arms.html">Marc Broussard</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_15">
+					<td>
+						<a href="/2022/05/14/roll-of-the-dice-backstreets.html">Backstreets</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/05/21/cover-me-maria-mckee-backstreets.html">Maria McKee</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_16">
+					<td>
+						<a href="/2019/05/20/roll-of-the-dice-badlands.html">Badlands</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/06/20/cover-me-joe-durso-and-stone-caravan-badlands.html">Joe D’Urso and Stone Caravan</a>
+							</li>
+							<li>
+								<a href="/2021/04/29/cover-me-moa-holmsten-badlands.html">Moa Holmsten</a>
+							</li>
+							<li>
+								<a href="/2018/12/13/cover-me-mojo-nixon-badlands.html">Mojo Nixon</a>
+							</li>
+							<li>
+								<a href="/2022/08/14/cover-me-silent-bear-badlands.html">Silent Bear</a>
+							</li>
+							<li>
+								<a href="/2020/07/01/cover-me-stevie-rees-and-wyatt-edmonson-badlands.html">Stevie Rees and Wyatt Edmonson</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_17">
+					<td>
+						<a href="/2020/12/02/roll-of-the-dice-be-true.html">Be True</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/12/09/cover-me-lorenzo-bertocchini-and-elizabeth-lee-be-true.html">Lorenzo Bertocchini and Elizabeth Lee</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_18">
+					<td>
+						Because the Night
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/03/15/cover-me-10000-maniacs-because-the-night.html">10,000 Maniacs</a>
+							</li>
+							<li>
+								<a href="/2020/09/27/cover-me-co-ro-and-taleesa-because-the-night.html">CO.RO. and Taleesa</a>
+							</li>
+							<li>
+								<a href="/2019/02/20/cover-me-kt-tunstall-and-the-buena-vista-social-club-because-the-night.html">KT Tunstall and The Buena Vista Social Club</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_19">
+					<td>
+						<a href="/2018/11/11/roll-of-the-dice-the-big-payback.html">The Big Payback</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/04/25/cover-me-mojo-nixon-and-skid-roper-the-big-payback.html">Mojo Nixon and Skid Roper</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_20">
+					<td>
+						<a href="/2019/06/04/roll-of-the-dice-book-of-dreams.html">Book of Dreams</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/1992/02/12/cover-me-dion-dimucci-book-of-dreams.html">Dion</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_21">
+					<td>
+						<a href="/2019/09/21/roll-of-the-dice-born-in-the-u-s-a.html">Born in the U.S.A.</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/1984/01/22/cover-me-home-free-born-in-the-u-s-a.html">Home Free</a>
+							</li>
+							<li>
+								<a href="/2020/08/14/cover-me-ian-noe-born-in-the-u-s-a.html">Ian Noe</a>
+							</li>
+							<li>
+								<a href="/2020/03/07/cover-me-mark-lavengood-band-born-in-the-u-s-a.html">Mark Lavengood Band</a>
+							</li>
+							<li>
+								<a href="/2019/03/04/cover-me-richard-shindell-born-in-the-u-s-a.html">Richard Shindell</a>
+							</li>
+							<li>
+								<a href="/2019/09/07/cover-me-sam-felder-born-in-the-u-s-a.html">Sam Fender</a>
+							</li>
+							<li>
+								<a href="/2021/11/24/cover-me-the-slants-born-in-the-u-s-a.html">The Slants</a>
+							</li>
+							<li>
+								<a href="/2018/04/21/cover-me-stanley-clarke-band-born-in-the-usa.html">Stanley Clarke Band</a>
+							</li>
+							<li>
+								<a href="/2020/07/17/cover-me-stories-featuring-garrison-starr.html">Stories ft. Garrison Starr</a>
+							</li>
+							<li>
+								<a href="/1984/01/19/cover-me-tyler-ward-born-in-the-u-s-a.html">Tyler Ward</a>
+							</li>
+							<li>
+								<a href="/2018/07/26/cover-me-the-waybacks-and-joan-osborne-born-in-the-usa.html">The Waybacks and Joan Osborne</a>
+							</li>
+							<li>
+								<a href="/2020/01/19/cover-me-win-butler-and-the-preservation-hall-jazz-band-born-in-the-u-s-a.html">Win Butler and the Preservation Hall Jazz Band</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_22">
+					<td>
+						Born to Run
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/04/30/cover-me-allan-clarke-born-to-run.html">Allan Clarke</a>
+							</li>
+							<li>
+								<a href="/2019/12/30/cover-me-anne-mccue-born-to-run.html">Anne McCue</a>
+							</li>
+							<li>
+								<a href="/2021/11/16/cover-me-brandi-carlie-born-to-run.html">Brandi Carlile</a>
+							</li>
+							<li>
+								<a href="/2021/04/13/cover-me-caitlin-mahoney-born-to-run.html">Caitlin Mahoney</a>
+							</li>
+							<li>
+								<a href="/2020/02/12/cover-me-diarrhea-planet-and-harry-kagan-born-to-run.html">Diarrhea Planet</a>
+							</li>
+							<li>
+								<a href="/2019/09/15/cover-me-errol-beutell-born-to-run.html">Errol Beutell</a>
+							</li>
+							<li>
+								<a href="/2020/11/22/cover-me-micol-picchioni-born-to-run.html">Micol Picchioni</a>
+							</li>
+							<li>
+								<a href="/2021/08/08/cover-me-the-revivalists-born-to-run.html">The Revivalists</a>
+							</li>
+							<li>
+								<a href="/2018/09/13/cover-me-roger-daltrey-born-to-run.html">Roger Daltry</a>
+							</li>
+							<li>
+								<a href="/2019/03/16/cover-me-suzi-quatro-born-to-run.html">Suzie Quatro</a>
+							</li>
+							<li>
+								<a href="/2021/03/13/cover-me-tom-cunliffe-born-to-run.html">Tom Cunliffe</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_23">
+					<td>
+						<a href="/2018/02/06/roll-of-the-dice-brilliant-disguise.html">Brilliant Disguise</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/05/27/cover-me-the-reason-brilliant-disguise.html">The Reason</a>
+							</li>
+							<li>
+								<a href="/2018/11/10/cover-me-ronnie-spector-brilliant-disguise.html">Ronnie Spector</a>
+							</li>
+							<li>
+								<a href="/2021/01/03/cover-me-third-lung-brilliant-disguise.html">Third Lung</a>
+							</li>
+							<li>
+								<a href="/2018/10/17/cover-me-thompson-square-brilliant-disguise.html">Thompson Square</a>
+							</li>
+							<li>
+								<a href="/2020/06/27/cover-me-tom-mcrae-and-david-ford-brilliant-disguise.html">Tom McCrae and David Ford</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_24">
+					<td>
+						<a href="/2020/07/23/roll-of-the-dice-cadillac-ranch.html">Cadillac Ranch</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/02/26/cover-me-nitty-gritty-dirt-band-cadillac-ranch.html">Nitty Gritty Dirt Band</a>
+							</li>
+							<li>
+								<a href="/2019/01/03/cover-me-warren-zevon-cadillac-ranch.html">Warren Zevon</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_25">
+					<td>
+						<a href="/2019/05/07/cover-me-gary-u-s-bonds-and-the-e-street-band-club-soul-city.html">Club Soul City</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/05/07/cover-me-gary-u-s-bonds-and-the-e-street-band-club-soul-city.html">Gary U.S. Bonds</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_26">
+					<td>
+						<a href="/2021/01/13/roll-of-the-dice-cover-me.html">Cover Me</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/01/16/cover-me-13th-alibi-and-dilia-cover-me.html">13th Alibi and DiLiA</a>
+							</li>
+							<li>
+								<a href="/2021/05/07/cover-me-the-album-show-cover-me.html">The Album Show</a>
+							</li>
+							<li>
+								<a href="/2018/10/20/cover-me-boombox-hearts-cover-me.html">Boombox Hearts</a>
+							</li>
+							<li>
+								<a href="/2021/08/27/cover-me-the-wallys-cover-me.html">The Wallys</a>
+							</li>
+							<li>
+								<a href="/1984/01/24/cover-me-joan-osborne-and-the-waybacks-cover-me.html">The Waybacks and Joan Osborne</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_27">
+					<td>
+						<a href="/1984/01/13/roll-of-the-dice-dancing-in-the-dark.html">Dancing in the Dark</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/03/19/cover-me-the-barley-mob-featuring-zak-moran-dancing-in-the-dark.html">The Barley Mob</a>
+							</li>
+							<li>
+								<a href="/2021/08/23/cover-me-round-up-dancing-in-the-dark-2.html">Big Daddy</a>
+							</li>
+							<li>
+								<a href="/2021/03/21/cover-me-round-up-dancing-in-the-dark.html">Billy Moon</a>
+							</li>
+							<li>
+								<a href="/2020/07/21/cover-me-the-bishops-daredevil-stunt-club-dancing-in-the-dark.html">The Bishop’s Daredevil Stunt Club</a>
+							</li>
+							<li>
+								<a href="/2020/10/09/cover-me-boom-a-loon-dancing-in-the-dark.html">BOOM a LOON</a>
+							</li>
+							<li>
+								<a href="/2019/09/28/cover-me-the-cash-cows-dancing-in-the-dark.html">The Cash Cows</a>
+							</li>
+							<li>
+								<a href="/2019/12/13/cover-me-eddie-berman-and-laura-marling-dancing-in-the-dark.html">Eddie Berman and Laura Marling</a>
+							</li>
+							<li>
+								<a href="/2021/08/23/cover-me-round-up-dancing-in-the-dark-2.html">Harry Pane</a>
+							</li>
+							<li>
+								<a href="/2020/12/26/cover-me-heathers-dancing-in-the-dark.html">Heathers</a>
+							</li>
+							<li>
+								<a href="/2021/03/21/cover-me-round-up-dancing-in-the-dark.html">The Holtze Family</a>
+							</li>
+							<li>
+								<a href="/2019/03/08/cover-me-hot-chip-dancing-in-the-dark.html">Hot Chip</a>
+							</li>
+							<li>
+								<a href="/2021/03/21/cover-me-round-up-dancing-in-the-dark.html">Human Magic</a>
+							</li>
+							<li>
+								<a href="/2021/05/19/cover-me-jane-willow-dancing-in-the-dark.html">Jane Willow</a>
+							</li>
+							<li>
+								<a href="/2018/12/05/cover-me-john-legend-dancing-in-the-dark.html">John Legend</a>
+							</li>
+							<li>
+								<a href="/2020/05/02/cover-me-lucca-lazaro-dancing-in-the-dark.html">John Legend (remix)</a>
+							</li>
+							<li>
+								<a href="/2021/02/17/cover-me-jordan-foley-tyler-hood-dancing-in-the-dark.html">Jordan Foley and Tyler Hood</a>
+							</li>
+							<li>
+								<a href="/2021/08/23/cover-me-round-up-dancing-in-the-dark-2.html">JøshjøsH</a>
+							</li>
+							<li>
+								<a href="/2018/06/29/cover-me-kermit-the-frog-dancing-in-the-dark.html">Kermit the Frog</a>
+							</li>
+							<li>
+								<a href="/2019/07/09/cover-me-little-mazarn-dancing-in-the-dark.html">Little Mazarn</a>
+							</li>
+							<li>
+								<a href="/2020/05/02/cover-me-lucca-lazaro-dancing-in-the-dark.html">Lucca Lazaro</a>
+							</li>
+							<li>
+								<a href="/2020/06/23/cover-me-mad-hatters-daughter-dancing-in-the-dark.html">Mad Hatter’s Daughter</a>
+							</li>
+							<li>
+								<a href="/2019/04/09/cover-me-manfred-mann-dancing-in-the-dark.html">Manfred Mann’s Earth Band</a>
+							</li>
+							<li>
+								<a href="/2018/02/10/cover-me-mat-kearney-dancing-in-the-dark.html">Mat Kearney</a>
+							</li>
+							<li>
+								<a href="/2020/04/16/spare-parts-michael-petrella-dancing-in-the-dark-i-wanna-dance-with-somebody.html">Michael Petrella</a>
+							</li>
+							<li>
+								<a href="/2020/11/26/cover-me-molly-healy-dancing-in-the-dark.html">Molly Healy</a>
+							</li>
+							<li>
+								<a href="/2021/03/21/cover-me-round-up-dancing-in-the-dark.html">Morgan James</a>
+							</li>
+							<li>
+								<a href="/2019/08/06/cover-me-of-monsters-and-men-dancing-in-the-dark.html">Of Monsters and Men</a>
+							</li>
+							<li>
+								<a href="/2018/07/02/cover-me-postmodern-jukebox-dancing-in-the-dark.html">Postmodern Jukebox</a>
+							</li>
+							<li>
+								<a href="/2019/06/05/cover-me-sara-mcleod-dancing-in-the-dark.html">Sara McLeod</a>
+							</li>
+							<li>
+								<a href="/2019/12/01/cover-me-scary-pockets-and-darren-criss-dancing-in-the-dark.html">Scary Pockets and Darren Criss</a>
+							</li>
+							<li>
+								<a href="/2021/08/23/cover-me-round-up-dancing-in-the-dark-2.html">Sixtyfour</a>
+							</li>
+							<li>
+								<a href="/2018/11/14/cover-me-taylor-swift-dancing-in-the-dark.html">Taylor Swift</a>
+							</li>
+							<li>
+								<a href="/2018/06/05/cover-me-tina-turner-dancing-in-the-dark.html">Tina Turner</a>
+							</li>
+							<li>
+								<a href="/2021/08/23/cover-me-round-up-dancing-in-the-dark-2.html">Tom Seth Johson</a>
+							</li>
+							<li>
+								<a href="/2018/07/29/cover-me-vance-joy-dancing-in-the-dark.html">Vance Joy</a>
+							</li>
+							<li>
+								<a href="/2019/11/15/cover-me-the-vanns-dancing-in-the-dark.html">The Vanns</a>
+							</li>
+							<li>
+								<a href="/2021/03/21/cover-me-round-up-dancing-in-the-dark.html">Waltz Away</a>
+							</li>
+							<li>
+								<a href="/2020/03/19/cover-me-the-barley-mob-featuring-zak-moran-dancing-in-the-dark.html">Zak Moran</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_28">
+					<td>
+						<a href="/2018/04/10/roll-of-the-dice-darkness-on-the-edge-of-town.html">Darkness on the Edge of Town</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/08/06/cover-me-vatican-cellars-darkness-on-the-edge-of-town.html">Vatican Cellars</a>
+							</li>
+							<li>
+								<a href="/2019/03/20/cover-me-the-winter-blanket-darkness-on-the-edge-of-town.html">The Winter Blanket</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_29">
+					<td>
+						<a href="/2020/09/10/roll-of-the-dice-darlington-county.html">Darlington County</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/1984/01/26/cover-me-jeff-stevens-and-the-bullets-darlington-county.html">Jeff Stevens and the Bullets</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_30">
+					<td>
+						<a href="/2018/06/17/cover-me-roll-of-the-dice-gary-u-s-bonds-dedication.html">Dedication</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/06/17/cover-me-roll-of-the-dice-gary-u-s-bonds-dedication.html">Gary U.S. Bonds</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_31">
+					<td>
+						<a href="/2022/03/02/roll-of-the-dice-devils-dust.html">Devils &amp; Dust</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/10/05/cover-me-ken-tizzard-devils-dust.html">Ken Tizzard</a>
+							</li>
+							<li>
+								<a href="/2021/09/08/cover-me-tommaso-imperiali-devils-dust.html">Tomasso Imperiali</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_32">
+					<td>
+						<a href="/2020/05/03/roll-of-the-dice-dont-look-back.html">Don’t Look Back</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/01/23/cover-me-the-knack-dont-look-back.html">The Knack</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_33">
+					<td>
+						<a href="/2019/01/22/roll-of-the-dice-downbound-train.html">Downbound Train</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/08/02/cover-me-kirk-kelly-downbound-train.html">Kirk Kelly</a>
+							</li>
+							<li>
+								<a href="/1984/01/27/cover-me-kurt-vile-downbound-train.html">Kurt Vile</a>
+							</li>
+							<li>
+								<a href="/2018/02/13/cover-me-the-smithereens-downbound-train.html">The Smithereens</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_34">
+					<td>
+						<a href="/2018/02/27/roll-of-the-dice-drive-all-night.html">Drive All Night</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/06/03/cover-me-elysium-drive-all-night.html">Elysium</a>
+							</li>
+							<li>
+								<a href="/2019/11/19/cover-me-jason-flynn-drive-all-night.html">Jason Flynn</a>
+							</li>
+							<li>
+								<a href="/2021/03/29/cover-me-lucas-mege-drive-all-night.html">Lucas Mege</a>
+							</li>
+							<li>
+								<a href="/2018/05/12/cover-me-sharon-van-etten-and-tomberry26-drive-all-night.html">Sharon Van Etten</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_35">
+					<td>
+						<a href="/2020/10/16/roll-of-the-dice-dry-lightning.html">Dry Lightning</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/11/27/cover-me-scott-jacobs-dry-lightning.html">Scott Jacobs</a>
+							</li>
+							<li>
+								<a href="/2018/07/23/cover-me-willie-nelson-and-emmylou-harris-dry-lightning.html">Willie Nelson and Emmylou Harris</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_36">
+					<td>
+						<a href="/2020/06/06/roll-of-the-dice-the-e-street-shuffle.html">The E Street Shuffle</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/01/28/cover-me-bette-midler-the-e-street-shuffle.html">Bette Midler</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_37">
+					<td>
+						<a href="/2018/10/31/roll-of-the-dice-factory.html">Factory</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/06/20/cover-me-the-deep-dark-woods-factory.html">The Deep Dark Woods</a>
+							</li>
+							<li>
+								<a href="/2021/06/08/cover-me-fabio-melis-factory.html">Fabio Melis</a>
+							</li>
+							<li>
+								<a href="/2018/12/26/cover-me-lucinda-williams-factory.html">Lucinda Williams</a>
+							</li>
+							<li>
+								<a href="/2020/09/07/cover-me-melissa-mcclelland-factory.html">Melissa McClelland</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_38">
+					<td>
+						<a href="/2018/04/28/roll-of-the-dice-fade-away.html">Fade Away</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/05/03/cover-me-jon-bon-jovi-fade-away.html">Jon Bon Jovi</a>
+							</li>
+							<li>
+								<a href="/2018/05/03/cover-me-southside-johnny-fade-away.html">Southside Johnny</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_39">
+					<td>
+						<a href="/2020/10/04/roll-of-the-dice-the-fever.html">The Fever</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/05/18/cover-me-dean-ford-the-fever.html">Dean Ford</a>
+							</li>
+							<li>
+								<a href="/2019/06/16/cover-me-the-pointer-sisters-the-fever.html">Pointer Sisters</a>
+							</li>
+							<li>
+								<a href="/2021/12/11/cover-me-sanne-salomonsen-the-fever.html">Sanne Salomonsen</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_40">
+					<td>
+						<a href="/2020/08/05/roll-of-the-dice-fire.html">Fire</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/04/26/cover-me-babyface-and-desree-fire.html">Babyface and Des’ree</a>
+							</li>
+							<li>
+								<a href="/2018/01/31/cover-me-robert-gordon-and-link-wray-fire.html">Robert Gordon and Link Wray</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_41">
+					<td>
+						<a href="/2011/01/07/roll-of-the-dice-for-you.html">For You</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/06/24/cover-me-broken-chimneys-for-you.html">Broken Chimneys</a>
+							</li>
+							<li>
+								<a href="/2018/06/14/cover-me-manfred-manns-earth-band-for-you.html">Manfred Mann’s Earth Band</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_42">
+					<td>
+						From Small Things (Big Things One Day Come)
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/09/16/cover-me-nitty-gritty-dirt-band-from-small-things-big-things-one-day-come.html">Nitty Gritty Dirt Band</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_43">
+					<td>
+						<a href="/2022/01/01/roll-of-the-dice-further-on-up-the-road.html">Further On (Up the Road)</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/12/18/cover-me-mary-g-further-on-up-the-road.html">Mary G</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_44">
+					<td>
+						<a href="/2019/10/17/roll-of-the-dice-the-ghost-of-tom-joad.html">The Ghost of Tom Joad</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/01/11/cover-me-elvis-costello-and-mumford-sons-the-ghost-of-tom-joad.html">Elvis Costello and Mumford &amp; Sons</a>
+							</li>
+							<li>
+								<a href="/2020/05/26/cover-me-jericho-seb-martel-the-ghost-of-tom-joad.html">Jericho and Seb Martel</a>
+							</li>
+							<li>
+								<a href="/2018/07/08/cover-me-solas-the-ghost-of-tom-joad.html">Solad</a>
+							</li>
+							<li>
+								<a href="/2020/04/04/cover-me-tom-morello-roger-waters-and-the-wounded-warriors-band-the-ghost-of-tom-joad.html">Tom Morello and Rager Waters</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_45">
+					<td>
+						<a href="/2017/01/11/roll-of-the-dice-ghosts.html">Ghosts</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/10/26/cover-me-the-big-land-band-ghosts.html">William Goetz of The Big Land Band</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_46">
+					<td>
+						<a href="/2019/02/17/roll-of-the-dice-girls-in-their-summer-clothes.html">Girls in Their Summer Clothes</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/03/12/cover-me-doc-walker-girls-in-their-summer-clothes.html">Doc Walker</a>
+							</li>
+							<li>
+								<a href="/2021/02/13/cover-me-lake-malawi-girls-in-their-summer-clothes.html">Lake Malawi</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_47">
+					<td>
+						<a href="/2020/06/17/roll-of-the-dice-give-the-girl-a-kiss.html">Give the Girl a Kiss</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/11/06/cover-me-sensational-epics-give-the-girl-a-kiss.html">Sensational Epics</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_48">
+					<td>
+						<a href="/1984/01/12/roll-of-the-dice-glory-days.html">Glory Days</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/01/13/cover-me-avett-brothers-glory-days.html">The Avett Brothers</a>
+							</li>
+							<li>
+								<a href="/2021/05/23/cover-me-basia-bulat-glory-days.html">Basia Bulat</a>
+							</li>
+							<li>
+								<a href="/1984/02/03/cover-me-justin-townes-earle-glory-days.html">Justin Townes Earle</a>
+							</li>
+							<li>
+								<a href="/1984/02/02/cover-me-sympathy-and-the-lion-glory-days.html">Sympathy &amp; The Lion</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_49">
+					<td>
+						<a href="/2011/01/03/roll-of-the-dice-growin-up.html">Growin’ Up</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2011/02/01/cover-me-david-bowie-growin-up.html">David Bowie</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_50">
+					<td>
+						<a href="/2022/09/07/roll-of-the-dice-hearts-of-stone.html">Hearts of Stone</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/08/19/cover-me-helen-schneider-hearts-of-stone.html">Helen Schneider</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_51">
+					<td>
+						<a href="/2018/03/23/roll-of-the-dice-highway-29.html">Highway 29</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/10/25/cover-me-gregory-alan-isakov-and-patty-griffin-highway-29.html">Gregory Alan Isakov and Patti Griffin</a>
+							</li>
+							<li>
+								<a href="/2021/01/12/cover-me-jim-van-der-zee-highway-29.html">Jim van der Zee</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_52">
+					<td>
+						Highway Patrolman
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/09/22/cover-me-bj-barham-highway-patrolman.html">BJ Barham</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_53">
+					<td>
+						The Hitter
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/03/05/cover-me-tom-jones-the-hitter.html">Tom Jones</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_54">
+					<td>
+						<a href="/2019/08/09/roll-of-the-dice-human-touch.html">Human Touch</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/02/07/cover-me-joe-cocker-human-touch.html">Joe Cocker</a>
+							</li>
+							<li>
+								<a href="/2021/04/17/cover-me-kathleen-edwards-human-touch.html">Kathleen Edwards</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_55">
+					<td>
+						<a href="/2022/12/21/roll-of-the-dice-hungry-heart.html">Hungry Heart</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/11/14/cover-me-divine-fits-hungry-heart.html">Divine Fits</a>
+							</li>
+							<li>
+								<a href="/2019/12/26/cover-me-drew-holcomb-and-tift-merritt-hungry-heart.html">Drew Holcomb and Tift Merritt</a>
+							</li>
+							<li>
+								<a href="/2020/02/20/cover-me-the-head-and-the-heart-hungry-heart.html">The Head and The Heart</a>
+							</li>
+							<li>
+								<a href="/2020/07/05/cover-me-kaiak-hungry-heart.html">Kaiak</a>
+							</li>
+							<li>
+								<a href="/2019/10/26/cover-me-the-lovematches-hungry-heart.html">The Lovematches</a>
+							</li>
+							<li>
+								<a href="/2019/12/09/cover-me-the-mavericks-hungry-heart.html">The Mavericks</a>
+							</li>
+							<li>
+								<a href="/2019/07/25/cover-me-minnie-driver-hungry-heart.html">Minnie Driver</a>
+							</li>
+							<li>
+								<a href="/2018/10/08/cover-me-my-morning-jacket-hungry-heart.html">My Morning Jacket</a>
+							</li>
+							<li>
+								<a href="/2019/03/24/cover-me-river-city-extension-hungry-heart.html">River City Extension</a>
+							</li>
+							<li>
+								<a href="/2018/08/13/cover-me-wainright-family-emmylou-harris-brandi-carlile-and-more-hungry-heart.html">The Wainright Family, Brandi Carlile, et al</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_56">
+					<td>
+						<a href="/2021/06/05/roll-of-the-dice-im-goin-down.html">I’m Goin’ Down</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/08/31/cover-me-dessa-im-goin-down.html">Dessa</a>
+							</li>
+							<li>
+								<a href="/2018/10/23/cover-me-efix-henri-pfr-florence-welch-and-kid-harpoon-im-goin-down.html">EFIX, Henri Pfr, Florence Welch &amp; Kid Harpoon</a>
+							</li>
+							<li>
+								<a href="/1984/01/31/cover-me-frank-black-and-the-catholics-im-goin-down.html">Frank Black and The Catholics</a>
+							</li>
+							<li>
+								<a href="/2021/04/25/cover-me-the-strumbellas-im-goin-down.html">The Strumbellas</a>
+							</li>
+							<li>
+								<a href="/2018/08/01/cover-me-vampire-weekend-im-goin-down.html">Vampire Weekend</a>
+							</li>
+							<li>
+								<a href="/2018/01/18/cover-me-joan-osborne-and-the-waybacks-im-goin-down.html">The Waybacks and Joan Osborne</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_57">
+					<td>
+						<a href="/2021/09/11/roll-of-the-dice-im-on-fire.html">I’m on Fire</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/01/27/cover-me-alexander-schmidt-band-im-on-fire.html">Alexander Schmidt Band</a>
+							</li>
+							<li>
+								<a href="/2018/07/11/cover-me-amy-macdonald-im-on-fire.html">Amy MacDonald</a>
+							</li>
+							<li>
+								<a href="/2019/07/05/cover-me-barry-gibb-im-on-fire.html">Barry Gibb</a>
+							</li>
+							<li>
+								<a href="/2018/11/02/cover-me-bat-for-lashes-im-on-fire.html">Bat for Lashes</a>
+							</li>
+							<li>
+								<a href="/2021/12/02/cover-me-round-up-im-on-fire-part-3.html">Cody Quintana and Seda</a>
+							</li>
+							<li>
+								<a href="/2021/12/02/cover-me-round-up-im-on-fire-part-3.html">Conor Smith</a>
+							</li>
+							<li>
+								<a href="/2020/07/09/spare-parts-dan-patrick-fulton-im-sex-on-fire.html">Dan Patrick Fulton</a>
+							</li>
+							<li>
+								<a href="/2021/09/27/cover-me-round-up-im-on-fire-part-2.html">Daniel Spiller and Mark Stanley</a>
+							</li>
+							<li>
+								<a href="/2021/03/05/cover-me-round-up-im-on-fire.html">Descartes</a>
+							</li>
+							<li>
+								<a href="/2019/08/30/cover-me-found-wandering-im-on-fire.html">Found Wandering</a>
+							</li>
+							<li>
+								<a href="/2021/12/02/cover-me-round-up-im-on-fire-part-3.html">Henry Manx and Kevin Breit</a>
+							</li>
+							<li>
+								<a href="/2018/03/18/cover-me-keith-urban-and-john-mayer-im-on-fire.html">Keith Urban and John Mayer</a>
+							</li>
+							<li>
+								<a href="/2020/04/28/cover-me-life-size-models-im-on-fire.html">Life Size Models</a>
+							</li>
+							<li>
+								<a href="/2019/07/17/cover-me-lynda-carter-im-on-fire.html">Lynda Carter</a>
+							</li>
+							<li>
+								<a href="/2021/03/05/cover-me-round-up-im-on-fire.html">Mainline 55</a>
+							</li>
+							<li>
+								<a href="/2021/09/27/cover-me-round-up-im-on-fire-part-2.html">Megan O’Neill</a>
+							</li>
+							<li>
+								<a href="/2019/10/06/cover-me-mumford-and-sons-im-on-fire.html">Mumford &amp; Sons</a>
+							</li>
+							<li>
+								<a href="/2021/03/05/cover-me-round-up-im-on-fire.html">Nick Trovas Band</a>
+							</li>
+							<li>
+								<a href="/2021/12/02/cover-me-round-up-im-on-fire-part-3.html">Nikki Henskens</a>
+							</li>
+							<li>
+								<a href="/2021/03/05/cover-me-round-up-im-on-fire.html">Noam Bass</a>
+							</li>
+							<li>
+								<a href="/2021/12/02/cover-me-round-up-im-on-fire-part-3.html">The Other Favorites</a>
+							</li>
+							<li>
+								<a href="/2021/09/27/cover-me-round-up-im-on-fire-part-2.html">Phoebe Bridgers</a>
+							</li>
+							<li>
+								<a href="/2020/11/10/cover-me-scary-pockets-im-on-fire.html">Scary Pockets</a>
+							</li>
+							<li>
+								<a href="/2021/09/27/cover-me-round-up-im-on-fire-part-2.html">Simone Bernardini</a>
+							</li>
+							<li>
+								<a href="/2021/03/05/cover-me-round-up-im-on-fire.html">SNJU</a>
+							</li>
+							<li>
+								<a href="/2018/10/01/cover-me-the-staves-im-on-fire.html">The Staves</a>
+							</li>
+							<li>
+								<a href="/2019/03/28/cover-me-still-corners-im-on-fire.html">Still Corners</a>
+							</li>
+							<li>
+								<a href="/2020/10/18/cover-me-tad-jennings-im-on-fire.html">Tad Jennings</a>
+							</li>
+							<li>
+								<a href="/2019/08/14/cover-me-tori-amos-im-on-fire.html">Tori Amos</a>
+							</li>
+							<li>
+								<a href="/2021/09/27/cover-me-round-up-im-on-fire-part-2.html">Troy Cassar-Daley and Sal Kimber</a>
+							</li>
+							<li>
+								<a href="/2018/02/03/cover-me-twin-shadow-im-on-fire.html">Twin Shadow</a>
+							</li>
+							<li>
+								<a href="/2021/09/27/cover-me-round-up-im-on-fire-part-2.html">The Unknown Neighbour</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_58">
+					<td>
+						<a href="/2018/06/01/roll-of-the-dice-if-i-should-fall-behind.html">If I Should Fall Behind</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/03/28/cover-me-catie-curtis-if-i-should-fall-behind.html">Catie Curtis</a>
+							</li>
+							<li>
+								<a href="/1992/02/14/cover-me-danny-gone-if-i-should-fall-behind.html">Danny Gone</a>
+							</li>
+							<li>
+								<a href="/2018/09/07/cover-me-dion-if-i-should-fall-behind.html">Dion DiMucci</a>
+							</li>
+							<li>
+								<a href="/2020/01/23/cover-me-kevin-heider-if-i-should-fall-behind.html">Kevin Heider</a>
+							</li>
+							<li>
+								<a href="/2020/05/18/cover-me-margo-timmins-if-i-should-fall-behind.html">Margo Timmins</a>
+							</li>
+							<li>
+								<a href="/2020/09/03/cover-me-paul-carrack-if-i-should-fall-behind.html">Paul Carrack</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_59">
+					<td>
+						<a href="/2018/12/28/roll-of-the-dice-if-i-was-the-priest.html">If I Was the Priest</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/01/08/cover-me-allan-clarke-if-i-were-the-priest.html">Allan Clarke</a>
+							</li>
+							<li>
+								<a href="/2021/05/15/cover-me-roberta-finocchiaro-if-i-was-the-priest.html">Roberta Finocchiaro</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_60">
+					<td>
+						<a href="/2018/10/21/roll-of-the-dice-its-hard-to-be-a-saint-in-the-city.html">It’s Hard to Be a Saint in the City</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/01/10/cover-me-david-bowie-its-hard-to-be-a-saint-in-the-city.html">David Bowie</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_61">
+					<td>
+						<a href="/2018/11/04/roll-of-the-dice-jackson-cage.html">Jackson Cage</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/08/10/cover-me-john-wesley-harding-jackson-cage.html">John Wesley Harding</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_62">
+					<td>
+						<a href="/2019/04/06/roll-of-the-dice-janey-dont-you-lose-heart.html">Janey, Don’t You Lose Heart</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/12/17/cover-me-jesse-malin-janey-dont-you-lose-heart.html">Jesse Malin</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_63">
+					<td>
+						<a href="/2020/07/20/roll-of-the-dice-johnny-99.html">Johnny 99</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/03/23/cover-me-daniele-tenca-johnny-99.html">Daniele Tenca</a>
+							</li>
+							<li>
+								<a href="/2018/02/19/cover-me-john-hiatt-johnny-99.html">John Hiatt</a>
+							</li>
+							<li>
+								<a href="/2021/10/31/cover-me-marc-anthony-thompson-johnny-99.html">Marc Anthony Thompson</a>
+							</li>
+							<li>
+								<a href="/2018/10/29/cover-me-shovels-rope-johnny-99.html">Shovels &amp; Rope</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_64">
+					<td>
+						Jungleland
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/08/18/cover-me-patty-griffin-jungleland.html">Patty Griffin</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_65">
+					<td>
+						<a href="/2021/10/05/cover-me-darlene-love-just-another-lonely-mile.html">Just Another Lonely Mile</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/10/05/cover-me-darlene-love-just-another-lonely-mile.html">Darlene Love</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_66">
+					<td>
+						<a href="/2018/01/05/roll-of-the-dice-land-of-hope-and-dreams.html">Land of Hope and Dreams</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/07/20/cover-me-jimmy-lafave-land-of-hope-and-dreams.html">Jimmy LaFave</a>
+							</li>
+							<li>
+								<a href="/2021/02/09/cover-me-the-last-internationale-land-of-hope-and-dreams.html">The Last Internationale</a>
+							</li>
+							<li>
+								<a href="/2020/11/18/cover-me-mardi-gras-land-of-hope-and-dreams.html">Mardi Gras</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_67">
+					<td>
+						Last to Die
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/03/13/cover-me-pet-shop-boys-last-to-die.html">Pet Shop Boys</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_68">
+					<td>
+						<a href="/2018/05/20/roll-of-the-dice-lift-me-up.html">Lift Me Up</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/08/26/cover-me-jennie-abrahamson-lift-me-up.html">Jennie Abrahamson</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_69">
+					<td>
+						<a href="/2021/03/27/roll-of-the-dice-linda-let-me-be-the-one.html">Linda Let Me Be the One</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/11/07/cover-me-lorenzo-bertocchini-linda-let-me-be-the-one.html">Lorenzo Bertocchini</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_70">
+					<td>
+						<a href="/2020/03/21/roll-of-the-dice-long-walk-home.html">Long Walk Home</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/08/30/cover-me-alex-perry-long-walk-home.html">Alex Perry</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_71">
+					<td>
+						<a href="/2020/09/13/roll-of-the-dice-magic.html">Magic</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/01/03/cover-me-craig-finn-magic.html">Craig Finn</a>
+							</li>
+							<li>
+								<a href="/2020/09/15/cover-me-gresham-flyers-magic.html">Gresham Flyers</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_72">
+					<td>
+						<a href="/2019/05/10/roll-of-the-dice-man-at-the-top.html">Man at the Top</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/08/16/cover-me-nils-lofgren-man-at-the-top.html">Nils Lofgren</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_73">
+					<td>
+						<a href="/2022/05/30/roll-of-the-dice-mans-job.html">Man’s Job</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/09/04/cover-me-iacopo-fedi-mans-job.html">Iacopo Fedi</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_74">
+					<td>
+						<a href="/2022/03/06/roll-of-the-dice-mansion-on-the-hill.html">Mansion on the Hill</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/08/26/cover-me-billy-bragg-mansion-on-the-hill.html">Billy Bragg</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_75">
+					<td>
+						<a href="/2019/08/04/roll-of-the-dice-meeting-across-the-river.html">Meeting Across the River</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/04/17/cover-me-tom-wopat-meeting-across-the-river.html">Tom Wopat</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_76">
+					<td>
+						<a href="/2020/09/30/roll-of-the-dice-moonlight-motel.html">Moonlight Motel</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/02/24/cover-me-barney-bentall-and-the-cariboo-express-moonlight-motel.html">Barney Bentall and the Cariboo Express</a>
+							</li>
+							<li>
+								<a href="/2019/11/07/cover-me-reflekter-moonlight-motel.html">Reflekter</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_77">
+					<td>
+						<a href="/1992/02/11/roll-of-the-dice-my-beautiful-reward.html">My Beautiful Reward</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/1992/02/15/cover-me-lanny-cordola-my-beautiful-reward.html">Lanny Cordola</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_78">
+					<td>
+						My City of Ruins
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/06/11/cover-me-adam-and-leena-waite-my-city-of-ruins.html">Adam and Leena Waite</a>
+							</li>
+							<li>
+								<a href="/2021/09/19/cover-me-eddie-vedder-my-city-of-ruins.html">Eddie Vedder</a>
+							</li>
+							<li>
+								<a href="/2019/07/13/cover-me-the-lumineers-my-city-of-ruins.html">The Lumineers</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_79">
+					<td>
+						<a href="/2021/08/13/roll-of-the-dice-my-fathers-house.html">My Father’s House</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/08/10/cover-me-ben-harper-my-fathers-house.html">Ben Harper</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_80">
+					<td>
+						<a href="/2020/05/10/cover-me-the-stormers-my-hometown.html">My Hometown</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/1984/02/05/cover-me-neil-young-my-hometown.html">Neil Young</a>
+							</li>
+							<li>
+								<a href="/2021/02/05/cover-me-richard-nijstad-my-hometown-and-tougher-than-the-rest.html">Richard Nijstad</a>
+							</li>
+							<li>
+								<a href="/2020/05/10/cover-me-the-stormers-my-hometown.html">The Stormers</a>
+							</li>
+							<li>
+								<a href="/2018/04/17/cover-me-u2-my-hometown.html">U2</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_81">
+					<td>
+						<a href="/2018/01/24/roll-of-the-dice-my-love-will-not-let-you-down.html">My Love Will Not Let You Down</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/09/04/cover-me-chris-martin-my-love-will-not-let-you-down.html">Chris Martin</a>
+							</li>
+							<li>
+								<a href="/2018/01/24/cover-me-meryl-streep-my-love-will-not-let-you-down.html">Meryl Streep</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_82">
+					<td>
+						<a href="/2019/09/02/roll-of-the-dice-my-lucky-day.html">My Lucky Day</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/10/30/cover-me-kevin-heider-my-lucky-day.html">Kevin Heider</a>
+							</li>
+							<li>
+								<a href="/2019/05/11/cover-me-robin-and-linda-williams-my-lucky-day.html">Robin and Linda Williams</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_83">
+					<td>
+						<a href="/2018/04/16/roll-of-the-dice-nebraska.html">Nebraska</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/09/28/cover-me-aoife-odonovan-nebraska.html">Aoife O’Donovan</a>
+							</li>
+							<li>
+								<a href="/2021/09/23/cover-me-carson-mckee-and-skylar-mckee-nebraska.html">Carson and Skylar McKee</a>
+							</li>
+							<li>
+								<a href="/2020/03/11/cover-me-diego-mercuri-the-wrecking-band-nebraska.html">Diego Mercuri and the Wrecking Band</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_84">
+					<td>
+						New York City Serenade
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/04/06/cover-me-carolyne-mas-new-york-city-serenade.html">Carolyne Mas</a>
+							</li>
+							<li>
+								<a href="/2021/06/04/cover-me-the-folding-chairs-new-york-city-serenade.html">The Folding Chairs</a>
+							</li>
+							<li>
+								<a href="/2020/06/07/cover-me-roberta-finocchiaro-new-york-city-serenade.html">Roberta Finocchiaro</a>
+							</li>
+							<li>
+								<a href="/2020/12/14/cover-me-tebo-new-york-city-serenade.html">Tebo</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_85">
+					<td>
+						<a href="/2020/01/31/cover-me-darlene-love-night-closing-in.html">Night Closing In</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/01/31/cover-me-darlene-love-night-closing-in.html">Darlene Love</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_86">
+					<td>
+						<a href="/2021/11/18/roll-of-the-dice-no-surrender.html">No Surrender</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/1984/01/30/cover-me-bimbo-du-jour-no-surrender.html">Bimbo du Jour</a>
+							</li>
+							<li>
+								<a href="/2018/05/24/cover-me-holly-williams-no-surrender.html">Holly Williams</a>
+							</li>
+							<li>
+								<a href="/2021/06/24/cover-me-the-phil-beer-band-no-surrender.html">Phil Beer Band</a>
+							</li>
+							<li>
+								<a href="/2021/11/20/cover-me-tex-mex-no-surrender.html">Tex Mex</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_87">
+					<td>
+						<a href="/2021/05/30/roll-of-the-dice-one-minute-youre-here.html">One Minute You’re Here</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/03/25/cover-me-justin-roberts-anna-steinhoff-one-minute-youre-here.html">Justin Roberts and Anna Steinhoff</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_88">
+					<td>
+						<a href="/2018/08/17/roll-of-the-dice-one-step-up.html">One Step Up</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/05/03/cover-me-birds-of-a-feather-one-step-up.html">Birds of a Feather</a>
+							</li>
+							<li>
+								<a href="/2018/01/16/cover-me-eddie-vedder-one-step-up.html">Eddie Vedder</a>
+							</li>
+							<li>
+								<a href="/2019/11/03/cover-me-jeniferever-one-step-up.html">Jeniferever</a>
+							</li>
+							<li>
+								<a href="/2018/08/22/cover-me-kenny-chesney-one-step-up.html">Kenny Chesney</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_89">
+					<td>
+						<a href="/2020/10/28/roll-of-the-dice-open-all-night.html">Open All Night</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/12/30/cover-me-mad-staring-eyes-open-all-night.html">Mad Staring Eyes</a>
+							</li>
+							<li>
+								<a href="/2018/08/07/cover-me-pearl-jam-open-all-night.html">Pearl Jam</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_90">
+					<td>
+						<a href="/2021/04/18/rotd-matr-gary-u-s-bonds-bruce-springsteen-and-the-e-street-band-out-of-work.html">Out of Work</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/04/18/rotd-matr-gary-u-s-bonds-bruce-springsteen-and-the-e-street-band-out-of-work.html">Gary U.S. Bonds</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_91">
+					<td>
+						<a href="/2019/08/21/roll-of-the-dice-pink-cadillac.html">Pink Cadillac</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/11/26/cover-me-bette-midler-pink-cadillac.html">Bette Midler</a>
+							</li>
+							<li>
+								<a href="/2020/09/19/cover-me-the-chipettes-pink-cadillac.html">The Chipettes</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_92">
+					<td>
+						<a href="/2020/12/19/roll-of-the-dice-point-blank.html">Point Blank</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/02/16/cover-me-elvis-costello-point-blank.html">Elvis Costello</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_93">
+					<td>
+						<a href="/2021/12/26/rotd-cover-me-donna-summer-protection.html">Protection</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/1984/01/17/rotd-cover-me-donna-summer-protection.html">Donna Summer</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_94">
+					<td>
+						<a href="/2021/10/03/roll-of-the-dice-racing-in-the-street.html">Racing in the Street</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/01/07/cover-me-amy-ray-racing-in-the-street.html">Amy Ray</a>
+							</li>
+							<li>
+								<a href="/2019/05/31/cover-me-roger-taylor-racing-in-the-street.html">Roger Taylor</a>
+							</li>
+							<li>
+								<a href="/2018/11/18/cover-me-serena-ryder-racing-in-the-street.html">Serena Ryder</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_95">
+					<td>
+						<a href="/2021/08/01/roll-of-the-dice-radio-nowhere.html">Radio Nowhere</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/04/09/cover-me-antivirus-radio-nowhere.html">Antivirus</a>
+							</li>
+							<li>
+								<a href="/2019/01/31/cover-me-town-bike-radio-nowhere.html">Town Bike</a>
+							</li>
+							<li>
+								<a href="/2021/09/12/cover-me-the-wild-years-radio-nowhere.html">The Wild Years</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_96">
+					<td>
+						<a href="/2022/07/25/roll-of-the-dice-real-world.html">Real World</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/12/05/cover-me-jake-thistle-real-world.html">Jake Thistle</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_97">
+					<td>
+						<a href="/2021/02/27/roll-of-the-dice-reason-to-believe.html">Reason to Believe</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/09/10/cover-me-beat-farmers-reason-to-believe.html">Beat Farmers</a>
+							</li>
+							<li>
+								<a href="/2021/12/07/cover-me-the-henry-girls-reason-to-believe.html">The Henry Girls</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_98">
+					<td>
+						<a href="/2021/05/08/roll-of-the-dice-rendezvous.html">Rendezvous</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/07/17/cover-me-greg-kihn-band-rendezvous.html">Greg Kihn Band</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_99">
+					<td>
+						<a href="/2020/11/21/roll-of-the-dice-the-rising.html">The Rising</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/04/05/cover-me-krezip-the-rising.html">Krezip</a>
+							</li>
+							<li>
+								<a href="/2018/10/26/cover-me-sting-the-rising.html">Sting</a>
+							</li>
+							<li>
+								<a href="/2021/11/28/cover-me-the-whiskey-treaty-roadshow-the-rising.html">The Whiskey Treaty Roadshow</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_100">
+					<td>
+						<a href="/2021/03/04/roll-of-the-dice-the-river.html">The River</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/01/27/cover-me-the-clarks-the-river.html">The Clarks</a>
+							</li>
+							<li>
+								<a href="/2021/08/12/cover-me-martin-ekman-and-daniel-falcone-borg-the-river.html">Martin Ekman and Daniel Falcone Borg</a>
+							</li>
+							<li>
+								<a href="/2018/10/05/cover-me-passenger-the-river.html">Passenger</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_101">
+					<td>
+						<a href="/2023/03/20/roll-of-the-dice-rocky-ground.html">Rocky Ground</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/06/08/cover-me-michelle-moore-and-the-alliance-singers-rocky-ground.html">Michelle Moore and the Alliance Singers</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_102">
+					<td>
+						Rosalita (Come Out Tonight)
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/03/09/cover-me-big-head-todd-and-the-monsters-feat-john-popper-rosalita-come-out-tonight.html">Big Head Todd and The Monsters</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_103">
+					<td>
+						<a href="/2018/05/14/roll-of-the-dice-cover-me-clarence-clemons-savin-up.html">Savin’ Up</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/05/14/roll-of-the-dice-cover-me-clarence-clemons-savin-up.html">Clarence Clemons and The Red Bank Rockers</a>
+							</li>
+							<li>
+								<a href="/2019/10/18/cover-me-sonny-day-and-the-all-stars-savin-up.html">Sonny Day and The All Stars</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_104">
+					<td>
+						<a href="/2019/05/30/roll-of-the-dice-secret-garden.html">Secret Garden</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/08/18/cover-me-amy-shark-secret-garden.html">Amy Shark</a>
+							</li>
+							<li>
+								<a href="/2019/06/29/cover-me-default-genders-secret-garden.html">Default Genders</a>
+							</li>
+							<li>
+								<a href="/2019/06/08/cover-me-leann-rimes-secret-garden.html">Leann Rimes</a>
+							</li>
+							<li>
+								<a href="/2020/06/19/cover-me-lisa-lowell-secret-garden.html">Lisa Lowell</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_105">
+					<td>
+						<a href="/2020/10/10/roll-of-the-dice-seeds.html">Seeds</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/12/01/cover-me-dave-alvin-seeds.html">Dave Alvin</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_106">
+					<td>
+						<a href="/2021/04/04/roll-of-the-dice-shes-the-one.html">She’s the One</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/09/01/cover-me-u2-shes-the-one.html">U2</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_107">
+					<td>
+						<a href="/2022/01/04/roll-of-the-dice-sinaloa-cowboys.html">Sinaloa Cowboys</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/04/02/cover-me-cracker-sinaloa-cowboys.html">Cracker</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_108">
+					<td>
+						<a href="/2021/05/28/roll-of-the-dice-something-in-the-night.html">Something in the Night</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/09/03/cover-me-untechwhv-something-in-the-night.html">UnTechWHV</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_109">
+					<td>
+						<a href="/2020/03/01/roll-of-the-dice-spirit-in-the-night.html">Spirit in the Night</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2011/02/01/cover-me-the-astronettes-spirit-in-the-night.html">The Astronettes</a>
+							</li>
+							<li>
+								<a href="/2011/02/01/cover-me-manfred-manns-earth-band-spirits-in-the-night.html">Manfred Mann’s Earth Band</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_110">
+					<td>
+						<a href="/2021/10/08/roll-of-the-dice-stand-on-it.html">Stand On It</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/06/20/cover-me-mel-mcdaniel-stand-on-it.html">Mel McDaniel</a>
+							</li>
+							<li>
+								<a href="/2020/08/22/cover-me-the-razorbacks-stand-on-it.html">The Razorbacks</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_111">
+					<td>
+						<a href="/2019/12/22/roll-of-the-dice-state-trooper.html">State Trooper</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/10/29/cover-me-oliver-keys-state-trooper.html">Oliver Keys</a>
+							</li>
+							<li>
+								<a href="/2020/11/30/cover-me-the-shining-tongues-state-trooper.html">The Shining Tongues</a>
+							</li>
+							<li>
+								<a href="/2020/01/15/cover-me-son-little-state-trooper.html">Son Little</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_112">
+					<td>
+						Stolen Car
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/09/20/cover-me-lizanne-knott-stolen-car.html">Lizanne Knott</a>
+							</li>
+							<li>
+								<a href="/2021/06/16/cover-me-trace-jory-stolen-car.html">Trace Jory</a>
+							</li>
+							<li>
+								<a href="/2019/05/15/cover-me-x-ambassadors-stolen-car.html">X Ambassadors</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_113">
+					<td>
+						<a href="/2022/12/05/roll-of-the-dice-straight-time.html">Straight Time</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/04/09/cover-me-renato-tammi-straight-time.html">Renato Tammi</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_114">
+					<td>
+						<a href="/2021/06/30/roll-of-the-dice-streets-of-philadelphia.html">Streets of Philadelphia</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/10/10/cover-me-bettye-lavette-streets-of-philadelphia.html">Bettye LaVette</a>
+							</li>
+							<li>
+								<a href="/2020/02/08/cover-me-david-gray-streets-of-philadelphia.html">David Gray</a>
+							</li>
+							<li>
+								<a href="/2018/08/04/cover-me-richie-havens-streets-of-philadelphia.html">Richie Havens</a>
+							</li>
+							<li>
+								<a href="/2018/10/11/cover-me-ryan-adams-streets-of-philadelphia.html">Ryan Adams</a>
+							</li>
+							<li>
+								<a href="/2020/12/22/cover-me-smaf-and-stjerne-streets-of-philadelphia.html">SMAF and Stjerne</a>
+							</li>
+							<li>
+								<a href="/2021/05/31/cover-me-tim-neuhaus-streets-of-philadelphia.html">Tim Neuhaus</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_115">
+					<td>
+						<a href="/2021/03/01/cover-me-rotd-clarence-clemons-and-the-red-bank-rockers-summer-on-signal-hill.html">Summer on Signal Hill</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/03/01/cover-me-rotd-clarence-clemons-and-the-red-bank-rockers-summer-on-signal-hill.html">Clarence Clemons and The Red Bank Rockers</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_116">
+					<td>
+						<a href="/2019/03/29/roll-of-the-dice-take-em-as-they-come.html">Take ’em as They Come</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/02/04/cover-me-hudson-falcons-take-em-as-they-come.html">Hudson Falcons</a>
+							</li>
+							<li>
+								<a href="/2018/05/30/cover-me-jimmy-eat-world-take-em-as-they-come.html">Jimmy Eat World</a>
+							</li>
+							<li>
+								<a href="/2019/04/13/cover-me-mary-cutrufello-take-em-as-they-come.html">Mary Cutrufello</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_117">
+					<td>
+						<a href="/2018/11/19/roll-of-the-dice-tenth-avenue-freeze-out.html">Tenth Avenue Freeze-Out</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/04/29/cover-me-half-japanese-tenth-avenue-freeze-out.html">Half Japanese</a>
+							</li>
+							<li>
+								<a href="/2019/06/12/cover-me-joe-slomp-tenth-avenue-freeze-out.html">Joe Slomp</a>
+							</li>
+							<li>
+								<a href="/2021/01/24/cover-me-silent-bear-tenth-avenue-freeze-out.html">Silent Bear</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_118">
+					<td>
+						<a href="/2018/09/06/rotd-matr-cover-me-gary-u-s-bonds-bruce-springsteen-the-e-street-band-this-little-girl.html">This Little Girl</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/09/06/rotd-matr-cover-me-gary-u-s-bonds-bruce-springsteen-the-e-street-band-this-little-girl.html">Gary U.S. Bonds</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_119">
+					<td>
+						Thunder Road
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/09/16/cover-me-aaron-tveit-thunder-road.html">Aaron Tveit</a>
+							</li>
+							<li>
+								<a href="/2020/10/13/cover-me-ghost-hounds-and-sasha-allen-thunder-road.html">Ghost Hounds</a>
+							</li>
+							<li>
+								<a href="/2018/07/14/cover-me-john-moreland-thunder-road.html">John Moreland</a>
+							</li>
+							<li>
+								<a href="/2019/02/08/cover-me-kevin-rowland-thunder-road.html">Kevin Rowland</a>
+							</li>
+							<li>
+								<a href="/2018/03/10/cover-me-matt-nathanson-thunder-road.html">Matt Nathanson</a>
+							</li>
+							<li>
+								<a href="/2020/04/20/cover-me-melissa-etheridge-thunder-road.html">Melissa Etheridge</a>
+							</li>
+							<li>
+								<a href="/2019/10/22/cover-me-tortoise-and-bonnie-prince-billy-thunder-road.html">Tortoise and Bonnie “Prince” Billy</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_120">
+					<td>
+						<a href="/2019/01/26/rotd-matr-cm-tiger-rose.html">Tiger Rose</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/01/26/rotd-matr-cm-tiger-rose.html">Sonny Burgess</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_121">
+					<td>
+						<a href="/2020/08/08/roll-of-the-dice-tougher-than-the-rest.html">Tougher Than the Rest</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/04/08/cover-me-alexander-schmidt-band-tougher-than-the-rest.html">Alexander Schmidt</a>
+							</li>
+							<li>
+								<a href="/2019/05/28/cover-me-camera-obscura-tougher-than-the-rest.html">Camera Obscura</a>
+							</li>
+							<li>
+								<a href="/2018/10/14/cover-me-cher-tougher-than-the-rest.html">Cher</a>
+							</li>
+							<li>
+								<a href="/2020/03/03/cover-me-cosmic-spin-tougher-than-the-rest.html">Cosmic Spin</a>
+							</li>
+							<li>
+								<a href="/2019/07/29/cover-me-emily-barker-and-the-red-clay-halo-tougher-than-the-rest.html">Emily Barker &amp; The Red Clay Halo</a>
+							</li>
+							<li>
+								<a href="/2018/09/19/cover-me-everything-but-the-girl-tougher-than-the-rest.html">Everything But the Girl</a>
+							</li>
+							<li>
+								<a href="/2021/11/10/cover-me-katee-cross-tougher-than-the-rest.html">Katee Cross</a>
+							</li>
+							<li>
+								<a href="/2021/04/01/cover-me-lorde-and-marlon-williams-tougher-than-the-rest.html">Lorde and Marlon Williams</a>
+							</li>
+							<li>
+								<a href="/2018/02/15/cover-me-martina-linn-tougher-than-the-rest.html">Martina Linn</a>
+							</li>
+							<li>
+								<a href="/2021/02/05/cover-me-richard-nijstad-my-hometown-and-tougher-than-the-rest.html">Richard Nijstad</a>
+							</li>
+							<li>
+								<a href="/2018/05/09/cover-me-shawn-colvin-tougher-than-the-rest.html">Shawn Colvin</a>
+							</li>
+							<li>
+								<a href="/2020/10/30/cover-me-the-travel-bag-tougher-than-the-rest.html">The Travel Bag</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_122">
+					<td>
+						<a href="/2020/04/24/cover-me-cleveland-school-of-rock-trapped.html">Trapped</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/04/24/cover-me-cleveland-school-of-rock-trapped.html">Cleveland School of Rock</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_123">
+					<td>
+						<a href="/2021/06/15/roll-of-the-dice-tunnel-of-love.html">Tunnel of Love</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/03/22/cover-me-softband-tunnel-of-love.html">Softband</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_124">
+					<td>
+						<a href="/1987/01/08/roll-of-the-dice-two-faces.html">Two Faces</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/12/30/cover-me-salamander-crossing-two-faces.html">Salamander Crossing</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_125">
+					<td>
+						<a href="/2020/03/27/cover-me-billy-mann-two-hearts.html">Two Hearts</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/03/27/cover-me-billy-mann-two-hearts.html">Billy Mann</a>
+							</li>
+							<li>
+								<a href="/2020/08/10/cover-me-precious-metal-two-hearts.html">Precious Metal</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_126">
+					<td>
+						<a href="/2018/09/12/roll-of-the-dice-unsatisfied-heart.html">Unsatisfied Heart</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/1983/01/20/cover-me-the-war-on-drugs-unsatisfied-heart.html">The War on Drugs</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_127">
+					<td>
+						<a href="/2019/06/13/roll-of-the-dice-used-cars.html">Used Cars</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/06/02/cover-me-ani-difranco-used-cars.html">Ani DiFranco</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_128">
+					<td>
+						<a href="/2018/06/12/roll-of-the-dice-valentines-day.html">Valentine’s Day</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2019/02/12/cover-me-hem-valentines-day.html">Hem</a>
+							</li>
+							<li>
+								<a href="/2018/03/03/cover-me-jimmy-lafave-valentines-day.html">Jimmy LaFave</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_129">
+					<td>
+						<a href="/2020/02/07/roll-of-the-dice-wages-of-sin.html">Wages of Sin</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/10/13/cover-me-damien-jurado-and-rosie-thomas-wages-of-sin.html">Damien Jurado and Rosie Thomas</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_130">
+					<td>
+						<a href="/2018/07/21/roll-of-the-dice-walk-like-a-man.html">Walk Like a Man</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/09/23/cover-me-brent-parlane-walk-like-a-man.html">Brent Parlane</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_131">
+					<td>
+						<a href="/2022/01/29/roll-of-the-dice-the-wayfarer.html">The Wayfarer</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2021/06/29/cover-me-householder-reloaded-the-wayfarer.html">HouseHolder Reloaded</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_132">
+					<td>
+						<a href="/2020/03/28/roll-of-the-dice-western-stars.html">Western Stars</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/02/28/cover-me-8-bit-arcade-western-stars.html">8-Bit Arcade</a>
+							</li>
+							<li>
+								<a href="/2019/12/21/cover-me-marcel-lichter-western-stars.html">Marcel Lichter</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_133">
+					<td>
+						<a href="/2022/08/28/roll-of-the-dice-wreck-on-the-highway.html">Wreck on the Highway</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/01/25/cover-me-nils-lofgren-wreck-on-the-highway.html">Nils Lofgren</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_134">
+					<td>
+						<a href="/2020/01/13/roll-of-the-dice-you-mean-so-much-to-me.html">You Mean So Much to Me</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2020/02/16/cover-me-southside-johnny-and-ronnie-spector-you-mean-so-much-to-me.html">Southside Johnny and Ronnie Spector</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_135">
+					<td>
+						<a href="/2018/07/27/cover-me-gary-u-s-bonds-your-love.html">Your Love</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/07/27/cover-me-gary-u-s-bonds-your-love.html">Gary U.S. Bonds</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+				<tr id="song_136">
+					<td>
+						<a href="/2020/05/31/roll-of-the-dice-your-own-worst-enemy.html">Your Own Worst Enemy</a>
+					</td>
+					<td>
+						<ul class="list-unstyled mb-0">
+							<li>
+								<a href="/2018/08/26/cover-me-pete-yorn-your-own-worst-enemy.html">Pete Yorn</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
 </div>
 {{ end }}
 

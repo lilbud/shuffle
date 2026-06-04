@@ -1,31 +1,33 @@
 {{ define "main" }}
-<div class="card p-3 p-lg-4.5 mb-4.5">
-    <h1 class="text-reset fw-normal page-title">Oops! That page can’t be found.</h1>
-</div>
+<div class="col">
+	<div class="card p-3 p-lg-4.5 mb-4.5">
+		<h1 class="text-reset fw-normal page-title">Oops! That page can’t be found.</h1>
+	</div>
 
-<div class="card p-3 p-lg-4.5 mb-4.5">
-    <p class="mb-4.5">It looks like nothing was found at this location. Maybe try one of the links below or a search?
-    </p>
-    {{ partial "lunr.html" }}
-    <h2 class="section-title mt-4 mb-2">Recent Posts</h2>
-    <div class="recent-posts">
-        <ol>
-            {{ range .Pages.ByDate.Reverse.Limit 5 }}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-            {{ end }}
-        </ol>
-    </div>
-    <h2 class="section-title">Tags</h2>
-    <div class="tags category">
-        {{ $list := first 50 .Site.Taxonomies.tags.Alphabetical }}
-        {{ $len := (len $list) }}
+	<div class="card p-3 p-lg-4.5 mb-4.5">
+		<p class="mb-4.5">It looks like nothing was found at this location. Maybe try one of the links below or a search?
+		</p>
+		{{ partial "lunr.html" }}
+		<h2 class="section-title mt-4 mb-2">Recent Posts</h2>
+		<div class="recent-posts">
+			<ol>
+				{{ range .Pages.ByDate.Reverse.Limit 5 }}
+					<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+				{{ end }}
+			</ol>
+		</div>
+		<h2 class="section-title">Tags</h2>
+		<div class="tags category">
+			{{ $list := first 50 .Site.Taxonomies.tags.Alphabetical }}
+			{{ $len := (len $list) }}
 
-        {{ range $index, $element := $list }}
-        <a href="/tags/{{ .Page.Title | urlize }}">{{ .Page.Title | replaceRE "-" " " }}</a>
-        {{ if ne (add $index 1) $len }}
-        ,
-        {{ end }}
-        {{ end }}
-    </div>
+			{{ range $index, $element := $list }}
+				<a href="/tags/{{ .Page.Title | urlize }}">{{ .Page.Title | replaceRE "-" " " }}</a>
+				{{ if ne (add $index 1) $len }}
+					,
+				{{ end }}
+			{{ end }}
+		</div>
+	</div>
 </div>
 {{ end }}

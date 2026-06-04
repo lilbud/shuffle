@@ -130,7 +130,8 @@ And yet, it's been more than a decade since "Maria's Bed" last appeared, unless 
 Chalk up its continuing absence from the E Street stage as just anther of the mysteries and puzzles of "Maria's Bed." It remains high on my chase list for the next tour.
 
 **Maria's Bed**<br>
-**Recorded** 1996-2004**Released:** *Devils & Dust* (2005)<br>
+**Recorded** 1996-2004<br>
+**Released:** *Devils & Dust* (2005)<br>
 **First performed:** March 10, 2005 (Asbury Park, NJ)**Last performed:** July 20, 2013 (Belfast, Northern Ireland)<br>
 
 Looking for your favorite Bruce song? Check our [full index](/shuffle/roll-of-the-dice-album-by-album/). New entries every week!

@@ -1,98 +1,1290 @@
 {{ define "main" }}
 <div class="content-area col-12 col-lg-10" id="main-column">
-  <a href="#" class="back-to-top d-flex justify-content-center align-items-center"><i class="bi bi-caret-up-fill"></i></a>
-  <div class="card widget-card mb-3">
-    <div class="widget-title">Navigation</div>
-    <div class="widget-body">
-      <select class="form-select" id="album_select">
-        <option selected>Select Album</option>
-        {{ range $index, $album := hugo.Data.originals_1 }}
-        <option value="#album_{{ add $index 1 }}">{{ $album.name }}</option>
-        {{ end }}
-      </select>
-    </div>
-  </div>
-  <div class="card p-3">
-    {{ range $index, $album := hugo.Data.originals_1 }}
-    {{ if $album.img }}
-    <div class="row" id="album_{{ add $index 1 }}">
-      <div class="col-12 col-lg-6 mb-3 mb-lg-0">
-        {{ if $album.url }}
-        <a href="{{ $album.url | relURL }}"><img class="img-fluid" src="{{ $album.img | relURL }}" alt=""></a>
-        {{ else }}
-        <img class="img-fluid" src="{{ $album.img | relURL }}" alt="">
-        {{ end }}
-      </div>
-      <div class="col-12 col-lg-6">
-        <strong>
-          {{ if $album.url }}
-          <a class="text-reset" href="{{ $album.url | relURL }}">{{ $album.name }}:</a>
-          {{ else }}
-          {{ $album.name }}:
-          {{ end }}
-        </strong>
-        <ul class="list-unstyled">
-          {{ range $album.songs }}
-          {{ if .url }}
-          <li><a href="{{ .url | relURL }}">{{ .name }}</a></li>
-          {{ else }}
-          <li>{{ .name }}</li>
-          {{ end }}
-          {{ end }}
-        </ul>
-
-        {{ if $album.outtakes }}
-        <strong>Outtakes:</strong>
-        <ul class="list-unstyled">
-          {{ range $album.outtakes }}
-          {{ if .url }}
-          <li><a href="{{ .url | relURL }}">{{ .name }}</a></li>
-          {{ else }}
-          <li>{{ .name }}</li>
-          {{ end }}
-          {{ end }}
-        </ul>
-        {{ end }}
-
-        {{ if $album.other }}
-        <strong>Other:</strong>
-        <ul class="list-unstyled">
-          {{ range $album.other }}
-          {{ if .url }}
-          <li><a href="{{ .url | relURL }}">{{ .name }}</a></li>
-          {{ else }}
-          <li>{{ .name }}</li>
-          {{ end }}
-          {{ end }}
-        </ul>
-        {{ end }}
-      </div>
-    </div>
-
-    {{/* Check if it's not the last item in the data array */}}
-    {{ if ne (add $index 1) (len hugo.Data.originals_1) }}
-    <div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
-    {{ end }}
-
-    {{ else }}
-
-    <div class="row mb-4" id="album_{{ add $index 1 }}">
-      <div class="col-12 text-center justify-content-center">
-        <strong>{{ $album.name }}:</strong>
-        <ul class="list-unstyled">
-          {{ range $album.songs }}
-          {{ if .url }}
-          <li><a href="{{ .url | relURL }}">{{ .name }}</a></li>
-          {{ else }}
-          <li>{{ .name }}</li>
-          {{ end }}
-          {{ end }}
-        </ul>
-      </div>
-    </div>
-    {{ end }}
-    {{ end }}
-  </div>
+	<a href="#" class="back-to-top d-flex justify-content-center align-items-center"><i class="bi bi-caret-up-fill"></i></a>
+	<div class="card widget-card mb-3">
+		<div class="widget-title">Navigation</div>
+		<div class="widget-body">
+			<select class="form-select" id="album_select">
+				<option selected>Select Album</option>
+				{{ range $index, $album := hugo.Data.originals_1 }}
+					<option value="#album_{{ add $index 1 }}">{{ $album.name }}</option>
+				{{ end }}
+			</select>
+		</div>
+	</div>
+	<div class="card p-3">
+		<div class="row" id="album_1">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<a href="/2023/01/05/album-companion-greetings-from-asbury-park-n-j.html"><img class="img-fluid" loading="lazy" height="auto" width="auto" src="/img/albums/greetings.jpg" alt=""></a>
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					<a class="text-reset" href="/2023/01/05/album-companion-greetings-from-asbury-park-n-j.html">Greetings From Asbury Park, N.J.:</a>
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2011/01/02/roll-of-the-dice-blinded-by-the-light.html">Blinded by the Light</a></li>
+					<li><a href="/2011/01/03/roll-of-the-dice-growin-up.html">Growin' Up</a></li>
+					<li><a href="/2011/01/03/roll-of-the-dice-mary-queen-of-arkansas.html">Mary Queen of Arkansas</a></li>
+					<li><a href="/2011/01/04/roll-of-the-dice-does-this-bus-stop-at-82nd-street.html">Does This Bus Stop at 82nd Street</a></li>
+					<li><a href="/2011/01/05/roll-of-the-dice-lost-in-the-flood.html">Lost in the Flood</a></li>
+					<li><a href="/2011/01/06/roll-of-the-dice-the-angel.html">The Angel</a></li>
+					<li><a href="/2011/01/07/roll-of-the-dice-for-you.html">For You</a></li>
+					<li><a href="/2011/01/08/roll-of-the-dice-spirit-in-the-night.html">Spirit in the Night</a></li>
+					<li><a href="/2011/01/09/roll-of-the-dice-its-hard-to-be-a-saint-in-the-city.html">It's Hard to Be a Saint in the City</a></li>
+				</ul>
+				<strong>Outtakes:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2011/01/11/roll-of-the-dice-arabian-nights.html">Arabian Nights</a></li>
+					<li><a href="/2011/01/12/roll-of-the-dice-baby-doll.html">Baby Doll</a></li>
+					<li><a href="/2011/01/13/roll-of-the-dice-border-guard.html">Border Guard</a></li>
+					<li><a href="/2011/01/14/roll-of-the-dice-camilla-horn.html">Camilla Horn</a></li>
+					<li><a href="/2011/01/15/roll-of-the-dice-cowboys-of-the-sea.html">Cowboys of the Sea</a></li>
+					<li><a href="/2011/01/16/roll-of-the-dice-eloise.html">Eloise</a></li>
+					<li><a href="/2011/01/17/roll-of-the-dice-henry-boy.html">Henry Boy</a></li>
+					<li><a href="/2011/01/19/roll-of-the-dice-hollywood-kids.html">Hollywood Kids</a></li>
+					<li><a href="/2011/01/19/roll-of-the-dice-jazz-musician.html">Jazz Musician</a></li>
+					<li><a href="/2011/01/20/roll-of-the-dice-jesse.html">Jesse</a></li>
+					<li><a href="/2011/01/22/roll-of-the-dice-marie.html">Marie</a></li>
+					<li><a href="/2011/01/23/roll-of-the-dice-no-need.html">No Need</a></li>
+					<li><a href="/2011/01/24/roll-of-the-dice-prodigal-son.html">Prodigal Son</a></li>
+					<li><a href="/2011/01/25/roll-of-the-dice-randolph-street.html">Randolph Street</a></li>
+					<li><a href="/2011/01/26/roll-of-the-dice-shes-leaving.html">She's Leaving</a></li>
+					<li><a href="/2011/01/27/roll-of-the-dice-southern-sun.html">Southern Sun</a></li>
+					<li><a href="/2011/01/28/roll-of-the-dice-street-queen.html">Street Queen</a></li>
+					<li><a href="/2011/01/30/roll-of-the-dice-the-song.html">The Song</a></li>
+					<li><a href="/2011/01/31/bloggers-note-kingdom-of-days.html">Visitation at Fort Horn</a></li>
+					<li><a href="/2011/01/31/roll-of-the-dice-two-hearts-in-true-waltz-time.html">Two Hearts in True Waltz Time</a></li>
+					<li><a href="/2011/02/01/roll-of-the-dice-war-nurse.html">War Nurse</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_2">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/wiess.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					The Wild, The Innocent &amp; The E Street Shuffle:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2020/06/06/roll-of-the-dice-the-e-street-shuffle.html">The E Street Shuffle</a></li>
+					<li><a href="/2019/04/26/roll-of-the-dice-4th-of-july-asbury-park-sandy.html">4th of July, Asbury Park (Sandy)</a></li>
+					<li><a href="/2022/01/22/roll-of-the-dice-kittys-back.html">Kitty's Back</a></li>
+					<li><a href="/2019/03/14/roll-of-the-dice-wild-billys-circus-story.html">Wild Billy's Circus Story</a></li>
+					<li><a href="/2018/12/14/roll-of-the-dice-incident-on-57th-street.html">Incident on 57th Street</a></li>
+					<li>Rosalita (Come Out Tonight)</li>
+					<li>New York City Serenade</li>
+				</ul>
+				<strong>Outtakes:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2019/10/05/roll-of-the-dice-angels-blues.html">Angel's Blues</a></li>
+					<li><a href="/2019/05/09/roll-of-the-dice-ballad-of-a-self-loading-pistol.html">Ballad of a Self-Loading Pistol</a></li>
+					<li><a href="/2021/05/18/roll-of-the-dice-bishop-danced.html">Bishop Danced</a></li>
+					<li><a href="/2020/09/16/roll-of-the-dice-evacuation-of-the-west.html">Evacuation of the West</a></li>
+					<li><a href="/2019/06/06/roll-of-the-dice-phantoms.html">Phantoms</a></li>
+					<li><a href="/2018/03/06/roll-of-the-dice-santa-ana.html">Santa Ana</a></li>
+					<li><a href="/2022/10/24/roll-of-the-dice-seaside-bar-song.html">Seaside Bar Song</a></li>
+					<li><a href="/2024/09/14/roll-of-the-dice-secret-to-the-blues.html">Secret to the Blues</a></li>
+					<li><a href="/2019/04/10/roll-of-the-dice-song-for-orphans.html">Song for Orphans</a></li>
+					<li><a href="/2020/10/04/roll-of-the-dice-the-fever.html">The Fever</a></li>
+					<li><a href="/2021/09/24/roll-of-the-dice-thundercrack.html">Thundercrack</a></li>
+					<li><a href="/2019/08/07/roll-of-the-dice-vibes-man.html">Vibes Man</a></li>
+					<li><a href="/2021/06/03/roll-of-the-dice-winter-song.html">Winter Song</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_3">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/btr.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					Born To Run:
+				</strong>
+				<ul class="list-unstyled">
+					<li>Thunder Road</li>
+					<li><a href="/2018/11/19/roll-of-the-dice-tenth-avenue-freeze-out.html">Tenth Avenue Freeze-Out</a></li>
+					<li><a href="/2019/10/31/roll-of-the-dice-night.html">Night</a></li>
+					<li><a href="/2022/05/14/roll-of-the-dice-backstreets.html">Backstreets</a></li>
+					<li>Born to Run</li>
+					<li><a href="/2021/04/04/roll-of-the-dice-shes-the-one.html">She's the One</a></li>
+					<li><a href="/2019/08/04/roll-of-the-dice-meeting-across-the-river.html">Meeting Across the River</a></li>
+					<li>Jungleland</li>
+				</ul>
+				<strong>Outtakes:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2020/02/09/roll-of-the-dice-glory-road.html">Glory Road</a></li>
+					<li><a href="/2020/09/24/roll-of-the-dice-here-she-comes-walkin.html">Here She Comes Walkin'</a></li>
+					<li><a href="/2020/07/27/roll-of-the-dice-janey-needs-a-shooter.html">Janey Needs a Shooter</a></li>
+					<li><a href="/2021/03/27/roll-of-the-dice-linda-let-me-be-the-one.html">Linda Let Me Be the One</a></li>
+					<li><a href="/2018/06/09/roll-of-the-dice-lonely-night-in-the-park.html">Lonely Night in the Park</a></li>
+					<li><a href="/2018/01/21/roll-of-the-dice-walking-in-the-street.html">Walking in the Street</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_4">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<a href="/2022/07/05/album-companion-darkness-on-the-edge-of-town"><img class="img-fluid" loading="lazy" height="auto" width="auto" src="/img/albums/darkness.jpg" alt=""></a>
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					<a class="text-reset" href="/2022/07/05/album-companion-darkness-on-the-edge-of-town">Darkness On The Edge Of Town:</a>
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2016/01/20/roll-of-the-dice-badlands.html">Badlands</a></li>
+					<li><a href="/2022/07/03/roll-of-the-dice-adam-raised-a-cain.html">Adam Raised a Cain</a></li>
+					<li><a href="/2021/05/28/roll-of-the-dice-something-in-the-night.html">Something in the Night</a></li>
+					<li><a href="/2022/05/02/roll-of-the-dice-candys-room.html">Candy's Room</a></li>
+					<li><a href="/2021/10/03/roll-of-the-dice-racing-in-the-street.html">Racing in the Street</a></li>
+					<li><a href="/2016/01/09/roll-of-the-dice-the-promised-land.html">The Promised Land</a></li>
+					<li><a href="/2018/10/31/roll-of-the-dice-factory.html">Factory</a></li>
+					<li><a href="/2021/11/06/roll-of-the-dice-streets-of-fire.html">Streets of Fire</a></li>
+					<li><a href="/2020/10/24/roll-of-the-dice-prove-it-all-night.html">Prove It All Night</a></li>
+					<li><a href="/2016/01/07/roll-of-the-dice-darkness-on-the-edge-of-town.html">Darkness on the Edge of Town</a></li>
+				</ul>
+				<strong>Outtakes:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2022/06/27/roll-of-the-dice-action-in-the-streets.html">Action in the Streets</a></li>
+					<li><a href="/2022/07/23/roll-of-the-dice-bodo-rocker-im-goin-back.html">BoDo Rocker (I'm Goin' Back)</a></li>
+					<li><a href="/2020/10/07/roll-of-the-dice-break-my-heart-tonight.html">Break My Heart (Tonight)</a></li>
+					<li><a href="/2021/03/20/roll-of-the-dice-break-out.html">Break Out</a></li>
+					<li><a href="/2019/03/10/roll-of-the-dice-crazy-rocker.html">Crazy Rocker</a></li>
+					<li><a href="/2018/07/01/roll-of-the-dice-preachers-daughter.html">Preacher's Daughter</a></li>
+					<li><a href="/2020/05/13/roll-of-the-dice-down-by-the-river.html">Sax Song</a></li>
+					<li><a href="/2019/12/29/roll-of-the-dice-the-ballad.html">The Ballad</a></li>
+					<li><a href="/2021/01/30/roll-of-the-dice-the-fast-song.html">The Fast Song</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_5">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/river.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					The River:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2018/03/09/roll-of-the-dice-the-ties-that-bind.html">The Ties That Bind</a></li>
+					<li><a href="/2018/07/06/roll-of-the-dice-sherry-darling.html">Sherry Darling</a></li>
+					<li><a href="/2018/11/04/roll-of-the-dice-jackson-cage.html">Jackson Cage</a></li>
+					<li><a href="/2018/05/28/roll-of-the-dice-two-hearts.html">Two Hearts</a></li>
+					<li><a href="/2022/03/14/roll-of-the-dice-independence-day.html">Independence Day</a></li>
+					<li><a href="/2022/12/21/roll-of-the-dice-hungry-heart.html">Hungry Heart</a></li>
+					<li><a href="/2021/10/28/roll-of-the-dice-out-in-the-street.html">Out in the Street</a></li>
+					<li><a href="/2018/02/02/roll-of-the-dice-crush-on-you.html">Crush on You</a></li>
+					<li><a href="/2020/06/14/roll-of-the-dice-you-can-look-but-you-better-not-touch.html">You Can Look (But You Better Not Touch)</a></li>
+					<li><a href="/2022/04/22/roll-of-the-dice-i-wanna-marry-you.html">I Wanna Marry You</a></li>
+					<li><a href="/2021/03/04/roll-of-the-dice-the-river.html">The River</a></li>
+					<li><a href="/2020/12/19/roll-of-the-dice-point-blank.html">Point Blank</a></li>
+					<li><a href="/2020/07/23/roll-of-the-dice-cadillac-ranch.html">Cadillac Ranch</a></li>
+					<li><a href="/2020/09/18/roll-of-the-dice-im-a-rocker.html">I'm a Rocker</a></li>
+					<li><a href="/2018/04/28/roll-of-the-dice-fade-away.html">Fade Away</a></li>
+					<li>Stolen Car</li>
+					<li><a href="/2022/09/10/roll-of-the-dice-ramrod.html">Ramrod</a></li>
+					<li><a href="/2019/09/23/roll-of-the-dice-the-price-you-pay.html">The Price You Pay</a></li>
+					<li><a href="/2018/02/27/roll-of-the-dice-drive-all-night.html">Drive All Night</a></li>
+					<li><a href="/2022/08/28/roll-of-the-dice-wreck-on-the-highway.html">Wreck on the Highway</a></li>
+				</ul>
+				<strong>Outtakes:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2018/06/17/cover-me-roll-of-the-dice-gary-u-s-bonds-dedication.html">Dedication</a></li>
+					<li><a href="/2018/03/29/roll-of-the-dice-baby-come-back.html">Baby Come Back</a></li>
+					<li><a href="/2019/12/10/roll-of-the-dice-baby-dont-go.html">Baby, Don't Go</a></li>
+					<li><a href="/2020/10/07/roll-of-the-dice-break-my-heart-tonight.html">Break My Heart (Tonight)</a></li>
+					<li><a href="/2018/10/06/roll-of-the-dice-chevrolet-deluxe.html">Chevrolet Deluxe</a></li>
+					<li><a href="/2019/11/17/roll-of-the-dice-every-day-and-every-night.html">Every Day and Every Night</a></li>
+					<li><a href="/2019/04/28/roll-of-the-dice-everybodys-looking-for-somebody.html">Everybody's Looking for Somebody</a></li>
+					<li><a href="/2018/11/15/roll-of-the-dice-everybody-wants-my-baby.html">Everybody Wants My Baby</a></li>
+					<li><a href="/2018/03/14/roll-of-the-dice-everyone-loves-you.html">Everyone Loves You</a></li>
+					<li><a href="/2020/04/05/roll-of-the-dice-find-it-where-you-can.html">Find It Where You Can</a></li>
+					<li><a href="/2021/10/12/roll-of-the-dice-held-up-without-a-gun.html">Held Up Without a Gun</a></li>
+					<li><a href="/2020/04/29/roll-of-the-dice-im-gonna-treat-you-right-wild-kisses.html">I'm Gonna Treat You Right (Wild Kisses)</a></li>
+					<li><a href="/2021/09/26/roll-of-the-dice-i-dont-wanna-be.html">I Don't Wanna Be</a></li>
+					<li><a href="/2018/04/13/roll-of-the-dice-i-need-you.html">I Need You</a></li>
+					<li><a href="/2021/03/02/roll-of-the-dice-i-wanna-start-a-new-life.html">I Wanna Start a New Life</a></li>
+					<li><a href="/2019/09/17/roll-of-the-dice-loves-gonna-be-tonight.html">Love's Gonna Be Tonight</a></li>
+					<li><a href="/2021/09/20/roll-of-the-dice-love-and-kisses.html">Love and Kisses</a></li>
+					<li><a href="/2021/12/10/roll-of-the-dice-love-is-a-gun.html">Love is a Gun</a></li>
+					<li><a href="/2019/05/12/roll-of-the-dice-love-will-get-you-down.html">Love Will Get You Down</a></li>
+					<li><a href="/2021/02/16/roll-of-the-dice-oh-angelyne.html">Oh Angelyne</a></li>
+					<li><a href="/2021/05/20/roll-of-the-dice-out-on-the-run.html">Out on the Run</a></li>
+					<li><a href="/2020/01/16/roll-of-the-dice-slow-fade.html">Slow Fade</a></li>
+					<li><a href="/2019/01/10/roll-of-the-dice-stockton-boys.html">Stockton Boys</a></li>
+					<li><a href="/2020/02/27/roll-of-the-dice-stockton-girls.html">Stockton Girls</a></li>
+					<li><a href="/2019/05/16/roll-of-the-dice-the-informer.html">The Informer</a></li>
+					<li><a href="/2018/10/13/roll-of-the-dice-the-time-in-between.html">The Time In Between</a></li>
+					<li><a href="/2020/12/17/roll-of-the-dice-under-the-gun.html">Under the Gun</a></li>
+					<li><a href="/2020/11/12/roll-of-the-dice-walking-on-the-avenue.html">Walking on the Avenue</a></li>
+					<li><a href="/2018/02/23/roll-of-the-dice-you-gotta-be-kind.html">You Gotta Be Kind</a></li>
+					<li><a href="/2019/09/25/roll-of-the-dice-you-gotta-fight-for-what-you-want.html">You Gotta Fight (For What You Want)</a></li>
+					<li><a href="/2018/07/27/cover-me-gary-u-s-bonds-your-love.html">Your Love</a></li>
+					<li><a href="/2018/09/06/rotd-matr-cover-me-gary-u-s-bonds-bruce-springsteen-the-e-street-band-this-little-girl.html">This Little Girl</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_6">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/nebraska.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					Nebraska:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2018/04/16/roll-of-the-dice-nebraska.html">Nebraska</a></li>
+					<li><a href="/2018/06/04/roll-of-the-dice-atlantic-city.html">Atlantic City</a></li>
+					<li><a href="/2022/03/06/roll-of-the-dice-mansion-on-the-hill.html">Mansion on the Hill</a></li>
+					<li><a href="/2020/07/20/roll-of-the-dice-johnny-99.html">Johnny 99</a></li>
+					<li>Highway Patrolman</li>
+					<li><a href="/2019/12/22/roll-of-the-dice-state-trooper.html">State Trooper</a></li>
+					<li><a href="/2019/06/13/roll-of-the-dice-used-cars.html">Used Cars</a></li>
+					<li><a href="/2020/10/28/roll-of-the-dice-open-all-night.html">Open All Night</a></li>
+					<li><a href="/2021/08/13/roll-of-the-dice-my-fathers-house.html">My Father's House</a></li>
+					<li><a href="/2021/02/27/roll-of-the-dice-reason-to-believe.html">Reason to Believe</a></li>
+				</ul>
+				<strong>Outtakes:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2019/05/04/roll-of-the-dice-baby-im-so-cold.html">Baby, I'm So Cold</a></li>
+					<li><a href="/2021/02/02/roll-of-the-dice-bells-of-san-salvador.html">Bells of San Salvador</a></li>
+					<li><a href="/2020/05/01/roll-of-the-dice-danger-zone.html">Danger Zone</a></li>
+					<li><a href="/2022/10/09/roll-of-the-dice-fade-to-black.html">Fade to Black</a></li>
+					<li><a href="/2018/10/30/roll-of-the-dice-i-dont-know.html">I Don't Know</a></li>
+					<li><a href="/2022/08/18/roll-of-the-dice-long-way-home.html">Long Way Home</a></li>
+					<li><a href="/2021/01/15/roll-of-the-dice-losin-kind.html">Losin' Kind</a></li>
+					<li><a href="/2021/02/10/roll-of-the-dice-love-is-a-dangerous-thing.html">Love Is a Dangerous Thing</a></li>
+					<li><a href="/2020/01/01/roll-of-the-dice-my-heart-is-an-open-book.html">My Heart is an Open Book</a></li>
+					<li><a href="/2019/07/12/roll-of-the-dice-riding-horse.html">Riding Horse</a></li>
+					<li><a href="/2019/07/14/roll-of-the-dice-robert-ford.html">Robert Ford</a></li>
+					<li><a href="/2021/02/23/roll-of-the-dice-ruled-by-the-gun.html">Ruled by the Gun</a></li>
+					<li><a href="/2020/07/08/roll-of-the-dice-summer-night.html">Summer Night</a></li>
+					<li><a href="/2018/11/11/roll-of-the-dice-the-big-payback.html">The Big Payback</a></li>
+					<li><a href="/2018/05/19/roll-of-the-dice-true-love-is-hard-to-come-by.html">True Love Is Hard to Come By</a></li>
+					<li><a href="/2020/11/01/roll-of-the-dice-wheels-make-the-world-go-round.html">Wheels Make the World Go Round</a></li>
+					<li><a href="/2019/07/30/roll-of-the-dice-your-love-is-all-around-me.html">Your Love is All Around Me</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_7">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/bitusa.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					Born In The U.S.A.:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/1984/01/03/roll-of-the-dice-born-in-the-u-s-a.html">Born in the U.S.A.</a></li>
+					<li><a href="/1984/01/04/roll-of-the-dice-cover-me.html">Cover Me</a></li>
+					<li><a href="/1984/01/05/roll-of-the-dice-darlington-county.html">Darlington County</a></li>
+					<li><a href="/1984/01/06/roll-of-the-dice-working-on-the-highway.html">Working on the Highway</a></li>
+					<li><a href="/1984/01/07/roll-of-the-dice-downbound-train.html">Downbound Train</a></li>
+					<li><a href="/1984/01/08/roll-of-the-dice-im-on-fire.html">I'm on Fire</a></li>
+					<li><a href="/1984/01/09/roll-of-the-dice-no-surrender.html">No Surrender</a></li>
+					<li><a href="/1984/01/10/roll-of-the-dice-bobby-jean.html">Bobby Jean</a></li>
+					<li><a href="/1984/01/11/roll-of-the-dice-im-goin-down.html">I'm Goin' Down</a></li>
+					<li><a href="/1984/01/12/roll-of-the-dice-glory-days.html">Glory Days</a></li>
+					<li><a href="/1984/01/13/roll-of-the-dice-dancing-in-the-dark.html">Dancing in the Dark</a></li>
+					<li><a href="/1983/01/12/roll-of-the-dice-my-hometown.html">My Hometown</a></li>
+				</ul>
+				<strong>Outtakes:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/1983/01/11/roll-of-the-dice-county-fair.html">County Fair</a></li>
+					<li><a href="/1984/01/16/roll-of-the-dice-drop-on-down-and-cover-me.html">Drop on Down and Cover Me</a></li>
+					<li><a href="/2018/09/24/roll-of-the-dice-none-but-the-brave.html">None But the Brave</a></li>
+					<li><a href="/2020/06/04/roll-of-the-dice-protection.html">Protection</a></li>
+					<li><a href="/1984/01/18/stop-the-war.html">Stop The War</a></li>
+					<li><a href="/1984/01/02/roll-of-the-dice-vietnam.html">Vietnam</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_8">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/7585.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					Live 75/85:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2020/12/12/roll-of-the-dice-paradise-by-the-c.html">Paradise by the "C"</a></li>
+					<li><a href="/1976/01/13/cover-me-raise-your-hand.html">Raise Your Hand</a></li>
+					<li><a href="/2023/07/04/cover-me-this-land-is-your-land.html">This Land Is Your Land</a></li>
+					<li><a href="/2020/10/10/roll-of-the-dice-seeds.html">Seeds</a></li>
+					<li><a href="/2016/01/02/cover-me-war.html">War</a></li>
+					<li><a href="/1976/02/07/cover-me-roll-of-the-dice-jersey-girl.html">Jersey Girl</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_9">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<a href="/1987/01/01/album-companion-tunnel-of-love.html"><img class="img-fluid" loading="lazy" height="auto" width="auto" src="/img/albums/tunnel.jpg" alt=""></a>
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					<a class="text-reset" href="/1987/01/01/album-companion-tunnel-of-love.html">Tunnel Of Love:</a>
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/1987/01/01/roll-of-the-dice-aint-got-you.html">Ain't Got You</a></li>
+					<li><a href="/1987/01/02/roll-of-the-dice-tougher-than-the-rest.html">Tougher Than the Rest</a></li>
+					<li><a href="/1987/01/03/roll-of-the-dice-all-that-heaven-will-allow.html">All That Heaven Will Allow</a></li>
+					<li><a href="/1987/01/04/roll-of-the-dice-spare-parts.html">Spare Parts</a></li>
+					<li><a href="/1987/01/05/roll-of-the-dice-cautious-man.html">Cautious Man</a></li>
+					<li><a href="/1987/01/06/roll-of-the-dice-walk-like-a-man.html">Walk Like a Man</a></li>
+					<li><a href="/1987/01/07/roll-of-the-dice-tunnel-of-love.html">Tunnel of Love</a></li>
+					<li><a href="/1987/01/08/roll-of-the-dice-two-faces.html">Two Faces</a></li>
+					<li><a href="/1987/01/09/roll-of-the-dice-brilliant-disguise.html">Brilliant Disguise</a></li>
+					<li><a href="/1987/01/10/roll-of-the-dice-one-step-up.html">One Step Up</a></li>
+					<li><a href="/1987/01/11/roll-of-the-dice-when-youre-alone.html">When You're Alone</a></li>
+					<li><a href="/1987/01/12/roll-of-the-dice-valentines-day.html">Valentine's Day</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_10">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/human-touch.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					Human Touch:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2019/08/09/roll-of-the-dice-human-touch.html">Human Touch</a></li>
+					<li><a href="/2023/01/22/roll-of-the-dice-soul-driver.html">Soul Driver</a></li>
+					<li><a href="/2020/05/17/roll-of-the-dice-57-channels-and-nothin-on.html">57 Channels (and Nothin' On)</a></li>
+					<li><a href="/2020/12/29/roll-of-the-dice-cross-my-heart.html">Cross My Heart</a></li>
+					<li>Gloria's Eyes</li>
+					<li><a href="/2018/01/18/roll-of-the-dice-with-every-wish.html">With Every Wish</a></li>
+					<li><a href="/2020/01/18/roll-of-the-dice-roll-of-the-dice.html">Roll of the Dice</a></li>
+					<li><a href="/2022/07/25/roll-of-the-dice-real-world.html">Real World</a></li>
+					<li><a href="/2018/01/30/roll-of-the-dice-all-or-nothing-at-all.html">All or Nothin' At All</a></li>
+					<li><a href="/2022/05/30/roll-of-the-dice-mans-job.html">Man's Job</a></li>
+					<li><a href="/2021/10/17/roll-of-the-dice-i-wish-i-were-blind.html">I Wish I Were Blind</a></li>
+					<li><a href="/2021/12/05/roll-of-the-dice-the-long-goodbye.html">The Long Goodbye</a></li>
+					<li><a href="/2020/04/15/roll-of-the-dice-real-man.html">Real Man</a></li>
+					<li><a href="/2019/03/01/roll-of-the-dice-cover-me-pony-boy.html">Pony Boy</a></li>
+				</ul>
+				<strong>Other:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2022/07/07/roll-of-the-dice-im-gonna-rock-the-pee-pee-song.html">I'm Gonna Rock (The Pee Pee Song)</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_11">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/lucky-town.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					Lucky Town:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/1992/02/02/roll-of-the-dice-better-days.html">Better Days</a></li>
+					<li><a href="/1992/02/03/roll-of-the-dice-lucky-town.html">Lucky Town</a></li>
+					<li><a href="/1992/02/04/roll-of-the-dice-local-hero.html">Local Hero</a></li>
+					<li><a href="/1992/02/05/roll-of-the-dice-if-i-should-fall-behind.html">If I Should Fall Behind</a></li>
+					<li><a href="/1992/02/06/leap-of-faith.html">Leap of Faith</a></li>
+					<li><a href="/1992/02/07/roll-of-the-dice-the-big-muddy.html">The Big Muddy</a></li>
+					<li><a href="/1992/02/08/roll-of-the-dice-living-proof.html">Living Proof</a></li>
+					<li><a href="/1992/02/09/roll-of-the-dice-book-of-dreams.html">Book of Dreams</a></li>
+					<li><a href="/1992/02/10/roll-of-the-dice-souls-of-the-departed.html">Souls of the Departed</a></li>
+					<li><a href="/1992/02/11/roll-of-the-dice-my-beautiful-reward.html">My Beautiful Reward</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_12">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/xxplugged.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					MTV XXPlugged:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2021/09/15/roll-of-the-dice-red-headed-woman.html">Red Headed Woman</a></li>
+					<li><a href="/2018/12/06/roll-of-the-dice-light-of-day.html">Light of Day</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_13">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/greatest-hits.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					Greatest Hits:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2021/06/30/roll-of-the-dice-streets-of-philadelphia.html">Streets of Philadelphia</a></li>
+					<li><a href="/2019/05/30/roll-of-the-dice-secret-garden.html">Secret Garden</a></li>
+					<li><a href="/1984/01/15/roll-of-the-dice-murder-incorporated.html">Murder Incorporated</a></li>
+					<li><a href="/2019/12/06/roll-of-the-dice-blood-brothers.html">Blood Brothers</a></li>
+					<li>This Hard Land</li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_14">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<a href="/2023/06/03/album-companion-the-ghost-of-tom-joad"><img class="img-fluid" loading="lazy" height="auto" width="auto" src="/img/albums/joad.jpg" alt=""></a>
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					<a class="text-reset" href="/2023/06/03/album-companion-the-ghost-of-tom-joad">The Ghost Of Tom Joad:</a>
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2019/10/17/roll-of-the-dice-the-ghost-of-tom-joad.html">The Ghost of Tom Joad</a></li>
+					<li><a href="/2022/12/05/roll-of-the-dice-straight-time.html">Straight Time</a></li>
+					<li><a href="/2018/03/23/roll-of-the-dice-highway-29.html">Highway 29</a></li>
+					<li><a href="/2023/05/01/roll-of-the-dice-youngstown.html">Youngstown</a></li>
+					<li><a href="/2022/01/04/roll-of-the-dice-sinaloa-cowboys.html">Sinaloa Cowboys</a></li>
+					<li><a href="/2018/08/08/roll-of-the-dice-the-line.html">The Line</a></li>
+					<li><a href="/2020/03/16/roll-of-the-dice-balboa-park.html">Balboa Park</a></li>
+					<li><a href="/2020/10/16/roll-of-the-dice-dry-lightning.html">Dry Lightning</a></li>
+					<li><a href="/2018/07/13/roll-of-the-dice-the-new-timer.html">The New Timer</a></li>
+					<li><a href="/2020/09/06/roll-of-the-dice-across-the-border.html">Across the Border</a></li>
+					<li><a href="/2020/06/22/roll-of-the-dice-galveston-bay.html">Galveston Bay</a></li>
+					<li><a href="/2021/08/22/roll-of-the-dice-my-best-was-never-good-enough.html">My Best Was Never Good Enough</a></li>
+				</ul>
+				<strong>Other:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2002/01/12/roll-of-the-dice-pilgrim-in-the-temple-of-love.html">Pilgrim in the Temple of Love</a></li>
+					<li><a href="/2018/12/03/roll-of-the-dice-freehold.html">Freehold</a></li>
+					<li><a href="/2019/12/16/roll-of-the-dice-in-kansas.html">In Kansas</a></li>
+					<li><a href="/2022/04/12/roll-of-the-dice-in-michigan.html">In Michigan</a></li>
+					<li><a href="/2019/02/09/roll-of-the-dice-sell-it-and-they-will-come.html">Sell It and They Will Come</a></li>
+					<li><a href="/2019/08/23/roll-of-the-dice-there-will-never-be-any-other-for-me-but-you.html">There Will Never Be Any Other For Me But You</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_15">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/blood-brothers.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					Blood Brothers:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2019/12/06/roll-of-the-dice-blood-brothers.html">Blood Brothers (alternate rock version)</a></li>
+					<li><a href="/2021/08/25/cover-me-high-hopes.html">High Hopes</a></li>
+					<li><a href="/1984/01/15/roll-of-the-dice-murder-incorporated.html">Murder Incorporated (Live)</a></li>
+					<li><a href="/2019/05/30/roll-of-the-dice-secret-garden.html">Secret Garden (string version)</a></li>
+					<li><a href="/2022/02/03/roll-of-the-dice-without-you.html">Without You</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_16">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/tracks.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					Tracks:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2021/05/18/roll-of-the-dice-bishop-danced.html">Bishop Danced</a></li>
+					<li><a href="/2018/03/06/roll-of-the-dice-santa-ana.html">Santa Ana</a></li>
+					<li><a href="/2022/10/24/roll-of-the-dice-seaside-bar-song.html">Seaside Bar Song</a></li>
+					<li>Zero and Blind Terry</li>
+					<li><a href="/2021/03/27/roll-of-the-dice-linda-let-me-be-the-one.html">Linda Let Me Be the One</a></li>
+					<li><a href="/2021/09/24/roll-of-the-dice-thundercrack.html">Thundercrack</a></li>
+					<li><a href="/2021/05/08/roll-of-the-dice-rendezvous.html">Rendezvous</a></li>
+					<li><a href="/2020/06/17/roll-of-the-dice-give-the-girl-a-kiss.html">Give the Girl a Kiss</a></li>
+					<li><a href="/2022/02/01/roll-of-the-dice-iceman.html">Iceman</a></li>
+					<li><a href="/2018/05/23/roll-of-the-dice-bring-on-the-night.html">Bring on the Night</a></li>
+					<li>So Young and in Love</li>
+					<li><a href="/2022/09/07/roll-of-the-dice-hearts-of-stone.html">Hearts of Stone</a></li>
+					<li><a href="/2020/05/03/roll-of-the-dice-dont-look-back.html">Don't Look Back</a></li>
+					<li>Restless Nights</li>
+					<li><a href="/2021/04/30/roll-of-the-dice-a-good-man-is-hard-to-find-pittsburgh.html">A Good Man Is Hard to Find (Pittsburgh)</a></li>
+					<li><a href="/2022/04/16/roll-of-the-dice-roulette.html">Roulette</a></li>
+					<li><a href="/2020/08/15/roll-of-the-dice-dollhouse.html">Dollhouse</a></li>
+					<li><a href="/2018/11/08/roll-of-the-dice-where-the-bands-are.html">Where the Bands Are</a></li>
+					<li><a href="/2022/06/23/roll-of-the-dice-loose-end.html">Loose Ends</a></li>
+					<li><a href="/2018/10/18/roll-of-the-dice-living-on-the-edge-of-the-world.html">Living on the Edge of the World</a></li>
+					<li><a href="/2020/02/07/roll-of-the-dice-wages-of-sin.html">Wages of Sin</a></li>
+					<li><a href="/2019/03/29/roll-of-the-dice-take-em-as-they-come.html">Take 'Em as They Come</a></li>
+					<li><a href="/2020/12/02/roll-of-the-dice-be-true.html">Be True</a></li>
+					<li><a href="/2018/11/23/roll-of-the-dice-ricky-wants-a-man-of-her-own.html">Ricky Wants a Man of Her Own</a></li>
+					<li><a href="/2018/01/14/roll-of-the-dice-i-wanna-be-with-you.html">I Wanna Be With You</a></li>
+					<li><a href="/2019/04/03/roll-of-the-dice-mary-lou.html">Mary Lou</a></li>
+					<li>Stolen Car (alternate)</li>
+					<li><a href="/1984/01/03/roll-of-the-dice-born-in-the-u-s-a.html">Born in the U.S.A. (demo)</a></li>
+					<li><a href="/1983/01/05/roll-of-the-dice-johnny-bye-bye.html">Johnny Bye-Bye</a></li>
+					<li><a href="/1983/01/18/roll-of-the-dice-shut-out-the-light.html">Shut Out the Light</a></li>
+					<li><a href="/2019/09/06/roll-of-the-dice-cynthia.html">Cynthia</a></li>
+					<li><a href="/2018/01/24/roll-of-the-dice-my-love-will-not-let-you-down.html">My Love Will Not Let You Down</a></li>
+					<li>This Hard Land</li>
+					<li><a href="/2019/03/31/roll-of-the-dice-frankie.html">Frankie</a></li>
+					<li><a href="/2020/05/11/roll-of-the-dice-tv-movie.html">TV Movie</a></li>
+					<li><a href="/2021/10/08/roll-of-the-dice-stand-on-it.html">Stand On It</a></li>
+					<li><a href="/2019/06/21/roll-of-the-dice-lions-den.html">Lion's Den</a></li>
+					<li><a href="/2020/01/04/roll-of-the-dice-car-wash.html">Car Wash</a></li>
+					<li><a href="/2021/03/15/roll-of-the-dice-rockaway-the-days.html">Rockaway the Days</a></li>
+					<li><a href="/2019/10/21/roll-of-the-dice-brothers-under-the-bridges-83.html">Brothers Under the Bridges '83</a></li>
+					<li><a href="/2019/05/10/roll-of-the-dice-man-at-the-top.html">Man at the Top</a></li>
+					<li><a href="/2019/08/21/roll-of-the-dice-pink-cadillac.html">Pink Cadillac</a></li>
+					<li><a href="/2020/06/30/roll-of-the-dice-two-for-the-road.html">Two for the Road</a></li>
+					<li><a href="/2019/04/06/roll-of-the-dice-janey-dont-you-lose-heart.html">Janey, Don't You Lose Heart</a></li>
+					<li><a href="/2020/01/30/roll-of-the-dice-when-you-need-me.html">When You Need Me</a></li>
+					<li><a href="/2018/06/23/roll-of-the-dice-the-wish.html">The Wish</a></li>
+					<li><a href="/2018/04/04/roll-of-the-dice-the-honeymooners.html">The Honeymooners</a></li>
+					<li><a href="/2020/02/25/roll-of-the-dice-lucky-man.html">Lucky Man</a></li>
+					<li><a href="/2021/04/15/roll-of-the-dice-leavin-train.html">Leavin' Train</a></li>
+					<li><a href="/2018/06/07/roll-of-the-dice-seven-angels.html">Seven Angels</a></li>
+					<li><a href="/2019/05/06/roll-of-the-dice-gave-it-a-name.html">Gave It a Name</a></li>
+					<li><a href="/2019/10/08/roll-of-the-dice-sad-eyes.html">Sad Eyes</a></li>
+					<li><a href="/2018/10/24/roll-of-the-dice-my-lover-man.html">My Lover Man</a></li>
+					<li><a href="/2020/07/12/roll-of-the-dice-over-the-rise.html">Over the Rise</a></li>
+					<li><a href="/2021/01/23/roll-of-the-dice-when-the-lights-go-out.html">When the Lights Go Out</a></li>
+					<li><a href="/2019/11/24/roll-of-the-dice-loose-change.html">Loose Change</a></li>
+					<li><a href="/2021/11/30/roll-of-the-dice-trouble-in-paradise.html">Trouble in Paradise</a></li>
+					<li><a href="/2019/07/28/roll-of-the-dice-happy.html">Happy</a></li>
+					<li><a href="/2022/02/19/roll-of-the-dice-part-man-part-monkey.html">Part Man, Part Monkey</a></li>
+					<li><a href="/2019/01/01/roll-of-the-dice-goin-cali.html">Goin' Cali</a></li>
+					<li><a href="/2019/11/10/roll-of-the-dice-back-in-your-arms.html">Back in Your Arms</a></li>
+					<li><a href="/2022/01/10/roll-of-the-dice-brothers-under-the-bridge-95.html">Brothers Under the Bridge '95</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_17">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/18-tracks.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					18 Tracks:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2019/03/05/roll-of-the-dice-trouble-river.html">Trouble River</a></li>
+					<li><a href="/2020/10/04/roll-of-the-dice-the-fever.html">The Fever</a></li>
+					<li>The Promise</li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_18">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/rising.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					The Rising:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2020/04/11/roll-of-the-dice-lonesome-day.html">Lonesome Day</a></li>
+					<li>Into the Fire</li>
+					<li><a href="/2019/09/27/roll-of-the-dice-waitin-on-a-sunny-day.html">Waitin' on a Sunny Day</a></li>
+					<li><a href="/2020/08/29/roll-of-the-dice-nothing-man.html">Nothing Man</a></li>
+					<li><a href="/2019/02/05/roll-of-the-dice-countin-on-a-miracle.html">Countin' on a Miracle</a></li>
+					<li><a href="/2022/09/12/roll-of-the-dice-empty-sky.html">Empty Sky</a></li>
+					<li>Worlds Apart</li>
+					<li><a href="/2018/03/02/roll-of-the-dice-lets-be-friends-skin-to-skin.html">Let's Be Friends (Skin to Skin)</a></li>
+					<li><a href="/2022/01/01/roll-of-the-dice-further-on-up-the-road.html">Further On (Up the Road)</a></li>
+					<li><a href="/2020/07/04/roll-of-the-dice-the-fuse.html">The Fuse</a></li>
+					<li><a href="/2022/03/25/roll-of-the-dice-marys-place.html">Mary's Place</a></li>
+					<li><a href="/2020/02/11/roll-of-the-dice-youre-missing.html">You're Missing</a></li>
+					<li><a href="/2016/01/18/roll-of-the-dice-the-rising.html">The Rising</a></li>
+					<li><a href="/2018/01/07/roll-of-the-dice-paradise.html">Paradise</a></li>
+					<li><a href="/2016/01/16/my-city-of-ruins.html">My City of Ruins</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_19">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/essential.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					The Essential:
+				</strong>
+				<ul class="list-unstyled">
+					<li>From Small Things (Big Things One Day Come)</li>
+					<li><a href="/2018/11/11/roll-of-the-dice-the-big-payback.html">The Big Payback</a></li>
+					<li><a href="/2021/10/12/roll-of-the-dice-held-up-without-a-gun.html">Held Up Without a Gun</a></li>
+					<li><a href="/2018/08/05/roll-of-the-dice-cover-me-trapped.html">Trapped</a></li>
+					<li><a href="/2018/09/24/roll-of-the-dice-none-but-the-brave.html">None But the Brave</a></li>
+					<li><a href="/2021/01/10/roll-of-the-dice-missing.html">Missing</a></li>
+					<li><a href="/2018/05/20/roll-of-the-dice-lift-me-up.html">Lift Me Up</a></li>
+					<li><a href="/2018/12/07/cover-me-viva-las-vegas.html">Viva Las Vegas</a></li>
+					<li><a href="/1983/01/11/roll-of-the-dice-county-fair.html">County Fair</a></li>
+					<li><a href="/2018/08/27/codeofsilence.html">Code of Silence</a></li>
+					<li><a href="/2018/07/24/roll-of-the-dice-dead-man-walkin.html">Dead Man Walkin'</a></li>
+					<li><a href="/2019/02/05/roll-of-the-dice-countin-on-a-miracle.html">Countin' on a Miracle (acoustic)</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_20">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/devils.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					Devils &amp; Dust:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2022/03/02/roll-of-the-dice-devils-dust.html">Devils &amp; Dust</a></li>
+					<li><a href="/2019/09/08/roll-of-the-dice-all-the-way-home.html">All the Way Home</a></li>
+					<li><a href="/2020/05/21/roll-of-the-dice-reno.html">Reno</a></li>
+					<li><a href="/2022/06/19/roll-of-the-dice-long-time-comin.html">Long Time Comin'</a></li>
+					<li><a href="/2021/09/03/roll-of-the-dice-black-cowboys.html">Black Cowboys</a></li>
+					<li><a href="/2018/11/16/roll-of-the-dice-marias-bed.html">Maria's Bed</a></li>
+					<li><a href="/2021/11/13/roll-of-the-dice-silver-palomino.html">Silver Palamino</a></li>
+					<li><a href="/2018/04/25/roll-of-the-dice-jesus-was-an-only-son.html">Jesus Was an Only Son</a></li>
+					<li><a href="/2019/12/12/roll-of-the-dice-leah.html">Leah</a></li>
+					<li>The Hitter</li>
+					<li><a href="/2020/11/05/roll-of-the-dice-all-im-thinkin-about.html">All I'm Thinkin' About</a></li>
+					<li><a href="/2019/10/27/roll-of-the-dice-matamoros-banks.html">Matamoras Banks</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_21">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<a href="/2006/01/01/album-companion-we-shall-overcome"><img class="img-fluid" loading="lazy" height="auto" width="auto" src="/img/albums/sessions.jpg" alt=""></a>
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					<a class="text-reset" href="/2006/01/01/album-companion-we-shall-overcome">We Shall Overcome:</a>
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2006/01/02/cover-me-old-dan-tucker.html">Old Dan Tucker</a></li>
+					<li><a href="/2006/01/03/roll-of-the-dice-cover-me-jesse-james.html">Jesse James</a></li>
+					<li><a href="/2006/01/04/cover-me-rotd-mrs-mcgrath.html">Mrs. McGrath</a></li>
+					<li><a href="/2006/01/05/cover-me-o-mary-dont-you-weep.html">O Mary Don't You Weep</a></li>
+					<li><a href="/2006/01/06/cover-me-rotd-john-henry.html">John Henry</a></li>
+					<li><a href="/2006/01/07/cover-me-erie-canal.html">Erie Canal</a></li>
+					<li><a href="/2006/01/08/rotd-cover-me-jacobs-ladder.html">Jacob's Ladder</a></li>
+					<li><a href="/2006/01/09/cover-me-my-oklahoma-home.html">My Oklahoma Home</a></li>
+					<li><a href="/2006/01/10/cover-me-eyes-on-the-prize.html">Eyes on the Prize</a></li>
+					<li><a href="/2006/01/11/cover-me-shenandoah.html">Shenandoah</a></li>
+					<li><a href="/2006/01/12/roll-of-the-dice-cover-me-pay-me-my-money-down.html">Pay Me My Money Down</a></li>
+					<li><a href="/2006/01/13/roll-of-the-dice-cover-me-we-shall-overcome.html">We Shall Overcome</a></li>
+					<li><a href="/2006/01/14/roll-of-the-dice-cover-me-froggie-went-a-courtin.html">Froggie Went A-Courtin'</a></li>
+					<li><a href="/2006/01/15/cover-me-roll-of-the-dice-buffalo-gals.html">Buffalo Gals</a></li>
+					<li><a href="/2006/01/16/cover-me-how-can-i-keep-from-singing.html">How Can I Keep From Singing</a></li>
+					<li><a href="/2006/01/17/rotd-cover-me-how-can-a-poor-man-stand-such-times-and-live.html">How Can a Poor Man Stand Such Times and Live</a></li>
+					<li><a href="/2006/01/18/rotd-cover-me-bring-em-home.html">Bring 'Em Home</a></li>
+					<li><a href="/2016/01/22/roll-of-the-dice-american-land.html">American Land</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_22">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/magic.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					Magic:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2021/08/01/roll-of-the-dice-radio-nowhere.html">Radio Nowhere</a></li>
+					<li><a href="/2018/09/03/roll-of-the-dice-youll-be-comin-down.html">You'll Be Comin' Down</a></li>
+					<li><a href="/2023/06/24/roll-of-the-dice-livin-in-the-future.html">Livin' in the Future</a></li>
+					<li><a href="/2020/05/31/roll-of-the-dice-your-own-worst-enemy.html">Your Own Worst Enemy</a></li>
+					<li><a href="/2019/05/02/roll-of-the-dice-gypsy-biker.html">Gypsy Biker</a></li>
+					<li><a href="/2019/02/17/roll-of-the-dice-girls-in-their-summer-clothes.html">Girls in Their Summer Clothes</a></li>
+					<li><a href="/2018/02/14/roll-of-the-dice-ill-work-for-your-love.html">I'll Work For Your Love</a></li>
+					<li><a href="/2020/09/13/roll-of-the-dice-magic.html">Magic</a></li>
+					<li>Last to Die</li>
+					<li><a href="/2020/03/21/roll-of-the-dice-long-walk-home.html">Long Walk Home</a></li>
+					<li><a href="/2021/05/16/roll-of-the-dice-devils-arcade.html">Devil's Arcade</a></li>
+					<li><a href="/2018/07/30/roll-of-the-dice-terrys-song.html">Terry's Song</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_23">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/dream.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					Working On A Dream:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2021/12/29/roll-of-the-dice-outlaw-pete.html">Outlaw Pete</a></li>
+					<li><a href="/2019/09/02/roll-of-the-dice-my-lucky-day.html">My Lucky Day</a></li>
+					<li><a href="/2019/07/04/roll-of-the-dice-working-on-a-dream.html">Working on a Dream</a></li>
+					<li><a href="/2018/10/04/roll-of-the-dice-queen-of-the-supermarket.html">Queen of the Supermarket</a></li>
+					<li><a href="/2018/11/25/roll-of-the-dice-what-love-can-do.html">What Love Can Do</a></li>
+					<li>This Life</li>
+					<li><a href="/2022/02/15/roll-of-the-dice-good-eye.html">Good Eye</a></li>
+					<li><a href="/2019/10/11/roll-of-the-dice-tomorrow-never-knows.html">Tomorrow Never Knows</a></li>
+					<li><a href="/2018/03/26/roll-of-the-dice-life-itself.html">Life Itself</a></li>
+					<li><a href="/2022/04/04/roll-of-the-dice-kingdom-of-days.html">Kingdom of Days</a></li>
+					<li><a href="/2021/05/04/roll-of-the-dice-surprise-surprise.html">Surprise, Surprise</a></li>
+					<li>The Last Carnival</li>
+					<li><a href="/2020/10/31/roll-of-the-dice-the-wrestler.html">The Wrestler</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_24">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/the-promise.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					The Promise:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2021/10/03/roll-of-the-dice-racing-in-the-street.html">Racing in the Street ('78)</a></li>
+					<li><a href="/2021/02/08/roll-of-the-dice-gotta-get-that-feeling.html">Gotta Get That Feeling</a></li>
+					<li><a href="/2021/02/19/roll-of-the-dice-outside-looking-in.html">Outside Looking In</a></li>
+					<li><a href="/2019/10/03/roll-of-the-dice-someday-well-be-together.html">Someday (We'll Be Together)</a></li>
+					<li><a href="/2019/01/14/roll-of-the-dice-one-way-street.html">One Way Street</a></li>
+					<li>Because the Night</li>
+					<li><a href="/2019/11/06/roll-of-the-dice-wrong-side-of-the-street.html">Wrong Side of the Street</a></li>
+					<li><a href="/2018/08/20/roll-of-the-dice-the-brokenhearted.html">The Brokenhearted</a></li>
+					<li><a href="/2021/05/08/roll-of-the-dice-rendezvous.html">Rendezvous</a></li>
+					<li><a href="/2020/09/02/roll-of-the-dice-candys-boy.html">Candy's Boy</a></li>
+					<li><a href="/2019/07/16/roll-of-the-dice-save-my-love.html">Save My Love</a></li>
+					<li><a href="/2019/06/02/roll-of-the-dice-aint-good-enough-for-you.html">Ain't Good Enough for You</a></li>
+					<li><a href="/2020/08/05/roll-of-the-dice-fire.html">Fire</a></li>
+					<li><a href="/2023/01/14/roll-of-the-dice-spanish-eyes.html">Spanish Eyes</a></li>
+					<li><a href="/2022/10/15/roll-of-the-dice-its-a-shame.html">It's a Shame</a></li>
+					<li><a href="/2020/12/05/roll-of-the-dice-come-on-lets-go-tonight.html">Come On (Let's Go Tonight)</a></li>
+					<li><a href="/2019/02/26/roll-of-the-dice-talk-to-me.html">Talk to Me</a></li>
+					<li><a href="/2022/03/04/roll-of-the-dice-the-little-things-my-baby-does.html">The Little Things (My Baby Does)</a></li>
+					<li><a href="/2020/04/23/roll-of-the-dice-breakaway.html">Breakaway</a></li>
+					<li>The Promise</li>
+					<li><a href="/2020/06/28/roll-of-the-dice-city-of-night.html">City of Night</a></li>
+					<li><a href="/2021/08/06/roll-of-the-dice-the-way.html">The Way</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_25">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<a href="/2023/03/28/album-companion-wrecking-ball"><img class="img-fluid" loading="lazy" height="auto" width="auto" src="/img/albums/wrecking-ball.jpg" alt=""></a>
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					<a class="text-reset" href="/2023/03/28/album-companion-wrecking-ball">Wrecking Ball:</a>
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2020/12/25/roll-of-the-dice-we-take-care-of-our-own.html">We Take Care of Our Own</a></li>
+					<li><a href="/2021/06/10/roll-of-the-dice-easy-money.html">Easy Money</a></li>
+					<li><a href="/2020/07/16/roll-of-the-dice-shackled-and-drawn.html">Shackled and Drawn</a></li>
+					<li><a href="/2020/11/27/roll-of-the-dice-jack-of-all-trades.html">Jack of All Trades</a></li>
+					<li><a href="/2016/01/04/roll-of-the-dice-death-to-my-hometown.html">Death to My Hometown</a></li>
+					<li><a href="/2020/02/21/roll-of-the-dice-this-depression.html">This Depression</a></li>
+					<li><a href="/2016/01/17/roll-of-the-dice-wrecking-ball.html">Wrecking Ball</a></li>
+					<li><a href="/2020/07/30/roll-of-the-dice-youve-got-it.html">You've Got It</a></li>
+					<li><a href="/2023/03/20/roll-of-the-dice-rocky-ground.html">Rocky Ground</a></li>
+					<li><a href="/2018/01/05/roll-of-the-dice-land-of-hope-and-dreams.html">Land of Hope and Dreams</a></li>
+					<li><a href="/2018/09/15/roll-of-the-dice-we-are-alive.html">We Are Alive</a></li>
+					<li><a href="/2020/05/07/roll-of-the-dice-swallowed-up-in-the-belly-of-the-whale.html">Swallowed Up (In the Belly of the Whale)</a></li>
+					<li><a href="/2016/01/22/roll-of-the-dice-american-land.html">American Land</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_26">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/high-hopes.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					High Hopes:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2021/08/25/cover-me-high-hopes.html">High Hopes</a></li>
+					<li><a href="/2019/09/13/roll-of-the-dice-harrys-place.html">Harry's Place</a></li>
+					<li><a href="/2016/01/13/american-skin-41-shots.html">American Skin (41 Shots)</a></li>
+					<li><a href="/2020/05/24/cover-me-just-like-fire-would.html">Just Like Fire Would</a></li>
+					<li><a href="/2022/07/01/roll-of-the-dice-down-in-the-hole.html">Down in the Hole</a></li>
+					<li><a href="/2020/02/02/roll-of-the-dice-heavens-wall.html">Heaven's Wall</a></li>
+					<li><a href="/2018/02/12/roll-of-the-dice-frankie-fell-in-love.html">Frankie Fell in Love</a></li>
+					<li><a href="/2021/02/04/roll-of-the-dice-this-is-your-sword.html">This is Your Sword</a></li>
+					<li><a href="/2022/01/18/roll-of-the-dice-hunter-of-invisible-game.html">Hunter of Invisible Game</a></li>
+					<li><a href="/2019/10/17/roll-of-the-dice-the-ghost-of-tom-joad.html">The Ghost of Tom Joad</a></li>
+					<li><a href="/2024/09/04/roll-of-the-dice-the-wall.html">The Wall</a></li>
+					<li><a href="/2020/04/02/cover-me-dream-baby-dream.html">Dream Baby Dream</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_27">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<a href="/2022/02/05/album-companion-american-beauty"><img class="img-fluid" loading="lazy" height="auto" width="auto" src="/img/albums/american-beauty.jpg" alt=""></a>
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					<a class="text-reset" href="/2022/02/05/album-companion-american-beauty">American Beauty:</a>
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2019/02/21/roll-of-the-dice-american-beauty.html">American Beauty</a></li>
+					<li><a href="/2018/04/01/roll-of-the-dice-mary-mary.html">Mary Mary</a></li>
+					<li><a href="/2020/04/26/roll-of-the-dice-hurry-up-sundown.html">Hurry Up Sundown</a></li>
+					<li><a href="/2019/06/30/roll-of-the-dice-hey-blue-eyes.html">Hey Blue Eyes</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_28">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/ties-that-bind.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					The Ties That Bind:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2018/08/03/roll-of-the-dice-cindy.html">Cindy</a></li>
+					<li><a href="/2020/08/23/roll-of-the-dice-meet-me-in-the-city.html">Meet Me in the City</a></li>
+					<li><a href="/2020/03/12/roll-of-the-dice-the-man-who-got-away.html">The Man Who Got Away</a></li>
+					<li><a href="/2018/03/20/roll-of-the-dice-little-white-lies.html">Little White Lies</a></li>
+					<li><a href="/2022/08/25/roll-of-the-dice-the-time-that-never-was.html">The Time That Never Was</a></li>
+					<li><a href="/2018/05/10/roll-of-the-dice-night-fire.html">Night Fire</a></li>
+					<li><a href="/2018/04/19/roll-of-the-dice-whitetown.html">Whitetown</a></li>
+					<li><a href="/2020/06/20/roll-of-the-dice-chain-lightning.html">Chain Lightning</a></li>
+					<li><a href="/2019/11/14/roll-of-the-dice-party-lights.html">Party Lights</a></li>
+					<li><a href="/2020/12/12/roll-of-the-dice-paradise-by-the-c.html">Paradise by the "C"</a></li>
+					<li><a href="/2018/01/26/roll-of-the-dice-stray-bullet.html">Stray Bullet</a></li>
+					<li><a href="/2019/06/10/roll-of-the-dice-mr-outside.html">Mr. Outside</a></li>
+					<li><a href="/2021/10/12/roll-of-the-dice-held-up-without-a-gun.html">Held Up Without a Gun</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_29">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/chapter.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					Chapter And Verse:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2018/12/20/roll-of-the-dice-baby-i.html">Baby I</a></li>
+					<li><a href="/2018/12/02/cover-me-you-cant-judge-a-book-by-the-cover.html">You Can’t Judge a Book by the Cover</a></li>
+					<li><a href="/2020/07/10/roll-of-the-dice-hes-guilty-the-judge-song.html">He’s Guilty (The Judge Song)</a></li>
+					<li><a href="/1972/01/13/roll-of-the-dice-the-ballad-of-jesse-james.html">The Ballad of Jesse James</a></li>
+					<li><a href="/2011/01/17/roll-of-the-dice-henry-boy.html">Henry Boy</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_30">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/western-stars.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					Western Stars:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2021/05/22/roll-of-the-dice-hitch-hikin.html">Hitch Hikin'</a></li>
+					<li><a href="/2022/01/29/roll-of-the-dice-the-wayfarer.html">The Wayfarer</a></li>
+					<li><a href="/2020/05/25/roll-of-the-dice-tucson-train.html">Tucson Train</a></li>
+					<li><a href="/2020/03/28/roll-of-the-dice-western-stars.html">Western Stars</a></li>
+					<li>Sleepy Joe's Cafe</li>
+					<li><a href="/2021/01/17/roll-of-the-dice-drive-fast-the-stuntman.html">Drive Fast (The Stuntman)</a></li>
+					<li><a href="/2020/01/26/roll-of-the-dice-chasin-wild-horses.html">Chasin' Wild Horses</a></li>
+					<li>Sundown</li>
+					<li><a href="/2022/06/09/roll-of-the-dice-somewhere-north-of-nashville.html">Somewhere North of Nashville</a></li>
+					<li><a href="/2022/09/24/roll-of-the-dice-stones.html">Stones</a></li>
+					<li><a href="/2021/04/10/roll-of-the-dice-there-goes-my-miracle.html">There Goes My Miracle</a></li>
+					<li><a href="/2021/01/01/roll-of-the-dice-hello-sunshine.html">Hello Sunshine</a></li>
+					<li><a href="/2020/09/30/roll-of-the-dice-moonlight-motel.html">Moonlight Motel</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_31">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<a href="/2017/01/01/album-companion-letter-to-you"><img class="img-fluid" loading="lazy" height="auto" width="auto" src="/img/albums/letter-to-you.jpg" alt=""></a>
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					<a class="text-reset" href="/2017/01/01/album-companion-letter-to-you">Letter To You:</a>
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2021/05/30/roll-of-the-dice-one-minute-youre-here.html">One Minute You're Here</a></li>
+					<li><a href="/2017/01/03/roll-of-the-dice-letter-to-you.html">Letter to You</a></li>
+					<li><a href="/2022/01/14/roll-of-the-dice-burnin-train.html">Burnin' Train</a></li>
+					<li><a href="/2020/07/27/roll-of-the-dice-janey-needs-a-shooter.html">Janey Needs a Shooter</a></li>
+					<li><a href="/2022/11/19/roll-of-the-dice-last-man-standing.html">Last Man Standing</a></li>
+					<li><a href="/2021/09/29/roll-of-the-dice-the-power-of-prayer.html">The Power of Prayer</a></li>
+					<li><a href="/2016/01/15/roll-of-the-dice-house-of-a-thousand-guitars.html">House of a Thousand Guitars</a></li>
+					<li><a href="/2021/02/12/roll-of-the-dice-rainmaker.html">Rainmaker</a></li>
+					<li><a href="/2018/12/28/roll-of-the-dice-if-i-was-the-priest.html">If I Was the Priest</a></li>
+					<li><a href="/2017/01/11/roll-of-the-dice-ghosts.html">Ghosts</a></li>
+					<li><a href="/2019/04/10/roll-of-the-dice-song-for-orphans.html">Song for Orphans</a></li>
+					<li><a href="/2021/11/26/roll-of-the-dice-ill-see-you-in-my-dreams.html">I'll See You in My Dreams</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_32">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/strong-survive.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					Only The Strong Survive:
+				</strong>
+				<ul class="list-unstyled">
+					<li>Only the Strong Survive</li>
+					<li><a href="/2023/01/25/cover-me-soul-days.html">Soul Days</a></li>
+					<li>Nightshift</li>
+					<li>Do I Love You (Indeed I Do)</li>
+					<li><a href="/2023/01/10/cover-me-the-sun-aint-gonna-shine-anymore.html">The Sun Ain't Gonna Shine Anymore</a></li>
+					<li><a href="/2024/07/04/cover-me-turn-back-the-hands-of-time.html">Turn Back the Hands of Time</a></li>
+					<li><a href="/2022/11/23/cover-me-when-she-was-my-girl.html">When She Was My Girl</a></li>
+					<li><a href="/2023/07/08/cover-me-hey-western-union-man.html">Hey, Western Union Man</a></li>
+					<li><a href="/2023/10/16/cover-me-i-wish-it-would-rain.html">I Wish It Would Rain</a></li>
+					<li><a href="/2023/02/12/cover-me-dont-play-that-song-you-lied.html">Don't Play That Song</a></li>
+					<li><a href="/2023/12/28/cover-me-any-other-way.html">Any Other Way</a></li>
+					<li><a href="/2022/11/12/cover-me-i-forgot-to-be-your-lover.html">I Forgot to Be Your Lover</a></li>
+					<li>7 Rooms of Gloom</li>
+					<li><a href="/2022/12/09/cover-me-what-becomes-of-the-brokenhearted.html">What Becomes of the Brokenhearted</a></li>
+					<li>Someday We'll Be Together</li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row" id="album_33">
+			<div class="col-12 col-lg-6 mb-3 mb-lg-0">
+				<img class="img-fluid" height="auto" width="auto" loading="lazy" src="/img/albums/garage-83.jpg" alt="">
+			</div>
+			<div class="col-12 col-lg-6">
+				<strong>
+					LA Garage Sessions '83:
+				</strong>
+				<ul class="list-unstyled">
+					<li><a href="/1983/01/02/year-five-complete">Follow That Dream</a></li>
+					<li><a href="/1983/01/03/dont-back-down-on-our-love">Don't Back Down On Our Love</a></li>
+					<li><a href="/1983/01/04/roll-of-the-dice-little-girl-like-you">Little Girl Like You</a></li>
+					<li><a href="/1983/01/05/roll-of-the-dice-johnny-bye-bye">Johnny Bye Bye</a></li>
+					<li><a href="/1983/01/06/sugarland">Sugarland</a></li>
+					<li><a href="/1983/01/07/roll-of-the-dice-seven-tears">Seven Tears</a></li>
+					<li><a href="/1983/01/08/fugitives-dream">Fugitive's Dream</a></li>
+					<li><a href="/1983/01/09/black-mountain-ballad">Black Mountain Ballad</a></li>
+					<li><a href="/1983/01/10/roll-of-the-dice-james-lincoln-deere">Jim Deer</a></li>
+					<li><a href="/1983/01/11/roll-of-the-dice-county-fair">County Fair</a></li>
+					<li><a href="/1983/01/12/roll-of-the-dice-my-hometown">My Hometown</a></li>
+					<li><a href="/1983/01/13/roll-of-the-dice-one-love">One Love</a></li>
+					<li><a href="/1983/01/14/roll-of-the-dice-dont-back-down">Don't Back Down</a></li>
+					<li><a href="/1983/01/15/roll-of-the-dice-richfield-whistle">Richfield Whistle</a></li>
+					<li><a href="/1983/01/16/roll-of-the-dice-the-klansman">The Klansman</a></li>
+					<li><a href="/1983/01/17/roll-of-the-dice-unsatisfied-heart">Unsatisfied Heart</a></li>
+					<li><a href="/1983/01/18/roll-of-the-dice-shut-out-the-light">Shut Out The Light</a></li>
+					<li><a href="/1983/01/19/roll-of-the-dice-fugitives-dream">Fugitive's Dream (Ballad)</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-separator w-80 justify-content-center mx-auto my-4.5"></div>
+		<div class="row mb-4" id="album_34">
+			<div class="col-12 text-center justify-content-center">
+				<strong>Singles, Contributions, and B-Sides:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2018/04/07/roll-of-the-dice-30-days-out.html">30 Days Out</a></li>
+					<li><a href="/2019/05/14/roll-of-the-dice-a-night-with-the-jersey-devil.html">A Night with the Jersey Devil</a></li>
+					<li><a href="/2019/02/10/cover-me-rotd-i-aint-got-no-home.html">I Ain't Got No Home</a></li>
+					<li><a href="/2018/08/09/roll-of-the-dice-ill-stand-by-you-always.html">I'll Stand By You</a></li>
+					<li><a href="/2019/10/07/cover-me-if-i-had-a-hammer.html">If I Had a Hammer</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="row mb-4" id="album_35">
+			<div class="col-12 text-center justify-content-center">
+				<strong>Unreleased Notebook:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2019/01/05/roll-of-the-dice-clouds.html">Clouds</a></li>
+					<li><a href="/2018/05/11/roll-of-the-dice-crystal.html">Crystal</a></li>
+					<li><a href="/2019/07/07/roll-of-the-dice-death-of-a-good-man.html">Death of a Good Man</a></li>
+					<li><a href="/2020/07/31/roll-of-the-dice-the-fire-engines-are-returning-home.html">The Fire Engines Are Returning Home</a></li>
+					<li><a href="/2018/08/24/roll-of-the-dice-for-never-asking.html">For Never Asking</a></li>
+					<li><a href="/2021/04/27/roll-of-the-dice-love-cycle.html">Love Cycle</a></li>
+					<li><a href="/2020/09/22/roll-of-the-dice-mississippi.html">Mississippi</a></li>
+					<li><a href="/2019/10/23/roll-of-the-dice-new-york-morning-love.html">New York Morning Love</a></li>
+					<li><a href="/2018/11/13/roll-of-the-dice-oh-no-no-no.html">Oh No No No</a></li>
+					<li><a href="/2020/08/19/roll-of-the-dice-phantom-love-just-16.html">Phantom Love (Just 16)</a></li>
+					<li><a href="/2018/10/12/roll-of-the-dice-slum-sentiments.html">Slum Sentiments</a></li>
+					<li><a href="/2022/08/02/roll-of-the-dice-sun-time.html">Sun Time</a></li>
+					<li><a href="/2018/07/09/roll-of-the-dice-turn-around.html">Turn Around</a></li>
+					<li><a href="/2018/04/22/roll-of-the-dice-until-the-rain-comes.html">Until the Rain Comes</a></li>
+					<li><a href="/2021/06/07/roll-of-the-dice-upon-this-day-eurydice.html">Upon This Day (Eurydice)</a></li>
+					<li><a href="/2020/02/19/roll-of-the-dice-vaginal-vandals.html">Vaginal Vandals</a></li>
+					<li><a href="/2022/05/22/roll-of-the-dice-the-virgin-flower.html">The Virgin Flower</a></li>
+					<li><a href="/2021/01/27/roll-of-the-dice-the-war-song.html">The War Song</a></li>
+					<li><a href="/2020/12/21/roll-of-the-dice-the-window.html">The Window</a></li>
+					<li><a href="/2019/08/13/roll-of-the-dice-a-winters-revelation-in-9-illusions.html">A Winter's Revelation (In 9 Illusions)</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="row mb-4" id="album_36">
+			<div class="col-12 text-center justify-content-center">
+				<strong>Unreleased Castiles:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2020/11/09/roll-of-the-dice-look-into-my-window.html">Look Into My Window</a></li>
+					<li><a href="/2019/02/01/roll-of-the-dice-mr-jones.html">Mr. Jones</a></li>
+					<li><a href="/2019/11/30/roll-of-the-dice-thats-what-you-get.html">That's What You Get</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="row mb-4" id="album_37">
+			<div class="col-12 text-center justify-content-center">
+				<strong>Unreleased Child:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2018/03/12/roll-of-the-dice-kt-88.html">KT-88</a></li>
+					<li><a href="/2020/02/14/roll-of-the-dice-sister-theresa.html">Sister Theresa</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="row mb-4" id="album_38">
+			<div class="col-12 text-center justify-content-center">
+				<strong>Unreleased Steel Mill:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2021/01/07/roll-of-the-dice-america-under-fire.html">America Under Fire</a></li>
+					<li><a href="/2018/01/27/roll-of-the-dice-black-sun-rising.html">Black Sun Rising</a></li>
+					<li><a href="/2019/09/04/roll-of-the-dice-changing-children.html">Change It</a></li>
+					<li><a href="/2018/11/30/roll-of-the-dice-garden-state-parkway-blues.html">Garden State Parkway Blues</a></li>
+					<li><a href="/2021/06/21/roll-of-the-dice-girlfriend-blues.html">Girlfriend Blues</a></li>
+					<li><a href="/2019/03/07/roll-of-the-dice-goin-back-to-georgia.html">Goin' Back to Georgia</a></li>
+					<li><a href="/2019/04/20/roll-of-the-dice-goin-down-slow.html">Goin' Down Slow</a></li>
+					<li><a href="/2019/06/17/roll-of-the-dice-good-lovin-woman.html">Good Lovin' Woman</a></li>
+					<li><a href="/2021/03/31/roll-of-the-dice-i-am-the-doctor.html">I am the Doctor</a></li>
+					<li><a href="/2019/11/20/roll-of-the-dice-i-cant-take-it-no-more.html">I Can't Take It No More</a></li>
+					<li><a href="/2019/07/20/roll-of-the-dice-i-gotta-be-free.html">I Gotta Be Free</a></li>
+					<li><a href="/2019/11/22/roll-of-the-dice-jeannie-i-want-to-thank-you.html">Jeannie, I Want to Thank You</a></li>
+					<li><a href="/2018/06/27/roll-of-the-dice-lady-walking-down-by-the-river.html">Lady Walking Down by the River</a></li>
+					<li><a href="/2018/09/27/roll-of-the-dice-mary-louise-watson.html">Mary Louise Watson</a></li>
+					<li><a href="/2022/10/28/roll-of-the-dice-oh-mama.html">Oh Mama</a></li>
+					<li><a href="/2019/06/26/roll-of-the-dice-resurrection.html">Resurrection</a></li>
+					<li><a href="/2018/09/21/roll-of-the-dice-sherlock-goes-holmes.html">Sherlock Goes Holme</a></li>
+					<li><a href="/2021/08/03/roll-of-the-dice-sweet-melinda.html">Sweet Melinda</a></li>
+					<li><a href="/2021/10/26/roll-of-the-dice-temporarily-out-of-order.html">Temporarily Out of Order</a></li>
+					<li><a href="/2021/10/06/roll-of-the-dice-the-train-song.html">The Train Song</a></li>
+					<li><a href="/2021/10/10/roll-of-the-dice-the-wind-and-the-rain.html">The Wind and The Rain</a></li>
+					<li><a href="/2019/03/23/roll-of-the-dice-the-war-is-over.html">The War is Over</a></li>
+					<li><a href="/2021/12/03/roll-of-the-dice-twenty-more-miles.html">Twenty More Miles</a></li>
+					<li><a href="/2021/04/07/roll-of-the-dice-well-all-man-the-guns.html">We'll All Man the Guns</a></li>
+					<li><a href="/2019/01/20/roll-of-the-dice-weve-got-to-do-it-now.html">We've Got to Do It Now</a></li>
+					<li><a href="/2020/07/06/roll-of-the-dice-where-was-jesus-in-ohio.html">Where Was Jesus in Ohio</a></li>
+					<li><a href="/2022/03/08/roll-of-the-dice-whyd-you-do-that.html">Why'd You Do That?</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="row mb-4" id="album_39">
+			<div class="col-12 text-center justify-content-center">
+				<strong>Unreleased Dr. Zoom and the Sonic Boom:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2018/10/22/roll-of-the-dice-jumbeliah.html">Jumbeliah</a></li>
+					<li><a href="/2021/11/02/roll-of-the-dice-lady-of-boston.html">Lady of Boston</a></li>
+					<li><a href="/2020/08/25/roll-of-the-dice-southside-shuffle.html">Southside Shuffle</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="row mb-4" id="album_40">
+			<div class="col-12 text-center justify-content-center">
+				<strong>Unreleased Bruce Springsteen Band:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/roll-of-the-dice-all-i-want-to-do-is-dance.html">All I Want to Do Is Dance</a></li>
+					<li><a href="/roll-of-the-dice-bless-my-soul.html">Bless My Soul</a></li>
+					<li><a href="/roll-of-the-dice-cherokee-queen.html">Cherokee Queen</a></li>
+					<li><a href="/roll-of-the-dice-coming-home.html">Coming Home</a></li>
+					<li><a href="/roll-of-the-dice-dance-dance-dance.html">Dance Dance Dance</a></li>
+					<li><a href="/roll-of-the-dice-do-it-with-a-feeling.html">Do It With a Feeling</a></li>
+					<li><a href="/roll-of-the-dice-down-to-mexico.html">Down to Mexico</a></li>
+					<li><a href="/roll-of-the-dice-down-to-the-riverside.html">Down to the Riverside</a></li>
+					<li><a href="/roll-of-the-dice-funk-song.html">Funk Song</a></li>
+					<li><a href="/roll-of-the-dice-ive-got-to-have-you-baby.html">I Got to Have You, Baby</a></li>
+					<li><a href="/roll-of-the-dice-i-just-cant-change.html">I Just Can't Change</a></li>
+					<li><a href="/roll-of-the-dice-im-in-love-again.html">I'm in Love Again</a></li>
+					<li><a href="/roll-of-the-dice-its-time-to-go-home.html">It's Time to Go Home</a></li>
+					<li><a href="/roll-of-the-dice-last-night-in-tulsa.html">Last Night in Tulsa</a></li>
+					<li><a href="/roll-of-the-dice-like-a-stranger.html">Like a Stranger</a></li>
+					<li><a href="/roll-of-the-dice-living-in-rock-and-roll.html">Living in Rock and Roll</a></li>
+					<li><a href="/roll-of-the-dice-look-towards-the-land.html">Look Toward the Land</a></li>
+					<li><a href="/roll-of-the-dice-love-is-a-crazy-thing.html">Love is a Crazy Thing</a></li>
+					<li><a href="/roll-of-the-dice-magic-kind-of-loving.html">Magic Kind of Loving</a></li>
+					<li><a href="/roll-of-the-dice-make-up-your-mind.html">Make Up Your Mind</a></li>
+					<li><a href="/roll-of-the-dice-mistress-annie-sweet-miss-sally.html">Mistress Annie/Sweet Miss Sally</a></li>
+					<li><a href="/roll-of-the-dice-natural-magic.html">Natural Magic</a></li>
+					<li><a href="/roll-of-the-dice-shes-a-woman.html">She's a Woman</a></li>
+					<li><a href="/roll-of-the-dice-shes-leaving.html">She's Leaving</a></li>
+					<li><a href="/roll-of-the-dice-sometimes-at-night.html">Sometimes at Night</a></li>
+					<li><a href="/roll-of-the-dice-sure-can-feel-the-pain.html">Sure Can Feel the Pain</a></li>
+					<li><a href="/roll-of-the-dice-talking-about-my-baby.html">Talking About My Baby</a></li>
+					<li><a href="/roll-of-the-dice-the-bands-just-boppin-the-blues.html">The Band's Just Boppin' The Blues</a></li>
+					<li><a href="/roll-of-the-dice-when-you-dance.html">When You Dance</a></li>
+					<li><a href="/roll-of-the-dice-whys-it-so-hard.html">Why's It So Hard?</a></li>
+					<li><a href="/roll-of-the-dice-you-dont-leave-me-no-choice.html">You Don't Leave Me No Choice</a></li>
+					<li><a href="/roll-of-the-dice-you-mean-so-much-to-me.html">You Mean So Much to Me</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="row mb-4" id="album_41">
+			<div class="col-12 text-center justify-content-center">
+				<strong>Unreleased Solo:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2021/08/11/roll-of-the-dice-answering-machine.html">Answering Machine</a></li>
+					<li><a href="/2011/01/11/roll-of-the-dice-arabian-nights.html">Arabian Nights</a></li>
+					<li><a href="/2018/03/29/roll-of-the-dice-baby-come-back.html">Baby Come Back</a></li>
+					<li><a href="/2019/12/10/roll-of-the-dice-baby-dont-go.html">Baby, Don't Go</a></li>
+					<li><a href="/2011/01/12/roll-of-the-dice-baby-doll.html">Baby Doll</a></li>
+					<li><a href="/2019/05/04/roll-of-the-dice-baby-im-so-cold.html">Baby I'm So Cold</a></li>
+					<li><a href="/2019/05/09/roll-of-the-dice-ballad-of-a-self-loading-pistol.html">Ballad of a Self-Loading Pistol</a></li>
+					<li><a href="/1983/01/19/roll-of-the-dice-betty-jean.html">Betty Jean</a></li>
+					<li><a href="/2020/03/29/roll-of-the-dice-blue-moon-turns-to-gold.html">Blue Moon Turns to Gold</a></li>
+					<li><a href="/2011/01/13/roll-of-the-dice-border-guard.html">Border Guard</a></li>
+					<li><a href="/2011/01/14/roll-of-the-dice-camilla-horn.html">Camilla Horn</a></li>
+					<li><a href="/2011/01/15/roll-of-the-dice-cowboys-of-the-sea.html">Cowboys of the Sea</a></li>
+					<li><a href="/2020/05/01/roll-of-the-dice-danger-zone.html">Danger Zone</a></li>
+					<li><a href="/2019/08/28/roll-of-the-dice-delivery-man.html">Delivery Man</a></li>
+					<li><a href="/2011/01/16/roll-of-the-dice-eloise.html">Eloise</a></li>
+					<li><a href="/2019/11/17/roll-of-the-dice-every-day-and-every-night.html">Every Day and Every Night</a></li>
+					<li><a href="/2018/11/15/roll-of-the-dice-everybody-wants-my-baby.html">Everybody Wants My Baby</a></li>
+					<li><a href="/2019/04/28/roll-of-the-dice-everybodys-looking-for-somebody.html">Everybody's Looking for Somebody</a></li>
+					<li><a href="/2018/03/14/roll-of-the-dice-everyone-loves-you.html">Everyone Loves You</a></li>
+					<li><a href="/2022/10/09/roll-of-the-dice-fade-to-black.html">Fade to Black</a></li>
+					<li><a href="/2020/02/23/roll-of-the-dice-family-song.html">Family Song</a></li>
+					<li><a href="/2018/12/03/roll-of-the-dice-freehold.html">Freehold</a></li>
+					<li><a href="/2011/01/19/roll-of-the-dice-hollywood-kids.html">Hollywood Kids</a></li>
+					<li><a href="/2018/10/30/roll-of-the-dice-i-dont-know.html">I Don't Know</a></li>
+					<li><a href="/2018/04/13/roll-of-the-dice-i-need-you.html">I Need You</a></li>
+					<li><a href="/2021/03/02/roll-of-the-dice-i-wanna-start-a-new-life.html">I Wanna Start a New Life</a></li>
+					<li><a href="/2020/03/05/roll-of-the-dice-im-turning-into-elvis.html">I'm Turning Into Elvis</a></li>
+					<li><a href="/2022/05/18/roll-of-the-dice-im-your-detail-man.html">I'm Your Detail Man</a></li>
+					<li><a href="/2019/12/16/roll-of-the-dice-in-kansas.html">In Kansas</a></li>
+					<li><a href="/2022/04/12/roll-of-the-dice-in-michigan.html">In Michigan</a></li>
+					<li><a href="/2019/05/16/roll-of-the-dice-the-informer.html">The Informer</a></li>
+					<li><a href="/2022/01/12/roll-of-the-dice-its-the-little-things-that-count.html">It's the Little Things That Count</a></li>
+					<li><a href="/2011/01/19/roll-of-the-dice-jazz-musician.html">Jazz Musician</a></li>
+					<li><a href="/2011/01/20/roll-of-the-dice-jesse.html">Jesse</a></li>
+					<li><a href="/1983/01/16/roll-of-the-dice-the-klansman.html">The Klansman</a></li>
+					<li><a href="/2011/01/21/roll-of-the-dice-lady-and-the-doctor.html">Lady and the Doctor</a></li>
+					<li><a href="/2018/06/15/roll-of-the-dice-little-girl-like-you.html">Little Girl (Like You)</a></li>
+					<li><a href="/2022/08/18/roll-of-the-dice-long-way-home.html">Long Way Home</a></li>
+					<li><a href="/2021/01/15/roll-of-the-dice-losin-kind.html">Losin' Kind</a></li>
+					<li><a href="/2021/09/20/roll-of-the-dice-love-and-kisses.html">Love and Kisses</a></li>
+					<li><a href="/2021/02/10/roll-of-the-dice-love-is-a-dangerous-thing.html">Love Is a Dangerous Thing</a></li>
+					<li><a href="/2021/12/10/roll-of-the-dice-love-is-a-gun.html">Love Is a Gun</a></li>
+					<li><a href="/2019/05/12/roll-of-the-dice-love-will-get-you-down.html">Love Will Get You Down</a></li>
+					<li><a href="/2019/09/17/roll-of-the-dice-loves-gonna-be-tonight.html">Love's Gonna Be Tonight</a></li>
+					<li><a href="/2011/01/22/roll-of-the-dice-marie.html">Marie</a></li>
+					<li><a href="/2020/01/01/roll-of-the-dice-my-heart-is-an-open-book.html">My Heart Is an Open Book</a></li>
+					<li><a href="/2011/01/23/roll-of-the-dice-no-need.html">No Need</a></li>
+					<li><a href="/2021/02/16/roll-of-the-dice-oh-angelyne.html">Oh Angelyne</a></li>
+					<li><a href="/2002/01/12/roll-of-the-dice-pilgrim-in-the-temple-of-love.html">Pilgrim in the Temple of Love</a></li>
+					<li><a href="/2011/01/24/roll-of-the-dice-prodigal-son.html">Prodigal Son</a></li>
+					<li><a href="/2020/06/04/roll-of-the-dice-protection.html">Protection</a></li>
+					<li><a href="/2011/01/25/roll-of-the-dice-randolph-street.html">Randolph Street</a></li>
+					<li><a href="/2019/07/12/roll-of-the-dice-riding-horse.html">Riding Horse</a></li>
+					<li><a href="/2019/07/14/roll-of-the-dice-robert-ford.html">Robert Ford</a></li>
+					<li><a href="/2021/02/23/roll-of-the-dice-ruled-by-the-gun.html">Ruled by the Gun</a></li>
+					<li><a href="/2019/02/09/roll-of-the-dice-sell-it-and-they-will-come.html">Sell It and They Will Come</a></li>
+					<li><a href="/2011/01/30/roll-of-the-dice-the-song.html">The Song</a></li>
+					<li><a href="/2011/01/27/roll-of-the-dice-southern-sun.html">Southern Sun</a></li>
+					<li><a href="/2019/01/10/roll-of-the-dice-stockton-boys.html">Stockton Boys</a></li>
+					<li><a href="/2011/01/28/roll-of-the-dice-street-queen.html">Street Queen</a></li>
+					<li><a href="/2020/07/08/roll-of-the-dice-summer-night.html">Summer Night</a></li>
+					<li><a href="/2018/10/13/roll-of-the-dice-the-time-in-between.html">The Time In Between</a></li>
+					<li><a href="/2019/08/23/roll-of-the-dice-there-will-never-be-any-other-for-me-but-you.html">There Will Never Be Any Other for Me But You</a></li>
+					<li><a href="/2018/05/19/roll-of-the-dice-true-love-is-hard-to-come-by.html">True Love is Hard to Come By</a></li>
+					<li><a href="/2011/01/31/roll-of-the-dice-two-hearts-in-true-waltz-time.html">Two Hearts in True Waltz Time</a></li>
+					<li><a href="/2019/08/07/roll-of-the-dice-vibes-man.html">Vibes Man</a></li>
+					<li><a href="/1984/01/02/roll-of-the-dice-vietnam.html">Vietnam</a></li>
+					<li><a href="/2020/11/12/roll-of-the-dice-walking-on-the-avenue.html">Walking on the Avenue</a></li>
+					<li><a href="/2011/02/01/roll-of-the-dice-war-nurse.html">War Nurse</a></li>
+					<li><a href="/2020/11/01/roll-of-the-dice-wheels-make-the-world-go-round.html">Wheels Make the World Go Round</a></li>
+					<li><a href="/2021/06/03/roll-of-the-dice-winter-song.html">Winter Song</a></li>
+					<li><a href="/2019/06/23/roll-of-the-dice-yankees-win.html">Yankees Win</a></li>
+					<li><a href="/2018/02/23/roll-of-the-dice-you-gotta-be-kind.html">You Gotta Be Kind</a></li>
+					<li><a href="/2019/09/25/roll-of-the-dice-you-gotta-fight-for-what-you-want.html">You Gotta Fight (For What You Want)</a></li>
+					<li><a href="/2019/07/30/roll-of-the-dice-your-love-is-all-around-me.html">Your Love Is All Around Me</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="row mb-4" id="album_42">
+			<div class="col-12 text-center justify-content-center">
+				<strong>Unreleased E Street:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2022/06/27/roll-of-the-dice-action-in-the-streets.html">Action in the Streets</a></li>
+					<li><a href="/2019/10/05/roll-of-the-dice-angels-blues.html">Angel's Blues</a></li>
+					<li><a href="/2021/02/02/roll-of-the-dice-bells-of-san-salvador.html">Bells of San Salvador</a></li>
+					<li><a href="/2022/07/23/roll-of-the-dice-bodo-rocker-im-goin-back.html">BoDo Rocker (I'm Goin' Back)</a></li>
+					<li><a href="/2020/10/07/roll-of-the-dice-break-my-heart-tonight.html">Break My Heart (Tonight)</a></li>
+					<li><a href="/2021/03/20/roll-of-the-dice-break-out.html">Break Out</a></li>
+					<li><a href="/2018/10/06/roll-of-the-dice-chevrolet-deluxe.html">Chevrolet Deluxe</a></li>
+					<li><a href="/2019/03/10/roll-of-the-dice-crazy-rocker.html">Crazy Rocker</a></li>
+					<li><a href="/1984/01/16/roll-of-the-dice-drop-on-down-and-cover-me.html">Drop on Down and Cover Me</a></li>
+					<li><a href="/2020/09/16/roll-of-the-dice-evacuation-of-the-west.html">Evacuation of the West</a></li>
+					<li><a href="/2020/04/05/roll-of-the-dice-find-it-where-you-can.html">Find It Where You Can</a></li>
+					<li><a href="/2020/02/09/roll-of-the-dice-glory-road.html">Glory Road</a></li>
+					<li><a href="/2020/09/24/roll-of-the-dice-here-she-comes-walkin.html">Here She Comes Walkin'</a></li>
+					<li><a href="/2022/06/25/rotd-matr-joe-grushecky-and-bruce-springsteen-homestead.html">Homestead</a></li>
+					<li><a href="/2021/09/26/roll-of-the-dice-i-dont-wanna-be.html">I Don't Wanna Be</a></li>
+					<li><a href="/2021/11/22/roll-of-the-dice-im-going-back.html">I'm Going Back</a></li>
+					<li><a href="/2020/04/29/roll-of-the-dice-im-gonna-treat-you-right-wild-kisses.html">I'm Gonna Treat You Right (Wild Kisses)</a></li>
+					<li><a href="/2021/03/12/rotd-matr-joe-grushecky-and-bruce-springsteen-idiots-delight.html">Idiot's Delight</a></li>
+					<li><a href="/2018/06/09/roll-of-the-dice-lonely-night-in-the-park.html">Lonely Night in the Park</a></li>
+					<li><a href="/2021/05/20/roll-of-the-dice-out-on-the-run.html">Out on the Run</a></li>
+					<li><a href="/2019/06/06/roll-of-the-dice-phantoms.html">Phantoms</a></li>
+					<li><a href="/2018/07/01/roll-of-the-dice-preachers-daughter.html">Preacher's Daughter</a></li>
+					<li><a href="/2020/06/04/roll-of-the-dice-protection.html">Protection</a></li>
+					<li><a href="/2020/05/13/roll-of-the-dice-down-by-the-river.html">Sax Song</a></li>
+					<li><a href="/2024/09/14/roll-of-the-dice-secret-to-the-blues.html">Secret to the Blues</a></li>
+					<li><a href="/2020/01/16/roll-of-the-dice-slow-fade.html">Slow Fade</a></li>
+					<li><a href="/2016/01/08/streets-of-minneapolis.html">Streets of Minneapolis</a></li>
+					<li><a href="/2019/12/29/roll-of-the-dice-the-ballad.html">The Ballad</a></li>
+					<li><a href="/2021/01/30/roll-of-the-dice-the-fast-song.html">The Fast Song</a></li>
+					<li><a href="/2020/12/17/roll-of-the-dice-under-the-gun.html">Under the Gun</a></li>
+					<li><a href="/2018/06/28/roll-of-the-dice-waiting-on-the-end-of-the-world.html">Waiting on the End of the World</a></li>
+					<li><a href="/2018/01/21/roll-of-the-dice-walking-in-the-street.html">Walking in the Street</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="row mb-4" id="album_43">
+			<div class="col-12 text-center justify-content-center">
+				<strong>Gifts and Misc.:</strong>
+				<ul class="list-unstyled">
+					<li><a href="/2019/12/03/roll-of-the-dice-cover-me-all-i-need.html">All I Need</a></li>
+					<li><a href="/2019/02/04/cover-me-gary-u-s-bonds-and-the-e-street-band-angelyne.html">Angelyne</a></li>
+					<li><a href="/2019/05/07/cover-me-gary-u-s-bonds-and-the-e-street-band-club-soul-city.html">Club Soul City</a></li>
+					<li><a href="/2018/06/17/cover-me-roll-of-the-dice-gary-u-s-bonds-dedication.html">Dedication</a></li>
+					<li><a href="/2018/02/09/roll-of-the-dice-forward.html">Forward!</a></li>
+					<li><a href="/2021/01/28/cover-me-gary-u-s-bonds-hold-on-to-what-you-got.html">Hold On (To What You Got)</a></li>
+					<li><a href="/2022/07/07/roll-of-the-dice-im-gonna-rock-the-pee-pee-song.html">I'm Gonna Rock (The Pee Pee Song)</a></li>
+					<li><a href="/2017/01/14/spare-parts-warren-zevon-jeannie-needs-a-shooter.html">Jeannie Needs a Shooter</a></li>
+					<li><a href="/2021/10/05/cover-me-darlene-love-just-another-lonely-mile.html">Just Another Lonely Mile</a></li>
+					<li><a href="/2022/01/20/matr-rotd-gary-u-s-bonds-and-bruce-springsteen-loves-on-the-line.html">Love's on the Line</a></li>
+					<li><a href="/2020/01/31/cover-me-darlene-love-night-closing-in.html">Night Closing In</a></li>
+					<li><a href="/2021/04/18/rotd-matr-gary-u-s-bonds-bruce-springsteen-and-the-e-street-band-out-of-work.html">Out of Work</a></li>
+					<li><a href="/2018/05/14/roll-of-the-dice-cover-me-clarence-clemons-savin-up.html">Savin' Up</a></li>
+					<li><a href="/2021/03/01/cover-me-rotd-clarence-clemons-and-the-red-bank-rockers-summer-on-signal-hill.html">Summer on Signal Hill</a></li>
+					<li><a href="/2018/09/06/rotd-matr-cover-me-gary-u-s-bonds-bruce-springsteen-the-e-street-band-this-little-girl.html">This Little Girl</a></li>
+					<li><a href="/2019/01/26/rotd-matr-cm-tiger-rose.html">Tiger Rose</a></li>
+					<li><a href="/2020/06/15/cover-me-southside-johnny-walking-through-midnight.html">Walking Through Midnight</a></li>
+					<li><a href="/2023/12/24/roll-of-the-dice-water-station.html">Water Station</a></li>
+					<li><a href="/2018/07/27/cover-me-gary-u-s-bonds-your-love.html">Your Love</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
 </div>
 {{ end }}
 

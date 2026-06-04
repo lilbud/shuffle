@@ -1,74 +1,74 @@
 {{ define "main" }}
 <div class="content-area col-12 col-lg-8" id="main-column">
-  
-  {{ $pages := where .Site.RegularPages "Section" "post" }}
 
-  {{ $paginator := .Paginate $pages 10 }}
+	{{ $pages := where .Site.RegularPages "Section" "post" }}
 
-  {{ range $paginator.Pages }}
-  {{ partial "post-card.html" . }}
-  {{ end }}
+	{{ $paginator := .Paginate $pages 10 }}
 
-  {{ partial "pagination.html" . }}
+	{{ range $paginator.Pages }}
+		{{ partial "post-card.html" . }}
+	{{ end }}
+
+	{{ partial "pagination.html" . }}
 </div>
 {{ end }}
 {{ define "sidebar" }}
 <div class="col-12 col-lg-4" id="sidebar">
-  <div class="row row-cols-1">
-    <div class="col">
-      <div class="card widget-card">
-        <div class="widget-title">View By Category</div>
-        <div class="widget-body">
-          <select
-            class="form-select"
-            aria-label="Default select example"
-            onchange="window.location.href=this.value">
-            <option selected>Select Category</option>
-            {{ range $category, $pages := .Site.Taxonomies.categories }}
-            <option value="{{ printf "categories/%s" $category | relURL }}">
-              {{ $category | replaceRE "-" " " | title }}
-              ({{ $pages.Count }})
-            </option>
-            {{ end }}
-          </select>
-        </div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="card widget-card">
-        <div class="widget-title">View By Author</div>
-        <div class="widget-body">
-          <select
-            class="form-select"
-            aria-label="Default select example"
-            onchange="window.location.href=this.value">
-            <option selected>Select Author</option>
-            {{ range $author, $pages := site.Taxonomies.author }}
-            {{ with site.GetPage (print "/authors/" $author) }}
-            {{ $dirPath := .File.Dir }}
-            {{ $parentFolder := path.Base $dirPath }}
-            <option value='{{ printf "authors/%s" $parentFolder | relURL }}'>
-              {{ .Title }}
-              ({{ $pages.Count }})
-            </option>
-            {{ end }}
-            {{ end }}
-          </select>
-        </div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="card widget-card">
-        <div class="widget-title">Important Posts</div>
-        <div class="widget-body p-0">
-          <ul class="p-1">
-            <li>
-              <a href="changelog/">Site Changelog</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
+	<div class="row row-cols-1">
+		<div class="col">
+			<div class="card widget-card">
+				<div class="widget-title">View By Category</div>
+				<div class="widget-body">
+					<select
+						class="form-select"
+						aria-label="Default select example"
+						onchange="window.location.href=this.value">
+						<option selected>Select Category</option>
+						{{ range $category, $pages := .Site.Taxonomies.categories }}
+							<option value="{{ printf "categories/%s" $category | relURL }}">
+								{{ $category | replaceRE "-" " " | title }}
+								({{ $pages.Count }})
+							</option>
+						{{ end }}
+					</select>
+				</div>
+			</div>
+		</div>
+		<div class="col">
+			<div class="card widget-card">
+				<div class="widget-title">View By Author</div>
+				<div class="widget-body">
+					<select
+						class="form-select"
+						aria-label="Default select example"
+						onchange="window.location.href=this.value">
+						<option selected>Select Author</option>
+						{{ range $author, $pages := site.Taxonomies.author }}
+							{{ with site.GetPage (print "/authors/" $author) }}
+								{{ $dirPath := .File.Dir }}
+								{{ $parentFolder := path.Base $dirPath }}
+								<option value='{{ printf "authors/%s" $parentFolder | relURL }}'>
+									{{ .Title }}
+									({{ $pages.Count }})
+								</option>
+							{{ end }}
+						{{ end }}
+					</select>
+				</div>
+			</div>
+		</div>
+		<div class="col">
+			<div class="card widget-card">
+				<div class="widget-title">Important Posts</div>
+				<div class="widget-body p-0">
+					<ul class="p-1">
+						<li>
+							<a href="changelog/">Site Changelog</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 {{ end }}

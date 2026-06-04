@@ -68,7 +68,8 @@ In concert on the all-too-short Seeger Sessions Tour, "Pay Me My Money Down" was
 {{< youtube 0_D5_4Em6Jg >}}
 
 **Pay Me My Money Down**<br>
-**Recorded:** March 19, 2005**Released:** *We Shall Overcome: The Seeger Sessions* (2006)*, We Shall Overcome: The Seeger Sessions – American Land Edition* (2006)*, Live in Dublin* (2007)**First performed:** April 20, 2006 (Asbury Park, NJ)<br>
+**Recorded:** March 19, 2005<br>
+**Released:** *We Shall Overcome: The Seeger Sessions* (2006)*, We Shall Overcome: The Seeger Sessions – American Land Edition* (2006)*, Live in Dublin* (2007)**First performed:** April 20, 2006 (Asbury Park, NJ)<br>
 **Last performed:** May 15, 2023 (Nanterre, France)<br>
 
 © July 3, 2018
