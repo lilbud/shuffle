@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="content-area col-12 col-lg-8" id="main-column">
 
-	{{ $pages := where .Site.RegularPages "Section" "post" }}
+	{{ $pages := where .Site.RegularPages.ByLastmod.Reverse "Section" "post" }}
 
 	{{ $paginator := .Paginate $pages 10 }}
 
@@ -63,7 +63,7 @@
 				<div class="widget-body p-0">
 					<ul class="p-1">
 						<li>
-							<a href="changelog/">Site Changelog</a>
+							<a href="{{ "changelog" | relURL }}">Site Changelog</a>
 						</li>
 					</ul>
 				</div>

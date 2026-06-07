@@ -37,3 +37,8 @@ This post will be a list of updates made to the site.
 - Fixed tag/category links on post pages.
 - Post Navigation will not show if there are no prev/next posts.
 - "Follow That Dream" has had it's slug/url updated from "year-five-complete" to "follow-that-dream"
+
+### 2026-06-07
+
+- Updated "Where The Band Was: Minneapolis March 31, 2026" to add quotes where Bruce spoke.
+- Changed homepage to show posts by last modified instead of published. Many new posts are backdated, and wouldn't show up when ordering normally.

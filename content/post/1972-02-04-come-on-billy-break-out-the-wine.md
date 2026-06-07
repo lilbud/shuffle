@@ -10,6 +10,8 @@ title: "Come On Billy, Break Out the Wine"
 slug: come-on-billy-break-out-the-wine
 author: Ken Rosen
 description: "Some songs from the Bruce Springsteen Band era feel less like a snapshot and more like a signpost. This one is both. Written in early…"
+categories:
+- "roll-of-the-dice"
 params:
   post_id: 68954
 ---
