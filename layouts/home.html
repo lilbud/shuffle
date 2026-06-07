@@ -1,21 +1,17 @@
 {{ define "main" }}
-<div class="content-area col-12 col-lg-8" id="main-column">
-
-	{{ $pages := where .Site.RegularPages.ByLastmod.Reverse "Section" "post" }}
-
-	{{ $paginator := .Paginate $pages 10 }}
-
-	{{ range $paginator.Pages }}
-		{{ partial "post-card.html" . }}
-	{{ end }}
-
-	{{ partial "pagination.html" . }}
-</div>
-{{ end }}
-{{ define "sidebar" }}
-<div class="col-12 col-lg-4" id="sidebar">
-	<div class="row row-cols-1">
-		<div class="col">
+<div class="content-area col-12 col-lg-9" id="main-column">
+	<div class="card p-3 mb-3 text-center">
+		<h1 class="text-reset fw-normal page-title">Welcome to E Street Shuffle Revival!</h1>
+		<p>An archive of the E Street Shuffle blog</p>
+	</div>
+	<div class="card p-3 mb-3">
+		<p class="mb-1">Navigate to each section via the links up top. Or use the search bar.</p>
+		<p class="mb-1">Learn more about the site: <a href="{{ "about" | relURL }}">About Site</a>.</p>
+		<p class="mb-1">View recent updates to the site: <a href="{{ "changelog" | relURL }}">Site Changelog</a>.</p>
+		<p class="mb-1">Interested in how this site came together? Check out my writeup <a href="https://lilbud.github.io/2026/05/30/shuffle-archive/">here</a>.</p>
+	</div>
+	<div class="row row-cols-1 row-cols-lg-2">
+		<div class="col-12 col-lg-6">
 			<div class="card widget-card">
 				<div class="widget-title">View By Category</div>
 				<div class="widget-body">
@@ -34,7 +30,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col">
+		<div class="col-12 col-lg-6">
 			<div class="card widget-card">
 				<div class="widget-title">View By Author</div>
 				<div class="widget-body">
@@ -57,18 +53,8 @@
 				</div>
 			</div>
 		</div>
-		<div class="col">
-			<div class="card widget-card">
-				<div class="widget-title">Important Posts</div>
-				<div class="widget-body p-0">
-					<ul class="p-1">
-						<li>
-							<a href="{{ "changelog" | relURL }}">Site Changelog</a>
-						</li>
-					</ul>
-				</div>
-			</div>
-		</div>
 	</div>
 </div>
+{{ end }}
+{{ define "sidebar" }}
 {{ end }}

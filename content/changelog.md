@@ -42,3 +42,7 @@ This post will be a list of updates made to the site.
 
 - Updated "Where The Band Was: Minneapolis March 31, 2026" to add quotes where Bruce spoke.
 - Changed homepage to show posts by last modified instead of published. Many new posts are backdated, and wouldn't show up when ordering normally.
+
+### 2026-06-08
+
+- Replaced home page. Sorting by last modified isn't as helpful as I thought it would be. Every new post will show up there as Ken publishes the books. Home page now shows relevant links instead.
