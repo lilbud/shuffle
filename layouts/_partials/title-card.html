@@ -15,7 +15,7 @@
 					</div>
 					<div class="col-auto text-nowrap post-meta post-date">
 						<i class="bi bi-clock"></i>
-						{{ .Params.date | time.Format ":date_long" }}
+						{{ .Params.lastmod | time.Format ":date_long" }}
 					</div>
 				</div>
 			{{ end }}

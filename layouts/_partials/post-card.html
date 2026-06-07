@@ -1,60 +1,60 @@
 <div class="card post-card p-3 p-lg-4.5" id="post-card">
-  <div class="row d-flex align-items-center justify-content-between">
-    {{ if .Params.header_img }}
-      <div class="col-12 col-md-5 post-img-wrapper mb-4 mb-md-0">
-        <img
-          class="img-fluid post-img"
-          src="{{ .Params.header_img }}"
-          height="auto"
-          width="auto"
-          alt="" />
-      </div>
-    {{ end }}
-    <div class="col post-content">
-      <div class="row">
-        <div class="col">
-          <div class="post-category post-meta mb-1">
-            <i class="bi bi-folder meta-icon"></i>
-            {{ with .Params.categories }}
-              {{ $firstCategory := index . 0 }}
-              <a
-                class="post-meta text-decoration-none"
-                href="{{ "categories/" | relURL }}{{ $firstCategory | urlize }}">
-                {{ $firstCategory | replaceRE "-" " " | title }}
-              </a>
-            {{ end }}
-          </div>
-          <div class="post-title mb-1 mb-lg-2">
-            <a class="text-decoration-none" href="{{ .RelPermalink }}">
-              {{ .Params.Title }}
-            </a>
-          </div>
-          <div class="row d-flex-inline row-cols-2 gap-0 gx-3 my-3">
-            <div class="col-auto text-nowrap post-meta post-date">
-              <i class="bi bi-clock"></i>
-              <a
-                class="post-meta text-decoration-none"
-                href="{{ .RelPermalink }}">
-                {{ .Params.Date.Format "January 2, 2006" }}
-              </a>
-            </div>
-            <div class="col-auto post-meta post-author">
-              <i class="bi bi-person-fill"></i>
-              By
-              <a
-                class="post-meta text-decoration-none"
-                href="{{ "authors/" | relURL }}{{ .Params.author | urlize }}">
-                {{ .Params.author }}
-              </a>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col">
-              <div class="post-excerpt">{{ .Params.Description }}</div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+	<div class="row d-flex align-items-center justify-content-between">
+		{{ if .Params.header_img }}
+			<div class="col-12 col-md-5 post-img-wrapper mb-4 mb-md-0">
+				<img
+					class="img-fluid post-img"
+					src="{{ .Params.header_img }}"
+					height="auto"
+					width="auto"
+					alt="" />
+			</div>
+		{{ end }}
+		<div class="col post-content">
+			<div class="row">
+				<div class="col">
+					<div class="post-category post-meta mb-1">
+						<i class="bi bi-folder meta-icon"></i>
+						{{ with .Params.categories }}
+							{{ $firstCategory := index . 0 }}
+							<a
+								class="post-meta text-decoration-none"
+								href="{{ "categories/" | relURL }}{{ $firstCategory | urlize }}">
+								{{ $firstCategory | replaceRE "-" " " | title }}
+							</a>
+						{{ end }}
+					</div>
+					<div class="post-title mb-1 mb-lg-2">
+						<a class="text-decoration-none" href="{{ .RelPermalink }}">
+							{{ .Params.Title }}
+						</a>
+					</div>
+					<div class="row d-flex-inline row-cols-2 gap-0 gx-3 my-3">
+						<div class="col-auto text-nowrap post-meta post-date">
+							<i class="bi bi-clock"></i>
+							<a
+								class="post-meta text-decoration-none"
+								href="{{ .RelPermalink }}">
+								{{ .Params.lastmod.Format "January 2, 2006" }}
+							</a>
+						</div>
+						<div class="col-auto post-meta post-author">
+							<i class="bi bi-person-fill"></i>
+							By
+							<a
+								class="post-meta text-decoration-none"
+								href="{{ "authors/" | relURL }}{{ .Params.author | urlize }}">
+								{{ .Params.author }}
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col">
+							<div class="post-excerpt">{{ .Params.Description }}</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
