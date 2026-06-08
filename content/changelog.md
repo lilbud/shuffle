@@ -46,3 +46,4 @@ This post will be a list of updates made to the site.
 ### 2026-06-08
 
 - Replaced home page. Sorting by last modified isn't as helpful as I thought it would be. Every new post will show up there as Ken publishes the books. Home page now shows relevant links instead.
+- Fix search page not redirecting correctly
