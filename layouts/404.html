@@ -22,7 +22,7 @@
 			{{ $len := (len $list) }}
 
 			{{ range $index, $element := $list }}
-				<a href="/tags/{{ .Page.Title | urlize }}">{{ .Page.Title | replaceRE "-" " " }}</a>
+				<a href="/shuffle/tags/{{ .Page.Title | urlize }}">{{ .Page.Title | replaceRE "-" " " }}</a>
 				{{ if ne (add $index 1) $len }}
 					,
 				{{ end }}
