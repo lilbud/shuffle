@@ -49,3 +49,7 @@ This post will be a list of updates made to the site.
 - Fix search page not redirecting correctly
 - Fix tag links on 404 page not working
 - Fix site title not centered on mobile
+
+### 2026-06-13
+
+- Updated "Streets of Minneapolis", "American Skin (41 Shots)", and "My City of Ruins" to their latest versions.
