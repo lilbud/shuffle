@@ -53,3 +53,18 @@ This post will be a list of updates made to the site.
 ### 2026-06-13
 
 - Updated "Streets of Minneapolis", "American Skin (41 Shots)", and "My City of Ruins" to their latest versions.
+
+### 2026-08-23
+
+- Added the following new posts:
+  - Wasted Days
+  - Paradise
+  - It's Been a Long Time
+  - Revival
+  - Small Town
+  - Sun City
+  - New York Comeback
+  - Going Home (Theme From Local Hero)
+  - Odds of the Blues
+  - History Books
+- Updated home page to show list of newly added posts

@@ -1,59 +1,76 @@
 {{ define "main" }}
 <div class="content-area col-12 col-lg-9" id="main-column">
-	<div class="card p-3 mb-3 text-center">
-		<h1 class="text-reset fw-normal page-title">Welcome to E Street Shuffle Revival!</h1>
-		<p>An archive of the E Street Shuffle blog</p>
-	</div>
-	<div class="card p-3 mb-3">
-		<p class="mb-1">Navigate to each section via the links up top. Or use the search bar.</p>
-		<p class="mb-1">Learn more about the site: <a href="{{ "about" | relURL }}">About Site</a>.</p>
-		<p class="mb-1">View recent updates to the site: <a href="{{ "changelog" | relURL }}">Site Changelog</a>.</p>
-		<p class="mb-1">Interested in how this site came together? Check out my writeup <a href="https://lilbud.github.io/2026/05/30/shuffle-archive/">here</a>.</p>
-	</div>
-	<div class="row row-cols-1 row-cols-lg-2">
-		<div class="col-12 col-lg-6">
-			<div class="card widget-card">
-				<div class="widget-title">View By Category</div>
-				<div class="widget-body">
-					<select
-						class="form-select"
-						aria-label="Default select example"
-						onchange="window.location.href=this.value">
-						<option selected>Select Category</option>
-						{{ range $category, $pages := .Site.Taxonomies.categories }}
-							<option value="{{ printf "categories/%s" $category | relURL }}">
-								{{ $category | replaceRE "-" " " | title }}
-								({{ $pages.Count }})
-							</option>
-						{{ end }}
-					</select>
-				</div>
-			</div>
-		</div>
-		<div class="col-12 col-lg-6">
-			<div class="card widget-card">
-				<div class="widget-title">View By Author</div>
-				<div class="widget-body">
-					<select
-						class="form-select"
-						aria-label="Default select example"
-						onchange="window.location.href=this.value">
-						<option selected>Select Author</option>
-						{{ range $author, $pages := site.Taxonomies.author }}
-							{{ with site.GetPage (print "/authors/" $author) }}
-								{{ $dirPath := .File.Dir }}
-								{{ $parentFolder := path.Base $dirPath }}
-								<option value='{{ printf "authors/%s" $parentFolder | relURL }}'>
-									{{ .Title }}
-									({{ $pages.Count }})
-								</option>
-							{{ end }}
-						{{ end }}
-					</select>
-				</div>
-			</div>
-		</div>
-	</div>
+  <div class="card p-3 mb-3 text-center">
+    <h1 class="text-reset fw-normal page-title">Welcome to E Street Shuffle Revival!</h1>
+    <p>An archive of the E Street Shuffle blog</p>
+  </div>
+  <div class="card p-3 mb-3">
+    <p class="mb-1">Navigate to each section via the links up top. Or use the search bar.</p>
+    <p class="mb-1">Learn more about the site: <a href='{{ "about" | relURL }}'>About Site</a>.</p>
+    <p class="mb-1">View recent updates to the site: <a href='{{ "changelog" | relURL }}'>Site Changelog</a>.</p>
+    <p class="mb-1">Interested in how this site came together? Check out my writeup <a href="https://lilbud.github.io/2026/05/30/shuffle-archive/">here</a>.</p>
+  </div>
+  <div class="card p-3 mb-3">
+    <h3>Newest Posts</h3>
+    <ul>
+
+      {{ $postSectionPages := where .Site.RegularPages "Type" "post" }}
+      {{ $featuredIDs := slice "70573" "70446" "70491" "70543" "70559" "70578" "70482" "70421" "70487" "70441" }}
+
+      {{ $featuredPages := where .Site.RegularPages ".Params.post_id" "in" $featuredIDs }}
+
+      {{ range $postSectionPages }}
+      {{ if in $featuredIDs (string .Params.post_id) }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+      {{ end }}
+    </ul>
+
+  </div>
+  <div class="row row-cols-1 row-cols-lg-2">
+    <div class="col-12 col-lg-6">
+      <div class="card widget-card">
+        <div class="widget-title">View By Category</div>
+        <div class="widget-body">
+          <select
+            class="form-select"
+            aria-label="Default select example"
+            onchange="window.location.href=this.value">
+            <option selected>Select Category</option>
+            {{ range $category, $pages := .Site.Taxonomies.categories }}
+            <option value="{{ printf " categories/%s" $category | relURL }}">
+              {{ $category | replaceRE "-" " " | title }}
+              ({{ $pages.Count }})
+            </option>
+            {{ end }}
+          </select>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-lg-6">
+      <div class="card widget-card">
+        <div class="widget-title">View By Author</div>
+        <div class="widget-body">
+          <select
+            class="form-select"
+            aria-label="Default select example"
+            onchange="window.location.href=this.value">
+            <option selected>Select Author</option>
+            {{ range $author, $pages := site.Taxonomies.author }}
+            {{ with site.GetPage (print "/authors/" $author) }}
+            {{ $dirPath := .File.Dir }}
+            {{ $parentFolder := path.Base $dirPath }}
+            <option value='{{ printf "authors/%s" $parentFolder | relURL }}'>
+              {{ .Title }}
+              ({{ $pages.Count }})
+            </option>
+            {{ end }}
+            {{ end }}
+          </select>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 {{ end }}
 {{ define "sidebar" }}
