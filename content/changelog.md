@@ -68,3 +68,12 @@ This post will be a list of updates made to the site.
   - Odds of the Blues
   - History Books
 - Updated home page to show list of newly added posts
+
+# 2026-11-04
+
+- Added the following new posts:
+  - Girlfriend
+  - Honky Tonk Women
+  - Rainy Night in Soho
+  - Rockin All Over the World
+  - Travelin Band
