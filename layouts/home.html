@@ -38,7 +38,7 @@
             onchange="window.location.href=this.value">
             <option selected>Select Category</option>
             {{ range $category, $pages := .Site.Taxonomies.categories }}
-            <option value="{{ printf " categories/%s" $category | relURL }}">
+            <option value="{{ printf "categories/%s" $category | relURL }}">
               {{ $category | replaceRE "-" " " | title }}
               ({{ $pages.Count }})
             </option>
