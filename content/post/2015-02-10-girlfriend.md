@@ -20,7 +20,7 @@ We may never know, because it’s too late to ask the songwriter, and the titula
 
 Still, the mainstream consensus is that Slim Dunlap’s 1996 infectious album track had a typo in its original release, both on the album cover and the disc itself.
 
-<img src='https://media.githubusercontent.com/media/lilbud/shuffle-archive/refs/heads/master/assets_webp/2026/09/R-3464998-1493976245-8085.jpg.webp' alt='' title='' width='758' height='758' />
+<img src='https://i.ibb.co/zHnftvdX/R-3464998-1493976245-8085-jpg.webp' alt='' title='' width='758' height='758' />
 
 But that wouldn’t explain while it was still spelled that way on a 2005 re-issue with new album art.
 
