@@ -15,7 +15,7 @@
     <ul>
 
       {{ $postSectionPages := where .Site.RegularPages "Type" "post" }}
-      {{ $featuredIDs := slice "70573" "70446" "70491" "70543" "70559" "70578" "70482" "70421" "70487" "70441" }}
+      {{ $featuredIDs := slice "71511" "70921" "70909" "71651" "70917" }}
 
       {{ $featuredPages := where .Site.RegularPages ".Params.post_id" "in" $featuredIDs }}
 
@@ -38,7 +38,7 @@
             onchange="window.location.href=this.value">
             <option selected>Select Category</option>
             {{ range $category, $pages := .Site.Taxonomies.categories }}
-            <option value="{{ printf "categories/%s" $category | relURL }}">
+            <option value="{{ printf " categories/%s" $category | relURL }}">
               {{ $category | replaceRE "-" " " | title }}
               ({{ $pages.Count }})
             </option>

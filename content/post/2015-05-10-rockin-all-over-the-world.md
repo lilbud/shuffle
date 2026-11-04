@@ -38,9 +38,7 @@ At least one person did, though.
 
 Bruce Springsteen is a devoted lifelong Fogerty fan, often calling him the Hank Williams of his generation. So when he brought the River Tour to Europe for his first major arena tour there, he often closed his shows with a fitting Fogerty tribute (which most of his audience almost certainly attributed to Status Quo).
 
-[https://estreetshuffle.com/wp-content/uploads/2026/09/207-Rockin2720All20Over20the20World.mp3?_=9](https://estreetshuffle.com/wp-content/uploads/2026/09/207-Rockin2720All20Over20the20World.mp3?_=9)
-
-<https://estreetshuffle.com/wp-content/uploads/2026/09/207-Rockin2720All20Over20the20World.mp3>
+{{< audio url="https://estreetshuffle.com/wp-content/uploads/2026/09/207-Rockin2720All20Over20the20World.mp3" >}}
 
 That first performance was faster than either Fogerty or Status Quo played it, but by the time he returned to Europe on the Born in the U.S.A. Tour, he’d slowed it down a bit.
 
@@ -64,8 +62,8 @@ Starting with the Magic Tour, and all the way through the post-Covid era, Spring
 
 {{< youtube C7kiibqSv30 >}}
 
-**Rockin’ All Over the World**
-**First performed:** April 7, 1981 (Hamburg, West Germany)
-**Last performed:** July 3, 2025 (Milan, Italy)
+**Rockin’ All Over the World**<br>
+**First performed:** April 7, 1981 (Hamburg, West Germany)<br>
+**Last performed:** July 3, 2025 (Milan, Italy)<br>
 
 © September 19, 2026

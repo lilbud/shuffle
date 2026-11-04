@@ -48,8 +48,8 @@ Keep your eyes open for Bruce Springsteen in the background, lending his backing
 
 {{< youtube i88NCvfoK58 >}}
 
-**Honky Tonk Women**
-**First performed:** January 18, 1971 (South Amboy, NJ)
-**Last performed:** July 9, 1995 (Berlin, Germany)
+**Honky Tonk Women**<br>
+**First performed:** January 18, 1971 (South Amboy, NJ)<br>
+**Last performed:** July 9, 1995 (Berlin, Germany)<br>
 
 © July 27. 2026
